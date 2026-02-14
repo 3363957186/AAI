@@ -1,39 +1,62 @@
 import json
 import os
-from playwright.sync_api import sync_playwright
 
 COOKIE_FILE = "cookies.json"
+TIKTOK_DOMAINS = ["tiktok.com"]
 
 
 def get_cookies(force_refresh: bool = False) -> dict:
     """
-    优先读取本地缓存的 cookies。
-    如果不存在或强制刷新，打开浏览器让用户手动登录一次后保存。
+    优先读取本地缓存。
+    没有缓存时直接从 Safari 读取已登录的 cookies，无需重新登录。
     """
     if not force_refresh and os.path.exists(COOKIE_FILE):
-        print("[CookieManager] 从本地加载 cookies")
+        print("[CookieManager] 从本地缓存加载 cookies")
         with open(COOKIE_FILE) as f:
-            cookie_list = json.load(f)
-        return {c["name"]: c["value"] for c in cookie_list}
+            return json.load(f)
 
-    print("[CookieManager] 未找到 cookies，打开浏览器请手动登录 TikTok...")
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)  # 必须有头，让用户能操作
-        context = browser.new_context()
-        page = context.new_page()
+    print("[CookieManager] 正在从 Safari 读取 TikTok cookies...")
+    cookies = _read_from_safari()
 
-        page.goto("https://www.tiktok.com/login", wait_until="networkidle")
+    # 缓存到本地，下次直接复用
+    with open(COOKIE_FILE, "w") as f:
+        json.dump(cookies, f, indent=2)
+    print(f"[CookieManager] 已读取 {len(cookies)} 个 cookies 并缓存到 {COOKIE_FILE}")
 
-        # 等待用户手动完成登录（检测到跳转到首页为止）
-        print("[CookieManager] 请在浏览器中完成登录，登录成功后会自动继续...")
-        page.wait_for_url("https://www.tiktok.com/", timeout=120000)
+    return cookies
 
-        # 保存 cookies
-        cookie_list = context.cookies()
-        with open(COOKIE_FILE, "w") as f:
-            json.dump(cookie_list, f, indent=2)
-        print(f"[CookieManager] Cookies 已保存到 {COOKIE_FILE}")
 
-        browser.close()
+def _read_from_safari() -> dict:
+    # 优先用 rookiepy
+    try:
+        import rookiepy
+        raw = rookiepy.safari(TIKTOK_DOMAINS)
+        cookies = {c["name"]: c["value"] for c in raw}
+        if not cookies:
+            raise ValueError("读取到 0 个 cookies，请确认 Safari 中已登录 TikTok")
+        return cookies
+    except ImportError:
+        pass  # 没安装，走下面的备用方案
 
-    return {c["name"]: c["value"] for c in cookie_list}
+    # 备用：browser_cookie3
+    try:
+        import browser_cookie3
+        jar = browser_cookie3.safari(domain_name="tiktok.com")
+        cookies = {c.name: c.value for c in jar}
+        if not cookies:
+            raise ValueError("读取到 0 个 cookies，请确认 Safari 中已登录 TikTok")
+        return cookies
+    except ImportError:
+        pass
+
+    raise RuntimeError(
+        "请安装依赖：pip install rookiepy\n"
+        "或者：pip install browser-cookie3"
+    )
+
+
+def clear_cache():
+    """cookies 失效时调用这个清除缓存，下次重新从 Safari 读取"""
+    if os.path.exists(COOKIE_FILE):
+        os.remove(COOKIE_FILE)
+        print(f"[CookieManager] 已清除缓存 {COOKIE_FILE}")
