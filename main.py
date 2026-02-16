@@ -1,4 +1,5 @@
 import json
+import os
 
 import httpx
 from config import YOUTUBE_API_KEY, MAX_VIDEOS, MAX_COMMENTS_PER_VIDEO
@@ -12,6 +13,7 @@ VIDEO_URL    = "https://www.googleapis.com/youtube/v3/videos"
 SEARCH_URL   = "https://www.googleapis.com/youtube/v3/search"
 THREADS_URL  = "https://www.googleapis.com/youtube/v3/commentThreads"
 COMMENTS_URL = "https://www.googleapis.com/youtube/v3/comments"
+COMMENTS_DIR = "comments"
 
 
 # ── 视频搜索 ──────────────────────────────────────────────────
@@ -233,7 +235,8 @@ def fetch_all_comments(video_id: str) -> list[Comment]:
 # ── 导出 txt ──────────────────────────────────────────────────
 
 def export_to_txt(video: Video, all_stored: list[dict]):
-    filename = f"{video.video_id}_comments.txt"
+    os.makedirs(COMMENTS_DIR, exist_ok=True)
+    filename = os.path.join(COMMENTS_DIR, f"{video.video_id}_comments.txt")
     top_level = [c for c in all_stored if c["parent_id"] is None]
     replies   = [c for c in all_stored if c["parent_id"] is not None]
 
@@ -262,7 +265,8 @@ def export_to_txt(video: Video, all_stored: list[dict]):
     print(f"  已导出到 {filename}")
 
 def export_to_txt_v2(video: Video, all_stored: list[dict], summary: dict):
-    filename = f"{video.video_id}_comments_v2.txt"
+    os.makedirs(COMMENTS_DIR, exist_ok=True)
+    filename = os.path.join(COMMENTS_DIR, f"{video.video_id}_comments_v2.txt")
     top_level = [c for c in all_stored if c["parent_id"] is None]
     replies   = [c for c in all_stored if c["parent_id"] is not None]
     total     = sum(summary.values())
@@ -349,7 +353,8 @@ def export_to_txt_v2(video: Video, all_stored: list[dict], summary: dict):
 
 
 def export_clean_json(video_id: str, analyzed: list[dict]):
-    filename = f"{video_id}_clean.txt"
+    os.makedirs(COMMENTS_DIR, exist_ok=True)
+    filename = os.path.join(COMMENTS_DIR, f"{video_id}_clean.txt")
 
     # 只保留有意义的字段，去掉数据库内部字段
     clean_data = [

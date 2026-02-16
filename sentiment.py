@@ -9,7 +9,7 @@ def get_pipeline():
         print("[Sentiment] 正在加载模型（首次运行需下载）...")
         _pipeline = pipeline(
             "sentiment-analysis",
-            model="distilbert-base-uncased-finetuned-sst-2-english",
+            model="cardiffnlp/twitter-roberta-base-sentiment-latest",
         )
         print("[Sentiment] 模型加载完成")
     return _pipeline
