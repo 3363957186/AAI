@@ -16,6 +16,61 @@ COMMENTS_URL = "https://www.googleapis.com/youtube/v3/comments"
 
 # ── 视频搜索 ──────────────────────────────────────────────────
 
+def get_video_id_from_url(url: str) -> str:
+    if "v=" in url:
+        return url.split("v=")[1].split("&")[0]
+    if "youtu.be/" in url:
+        return url.split("youtu.be/")[1].split("?")[0]
+    return url
+
+def _mode_search() -> list[Video]:
+    keyword = input("\n请输入商品名称（英文）: ").strip()
+    if not keyword:
+        print("不能为空")
+        return []
+    return search_videos(keyword, max_results=MAX_VIDEOS)
+
+
+def _mode_url() -> list[Video]:
+    print("\n请输入视频链接（每行一个，最多 3 个，输入空行结束）:")
+    urls = []
+    while len(urls) < MAX_VIDEOS:
+        line = input(f"  链接 {len(urls)+1}: ").strip()
+        if not line:
+            break
+        if "youtube.com" in line or "youtu.be" in line:
+            urls.append(line)
+        else:
+            print("  ⚠️  无效的 YouTube 链接，请重新输入")
+
+    if not urls:
+        print("未输入任何链接")
+        return []
+
+    # 批量获取视频信息
+    video_ids = [get_video_id_from_url(u) for u in urls]
+    resp = httpx.get(VIDEO_URL, params={
+        "key":  YOUTUBE_API_KEY,
+        "id":   ",".join(video_ids),
+        "part": "snippet,statistics",
+    })
+    resp.raise_for_status()
+
+    videos = []
+    for item in resp.json().get("items", []):
+        stats   = item.get("statistics", {})
+        snippet = item.get("snippet", {})
+        videos.append(Video(
+            video_id      = item["id"],
+            author        = snippet.get("channelTitle", ""),
+            description   = snippet.get("title", ""),
+            view_count    = int(stats.get("viewCount", 0)),
+            like_count    = int(stats.get("likeCount", 0)),
+            comment_count = int(stats.get("commentCount", 0)),
+        ))
+
+    return videos
+
 def search_videos(keyword: str, max_results: int = 2) -> list[Video]:
     print(f"[VideoSearcher] 搜索: '{keyword} review'")
 
@@ -323,18 +378,29 @@ def export_clean_json(video_id: str, analyzed: list[dict]):
 def run():
     init_db()
 
-    keyword = input("请输入商品名称（英文）: ").strip()
-    if not keyword:
-        print("不能为空")
+    # ── 第一步：选择模式 ──────────────────────────────────────
+    print("=" * 60)
+    print("  YouTube 评论抓取工具")
+    print("=" * 60)
+    print("  1. 搜索商品名称（自动找相关视频）")
+    print("  2. 直接输入视频链接")
+    print("=" * 60)
+
+    mode = input("请选择模式 (1/2): ").strip()
+
+    if mode == "1":
+        videos = _mode_search()
+    elif mode == "2":
+        videos = _mode_url()
+    else:
+        print("无效输入，请输入 1 或 2")
         return
 
-    # 1. 搜索视频
-    videos = search_videos(keyword, max_results=MAX_VIDEOS)
     if not videos:
-        print("未找到视频，请检查 API Key 或关键词")
+        print("未找到视频，请检查输入或 API Key")
         return
 
-    # 2. 展示搜索结果
+    # ── 第二步：确认视频 ──────────────────────────────────────
     print("\n找到以下视频：")
     print("-" * 60)
     for i, v in enumerate(videos, 1):
