@@ -1,0 +1,1261 @@
+============================================================
+Video Title: M4 MacBook Air Review - 6 Months Later
+Channel:     6 Months Later
+URL:         https://youtube.com/watch?v=7QY8xt2Qxmk
+Views:       280,421
+Top-level:   115 comments
+Replies:     118 comments
+Total:       233 comments
+============================================================
+
+【Sentiment Analysis Summary】
+------------------------------------------------------------
+Positive: 60 (27.6%)
+Negative: 63 (29.0%)
+Neutral:  94  (43.3%)
+
+Top 5 Most Positive Comments:
+  1. [0.99] -9awesome! im very happy with the purchase bc my main requirements were that its
+  2. [0.99] i love my new macbook air love it
+  3. [0.99] i purchased the midnight 15 inch model. i love it!
+  4. [0.99] i love mine. its my favourite machine ever. will only upgrade if they upgrade th
+  5. [0.99] the silver one too! looks great.
+
+Top 5 Most Negative Comments:
+  1. [0.94] only 60hz refresh, horrible. scrolling websites and such is going to be just hor
+  2. [0.93] intel is crap. ditch it asap.
+  3. [0.92] emergent ai. lmao. agentic vibe coding . lmao. damn even blockchain didn't prete
+  4. [0.92] my μβα 2020 i7 suffers from a battery drain while shut down ! i've done every da
+  5. [0.92] do you ever get used to that stupid black camera box in the middle of the screen
+
+============================================================
+
+【All Comments】
+
+[1] ➖ @Techly231  👍34  2025-10-18
+Original: The MacBook Pro M4 is 1349 on Amazon so the only MacBook Air variant that makes sense to get is the 16/256 base variant.
+Sentiment: neutral (confidence 0.73)
+
+    ↳ ➖ @flxing42  👍13  2025-10-18
+    Original: Unless you really like the lighter weight of the M4 Air
+    Sentiment: neutral (confidence 0.75)
+
+------------------------------------------------------------
+
+[2] ❌ @user-yh2sm2jf2y  👍0  2025-10-22
+Original: I really don't want to buy a MacBook Air because of the notch.
+Sentiment: negative (confidence 0.90)
+
+------------------------------------------------------------
+
+[3] ✅ @seacow1970  👍0  2026-01-14
+Original: I think M4 Air is best for me. I just entered the details of  my 2019 MBP and apple said they will give me upto 170 quid. I might as well keep it then! I won't get a better (spare) laptop for that. I moved to m4 mini recently, but really covet the M4 Air in black. However, I think I will wai for a bit and see what the new Air is like later on.
+Sentiment: positive (confidence 0.69)
+
+------------------------------------------------------------
+
+[4] ➖ @owensmith3995  👍0  2026-02-08
+Original: 👎 long infomercial about unrelated product included in the review
+Sentiment: neutral (confidence 0.63)
+
+------------------------------------------------------------
+
+[5] ❌ @bogdanbucur3157  👍26  2025-10-18
+Original: 1000 nits is not twice as bright as 500 nits.
+
+You don’t need a 70W charger to use the M4 chip at maximum capacity. The maximum power draw of the M4 chip is way less than 70W and Apple Silicon laptops run at full power even on battery. Not only that, but the M4 in the Air will thermal throttle after a few minutes of sustained load and will draw even less power.
+Sentiment: negative (confidence 0.60)
+
+    ↳ ➖ @cppai  👍5  2025-10-18
+    Original: From a physics perspective, the author is still right: twice as much. But from a human perspective, it's an logarithmic increase, only about 1.3 times as much 😊
+    Sentiment: neutral (confidence 0.69)
+
+    ↳  @theqagod  👍0  2025-10-19
+    Original: @cppai Midwit
+
+------------------------------------------------------------
+
+[6] ✅ @lowkeygaming4716  👍5  2025-10-18
+Original: I'm planning to get one next year. Hopefully there's a price drop.
+Sentiment: positive (confidence 0.74)
+
+    ↳ ➖ @ISTIGHFAR1997  👍0  2025-10-20
+    Original: There was alrdy man i got the m4. 15 inch for 1250instead of 1500
+    Sentiment: neutral (confidence 0.82)
+
+    ↳ ➖ @Ebi_pumps  👍0  2025-10-24
+    Original: @ISTIGHFAR1997did you get it new ?
+    Sentiment: neutral (confidence 0.91)
+
+    ↳ ➖ @ISTIGHFAR1997  👍0  2025-10-24
+    Original: ​​@Ebi_pumpsyes. But it dropped in prices i see its now 1100
+    Sentiment: neutral (confidence 0.72)
+
+    ↳ ✅ @ThePenguinBro  👍0  2025-11-20
+    Original: There just was a price drop for Black Friday, 750$ for base model it’s a killer deal
+    Sentiment: positive (confidence 0.95)
+
+    ↳ ❌ @lowkeygaming4716  👍0  2025-11-21
+    Original: ​@ThePenguinBro unfortunately I don't live in the US so I can't avail those black friday deals.
+    Sentiment: negative (confidence 0.86)
+
+------------------------------------------------------------
+
+[7] ➖ @savetimewithcarl  👍1  2025-11-09
+Original: @6MonthsLater what is that that you're using to hold the Iphone as your webcam? I need that!
+Sentiment: neutral (confidence 0.59)
+
+------------------------------------------------------------
+
+[8] ➖ @nleeumd  👍1  2025-12-07
+Original: Doesn’t this guys voice remind you of Zack Morris from Saved By The Bell? 😂
+Sentiment: neutral (confidence 0.77)
+
+------------------------------------------------------------
+
+[9] ❌ @hudsonfrank1121  👍0  2025-12-15
+Original: After windows doing their  current bs and crashing everyone and forcing you to sing in with an email to sell your data, I'm leaning towards a mac laptop. A lot of users have been happy with their mac book and I am leaning towards that to get away from windows bs.
+Sentiment: negative (confidence 0.49)
+
+------------------------------------------------------------
+
+[10] ✅ @gp2779  👍1  2026-01-27
+Original: I just ordered the last unit before the RAM crisis hiked up the prices lol. 
+
+It’s going to be my first MacBook.
+Sentiment: positive (confidence 0.62)
+
+------------------------------------------------------------
+
+[11] ➖ @perthpete7906  👍1  2025-12-23
+Original: The macbook needs to incorporate eSIM capability - as a perfect travel companion. But it may clash with iPad sales - i guess.
+Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[12] ➖ @kaischmidt730  👍2  2025-10-21
+Original: Windows Hello (Face ID) already worked on my Surface Pro 4 from 2015, can't understand that Apple still hasn't brought that to the Macbook. The touch ID is fine, but Face ID is a lot more convenient.
+Sentiment: neutral (confidence 0.45)
+
+    ↳  @Noah.ws19  👍0  2025-10-21
+    Original: Agree
+
+    ↳ ✅ @brinraja  👍0  2025-11-29
+    Original: As an Android user I love touch  ID on my MBA lol
+    Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[13] ➖ @marius-op7nd  👍0  2025-11-16
+Original: I was considering buying an 13 inch 24 GB 1000GB storage Macbook Air, but...I already own a quite good enough Lenovo Legion laptop, so at least for the moment I will not consider Apple laptop. Though I am considering and struggling to decide for a tablet (base iPad, Air or 11 inch Pro or 13 Inch Pro). For the moment I am still thinking and checking reviews.
+Sentiment: neutral (confidence 0.70)
+
+    ↳ ❌ @zoltaczka420  👍0  2025-11-28
+    Original: Same situation, I have Lenovo legion and just bought today M4 Air 13,6 inch, I am little worried about size of this MacBook
+    Sentiment: negative (confidence 0.54)
+
+------------------------------------------------------------
+
+[14] ➖ @Sayitlikeitis1234  👍0  2025-11-25
+Original: Stop posting bullshit. The 15 inch is $949 currently at best buy. The 13 inch is the cheaper one. Plus if you have a Best Buy visa you can get this for 24 months interest free. Puts it exactly at $43.90 a month with the tax
+Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[15] ✅ @123theprodigy5  👍27  2025-10-20
+Original: Man, the air series of Apple products always ends up being a great value.
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[16] ❌ @richardnegyesi  👍2  2025-10-21
+Original: I love every aspect of this MacBook Air except the keyboard. The keys feel cheap compared to the rest of the machine, and some of them are wobbly out of the box for me. This is driving me nuts, as I expect the keyboard quality to match the premium feel of the device.
+Sentiment: negative (confidence 0.42)
+
+    ↳ ✅ @brinraja  👍1  2025-11-29
+    Original: Totally agree. Switched from an 8 yo Lenovo Yoga and the keyboard feels so cheap and trash on my Macbook Air. However, the trackpad is phenomenal.
+    Sentiment: positive (confidence 0.47)
+
+------------------------------------------------------------
+
+[17] ✅ @SHOman_86  👍202  2025-10-18
+Original: The battery life is crazy
+Sentiment: positive (confidence 0.36)
+
+    ↳ ➖ @Technofoooz  👍7  2025-10-19
+    Original: Love the m4 but have to disagree . Maybe because in my case I mainly use it to watch streams .
+    Sentiment: neutral (confidence 0.46)
+
+    ↳ ➖ @lildvl10  👍2  2025-10-20
+    Original: ⁠@Technofooozhow is display when watching hd streaming? Im torn between the air vs pro just because of the display
+    Sentiment: neutral (confidence 0.82)
+
+    ↳ ✅ @Technofoooz  👍0  2025-10-20
+    Original: @lildvl10gets the job done for me looks fine
+    Sentiment: positive (confidence 0.77)
+
+    ↳ ➖ @VictorWard1155  👍0  2025-10-20
+    Original: @lildvl10 Im curious about this too. I mainly used my m2 air for watching content, so I'm not sure if it is worth to upgrade to a pro only for it's display and 120 hz.
+    Sentiment: neutral (confidence 0.72)
+
+    ↳ ✅ @ISTIGHFAR1997  👍0  2025-10-20
+    Original: ​@lildvl10ikr 60 hertz and oled thing... i got m4 mba 15 inch and screen is fine good. The 500 nits is not much but its okay
+    Sentiment: positive (confidence 0.79)
+
+    ↳ ➖ @polum  👍1  2025-10-21
+    Original: @lildvl10typical person wont notice a difference. I would spend an extra £200+ just for a slightly better screen…
+    Sentiment: neutral (confidence 0.55)
+
+    ↳ ➖ @YTon08  👍7  2025-10-25
+    Original: Mine is on its fourth day and I'm still using the factory charge . Still at 17%, I mainly use this for social media and streaming.
+    Sentiment: neutral (confidence 0.77)
+
+    ↳ ❌ @RainGreenPortable  👍3  2025-10-31
+    Original: ​@polum it ISN'T slightly better but for average person just don't get a pro. You'd think you'd actually use it for extremely power hungry stuff but in reality you really wont use it for stuff like that.
+    Sentiment: negative (confidence 0.82)
+
+    ↳ ➖ @RainGreenPortable  👍1  2025-10-31
+    Original: ​@lildvl10 You're gonna use it just to watch streams and basic stuff? Better get an iPad at that point lol. Get an M1/M2 Macbook Air since they're really cheap now if you're using it for watching streams and stuff.
+    Sentiment: neutral (confidence 0.60)
+
+------------------------------------------------------------
+
+[18] ➖ @6MonthsLater  👍6  2025-10-18
+Original: Try Emergent AI: https://app.emergent.sh/?via=6mnthsltr (sponsored)
+🛒 Product Links: 
+https://6monthslater.net/2025/10/m4-macbook-air-review/#featured-products
+👉 View all of our recommended products: https://6monthslater.net/shop   
+
+📑Blog Post: https://6monthslater.net/2025/10/m4-macbook-air-review/
+
+🔗 Related Video links: 
+👉 13 inch vs. 15 inch MacBook Air - Which One Should You Buy? : https://www.youtube.com/watch?v=3LIlx1bkoB4
+👉 6 Months Later Reviews Playlist: https://www.youtube.com/playlist?list=PL2XWjlJjGp3v4RlffAaD2-vQGpFVNGWfm 
+
+👋 Follow Josh: 
+👉 Bluesky: https://bsky.app/profile/joshteder.bsky.social
+👉 Threads: https://www.threads.net/@joshteder
+👉 RSS Feeds: https://6monthslater.net/feeds/ 
+👉 Instagram: https://www.instagram.com/joshteder/
+👉 Reddit: https://www.reddit.com/user/joshteder/ 
+👉 LinkedIn: https://www.linkedin.com/in/joshteder/
+
+
+🎥  Video Production Equipment we use 📹
+https://amzn.to/3Ejc1JR
+Sentiment: neutral (confidence 0.88)
+
+    ↳ ❌ @Mike-Oxlong-XXL  👍1  2026-01-02
+    Original: Lol. Emergent turns conversations in security nightmare 😂😂😂
+
+I promise you I’ll find multiple security vulnerabilities in that shite code within one hour
+    Sentiment: negative (confidence 0.88)
+
+    ↳ ❌ @Combat-Janitor  👍1  2026-01-04
+    Original: ​@Mike-Oxlong-XXLLiterally the first thing I said out loud when watching that. I have little concerns about ai tooling itself, but rather how much confidence non-technical people have in them.
+
+Either through a failed audit, or worse, a lawsuit from a data breach, these people are gon' learn.
+    Sentiment: negative (confidence 0.51)
+
+    ↳ ❌ @Mike-Oxlong-XXL  👍0  2026-01-04
+    Original: @C@Combat-Janitorhe issue is that what you described already happened many times now.
+
+Non technical people won’t learn. They’re like a donkey with low IQ  busting their foot on the same stone 100 times, never learning.
+
+Part of the responsibility is also with channels like these that pretend there are no security implications and that everything is fine.
+
+I work for an AI company during my dau job, but when I mention security to non technical people I am considering to be a narcissistic, know it all with a negative view on the world 🙄
+    Sentiment: negative (confidence 0.83)
+
+------------------------------------------------------------
+
+[19] ✅ @lazyinspirit  👍9  2025-11-07
+Original: Pro tips: 
+1. learn basic bash commands 
+2. root level directories
+3. install homebrew (basically a more flexible app store)
+
+Enjoy the best of both Apple hardware and linux flexibility
+Sentiment: positive (confidence 0.90)
+
+    ↳ ❌ @morespinach9832  👍0  2025-11-22
+    Original: ANyone who codes or is a serious uses already done this. Hardly "pro".
+    Sentiment: negative (confidence 0.50)
+
+------------------------------------------------------------
+
+[20] ❌ @07Blackbeard  👍0  2025-11-16
+Original: Your facial expressions are slightly phony.
+Sentiment: negative (confidence 0.80)
+
+------------------------------------------------------------
+
+[21] ✅ @Brandon-9  👍1  2025-12-14
+Original: I'll buy the 13 inches soon 
+My second laptop in life I hope the battery lasts more than 4.5 hours
+Sentiment: positive (confidence 0.88)
+
+------------------------------------------------------------
+
+[22] ❌ @MarshallJones-Switzerland  👍0  2025-12-14
+Original: I can’t agree with Face ID. Personally, I care a lot about privacy, and I don’t want to give anyone the chance to unlock my laptop just by using my face. I prefer Touch ID over Face ID.
+Sentiment: negative (confidence 0.74)
+
+------------------------------------------------------------
+
+[23] ➖ @kaleenbhaiff1293  👍33  2025-12-07
+Original: guys those of you looking at these reviewers the idea that the mb air is simply good enough for a basic user is simply an ignorant incomplete thought (no offense) but the mack book air can do so many kind of developing editing and desktop tasks that its more than enough for 99 percent of people due to the fact that even lowered versions are punching way up their respective levels
+Sentiment: neutral (confidence 0.49)
+
+    ↳ ➖ @7secondhero842  👍1  2025-12-29
+    Original: Yeah, a lot of reviewers need to be more accurate. Even this guy saying “It’s good for some light tasks” like- yes? And it’s also good for heavier tasks too besides the really really heavy workloads
+    Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[24] ➖ @kaischmidt730  👍1  2025-10-21
+Original: my max screen on time with my 13" MB Air M4 is 12 hours doing "normal" office work, ie lots of browser windows, mail, word, excel, etc., youtube or others for music in the background. not bad, but certainly not "all day".
+Sentiment: neutral (confidence 0.52)
+
+------------------------------------------------------------
+
+[25] ✅ @JaxonSell  👍1  2025-11-21
+Original: The m4 macbook air is really good battery life performance. 24gb ram 1tb for me that good as a Cyberseucirty college student. It works good for all the programs I need.
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[26] ❌ @dera_ng  👍3  2025-10-23
+Original: Emergent AI... lmao. Agentic Vibe Coding ... lmao.... Damn even blockchain didn't pretend to be the next big thing this hard. ooooh and the "it isn't X it's Y" thing is pretty self reporting AI garbage. 
+
+Learn how to code and have peace of mind.
+Sentiment: negative (confidence 0.92)
+
+------------------------------------------------------------
+
+[27] ➖ @zakbdz  👍0  2026-01-18
+Original: got it on amazon 799
+Sentiment: neutral (confidence 0.73)
+
+------------------------------------------------------------
+
+[28] ➖ @adamczycki  👍0  2025-10-18
+Original: 0:11  I do not see your social on X.
+Sentiment: neutral (confidence 0.56)
+
+------------------------------------------------------------
+
+[29] ✅ @auggy-m9l  👍1  2025-10-21
+Original: i mostly agree with your review.. though to truly future proof the m4... 16 gigs will not cut it,,, i would go for 24 gigs
+Sentiment: positive (confidence 0.47)
+
+    ↳ ➖ @kadeemharper1  👍0  2025-10-21
+    Original: He says this at 12:15
+    Sentiment: neutral (confidence 0.90)
+
+    ↳ ➖ @auggy-m9l  👍0  2025-10-21
+    Original: after kissing the ring of tim cook for the first 5 minutes, i went to a different video..
+    Sentiment: neutral (confidence 0.88)
+
+------------------------------------------------------------
+
+[30] ➖ @realkillerg  👍9  2025-11-29
+Original: theres really no reason to overspend on storage on Macbooks when you can get a Gen 4 NVMe M.2 SSD at 1 TB of storage and an M.2 Enclosure to Thunderbolt for less than 100 dollars, which is better than spending the high price of only getting an extra 256 gigabytes of internal storage at 200 dollars extra.
+Sentiment: neutral (confidence 0.57)
+
+    ↳ ➖ @Speedyvampir2  👍0  2025-12-20
+    Original: Exactly my thought
+    Sentiment: neutral (confidence 0.57)
+
+    ↳ ➖ @ethanjennings6442  👍2  2026-01-12
+    Original: This is true if your storage is filled up with content like photos or video clips for editing. But if you've filled it full of apps/programs it can be a pain.
+512gb is the minimum if you're using the MBA for software development.
+    Sentiment: neutral (confidence 0.54)
+
+------------------------------------------------------------
+
+[31] ❌ @bhoomikarawat3922  👍1  2025-11-28
+Original: just got m4 15 inch one, battery is draining too fast, it has been 2 days, will it get any better?
+Sentiment: negative (confidence 0.91)
+
+------------------------------------------------------------
+
+[32] ➖ @MDegenerate  👍0  2025-11-27
+Original: 1000 nits is NOT double the brightness of 500 nits.
+Sentiment: neutral (confidence 0.69)
+
+------------------------------------------------------------
+
+[33] ❌ @TheSparkyify  👍0  2026-02-01
+Original: I've had the MB Pro late 2016 16 inch and the screen has just had screen issue about a month ago, I believe it to be a flex gate issue. What should i do ?
+Sentiment: negative (confidence 0.54)
+
+------------------------------------------------------------
+
+[34] ✅ @AdamJoynes-y1l  👍1  2026-01-12
+Original: just purchased one online, hasn't got here yet but this review was well done thank you
+Sentiment: positive (confidence 0.90)
+
+------------------------------------------------------------
+
+[35] ➖ @MeanderingMe  👍12  2025-11-01
+Original: As a maths professor the M4 Air does everything and then some!
+Sentiment: neutral (confidence 0.59)
+
+------------------------------------------------------------
+
+[36] ✅ @KommenTator-l8i  👍0  2026-02-14
+Original: It's the world's most popular laptop 2025
+Sentiment: positive (confidence 0.93)
+
+------------------------------------------------------------
+
+[37] ❌ @talashk615  👍0  2026-01-11
+Original: dont macOS is smooth, stable, and well‑integrated with Apple devices, but it comes with clear weaknesses: it’s expensive, limited to Apple hardware, offers far less customisation than Windows, and has weaker gaming support with many titles unavailable. It also struggles with certain specialist or Windows‑only software, lacks touchscreen options, and gives power users less freedom to modify or upgrade their system. On top of that, the trackpad while responsive for gestures—can feel overly sensitive, inconsistent, or awkward for precise tasks, which some users find frustrating compared to traditional mouse control.
+Sentiment: negative (confidence 0.79)
+
+------------------------------------------------------------
+
+[38] ➖ @MS4RS  👍0  2025-11-06
+Original: If only it had 120 hz
+Sentiment: neutral (confidence 0.72)
+
+    ↳ ➖ @morespinach9832  👍0  2025-11-22
+    Original: Battery drag
+    Sentiment: neutral (confidence 0.64)
+
+------------------------------------------------------------
+
+[39] ➖ @KosmitaZplutonu  👍1  2026-01-17
+Original: 24gigs for normal user?....
+Sentiment: neutral (confidence 0.84)
+
+------------------------------------------------------------
+
+[40] ✅ @56phil020244  👍1  2025-11-15
+Original: I recently purchased a 15" MBA. I have no regrets.
+Sentiment: positive (confidence 0.90)
+
+    ↳ ➖ @comedytv675  👍0  2025-12-16
+    Original: Bro what about the performance? will You recommend me it for editing 4k video?
+    Sentiment: neutral (confidence 0.83)
+
+------------------------------------------------------------
+
+[41] ❌ @BooshAtlantic  👍1  2026-02-05
+Original: I just can't believe people still downplay the performance on these Airs. I've got an M2 (waiting on M4 15 to be delivered next week) and it has  handled anything I have thrown at it in terms of Blender, Final Cut, Ableton, Premier Pro...etc. To say these laptops are good for "general computing purposes" is crazy work. There truly is almost no reason to get the Pro. 
+
+Can you game? Not likely unless you are talking very small ones. Anything else? These melt faces. Whoever says they are for "general purpose computing" has lost the plot.
+Sentiment: negative (confidence 0.66)
+
+------------------------------------------------------------
+
+[42] ✅ @chaversburse7148  👍1  2025-12-08
+Original: I see I’m like everyone else lol. This my first Mac book and i got it under $900. I’m excited to pick it up and start using it to DJ
+Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[43] ➖ @JohnnyRep-u4e  👍0  2025-10-20
+Original: "Focus Mode" - LOL - 😄🤣😂
+Sentiment: neutral (confidence 0.72)
+
+------------------------------------------------------------
+
+[44] ❌ @giusemineoo  👍4  2025-10-18
+Original: Holy disorganized desktop at 8:37 😭🥀
+Sentiment: negative (confidence 0.80)
+
+    ↳ ❌ @6MonthsLater  👍3  2025-10-19
+    Original: I knew someone was gonna say that 😂😂
+    Sentiment: negative (confidence 0.65)
+
+    ↳  @giusemineoo  👍0  2025-10-19
+    Original: @6MonthsLater😂
+
+------------------------------------------------------------
+
+[45] ❌ @angelsaidferreira5193  👍0  2025-12-08
+Original: I don’t know 🤷‍♂️ why the screen on my MacBook has gray borders on the top and bottom? 🤔 I don’t even see the notch
+Sentiment: negative (confidence 0.77)
+
+------------------------------------------------------------
+
+[46] ❌ @Jack_all  👍1  2026-01-03
+Original: Do you ever get used to that stupid black camera box in the middle of the screen? Im having a real hard time with it TBH. Seriously about to return it and stick with my 2017 pro.
+Sentiment: negative (confidence 0.92)
+
+------------------------------------------------------------
+
+[47] ✅ @andyarebalo1  👍95  2025-10-18
+Original: I just got my MacBook Air a month ago and I like it for what I do. I just got a external hard drive and a flash drive for extra storage instead of paying apple more for storage.
+Sentiment: positive (confidence 0.94)
+
+    ↳ ➖ @ISTIGHFAR1997  👍2  2025-10-20
+    Original: Can u tell me what are the difference between the flash and hard drive things
+    Sentiment: neutral (confidence 0.93)
+
+    ↳ ➖ @andyarebalo1  👍0  2025-10-26
+    Original: @ISTIGHFAR1997a flash drive is more for photos music and some video. A external hard drive is for higher quality videos and higher GB files
+    Sentiment: neutral (confidence 0.65)
+
+    ↳ ✅ @morespinach9832  👍2  2025-11-22
+    Original: Thereby removing the advantage of Air being a light machine. You're a genius.
+    Sentiment: positive (confidence 0.51)
+
+    ↳ ✅ @AndrewMayorga1  👍0  2025-11-23
+    Original: @morespinach9832 you dont have to carry the hard drive around everywhere you go lol, and the flash drive you can keep on a keyring. overall its a nice and much cheaper compromise
+    Sentiment: positive (confidence 0.74)
+
+    ↳ ➖ @jacobgrisson2695  👍0  2025-11-26
+    Original: @morespinach9832external drives weigh nothing and aren’t a huge hassle
+    Sentiment: neutral (confidence 0.52)
+
+    ↳ ➖ @tommyapocalypse6096  👍8  2025-12-05
+    Original: @morespinach9832Did you read anywhere he said that his Macbook was a PORTABLE computer? Maybe it was his main computer, and his choice to use peripherals made sense to him, and saved him a ton of money.
+
+You wanna stir the shit pot? You should be made to lick the spoon… “genius”.
+    Sentiment: neutral (confidence 0.60)
+
+    ↳ ❌ @shantanumg2902  👍0  2026-01-17
+    Original: ​@ISTIGHFAR1997same doubt. I need to understand this
+    Sentiment: negative (confidence 0.59)
+
+    ↳ ➖ @shantanumg2902  👍0  2026-01-17
+    Original: Can you explain about the hard drive and flash drive ?
+    Sentiment: neutral (confidence 0.94)
+
+    ↳  @CryoXerxes  👍3  2026-01-17
+    Original: For those asking about the differences of a Flash Drive and Hard Drive, while both are a protable storage system, HOW each tech stores its files is the main difference.
+
+Flash Drives are named so for the fact they are usually small, with a connection hardbuilt into its casing so you can just bring it out, plug it in to a proper port and it IMMEDIATLY  starts working. This makes it great for secure small scale transfers like photos, small videos, or documents too big for email.  Downside is due to the main focus being Plug n' Play, it is SIGNIFICANTLY harder to customize HOW your files are stored an who would have access on it. This combined with the fact they come with combatibility software for most operating systems means its essentially a digital basket that is hard to organize. But in almost all caaes the internal componetnts of a flash drive tend to be smaller than an egg yolk, so companies can make a ton of custom shells for fairly cheap and thats a big selling point. 
+
+External Hardrives on the otherhand are as the name implys, similar to your own Computer's hardrive but on the outside. This means you get all the same functionality of say your C:: drive limited only by the quality of your computer's connection ports and cabeling. They tend to be on the larger size usually about the same to up to twice the size of a standard gaming mouse, which makes portablility and cable management challenge at times. But with EHDs and a bit of know-how  you can store your entire gaming system on it without bloating your main computer systems and allows you to better streamline how your computer's resources get allocated.
+
+Both have their own pros and cons but are not easily interchangable.
+
+------------------------------------------------------------
+
+[48] ➖ @TheRockPilePodcast  👍0  2026-01-27
+Original: How about for podcasting ?
+Sentiment: neutral (confidence 0.93)
+
+------------------------------------------------------------
+
+[49] ✅ @maruwaanmoses  👍0  2025-10-19
+Original: I love mine. It’s my favourite machine ever. Will only upgrade if they upgrade the display. The m4 chip is plenty strong.
+Sentiment: positive (confidence 0.99)
+
+------------------------------------------------------------
+
+[50] ❌ @pampoovey6722  👍0  2025-12-08
+Original: The world's most popular laptop? Have you heard of India and China? I can assure you this is not the world's most popular laptop.
+Sentiment: negative (confidence 0.70)
+
+------------------------------------------------------------
+
+[51] ❌ @arabianpapii  👍0  2025-11-08
+Original: Always wanted the 16in mbp. My current job gave one for work and what I can say is I now want a 15in air. The 16in mbp is so heavy and uncomfortable to carry around even at home. My only concern would be the air’s screen. 16in mbp’s screen is fantastic. Hope they can make it brighter
+Sentiment: negative (confidence 0.48)
+
+    ↳ ✅ @morespinach9832  👍0  2025-11-22
+    Original: 16 inch m1 is still better than this. You know that right?
+    Sentiment: positive (confidence 0.59)
+
+------------------------------------------------------------
+
+[52] ❌ @dalyonking  👍1  2025-11-28
+Original: The annoying thing if you don’t get the Mac from Apple you don’t have a choice to switch to the 70w adapter…. Stuck with the dual 35w
+Sentiment: negative (confidence 0.82)
+
+------------------------------------------------------------
+
+[53] ➖ @Dragonshader  👍0  2025-12-03
+Original: After considering all your recommendations, I ended up buying the MacBook Pro instead for the same price
+Sentiment: neutral (confidence 0.72)
+
+    ↳ ➖ @SammoHung1976  👍0  2025-12-07
+    Original: Same price?😱👍🏿💪🏿🔥.
+    Sentiment: neutral (confidence 0.82)
+
+    ↳ ❌ @Dragonshader  👍0  2025-12-07
+    Original: @SammoHung1976 It was some sort of joke. If you follow all recommendations you’ll end up at a price tag that’s close to what a Pro is.
+    Sentiment: negative (confidence 0.49)
+
+    ↳  @SammoHung1976  👍0  2025-12-07
+    Original: ​@Dragonshader👍🏼🤭🤣🤣
+
+------------------------------------------------------------
+
+[54] ➖ @crowneproductions9908  👍0  2026-01-21
+Original: regarding the transfer process around 6:30, you guys always choose to overcomplicate this.  I've owned 4 MacBooks over the last 5 years and never once have I had to use the transfer/migrate process.  All of your files, your desktop and everything is stored via the cloud.  When you sign into a new Mac with your Apple ID all of that stuff just magically appears over the course of a day and stays there.  This is what I've done every single time I got a new MacBook.  Basically just signed in and it took care of mirroring the new MacBook to my old MacBooks.  Not sure why you people complicate the process.  And no, I don't pay for some expensive cloud plan either, I'm pretty sure I have the. most basic/cheapest cloud storage plan (idk, it's like 2.99 a month).
+Sentiment: neutral (confidence 0.54)
+
+------------------------------------------------------------
+
+[55] ❌ @L963mediagh_live  👍0  2026-02-17
+Original: Man, it's an M4 chip. What do you mean by basic stuff? Lol, you must be doing so many extreeeeeeme stuff
+Sentiment: negative (confidence 0.42)
+
+------------------------------------------------------------
+
+[56] ➖ @Clt.princee  👍7  2025-10-27
+Original: Just upgraded from the M2 air to the M4 today. Main reason is because my M2 had 8GB of RAM and It would slow down when I'm editing videos or pics. not often but it was still noticeable. I had 512GB of storage as well. but now I have 16GB of RAM with the same 512GB so now I should be able to keep the M4 for the next 5 years.
+Sentiment: neutral (confidence 0.61)
+
+    ↳ ➖ @OkDensuuu  👍0  2026-02-10
+    Original: Can I know how was the experience editing videos with M4 air? And what video editing app do you use? Because I was planning on buying M4 Air just to do video editing and photo editing too, thank you🙏🏻
+    Sentiment: neutral (confidence 0.60)
+
+------------------------------------------------------------
+
+[57] ❌ @obeythesystem-n6v  👍4  2025-11-23
+Original: What about overheating and throttling issues, due to the a narrow case and without fan?
+Sentiment: negative (confidence 0.53)
+
+------------------------------------------------------------
+
+[58] ➖ @s.l.6736  👍0  2025-10-23
+Original: Wait, you have only 2USB’s 
+How are you gonna use two screens without a charger cable…
+Sentiment: neutral (confidence 0.49)
+
+    ↳ ➖ @SCHDtotheMoon  👍0  2025-10-23
+    Original: Magsafe charger
+    Sentiment: neutral (confidence 0.78)
+
+------------------------------------------------------------
+
+[59] ➖ @philip024  👍1  2025-10-18
+Original: You don't seem to use the new mac os tahoe
+Sentiment: neutral (confidence 0.71)
+
+------------------------------------------------------------
+
+[60] ✅ @constantine_yt  👍3  2025-10-18
+Original: Congrats on your 280k subs mate. Totally deserve it.
+Sentiment: positive (confidence 0.98)
+
+------------------------------------------------------------
+
+[61] ➖ @angelsaidferreira5193  👍0  2025-11-29
+Original: Does the MacBook Air M4 have better display resolution than iPhone 14? 🤔
+Sentiment: neutral (confidence 0.55)
+
+------------------------------------------------------------
+
+[62] ➖ @Daheukk231  👍8  2025-10-19
+Original: ill wait until macbook air has 120hz display.
+Sentiment: neutral (confidence 0.75)
+
+------------------------------------------------------------
+
+[63] ❌ @newname2600  👍0  2025-11-30
+Original: It’s a M4 chip, it shouldn’t be a student computer.
+Sentiment: negative (confidence 0.80)
+
+------------------------------------------------------------
+
+[64] ❌ @TheamrFCB  👍5  2025-10-18
+Original: By recommending this macbook @10:55 , you can't say its inexcusable for Apple to sell this device at the pricepoint they do @9:25 .
+Therefore I can't take you seriously.
+Sentiment: negative (confidence 0.86)
+
+    ↳ ❌ @flxing42  👍6  2025-10-18
+    Original: That's not what he said lol, he said it's inexcusable to not have pro-motion at that price point. That's just one aspect of the device
+    Sentiment: negative (confidence 0.64)
+
+------------------------------------------------------------
+
+[65] ❌ @sgt_major8419  👍0  2025-11-28
+Original: Only 60hz refresh, horrible.....
+
+Scrolling websites and such is going to be just HORRIBLE, such a wasted opportunity.
+
+Its a skip from me for that reason alone.
+Sentiment: negative (confidence 0.94)
+
+    ↳  @NicotineRosberg  👍0  2025-11-29
+    Original: K
+
+------------------------------------------------------------
+
+[66] ❌ @Mike-Oxlong-XXL  👍0  2026-01-02
+Original: 11:21  You should NEVER use your main computer as a backup device!!!!!
+
+Please don’t recommend bad practices that could make your viewers loose data!
+Sentiment: negative (confidence 0.81)
+
+------------------------------------------------------------
+
+[67] ✅ @KeithKman  👍159  2025-11-07
+Original: This is $749 on Amazon now. Crazy deal!
+Sentiment: positive (confidence 0.94)
+
+    ↳ ➖ @irfanahmed7847  👍4  2025-11-07
+    Original: I Believe that's 13 inch air not 15 inch
+    Sentiment: neutral (confidence 0.85)
+
+    ↳ ➖ @steezmac732  👍4  2025-11-09
+    Original: 15 inch is also $250 off right now 👍🏽.
+    Sentiment: neutral (confidence 0.88)
+
+    ↳ ❌ @kidsnipez8475  👍3  2025-11-14
+    Original: Facts I might buy this shit right now dead ass
+    Sentiment: negative (confidence 0.57)
+
+    ↳ ➖ @kyletavarez  👍0  2025-11-14
+    Original: Do we think it’ll get better for Black Friday?
+    Sentiment: neutral (confidence 0.80)
+
+    ↳ ➖ @steezmac732  👍2  2025-11-14
+    Original: @kyletavarez I don’t think it will. Apple tends to do this every year for the M series airs. It’s usually $200 off so at $249 off is a steal. There’s a chance it will be more on Black Friday.
+    Sentiment: neutral (confidence 0.79)
+
+    ↳ ✅ @bettertomorrow2625  👍9  2025-11-16
+    Original: Yep. I decided to pull the trigger on my first MacBook because it was such a good price. It MIGHT be less expensive on Black Friday or Cyber Monday, but I didn't want to take the chance and it's hard to see that it would be discounted more or if it is, I doubt it will be by much. It's already back to $999 just the day after I bought mine. $749 is a steal. I love this thing. It seems so solid, especially compared to any of the Windows PCs I've owned.
+    Sentiment: positive (confidence 0.60)
+
+    ↳ ➖ @dylonalcorn9117  👍3  2025-11-21
+    Original: 13 inch is $750 at Best Buy also. I just bought one.
+    Sentiment: neutral (confidence 0.64)
+
+    ↳ ➖ @morespinach9832  👍8  2025-11-22
+    Original: That's the 13 inch. Not 15 inch.
+    Sentiment: neutral (confidence 0.80)
+
+    ↳ ✅ @FlorianWendelborn  👍1  2025-11-24
+    Original: Yeah, 795€ (incl. all tax, shipping, 13" M4 model) here in Germany right now. The price was so good that I bought one for my grandpa to replace his 2014 Mac Mini
+    Sentiment: positive (confidence 0.95)
+
+    ↳ ➖ @morespinach9832  👍0  2025-11-24
+    Original: @FlorianWendelborn How much RAM? How much hard disk? Which core? You're buying this like a PC it seems. 795 Euro is pretty common price for the base laptop.
+    Sentiment: neutral (confidence 0.80)
+
+    ↳ ➖ @FlorianWendelborn  👍0  2025-11-24
+    Original: @morespinach9832 16G 256G, that's like 4x the amount of both that he will use 😂
+    Sentiment: neutral (confidence 0.72)
+
+    ↳ ➖ @morespinach9832  👍0  2025-11-24
+    Original: @FlorianWendelborn sure.. .so it works for your grandpa's email and browsing use case.
+    Sentiment: neutral (confidence 0.57)
+
+    ↳ ➖ @ImGairBair  👍6  2025-11-29
+    Original: $750 at Costco and Amazon right now
+    Sentiment: neutral (confidence 0.77)
+
+    ↳ ❌ @DrFlash-mh6st  👍10  2025-12-04
+    Original: @morespinach9832bro 😂 why you doing negative pessimistic replies on everyone.
+    Sentiment: negative (confidence 0.89)
+
+    ↳ ➖ @youtubelinkoa  👍0  2025-12-10
+    Original: @FlorianWendelborn What store did you buy it from? Even if the deal is no longer available, I would still like to know.
+    Sentiment: neutral (confidence 0.89)
+
+    ↳ ➖ @FlorianWendelborn  👍0  2025-12-10
+    Original: @youtubelinkoa Apple itself on Amazon Germany, as far as I can tell. It's at 899€ now
+    Sentiment: neutral (confidence 0.76)
+
+    ↳ ❌ @davidramos8454  👍1  2026-01-04
+    Original: It’s Jan 2026 , my 2015 MacBook Pro wants to retire . I want to upgrade to a MacBook Air but I don’t know if I should wait for the M5.
+    Sentiment: negative (confidence 0.57)
+
+    ↳ ➖ @KeithKman  👍1  2026-01-04
+    Original: @davidramos8454 I think they come out in March. If so the M4 will probably drop in price.
+    Sentiment: neutral (confidence 0.86)
+
+------------------------------------------------------------
+
+[68] ❌ @musicsucks2911  👍0  2025-10-23
+Original: The technology on the inside is industry leading but the technology on the outside is really starting to show its age. 
+
+No Dynamic Island, notch is too big
+12mp camera should be replaced with the new 18mp square sensor camera in the iPhone 
+What is the point of iPhone mirroring with no touch screen?
+No 120hz screen 
+Still no Face ID
+Sentiment: negative (confidence 0.73)
+
+    ↳ ❌ @morespinach9832  👍0  2025-11-22
+    Original: Thank how there’s no Face ID. Touch works all the time in all angles and in no light. 120hz would be a dumb battery drag. Dynamic Island on Mac? How much of a numpty are you?
+    Sentiment: negative (confidence 0.72)
+
+------------------------------------------------------------
+
+[69] ❌ @Zath88  👍0  2025-11-18
+Original: Did i just see an ad for "vibe coding" LMAO definitely not coming back to this channel
+Sentiment: negative (confidence 0.89)
+
+------------------------------------------------------------
+
+[70] ❌ @terabit.  👍2  2025-10-18
+Original: My ΜΒΑ 2020 i7 suffers from a battery drain WHILE SHUT DOWN !
+I've done EVERY DAMN THING !
+NOTHING ! No solution at all ! (While working on it the battery life IS EXCELLENT though !)
+Also a friend of mine experiences the EXACT SAME problem on his BRAND NEW Macbook Pro M4.
+I'll NEVER EVER BUY an Apple product again. Period !
+Sentiment: negative (confidence 0.92)
+
+    ↳ ❌ @SCHDtotheMoon  👍0  2025-10-23
+    Original: Intel is crap. Ditch it asap.
+    Sentiment: negative (confidence 0.93)
+
+    ↳ ➖ @terabit.  👍1  2025-10-23
+    Original: @SCHDtotheMoon Learn TO READ !
+    Sentiment: neutral (confidence 0.73)
+
+    ↳ ❌ @ytaccrandomvariable  👍0  2025-10-24
+    Original: @terabit. Bro, you are literally using an INTEL chip powered apple computer. Looks like you're the one who needs to learn how to read.
+    Sentiment: negative (confidence 0.84)
+
+------------------------------------------------------------
+
+[71] ✅ @dougt8215  👍3  2025-11-09
+Original: I was going to go with the base MacBook Air M4 on sale on Amazon for $749, but I opted for the the $200 512GB SSD upgrade (from base 256GB), which is also faster (2800 vs 4100 write speed) and with any upgrade you also get free the $100 processor upgrade from 8-core GPU to 10-core GPU.   The need for app and video file storage space was why I chose the 512GB upgrade, but the included GPU upgrade helps with the 8K video editing I deal with for 360 videos.
+Sentiment: positive (confidence 0.51)
+
+------------------------------------------------------------
+
+[72]  @PeterWhite-q1k  👍1  2025-10-18
+Original: A happy subscriber here.  Enjoying your presentation on a 15" M4 MBA 16/256.  Got it for $999 USD on sale at BB.  Love it!  Agree with your list of positives 100%.  My use case does not allow for the potential short comings to be realized, i.e., no thermal throttling, no attempt at "AI" use, rarely have even 4 apps open at one time.  Another excellent show, thank you.
+
+------------------------------------------------------------
+
+[73] ❌ @nessareignz2300  👍0  2026-01-02
+Original: Two work days??? My m3 air only lasts 10 hoursssss
+Sentiment: negative (confidence 0.66)
+
+------------------------------------------------------------
+
+[74] ✅ @Nyguy89-r8s  👍9  2025-11-17
+Original: I purchased the Midnight 15 inch model.  I love it!
+Sentiment: positive (confidence 0.99)
+
+------------------------------------------------------------
+
+[75] ❌ @nsambatwalha6804  👍7  2025-10-19
+Original: I actually just sent a friend to get one for me. I'm watching this hoping you wouldn't say something that'd hurt.😂
+Sentiment: negative (confidence 0.52)
+
+------------------------------------------------------------
+
+[76] ✅ @alsimplicio  👍56  2025-10-19
+Original: I still have my MacBook Air M1 16Gb, and it runs smoothly as possible after 5 years. Apple’s ARM chips are a revolution.🎉
+Sentiment: positive (confidence 0.91)
+
+    ↳ ➖ @etaudax  👍2  2025-10-29
+    Original: is this 256 gb? is it enough?
+    Sentiment: neutral (confidence 0.78)
+
+    ↳ ❌ @Jwdude123  👍2  2025-11-01
+    Original: Another iOS update and you won’t be happy
+    Sentiment: negative (confidence 0.89)
+
+    ↳  @小笼包-m3o  👍0  2025-11-09
+    Original: ​@Jwdude123iOS?
+
+    ↳ ➖ @NCHLT  👍3  2025-11-25
+    Original: @Jwdude123 When did he say anything about iPhones?
+    Sentiment: neutral (confidence 0.89)
+
+    ↳  @DrFlash-mh6st  👍0  2025-12-04
+    Original: @NCHLTlol 😂
+
+------------------------------------------------------------
+
+[77] ❌ @hawaiixtc  👍0  2026-02-13
+Original: First we have to suffer through 2 adds about erections, then a long ad with this.  Enough Google!
+Sentiment: negative (confidence 0.89)
+
+------------------------------------------------------------
+
+[78] ❌ @Treborray  👍0  2025-10-30
+Original: I dont like MagSafe even though I dont use it nearly as much as I should
+Sentiment: negative (confidence 0.89)
+
+------------------------------------------------------------
+
+[79] ❌ @pranavsachdeva1141  👍31  2025-10-21
+Original: I disagree, there's no need to spend on expensive upgrades in the hope for using it for several years, just buy base model and then simply buy next base model after 2 years after selling (or gifting to someone in family) the earlier MacBook
+Sentiment: negative (confidence 0.51)
+
+    ↳ ➖ @Brandon-9  👍0  2025-12-14
+    Original: Do you think the MacBook air 13 M4 could keep a decent performance and battery life for other 4 years if I buy one now?
+    Sentiment: neutral (confidence 0.69)
+
+    ↳ ➖ @pranavsachdeva1141  👍0  2025-12-15
+    Original: @Brandon-9yes absolutely but wait for M5 Air launching next month or so and buy that, unless you get a good discount on M4
+    Sentiment: neutral (confidence 0.62)
+
+------------------------------------------------------------
+
+[80] ➖ @ClearMystic  👍1  2025-11-04
+Original: 10:34 who really uses ports in late 2025?
+Except some profesionnal niche use cases - most people never plug stuff anymore as pretty much all devices are wireless and  file transfer is now mostly done online.
+Sentiment: neutral (confidence 0.51)
+
+    ↳ ➖ @morespinach9832  👍0  2025-11-22
+    Original: Jami while presenting in some places. But yes there are adapters.
+    Sentiment: neutral (confidence 0.91)
+
+------------------------------------------------------------
+
+[81] ❌ @cmdredstrakerofshado1159  👍0  2025-12-30
+Original: Reason 6 is also a negative if you work in mixed environments like you job or relatives are PC 🖥 or Android and you quickly learn Apple does not play well with other systems devices .
+Sentiment: negative (confidence 0.81)
+
+------------------------------------------------------------
+
+[82] ✅ @djinverr  👍14  2025-12-13
+Original: After almost 11 years with macbook pro 13 (early 2015), everyday use as a dj, it is time for an upgrade!
+Sentiment: positive (confidence 0.77)
+
+------------------------------------------------------------
+
+[83] ✅ @jdg9359  👍15  2025-10-26
+Original: Been very impressed with my M4 Air with 24 GB of Ram.
+Sentiment: positive (confidence 0.98)
+
+    ↳ ❌ @idkpro.  👍0  2025-11-15
+    Original: do you find it good for programming have you had issue's with it since i am planning to buy one 
+and people been like telling me no no don't and i want one but it's like i am OCD about it!
+    Sentiment: negative (confidence 0.54)
+
+    ↳  @DrFlash-mh6st  👍0  2025-12-04
+    Original: @idkpro.get it.
+
+------------------------------------------------------------
+
+[84] ❌ @chaoticstylez  👍1  2025-11-11
+Original: I think I made a mistake in getting the m4 Mac mini instead of going for the Air. How does the Air compare against mini?
+Sentiment: negative (confidence 0.56)
+
+------------------------------------------------------------
+
+[85] ✅ @sturisa  👍2  2025-11-25
+Original: Just bought the 15 inch MacBook Air with 16GB and 512 GB SSD. It will be more than enough for me. I'm only using for MS Office, Email, YT and web.
+Sentiment: positive (confidence 0.81)
+
+------------------------------------------------------------
+
+[86] ❌ @thedigitallens  👍0  2025-12-29
+Original: Great review. I don't agree with cellular part as a con because its specific to few countries while most don't offer.
+Sentiment: negative (confidence 0.50)
+
+------------------------------------------------------------
+
+[87] ✅ @aronski2025  👍60  2025-10-18
+Original: Bought an m4 15“ 2 days ago. 
+The Performance is just incredible. I had an m1 13“ pro with 8gb. It was Great, but the m4 with 16 gb is just in an league of its own haha
+Sentiment: positive (confidence 0.98)
+
+    ↳ ➖ @robertsimondj  👍0  2025-10-19
+    Original: Hi, which is better? I have same…m1 pro but thinking the change🙂
+    Sentiment: neutral (confidence 0.70)
+
+    ↳ ✅ @aronski2025  👍3  2025-10-19
+    Original: @robertsimondjHi!
+
+So I think the m4 feels a lot faster, especially when opening apps. But the m1 is also great. I would change, but the m1 is still top! 🙂
+    Sentiment: positive (confidence 0.97)
+
+    ↳  @robertsimondj  👍1  2025-10-20
+    Original: @aronski2025 thx Bro :)
+
+    ↳ ✅ @ISTIGHFAR1997  👍2  2025-10-20
+    Original: Lets go m4 mba 15 inch gang! Got the classic silver base model 10 cpu n gpu base 13 has 8 core gpu lol
+    Sentiment: positive (confidence 0.85)
+
+    ↳ ✅ @aronski2025  👍1  2025-10-21
+    Original: @ISTIGHFAR1997got the Silver one too! Looks Great.
+    Sentiment: positive (confidence 0.99)
+
+    ↳ ➖ @tonytomato100  👍0  2025-10-23
+    Original: @robertsimondji think it’s mostly the ram unless you’re doing more than everyday stuff. Even my base m2 air could handle some light cad
+    Sentiment: neutral (confidence 0.54)
+
+------------------------------------------------------------
+
+[88] ➖ @JeyhanGardian  👍0  2026-01-04
+Original: Is it enough to edit video that I capture on iphone 13 pro for youtube video on macbook air? And second what about for editing gaming video, 2k file, is it enough?
+Sentiment: neutral (confidence 0.87)
+
+    ↳ ✅ @ramunasLT  👍1  2026-01-14
+    Original: it can handle 4k video editing with no problem
+    Sentiment: positive (confidence 0.63)
+
+    ↳ ✅ @JeyhanGardian  👍0  2026-01-15
+    Original: @ramunasLT ok. Thank u
+    Sentiment: positive (confidence 0.76)
+
+------------------------------------------------------------
+
+[89]  @МиленаАсенова-у5ж  👍0  2025-12-07
+Original: dyrtfu
+
+------------------------------------------------------------
+
+[90] ✅ @PhilNguyen4U  👍0  2025-11-08
+Original: Ii bought the 13” version and loving it.  But the screen size is a little too small.
+Sentiment: positive (confidence 0.68)
+
+------------------------------------------------------------
+
+[91] ➖ @the.reading_diary  👍0  2025-11-25
+Original: Quick question here. I am thinking about getting the new Macbook Air but do you think it could run the Sims 4 in a good way? And if so, would you recommend the 13 or 15 inch?
+Sentiment: neutral (confidence 0.60)
+
+    ↳ ➖ @6MonthsLater  👍0  2025-11-25
+    Original: Looks like you can, here’s a video that goes into detail on the benchmarks for that game: https://youtu.be/GqQ0OBeCv_M?si=jQJK568wgi3bweRq here are my thoughts on 13 inch vs 15: https://youtu.be/3LIlx1bkoB4?si=1G9SVPQJStJ6bU-9
+    Sentiment: neutral (confidence 0.59)
+
+------------------------------------------------------------
+
+[92] ✅ @katjamoritz9288  👍0  2025-11-27
+Original: how bad is the fingerprints/smudges issue on the midnight? yours looks absolutely sleek and gorgeous - do you clean it a lot? i'm torn between getting silver or midnight..
+Sentiment: positive (confidence 0.42)
+
+    ↳ ✅ @6MonthsLater  👍1  2025-11-27
+    Original: I cleaned it for all the shots! Haha. It will smudge, especially if you use hand moisturizer or anything like that on your hands. That being said, I really liked that color better than the silver, which I originally got but returned and exchanged for midnight. I keep mine in a case and don’t end up cleaning it that often, it seems to look pretty good most of the time. - Josh
+    Sentiment: positive (confidence 0.85)
+
+    ↳ ✅ @katjamoritz9288  👍0  2025-11-27
+    Original: @6MonthsLater ah 😄 perfect thank you for responding, good to know
+    Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[93] ✅ @RipVanWinkle7  👍4  2025-11-01
+Original: i just bought it with 24 ram and 512 ssd, im doing a lot of homeworks, im so excited to put my hands on
+Sentiment: positive (confidence 0.98)
+
+    ↳ ✅ @francovillarreal5739  👍1  2025-11-18
+    Original: How are you liking it so far? Planning to get the same!
+    Sentiment: positive (confidence 0.88)
+
+------------------------------------------------------------
+
+[94] ❌ @lukec2226  👍2  2025-10-24
+Original: Doesn't seem anything special. Apple need to stop worrying about their stock price and start making best in category products again. A basic led display, and you are excited to have multiple tabs open? This is pretty ordinary product.
+Sentiment: negative (confidence 0.80)
+
+    ↳ ➖ @beerfarmer1828  👍0  2025-12-29
+    Original: they ate their competition with ARM cpus, are u ok?
+    Sentiment: neutral (confidence 0.59)
+
+------------------------------------------------------------
+
+[95] ✅ @murielBrittain  👍0  2025-12-15
+Original: I love my new MacBook Air love it
+Sentiment: positive (confidence 0.99)
+
+------------------------------------------------------------
+
+[96] ✅ @JawadAhmadKhan  👍1  2025-11-16
+Original: I bought an M4 Air 15-inch 16/512GB silver color mac in Japan when I was traveling last month. It was around $1200, which was much cheaper than my country. I saved about $300, haha!
+Sentiment: positive (confidence 0.88)
+
+------------------------------------------------------------
+
+[97] ❌ @Ranked-ish  👍0  2025-11-30
+Original: Is this guy a dumbass calling himself a professional? The MacBook air m4 can easily video edit, sure it'll take some more time than a MacBook Pro but barely
+Sentiment: negative (confidence 0.57)
+
+------------------------------------------------------------
+
+[98] ➖ @tonytramonti5828  👍0  2025-12-01
+Original: Tom Hanks uses the base model M4 air and he's not even come close to maxing out the 8 core GPU.
+Sentiment: neutral (confidence 0.54)
+
+------------------------------------------------------------
+
+[99] ✅ @maddiemary-kate5650  👍0  2025-12-26
+Original: Just got myself one for boxing day! Thanks for the info 😊
+Sentiment: positive (confidence 0.84)
+
+------------------------------------------------------------
+
+[100] ✅ @warlock_r  👍0  2025-10-19
+Original: As good as Apple Silicon is, we need to highlight how good computers have gotten in the past decade that even an 5th gen core i5 with an SSD is still more than good enough for everyday computing. (Provided that the rest of the computer hasn't completely fallen apart)
+Sentiment: positive (confidence 0.90)
+
+    ↳ ➖ @KieranArt  👍0  2025-10-20
+    Original: the m4 would run circles around a 5th gen i5
+    Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[101] ❌ @Tom-Tom-k1c  👍0  2026-01-13
+Original: Man i really wish i could buy it 🥲
+Sentiment: negative (confidence 0.38)
+
+------------------------------------------------------------
+
+[102] ➖ @nelifeea  👍0  2026-02-10
+Original: Is this worth buying now, or should I wait for the M5?
+Sentiment: neutral (confidence 0.90)
+
+------------------------------------------------------------
+
+[103] ❌ @smooth60  👍1  2025-12-05
+Original: Damn, your voice is just like the auto dubbing voice youtube uses (except more animated of course).
+Sentiment: negative (confidence 0.44)
+
+------------------------------------------------------------
+
+[104] ➖ @SwizzNasty  👍0  2025-12-24
+Original: question,  web surfing (15hours) is more demanding than video streaming (18hours)?
+Sentiment: neutral (confidence 0.67)
+
+------------------------------------------------------------
+
+[105] ➖ @curt5802  👍1  2025-10-24
+Original: new iMac + a 13" macbook Air ... good for home or go.  Enough for most people, well I'd say the vast majority.  I don't get the obsession with huge screens... I've worked at home online for the past six years using an old 21" iMac from 2010, and a 13" M1 MacAirand am just now to the point of looking at an "upgrade" and 24" will be more than enough for me.  If I want to watch movies, I have an OLED TV on the wall for that.  13" MacAir much better for traveling than 15".
+Sentiment: neutral (confidence 0.49)
+
+------------------------------------------------------------
+
+[106] ➖ @Kites9808  👍0  2026-01-05
+Original: for video editing i personally go for a custom pc build at this price point. if i want that performance while portability ill go for budget laptop and ill connect remotely
+Sentiment: neutral (confidence 0.72)
+
+------------------------------------------------------------
+
+[107] ✅ @ItsAkile  👍0  2025-11-08
+Original: Not gonna lie, going back to an old 2015 13" Macbook I was super impressed by the IPS even after using OLEDs for a while now.
+Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[108] ❌ @rajeshkumarkherwar4256  👍4  2025-10-24
+Original: I bought Macbook Air 15-inch, M2, 2023 though  it was of exact 2- years in age but it was like new .I had not used this laptop but one day it was not turning on. Then I report this issue to apple halifax and they said the repair cost is $ 975.00 because I was not taken apple Care too . Then I spoke with senior advisor and decided to repair under consumer law and once I provide them for repair after one week they called me again and said "Liquid damage found" and does not cover under consumer law and repair cost is $2418.00 and "God promise this was not my fault because i kept it through out its life in bag only I barely used with top care ( < 50 hours ) and there is no chances of external liquid from my side.
+Sentiment: negative (confidence 0.61)
+
+------------------------------------------------------------
+
+[109] ✅ @rayyavocado  👍322  2025-11-17
+Original: After a lot of research I decided to go with the M4 as my first macbook , imagine my surprise after charging it to a 100% around 12 pm, and then using it unplugged, only to see the battery level at 97% at 4:50 PM!!!!!!!!! WHAT. INSANE.
+Sentiment: positive (confidence 0.57)
+
+    ↳ ➖ @morespinach9832  👍4  2025-11-22
+    Original: It's new. Wait a couple of months.
+    Sentiment: neutral (confidence 0.78)
+
+    ↳ ❌ @rayyavocado  👍23  2025-11-22
+    Original: @morespinach9832please don’t scare me like this lmao
+    Sentiment: negative (confidence 0.85)
+
+    ↳ ❌ @linzkey  👍1  2025-11-25
+    Original: That’s wild, what were you doing?
+    Sentiment: negative (confidence 0.50)
+
+    ↳ ➖ @lderv1  👍14  2025-11-27
+    Original: Apple devices are known for dropping slowly from 100%. Around 95% it drops normally. But the MBA should have great battery life
+    Sentiment: neutral (confidence 0.46)
+
+    ↳ ✅ @killswitch896  👍5  2025-12-02
+    Original: @rayyavocado LMAO don’t be worried; they’re still champions. Even the 5 year old M1 air is still outdoing current Windows laptops in battery life.
+    Sentiment: positive (confidence 0.67)
+
+    ↳ ✅ @DrFlash-mh6st  👍2  2025-12-04
+    Original: @rayyavocadodon’t worry, it will persist its strength for long.
+    Sentiment: positive (confidence 0.66)
+
+    ↳ ❌ @rayyavocado  👍4  2025-12-04
+    Original: @linzkeya shit tonne of web surfing
+    Sentiment: negative (confidence 0.89)
+
+    ↳ ✅ @luv_u.143  👍4  2025-12-04
+    Original: Same. I'm getting it around Christmas. Although it's a gift for me passing my exams 😛
+    Sentiment: positive (confidence 0.87)
+
+    ↳ ✅ @Brandon-9  👍2  2025-12-14
+    Original: It will be my first MacBook too.
+    Sentiment: positive (confidence 0.67)
+
+    ↳ ✅ @rayyavocado  👍1  2025-12-14
+    Original: @Brandon-9awesome!! I’m very happy with the purchase bc my main requirements were that it’s lightweight with good battery and runs fast. Hope you like it too!
+    Sentiment: positive (confidence 0.99)
+
+    ↳ ➖ @ahmedabdate  👍0  2025-12-20
+    Original: Do u take the pro or air ?
+    Sentiment: neutral (confidence 0.91)
+
+    ↳ ➖ @jonasbaine3538  👍0  2026-01-05
+    Original: how is battery life and performance 1 month later?  feels same or different?
+    Sentiment: neutral (confidence 0.79)
+
+    ↳  @rayyavocado  👍0  2026-01-06
+    Original: @ahmedabdate air m5!
+
+    ↳ ➖ @opeyemisanusi  👍0  2026-01-08
+    Original: oh you are new here i see
+    Sentiment: neutral (confidence 0.79)
+
+    ↳ ➖ @xyrelium  👍3  2026-01-09
+    Original: @rayyavocado there isnt an m5 air yet tho
+    Sentiment: neutral (confidence 0.83)
+
+    ↳ ❌ @hungrybeaverontheleaver  👍0  2026-01-28
+    Original: It's probably still calibrating the battery, so it's underestimating the amount of discharge.
+    Sentiment: negative (confidence 0.54)
+
+    ↳ ✅ @Ariel-lt8ln  👍1  2026-02-15
+    Original: Also my first MacBook. My bank accidentally sent me one for free lol
+    Sentiment: positive (confidence 0.74)
+
+------------------------------------------------------------
+
+[110]  @SSIshorts  👍0  2025-10-22
+Original: 🧐👍
+
+------------------------------------------------------------
+
+[111] ➖ @davindersangha3761  👍1  2025-10-18
+Original: So you shouldn’t or can’t do video editing on the air?
+Sentiment: neutral (confidence 0.54)
+
+    ↳ ➖ @6MonthsLater  👍2  2025-10-19
+    Original: You can….but for my 4k editing workflows…I wouldn’t over a MacBook Pro or Mac Studio. - Josh
+    Sentiment: neutral (confidence 0.74)
+
+    ↳ ➖ @femiftw  👍2  2025-10-19
+    Original: you can, all depends on what your editing, if your editing in PR and AE at the same time, with an hour long timeline... no, but if your making short form content your def good
+    Sentiment: neutral (confidence 0.59)
+
+------------------------------------------------------------
+
+[112]  @QuintenHendriks-c1u  👍0  2025-12-20
+Original: Nice!
+
+------------------------------------------------------------
+
+[113] ❌ @nono-i7t  👍3  2025-10-18
+Original: MBA only needs a right side thunderbolt port, 4TB SSD option (although I do not want to know what apple would charge for it) and nanotexture or equivalent matte display. 
+
+I don't need 120hz (it'll only kill battery) and I don't need OLED with PWM-issues and added battery drain. 100% adobe RGB is nice but I doubt they'd achieve that without going OLED.
+Sentiment: negative (confidence 0.72)
+
+------------------------------------------------------------
+
+[114] ✅ @peat381low8  👍5  2025-10-20
+Original: That will be my new mac. Though my M1 MacBook Pro is not doing too bad for 5 years old. It's insane.
+Sentiment: positive (confidence 0.76)
+
+    ↳  @robertsimondj  👍1  2025-10-21
+    Original: same :)
+
+    ↳ ✅ @SCHDtotheMoon  👍1  2025-10-23
+    Original: Same. My M1 with 8GB is a champ for 90% of things I do. 
+It only drags when doing two 32” screens but that’s because the M1 can’t natively do 2 displays. 
+It’s a must for me.
+    Sentiment: positive (confidence 0.45)
+
+------------------------------------------------------------
+
+[115] ✅ @ericmatthews8497  👍0  2025-11-06
+Original: I absolutely love the 15" MacBook Air - It's my daily driver for everything work and personal.  I also have a 16" MacBook Pro (M1 Pro) and it's fantastic as well ... but I hate traveling with it.  It's a bit chunky and the extra weight is tiresome when it's in your backpack all day long.  Performance wise, the M4 can outpace the M1 Pro in all of my workloads, even web development using C++ and Web Assembly.  If you set your projects up right - incremental builds are fast and painless.  It's a developer thing - mostly working single files at a time, needing quick bursts of performance to compile them in the scope of a larger project.  And for those larger projects my MacBook Air is MAXED OUT with 32 GB of Unified Memory and 2TB of storage.  Most people will opt for the faster processors and better graphics of the MacBook Pro, but I would much rather get more Storage.  That second TB is costly at $400, but it's so nice not packing an external drive - just grab it and go.
+Sentiment: positive (confidence 0.90)
+
+------------------------------------------------------------
+

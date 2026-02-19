@@ -8,6 +8,7 @@ from storage.models import Video, Comment
 from preprocess import preprocess_comments
 from sentiment import analyze_batch
 from storage.database import save_sentiment, get_sentiment_summary, get_comments_by_sentiment
+from transcript import fetch_transcript_auto, export_transcript
 
 VIDEO_URL    = "https://www.googleapis.com/youtube/v3/videos"
 SEARCH_URL   = "https://www.googleapis.com/youtube/v3/search"
@@ -159,18 +160,65 @@ def fetch_replies(parent_id: str, video_id: str) -> list[Comment]:
     return replies
 
 
-def fetch_all_comments(video_id: str,max_pages: int = 3) -> list[Comment]:
+def fetch_all_comments(video_id: str, max_pages_per_order: int = 3) -> list[Comment]:
+    """
+    Fetch comments using two strategies and deduplicate:
+    1. Relevance order (hot/popular comments) - 3 pages
+    2. Time order (newest comments) - 3 pages
+    """
     all_comments = []
+    seen_ids = set()  # For deduplication
+
+    # Strategy 1: Hot/Popular comments (relevance)
+    print("\n  [Strategy 1] Fetching popular comments (relevance order)...")
+    relevance_comments = _fetch_comments_by_order(
+        video_id,
+        order="relevance",
+        max_pages=max_pages_per_order
+    )
+    for comment in relevance_comments:
+        if comment.comment_id not in seen_ids:
+            all_comments.append(comment)
+            seen_ids.add(comment.comment_id)
+
+    print(f"  → Got {len(all_comments)} unique comments from relevance order")
+
+    # Strategy 2: Newest comments (time)
+    print("\n  [Strategy 2] Fetching newest comments (time order)...")
+    time_comments = _fetch_comments_by_order(
+        video_id,
+        order="time",
+        max_pages=max_pages_per_order
+    )
+    new_count = 0
+    for comment in time_comments:
+        if comment.comment_id not in seen_ids:
+            all_comments.append(comment)
+            seen_ids.add(comment.comment_id)
+            new_count += 1
+
+    print(f"  → Got {new_count} new comments from time order")
+    print(f"  → Total unique comments: {len(all_comments)}")
+
+    return all_comments
+
+
+def _fetch_comments_by_order(video_id: str, order: str, max_pages: int) -> list[Comment]:
+    """
+    Helper function to fetch comments with specific order
+    order: "relevance" or "time"
+    """
+    comments = []
     next_page_token = None
     page = 1
 
     while page <= max_pages:
         params = {
-            "key":        YOUTUBE_API_KEY,
-            "videoId":    video_id,
-            "part":       "snippet,replies",
+            "key": YOUTUBE_API_KEY,
+            "videoId": video_id,
+            "part": "snippet,replies",
             "maxResults": 100,
-            "order":      "relevance",
+            "order": order,
         }
         if next_page_token:
             params["pageToken"] = next_page_token
@@ -180,23 +228,23 @@ def fetch_all_comments(video_id: str,max_pages: int = 3) -> list[Comment]:
             resp.raise_for_status()
             data = resp.json()
         except Exception as e:
-            print(f"[Page {page}] Request failed: {e}")
+            print(f"    [Page {page}] Request failed: {e}")
             break
 
         for item in data.get("items", []):
-            top        = item["snippet"]["topLevelComment"]["snippet"]
+            top = item["snippet"]["topLevelComment"]["snippet"]
             comment_id = item["snippet"]["topLevelComment"]["id"]
             reply_count = item["snippet"].get("totalReplyCount", 0)
 
-            all_comments.append(Comment(
-                comment_id  = comment_id,
-                video_id    = video_id,
-                parent_id   = None,
-                username    = top.get("authorDisplayName", ""),
-                text        = top.get("textOriginal", ""),
-                like_count  = top.get("likeCount", 0),
-                reply_count = reply_count,
-                created_at  = top.get("publishedAt", ""),
+            comments.append(Comment(
+                comment_id=comment_id,
+                video_id=video_id,
+                parent_id=None,
+                username=top.get("authorDisplayName", ""),
+                text=top.get("textOriginal", ""),
+                like_count=top.get("likeCount", 0),
+                reply_count=reply_count,
+                created_at=top.get("publishedAt", ""),
             ))
 
             if reply_count > 0:
@@ -204,33 +252,32 @@ def fetch_all_comments(video_id: str,max_pages: int = 3) -> list[Comment]:
                 if reply_count <= len(embedded):
                     for r in embedded:
                         s = r["snippet"]
-                        all_comments.append(Comment(
-                            comment_id  = r["id"],
-                            video_id    = video_id,
-                            parent_id   = comment_id,
-                            username    = s.get("authorDisplayName", ""),
-                            text        = s.get("textOriginal", ""),
-                            like_count  = s.get("likeCount", 0),
-                            reply_count = 0,
-                            created_at  = s.get("publishedAt", ""),
+                        comments.append(Comment(
+                            comment_id=r["id"],
+                            video_id=video_id,
+                            parent_id=comment_id,
+                            username=s.get("authorDisplayName", ""),
+                            text=s.get("textOriginal", ""),
+                            like_count=s.get("likeCount", 0),
+                            reply_count=0,
+                            created_at=s.get("publishedAt", ""),
                         ))
                 else:
                     print(f"    └─ Fetching {reply_count} replies...")
-                    all_comments.extend(fetch_replies(comment_id, video_id))
+                    comments.extend(fetch_replies(comment_id, video_id))
 
-        top_count         = sum(1 for c in all_comments if c.parent_id is None)
-        reply_count_total = sum(1 for c in all_comments if c.parent_id is not None)
-        print(f"  Page {page}: Top-level {top_count}, Replies {reply_count_total}")
+        top_count = sum(1 for c in comments if c.parent_id is None)
+        reply_count_total = sum(1 for c in comments if c.parent_id is not None)
+        print(f"    Page {page}/{max_pages} ({order}): Top-level {top_count}, Replies {reply_count_total}")
 
         next_page_token = data.get("nextPageToken")
         if not next_page_token:
-            print("  Reached last page")
+            print(f"    Reached last page at page {page}")
             break
 
         page += 1
 
-    return all_comments
-
+    return comments
 
 # ── Export TXT ──────────────────────────────────────────────────
 
@@ -489,6 +536,18 @@ def run():
         print("\nTop 3 Most Negative Comments:")
         for r in negatives[:3]:
             print(f"  [{r['sentiment_score']:.2f}] {r['clean_text'][:70]}")
+
+        print(f"\n[Transcript] Fetching video transcript...")
+        transcript_result = fetch_transcript_auto(video.video_id)
+
+        if transcript_result["success"]:
+            print(f"  ✓ Got transcript ({transcript_result['language']})")
+            export_transcript(video.video_id, transcript_result)
+        else:
+            print(f"  ⚠️  {transcript_result['error']}")
+            print(f"     Video may not have captions/subtitles available")
+
+        print(f"\nFetching comments and replies...")
 
 if __name__ == "__main__":
     run()

@@ -1,0 +1,3328 @@
+============================================================
+Video Title: M5 MacBook Pro First Review - This… or an M4 MacBook Air? 
+Channel:     The Tech Chap
+URL:         https://youtube.com/watch?v=NHlLPTRM8JI
+Views:       419,297
+Top-level:   386 comments
+Replies:     219 comments
+Total:       605 comments
+============================================================
+
+【Sentiment Analysis Summary】
+------------------------------------------------------------
+Positive: 162 (27.8%)
+Negative: 170 (29.2%)
+Neutral:  250  (43.0%)
+
+Top 5 Most Positive Comments:
+  1. [0.99] excellent review. thank you for using my videos to showcase the screen. can't wa
+  2. [0.99] i use my macbook air m4 for software development every day. it's an amazing lapt
+  3. [0.99] still loving my macbook pro m1 love my macbook and love the design of it lets se
+  4. [0.99] same. it's awesome!
+  5. [0.99] i bought my 2025 m4 macbook air a few months ago an upgrade from my 2018 macbook
+
+Top 5 Most Negative Comments:
+  1. [0.94] i have the m2 air and its a piece of crap. i have dual monitors and it can't ope
+  2. [0.94] its too freaking bulky i dont see my self buying this with a price tag that coul
+  3. [0.93] stupid bureaucrats. now i will buy a chinese adapter.
+  4. [0.93] -oz9by gaming laptops look like shit.
+  5. [0.93] m5 is just ridiculous and way overkill, even the m3 and m4 are overkill
+
+============================================================
+
+【All Comments】
+
+[1] ➖ @CorsidianGaming  👍0  2025-10-22
+Original: Correction: The power brick is not missing because of the EU.
+Sentiment: neutral (confidence 0.79)
+
+------------------------------------------------------------
+
+[2] ➖ @portal1738  👍0  2025-11-06
+Original: Correction: 
+
+The 70W Power Adapter is not included anymore in the box.  But the price has been reduced to reflect this. (The price has been lowered with the exact cost of the 70W power adapter). 
+
+The MagSafe cable is still included with the MacBook Pro 14-inch M5.
+Sentiment: neutral (confidence 0.89)
+
+------------------------------------------------------------
+
+[3] ❌ @watchcommander2012  👍0  2025-10-29
+Original: I sick of every review trying to justify Apple removing the Power Adapter due to EU regulations coming next year. This is the UK we had a little thing called brexit EU rules do not apply to us and now this model is more expensive by £59.00 in UK. So Apple lied it’s not the same price as before!
+Sentiment: negative (confidence 0.87)
+
+------------------------------------------------------------
+
+[4] ➖ @Anything.is.Possible  👍0  2025-10-22
+Original: Isn’t the new snapdragon x2 faster ?
+Sentiment: neutral (confidence 0.77)
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-23
+    Original: potentially, we havne't seen an actual retail product yet with it.
+    Sentiment: neutral (confidence 0.77)
+
+------------------------------------------------------------
+
+[5] ➖ @TruthTeller-100  👍28  2025-10-21
+Original: Also it's 15% more in UK than US even if you add VAT to US prices!
+Sentiment: neutral (confidence 0.76)
+
+    ↳ ➖ @samlawrence4670  👍4  2025-10-21
+    Original: If you take the 20% vat off the uk pice it’s £1280 before tax with current exchange rates that makes it $1711 which is about 6.9% more than the pre tax American price. Add the cost of the power brick and it’s almost 15% though.
+    Sentiment: neutral (confidence 0.81)
+
+    ↳ ➖ @Psychofunks  👍0  2025-10-21
+    Original: @samlawrence4670 It's £1332.50 before vat, you took 20% off the final price, which isn't the same sum.
+    Sentiment: neutral (confidence 0.75)
+
+    ↳ ➖ @theendurance  👍1  2025-10-21
+    Original: haha europoors
+    Sentiment: neutral (confidence 0.48)
+
+    ↳ ❌ @c4ash  👍4  2025-10-21
+    Original: @theendurance grrrrrr, dont make fun of us. 😤
+    Sentiment: negative (confidence 0.88)
+
+    ↳ ➖ @andyH_England  👍1  2025-10-22
+    Original: That is due to the pound falling against the dollar. Compared to Oct 2024, Apple would get £60 less per £2000 in Oct 2025. With the likelihood of further falls due to the upcoming budget, it is no surprise Apple has added the £100 back on.
+    Sentiment: neutral (confidence 0.73)
+
+    ↳ ➖ @pussbeaver1218  👍0  2025-10-25
+    Original: Maybe yall should make a company
+    Sentiment: neutral (confidence 0.76)
+
+------------------------------------------------------------
+
+[6] ➖ @0arjun077  👍83  2025-10-21
+Original: I will get my next mac 5 years later.
+Sentiment: neutral (confidence 0.54)
+
+    ↳ ✅ @usernamehyt  👍8  2025-10-26
+    Original: actually by next generation m6,they will finally have a new redesign touch screen 2nm  macbook pro.  just next year around November. that should be a great buy, people should wait for that
+    Sentiment: positive (confidence 0.97)
+
+    ↳ ➖ @mikeolson7557  👍2  2025-11-11
+    Original: @usernamehytI doubt that
+    Sentiment: neutral (confidence 0.60)
+
+    ↳ ❌ @alex-9763  👍3  2025-12-03
+    Original: @usernamehyttouchscreen Mac could kill IPad sales idk
+    Sentiment: negative (confidence 0.49)
+
+    ↳ ➖ @FurryPuppyPaws  👍0  2025-12-22
+    Original: @usernamehyt the new design will only apply to M6 Pro & Max chips, not the regular M6 Macbook Pro
+    Sentiment: neutral (confidence 0.92)
+
+------------------------------------------------------------
+
+[7] ➖ @cryolasv2  👍0  2025-10-21
+Original: Do it again, this time do it right. 🤪
+Sentiment: neutral (confidence 0.50)
+
+------------------------------------------------------------
+
+[8] ❌ @drprince8766  👍0  2025-10-22
+Original: When you said boring, I just disliked this video.
+Sentiment: negative (confidence 0.92)
+
+------------------------------------------------------------
+
+[9] ➖ @guharajdeep  👍0  2025-11-17
+Original: The M4 Air is only 750 in us amazon. No brainer?
+Sentiment: neutral (confidence 0.58)
+
+------------------------------------------------------------
+
+[10] ❌ @jjy9319  👍0  2025-10-22
+Original: This is not a test. This is benchmark review. Pretty boring. There is no real life test here.
+Sentiment: negative (confidence 0.92)
+
+------------------------------------------------------------
+
+[11] ✅ @solomontalksmobile  👍1  2025-10-21
+Original: I think the M5 maybe the biggest upgrade since the M1, these tests are crazy
+Sentiment: positive (confidence 0.89)
+
+    ↳ ➖ @GlobalWave1  👍0  2025-10-21
+    Original: I’m just wondering how crazy the M5 max will be.
+    Sentiment: neutral (confidence 0.69)
+
+------------------------------------------------------------
+
+[12] ✅ @Quang-b4k  👍0  2025-12-19
+Original: You forgot to mention a very important feature: wrist cut. These macbooks have the most sharp edge among others.
+Sentiment: positive (confidence 0.68)
+
+------------------------------------------------------------
+
+[13] ➖ @Doady1337  👍0  2025-11-27
+Original: I can't decide on a 16gb 512gb 14inch M5 Pro or a 24gb 512gb 13 inch M4 Air for music production.. Been watching and reading so much, my brain hurts. Upgrading from a late 2013 Pro, so I know both will be a huge upgrade.
+Sentiment: neutral (confidence 0.44)
+
+------------------------------------------------------------
+
+[14] ✅ @dextinytr3ndz257  👍11  2025-10-21
+Original: Great reviews as usual
+Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[15] ❌ @FlyingPIgsAI  👍0  2025-10-22
+Original: ChatGPT told me that your Geekbench AI GPU headine improvement figures are wrong.  Half Precision improvement should be 134%.
+Sentiment: negative (confidence 0.90)
+
+------------------------------------------------------------
+
+[16] ➖ @jasondworkin6597  👍1  2025-10-21
+Original: A M5 is about the same price as a similarly specked Apple refurbished M4 Pro. How does their performance compare?
+Sentiment: neutral (confidence 0.85)
+
+------------------------------------------------------------
+
+[17] ✅ @Tonicwave2  👍0  2025-10-22
+Original: What I really like about this chip is that it advances Macbook Pros at an affordable price point.  If you don't want to pay full retail, there is a big secondary market of M2 to M4 Macbooks of Air, Pro 14 and Pro 16 models for you to find an affordable Macbook for your needs. 
+
+I feel that if you have an M1, you can still wait to upgrade but that it is a big jump if you choose to. I have an M1 Max/32GB/1TB I paid $3200 for. I can get an M5 Macbook Pro with the same RAM, 50% faster CPU in both single and multi, and twice the storage for 30% cheaper.  I won't upgrade, but I think it is a fair (and tempting) choice.
+Sentiment: positive (confidence 0.91)
+
+------------------------------------------------------------
+
+[18] ➖ @Andre-cj3ec  👍22  2025-10-21
+Original: How about comparing the M5 Macbook Pro to the M4 Macbook Pro with M4 Pro?
+Sentiment: neutral (confidence 0.92)
+
+    ↳  @arnavsingh8840  👍1  2025-10-22
+    Original: Yea
+
+    ↳ ✅ @calvin2032  👍1  2025-11-06
+    Original: I’ve seen a video of it. The M4 Pro beats out the M5 in most every category. The M5 did have considerably more battery life after 3 hours of stress testing for benchmarks. At the non discounted price it was tougher to recommend the M4 Pro for the average user, but given some of the sale prices he suggested going with it. He was excited to see what the M5 Pro would do.
+    Sentiment: positive (confidence 0.87)
+
+    ↳ ➖ @dq7143  👍0  2025-12-03
+    Original: A closer comparison would be with the M4 MacBook Air
+    Sentiment: neutral (confidence 0.86)
+
+------------------------------------------------------------
+
+[19] ✅ @the-automated-engineer  👍0  2025-10-23
+Original: m4 to m5 feels like a solid upgrade, definitely above the average incremental bump. m5 pro could finally worth an upgrade from m1 pro.
+Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[20] ➖ @Vic-lacoix  👍0  2025-12-21
+Original: I am wrestling with this question: Will rising RAM prices push the Spring 2026 M5 MacBook Air (32 GB RAM, 1 TB SSD) close enough to today’s M5 MacBook Pro (32 GB, 1 TB) EU price that buying the Pro now is the better choice than waiting?
+Sentiment: neutral (confidence 0.80)
+
+------------------------------------------------------------
+
+[21] ❌ @JoJoJe  👍0  2025-12-01
+Original: UK and EU reallly ripping of their people
+Sentiment: negative (confidence 0.82)
+
+------------------------------------------------------------
+
+[22] ❌ @user-yh2sm2jf2y  👍0  2025-10-22
+Original: Do I have to pay for an adapter separately? As expected from Apple. It seems like things are getting weirder and weirder.
+Sentiment: negative (confidence 0.90)
+
+    ↳ ❌ @andyH_England  👍0  2025-10-22
+    Original: It's a new EU Law, so blame the Eurocrats, not Apple or other OEMs.
+    Sentiment: negative (confidence 0.79)
+
+------------------------------------------------------------
+
+[23] ✅ @fitzroy214  👍6  2025-10-23
+Original: I use my MacBook Air M4 for software development every day. It's an amazing laptop. The weight and battery life are great
+Sentiment: positive (confidence 0.99)
+
+    ↳ ✅ @RichardServello  👍0  2025-11-05
+    Original: Same. It's awesome!
+    Sentiment: positive (confidence 0.99)
+
+    ↳ ➖ @ISTIGHFAR1997  👍0  2025-11-26
+    Original: Same got 15 inch base silver
+    Sentiment: neutral (confidence 0.76)
+
+------------------------------------------------------------
+
+[24] ❌ @Kovand-dbg  👍1  2025-10-24
+Original: A few years ago I asked you how much you get paid to repeat how fast the fastest laptop ever made is. Looks like apple still pays you well for this. Do you think people are fools like you?
+Sentiment: negative (confidence 0.66)
+
+------------------------------------------------------------
+
+[25] ✅ @ergindemir7366  👍6  2025-10-21
+Original: Zenbook duo seems better deal at the same price but double the ram, ssd, display.
+Sentiment: positive (confidence 0.80)
+
+    ↳ ❌ @theothernodude3139  👍1  2025-10-22
+    Original: Dual screen is gimmicky, at least compared to the MacBook Pro''s studio grade display. Doesn't get as bright and no nano texture, worse speakers, slower performance, worse battery life, slower SSD speeds. Lord knows how it'll hold up in 5, 10 years time when the M1 MacBook Airs and Pros with 8GB from 2020/2021 both handle the new OS nicely and will receive future updates. 
+
+But I mean hey, if you're into two infused screens just to tell others and yourself that you're built different instead of just buying an external display, Zenbook definitely has the upper leg.
+    Sentiment: negative (confidence 0.71)
+
+------------------------------------------------------------
+
+[26] ✅ @emrebademci2610  👍0  2025-10-22
+Original: I think this was the correct comparison. Very useful, thank you
+Sentiment: positive (confidence 0.96)
+
+    ↳ ✅ @Thetechchap  👍0  2025-10-22
+    Original: Glad it was useful!
+    Sentiment: positive (confidence 0.98)
+
+------------------------------------------------------------
+
+[27] ➖ @byyh101  👍0  2025-10-22
+Original: Still holding onto my 2018 i5 MacBook Air. Maybe it’s time to go M5 when it comes to the air…
+Sentiment: neutral (confidence 0.63)
+
+------------------------------------------------------------
+
+[28] ✅ @adityadivine2138  👍0  2025-11-08
+Original: I am waiting for m5 macbook air
+Sentiment: positive (confidence 0.53)
+
+------------------------------------------------------------
+
+[29] ✅ @コーヒーコー.アンディ  👍0  2025-10-21
+Original: The MBA 24GB version is really affordable and good enough for most stuff... But the new chip is neat to be fair. Probably gonna go with MBA and dream of giving it to imaginary future intern 😂If you can wait (which I 100% can't unfortunately), I'd wait for M5 Pro or MBA M5.
+Sentiment: positive (confidence 0.93)
+
+------------------------------------------------------------
+
+[30] ➖ @Mr_snappy.  👍0  2025-10-22
+Original: so when the M5 air comes out ig the price will stay the same at $999 so the M5 macbook pro is $1600. What's the difference between them is the $600 price premium just for the mini led 120hz display only?
+Sentiment: neutral (confidence 0.91)
+
+------------------------------------------------------------
+
+[31] ➖ @BenCheung-t7k  👍0  2025-12-07
+Original: We're not even in the EU
+Sentiment: neutral (confidence 0.55)
+
+------------------------------------------------------------
+
+[32] ➖ @thereisawaythru  👍0  2025-10-24
+Original: hi can you recommend a Game/Final Cut Pro 27 inch monitor + Mac book pro
+Sentiment: neutral (confidence 0.71)
+
+------------------------------------------------------------
+
+[33] ❌ @metamon2704  👍3  2025-10-21
+Original: You are wrong there is no EU regulation that says they can't ship it with a charger, it's all on apple.
+Sentiment: negative (confidence 0.50)
+
+    ↳ ➖ @andyH_England  👍1  2025-10-22
+    Original: The Law comes into force in April 2026, and the directive is that OEMs are not allowed to include the charger in the box on the order page. You can then add the charger, and to reward those who care about e-waste, they charge less for no charger, and there is a cost if you want to add a charger. This is not on Apple, and all OEMs will have to do this; otherwise, they will face fines and a ban.
+    Sentiment: neutral (confidence 0.63)
+
+------------------------------------------------------------
+
+[34] ➖ @Ravi-x8p  👍0  2025-10-21
+Original: Please make a review of the s11 ultra tablet from Samsung
+Sentiment: neutral (confidence 0.58)
+
+------------------------------------------------------------
+
+[35] ✅ @DwayneDibbIy  👍0  2025-10-22
+Original: Doesn't matter at this level. All that matters is how the high end M5 stacks up against the high end M3-M4 Max for pro users. For everyone else all these are good.
+Sentiment: positive (confidence 0.65)
+
+------------------------------------------------------------
+
+[36] ❌ @simaknaveedakther8755  👍0  2025-10-24
+Original: I Rather invest money on galaxy book laptop than MacBooks as they are the same overpriced ever since m1
+Sentiment: negative (confidence 0.84)
+
+------------------------------------------------------------
+
+[37] ❌ @johnco6789  👍0  2025-10-22
+Original: Why does Apple insist on keeping the notch on Macbooks?
+Sentiment: negative (confidence 0.57)
+
+------------------------------------------------------------
+
+[38] ✅ @isidorosmoschogiannis  👍0  2026-02-12
+Original: I went from an M1 MacBook Air to the M5 MacBook Pro. I'm using Davinci Resolve a lot and  I did see a difference with the AI functions. Very happy overall
+Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[39] ➖ @uberparry  👍0  2025-10-22
+Original: What would you recommend, coming from intel MacBookPro from 2019, should I get the M5 or the M4 ?
+Sentiment: neutral (confidence 0.89)
+
+    ↳ ✅ @Thetechchap  👍0  2025-10-23
+    Original: Oh either will bea huuuge upgrade. M4 if you can get it for less money
+    Sentiment: positive (confidence 0.84)
+
+------------------------------------------------------------
+
+[40] ❌ @bizzfo  👍1  2025-11-19
+Original: The EU is where innovation goes to die.
+Sentiment: negative (confidence 0.87)
+
+------------------------------------------------------------
+
+[41] ✅ @maxa6430  👍0  2025-12-11
+Original: There are other differences like one less fan on the M5 and still runs cooler than M4.  Longer battery on M5 also.
+Sentiment: positive (confidence 0.63)
+
+------------------------------------------------------------
+
+[42] ❌ @Siva.Official.Creatives  👍0  2026-02-17
+Original: EU regulations are funny.
+Sentiment: negative (confidence 0.65)
+
+------------------------------------------------------------
+
+[43] ❌ @bravestbullfighter  👍0  2025-10-23
+Original: Show the settings for the game benchmarks otherwise this video is useless.
+Sentiment: negative (confidence 0.70)
+
+------------------------------------------------------------
+
+[44] ➖ @NickL0VIN  👍0  2025-10-22
+Original: I spent $1000 on the MacBook Air so I can surf on Safari
+Sentiment: neutral (confidence 0.53)
+
+------------------------------------------------------------
+
+[45] ✅ @Optora.  👍0  2025-10-22
+Original: I think it's fantastic that you no longer have to buy the crappy, bulky Apple power adapters. MacBooks without power adapters have become €100 cheaper in Germany. For that money, you can buy high-quality power adapters from Anker or other brands. Win win. If you don't need it you save a lot of money, if you do need it you can buy a much better power supply for the same price or less.
+Sentiment: positive (confidence 0.80)
+
+------------------------------------------------------------
+
+[46] ➖ @DxN_721  👍0  2026-01-27
+Original: I have a macbook pro 14 m3, the battery life is significantly down after years of use. I primarily use it for music recording, university work and general content consumption and writing, would you recommend upgrading to the M5?
+Sentiment: neutral (confidence 0.48)
+
+------------------------------------------------------------
+
+[47] ➖ @JKCrypto-h5n  👍0  2025-11-23
+Original: Not boring when upgrading from M1 chip. 🤷‍♂️
+Sentiment: neutral (confidence 0.58)
+
+------------------------------------------------------------
+
+[48] ❌ @kev_chata  👍0  2025-10-22
+Original: I chose MBA M4 15 inch over MBP m4 14 inch bec of the screen size. Maybe compare mba M4 15 inch to MBP M5. Sadly, speakers are better on old 2015 MBP 15 inch than MBA M4
+Sentiment: negative (confidence 0.45)
+
+------------------------------------------------------------
+
+[49] ✅ @iriofpod  👍0  2025-11-25
+Original: Im a pentester and now learning to vibe coding in my M2 Air, after bunch of reviews I went for the M4 Air 24GB RAM and 512 TB over the new M5 Pro, I think the Air is the most well-rounded laptop out there.
+Sentiment: positive (confidence 0.93)
+
+------------------------------------------------------------
+
+[50] ➖ @milehighed52801  👍0  2025-11-05
+Original: You should have done the video with the M5 MBP on your left side instead of your right, this way when you did the comparison specs shots they would have been aligned rather than reversed.
+Sentiment: neutral (confidence 0.85)
+
+------------------------------------------------------------
+
+[51] ✅ @focus168168  👍2  2025-10-22
+Original: 2 mins to generate an image? wow! LOL
+Sentiment: positive (confidence 0.82)
+
+------------------------------------------------------------
+
+[52] ❌ @liveliferock  👍0  2025-10-22
+Original: All I can say there isn't significant upgrade from M4, as Apple is forcing everyone to compare M5 Macbook Pro with M4 Macbook Air.....none of the reviewer has got M4 Macbook Pro to compare?
+Sentiment: negative (confidence 0.74)
+
+------------------------------------------------------------
+
+[53] ✅ @perronbae  👍0  2025-10-21
+Original: Aw man, I just wanted to know how well the thing would run World of Warcraft :(
+Sentiment: positive (confidence 0.47)
+
+------------------------------------------------------------
+
+[54] ✅ @whitecrowuk575  👍0  2025-10-23
+Original: You missed one of the most important differences. M5 MacBook Pro is an absolute battery champ - up to 24h of use. This is probably one of the main reasons to go for it. For someone that needs bright screen and best battery and doesn’t need the best performance – doesn’t get any better than this. Also worth mentioning M5 is faster than M1 Pro.
+Sentiment: positive (confidence 0.90)
+
+------------------------------------------------------------
+
+[55] ❌ @jannarkiewicz633  👍0  2026-01-02
+Original: Look if you want the power supply move the U.S. <--- this is a joke. NOT A SERIOUS COMMENT>
+Sentiment: negative (confidence 0.50)
+
+------------------------------------------------------------
+
+[56] ✅ @Matttski  👍0  2025-12-29
+Original: I’m still on m1 and pretty happy with it except for storage lol
+Sentiment: positive (confidence 0.94)
+
+------------------------------------------------------------
+
+[57] ✅ @pashnfrmusc  👍18  2025-10-21
+Original: I bought my 2025 M4 MacBook Air a few months ago (an upgrade from my 2018 Macbook Pro), and I love it - I got discounts from Best Buy for the purchase. Base model, but it works perfect for my needs and it never gets hot. It's awesome!
+Sentiment: positive (confidence 0.99)
+
+    ↳ ➖ @pruserin  👍0  2025-10-27
+    Original: after 8 years you changed wow. do you think apple care is worth it for macbooks? and why you chose Air over pro this time?
+    Sentiment: neutral (confidence 0.61)
+
+    ↳  @pashnfrmusc  👍0  2025-10-27
+    Original: @pruserin - So, I subscribed to the AppleCare+ one option that covers 3 devices, and I felt that that's a good deal because I have 3 devices, and it's cheaper that way. As far as choosing the Air, it's the better option for my personal needs because I don't need all the extra features that a Pro offers. I still have my 2018 Pro (because it still works), but new software upgrades are no longer supported.
+
+    ↳ ✅ @m.z.9411  👍0  2025-10-31
+    Original: @pruserin Apple care is worth it if you bring it out all the time, store it in the backpack or study/work in shared office/cafe..avoid those accident. I am still on my m1 pro 16inch.. don't see much reason to upgrade. But going from 2018, the m4 is more than enough for anyone non professional.
+    Sentiment: positive (confidence 0.61)
+
+    ↳ ➖ @ISTIGHFAR1997  👍0  2025-11-26
+    Original: How many cores i got m4 15 inch silver expensive for 1350 but it has 10 core not 8 like the base m4
+    Sentiment: neutral (confidence 0.74)
+
+------------------------------------------------------------
+
+[58] ❌ @technixxel  👍0  2025-10-21
+Original: Wait! Stop! What ratio is this video please tell me 🙏😞
+Sentiment: negative (confidence 0.63)
+
+------------------------------------------------------------
+
+[59] ✅ @roorooadventures4771  👍0  2025-11-28
+Original: the pro max will be better with church production  AI and final cut pro and youtube content.
+Sentiment: positive (confidence 0.77)
+
+------------------------------------------------------------
+
+[60] ✅ @Catalin.fili-y9s  👍1  2025-12-03
+Original: Still rocking the 2019 i5 MBP. I’ll update to this one..it’s time.
+Sentiment: positive (confidence 0.77)
+
+    ↳ ➖ @sathvickkumaran  👍0  2025-12-16
+    Original: Same here bro. Im planning to but m4 air. Is it a good upgrade without fan compared to intel i5 2019 macbook pro ?
+    Sentiment: neutral (confidence 0.68)
+
+------------------------------------------------------------
+
+[61] ✅ @shaheerziya  👍0  2025-11-15
+Original: I’m still rocking my MacBook Pro 2017 😅
+Sentiment: positive (confidence 0.86)
+
+    ↳ ✅ @viswatejpandu8874  👍0  2025-11-29
+    Original: Upgrade your software to MacOs Sequoia through Open Core Legacy Patcher. You'll have an awesome time.
+    Sentiment: positive (confidence 0.98)
+
+------------------------------------------------------------
+
+[62] ➖ @winggMan  👍20  2025-10-21
+Original: Please make a video on m1 pro macbook pro vs m5 pro
+Sentiment: neutral (confidence 0.76)
+
+    ↳ ✅ @chriswatt37  👍1  2025-10-21
+    Original: Yup, upgrade from M1 to M5 is on the cards
+    Sentiment: positive (confidence 0.60)
+
+    ↳ ➖ @michaemia  👍3  2025-10-22
+    Original: THE M5 PRO isn't out yet.
+    Sentiment: neutral (confidence 0.74)
+
+------------------------------------------------------------
+
+[63] ✅ @SpidyWebs  👍3  2025-10-28
+Original: Been rocking my 2015 base Macbook Pro 13 in. for 10 years and the only thing that's making me consider an upgrade is the battery life. Will Windows laptops ever be able to compete with Macbooks? Also, will modern Macbooks last 10+ years as well?
+Sentiment: positive (confidence 0.77)
+
+    ↳ ✅ @mysterioanonymous3206  👍0  2025-11-05
+    Original: Same. I have a 2014 model and did in fact have to replace the motherboard 5y ago. But still.... its been running great but def showing its age now. It was really expensive for me when I bought it, 2k, but its served me well. Looks like I'll get the m5 soon.
+    Sentiment: positive (confidence 0.85)
+
+------------------------------------------------------------
+
+[64] ✅ @jamess4522  👍2  2025-10-25
+Original: I bought a 16" M1 Pro in 2023 on a closeout deal (to replace an overheating 2018 i7) so it was already 2 years past its release date when I got it. Here were are in 2025 and it's still flying along editing video and now my 60mp camera files without getting warm. The M series processors have been game-changing.
+Sentiment: positive (confidence 0.69)
+
+------------------------------------------------------------
+
+[65] ✅ @jennifergala  👍18  2025-10-21
+Original: Excellent review. Thank you for using my videos to showcase the screen. Can't wait for the OLED MacBook Pros.
+Sentiment: positive (confidence 0.99)
+
+------------------------------------------------------------
+
+[66] ✅ @retrogaminga1072  👍2  2025-10-21
+Original: That was a good review, thanks.
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[67] ❌ @Acconda  👍0  2025-11-05
+Original: I have M1 Pro max, tried the m5 and sent it back. Deffo not worth it for me yet.
+Sentiment: negative (confidence 0.83)
+
+------------------------------------------------------------
+
+[68] ✅ @tapiolehto5312  👍0  2025-12-02
+Original: I wanted to have the M4 pro model because of the screen brightness compared with air M4, I enjoy to use it outside in cafe's in sun shine. If I would use it only inside, the Air would have been enough.
+Sentiment: positive (confidence 0.80)
+
+------------------------------------------------------------
+
+[69] ✅ @bcbccj  👍0  2025-10-22
+Original: This video cured my boredom.
+Sentiment: positive (confidence 0.84)
+
+------------------------------------------------------------
+
+[70] ❌ @MichaelGGarry  👍0  2025-10-22
+Original: "Unless you're developing games" - hi. Really need that M5 Pro rather than this base unit!
+Sentiment: negative (confidence 0.43)
+
+    ↳ ❌ @Thetechchap  👍0  2025-10-23
+    Original: exactly! That's why it's a weird choice to get a base macbook pro
+    Sentiment: negative (confidence 0.69)
+
+------------------------------------------------------------
+
+[71] ✅ @HeatProofBog64  👍0  2025-10-22
+Original: Still rocking M1. Buying my wife the M1 iMac for Christmas this year. Why pay more? She’s going to watch YouTube and write books. I don’t see myself buying anything other than M1 until M6 or M7… and I used to upgrade my phone twice a year for example. I’m a tech head. But it already does everything I need, there is no need to upgrade (m1 iPad Pro, m1 Mac mini, m1 MacBook Pro, iPhone 16 pro user). Love the video!
+Sentiment: positive (confidence 0.85)
+
+------------------------------------------------------------
+
+[72] ✅ @TobiasStahelPhotographer  👍0  2025-12-07
+Original: Nice one! Thanks, That was helpfull!
+Sentiment: positive (confidence 0.98)
+
+------------------------------------------------------------
+
+[73] ❌ @Cooper3312000  👍0  2025-10-23
+Original: Holy crap still wifi 6E No WiFi7 and No Thunderbolt5 by default! Plus same old screens will be waiting for the next chip I guess.
+Sentiment: negative (confidence 0.85)
+
+------------------------------------------------------------
+
+[74] ✅ @Nutle159  👍0  2025-11-11
+Original: I need only the Air for my stuff, but in the store m5 pro seems just so much snappier. Screen is definitely better, speakers much better, and i really need the nano texture. But x2 price of only for that...
+Sentiment: positive (confidence 0.81)
+
+------------------------------------------------------------
+
+[75] ✅ @namcojr  👍0  2025-11-30
+Original: "The screen on this is also much nicer", then switches to the comparison camera and the IPS LCD actually looks better. lol.
+Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[76] ❌ @pashabiceps95  👍0  2025-10-21
+Original: Good point that pros will likely buy something more powerful than that. But maybe someone who is learning, or doing as a hobby might need that. Either way AI is a flop
+Sentiment: negative (confidence 0.45)
+
+------------------------------------------------------------
+
+[77] ➖ @rookieslaughter  👍0  2025-11-05
+Original: Not to mention, even though is more powerful M5 is double the thickness of M4's
+Sentiment: neutral (confidence 0.58)
+
+------------------------------------------------------------
+
+[78] ➖ @AaronFigFront  👍0  2025-10-22
+Original: For local AI, users that run larger models are a small percentage. For Apple Intelligence or anything fast responding, what we need are small models, and EVERYONE will be “using” it because native system feature would use it. So The Who is going to need it question seems a bit odd, since small AI features are most likely built in with many apps and not something only tech industry users would actively find and download the small models for experiments.
+Sentiment: neutral (confidence 0.71)
+
+    ↳ ➖ @andyH_England  👍0  2025-10-22
+    Original: Yes, the future is nano-LLMs for separate tasks. I'm not sure anyone will buy the base MB Pro M5 to run local LLMs!
+    Sentiment: neutral (confidence 0.55)
+
+------------------------------------------------------------
+
+[79] ✅ @alexanderfazel  👍0  2025-10-22
+Original: It is fair to boost the MacBook Air to the same storage as the Pro, prior to comparing pricing. Also, there is also Apple educational discount, not to mention all the sales that will be coming starting mid November for the M5 MacBook Pro. But yes, I agree the M5 Pro and Max are going to be the real power houses, likely coming in late January of 2026.
+Sentiment: positive (confidence 0.71)
+
+------------------------------------------------------------
+
+[80] ❌ @Robin.paton90  👍0  2025-10-22
+Original: i dont know why it still miniLED instead  tandem OLED .
+Sentiment: negative (confidence 0.77)
+
+------------------------------------------------------------
+
+[81] ❌ @Service4Mercedes  👍0  2025-10-22
+Original: are you crazy to compare Pro with Air? you better can compare my socks
+Sentiment: negative (confidence 0.81)
+
+------------------------------------------------------------
+
+[82] ➖ @RiwK.g  👍0  2025-11-02
+Original: I have a m3 pro what do you guys think of upgrading? Doing YouTube and video editing and designing clothes
+Sentiment: neutral (confidence 0.84)
+
+    ↳ ➖ @jct0010  👍0  2025-11-07
+    Original: Just wait for M5 pro/max next year? Unless u absolutely need a new laptop right now, prob the m4 pro/max. Or do u meant that you have the MacBook pro with "m3" chip, then you should've phrase it as MacBook pro m3.
+    Sentiment: neutral (confidence 0.72)
+
+------------------------------------------------------------
+
+[83] ➖ @vanitore  👍0  2025-10-24
+Original: Doesn't the Macbook Air have passive cooling so it will thermal throttle during those benchmarks?
+Sentiment: neutral (confidence 0.83)
+
+------------------------------------------------------------
+
+[84] ❌ @MatthewsTechHub  👍0  2025-10-22
+Original: It really angers me how EU rules now means Apple don't have to include a power adapter, especially when paying such a high premium cost for their laptops, this is surely the bare minimum that should be included.
+Sentiment: negative (confidence 0.89)
+
+------------------------------------------------------------
+
+[85] ✅ @robgardner4754  👍14  2025-10-21
+Original: That Cyberpunk fps improvement is pretty amazing. I wonder what that will translate to in World of Warcraft terms. Might almost be the same as the difference from the M4 to M4 Pro base chip.
+Sentiment: positive (confidence 0.97)
+
+    ↳ ➖ @JamesBond-fo6ow  👍0  2025-10-21
+    Original: yeah, but the MBA only has an 8 core GPU, not 10. I get it, only 2 cores, but technically 20% less.
+    Sentiment: neutral (confidence 0.52)
+
+    ↳ ✅ @robgardner4754  👍1  2025-10-21
+    Original: @JamesBond-fo6ow Ah nuts! Yep, I forgot about that 😁
+    Sentiment: positive (confidence 0.52)
+
+    ↳ ➖ @JamesBond-fo6ow  👍1  2025-10-21
+    Original: IF someone needs a MBP right now.. Until I see actual M5 numbers... Im in the camp that you find a M4 Pro Pro. They are $1700 refurb. $100 gets you 12/16 (4 performace vs 8! performance), 24/512 and if we want to focus on memory bandwidth -- 273 vs 153... that's a real leap, not 120-150..
+    Sentiment: neutral (confidence 0.78)
+
+------------------------------------------------------------
+
+[86] ➖ @issiewizzie  👍0  2025-10-21
+Original: The future of AI is local LLMs  apple knows this and at least you'll have some privacy.
+Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[87] ✅ @gadgetmatch  👍1  2025-10-22
+Original: Age looks very good on you buddy.
+Sentiment: positive (confidence 0.97)
+
+    ↳ ❌ @Thetechchap  👍0  2025-10-23
+    Original: calling me old!? :P
+    Sentiment: negative (confidence 0.75)
+
+------------------------------------------------------------
+
+[88] ✅ @Starboy-m4k  👍0  2025-10-22
+Original: I know the perfect people that would buy the base macbook pro M5- CS students who want to dive deep into AI development. Nvidia with its cuda support is like the gold standard for these type of people, Apple wants them to switch to Metal API for LLM fine tuning and inference, hence so much focus on the gpu.
+Sentiment: positive (confidence 0.83)
+
+------------------------------------------------------------
+
+[89] ➖ @ronykun07  👍0  2025-10-23
+Original: u should have compared it with m4 pro and not air , for some reason air macs runs more on efficency core and not performance core, i think u should have informed it to the audience
+Sentiment: neutral (confidence 0.58)
+
+------------------------------------------------------------
+
+[90] ✅ @solvmed  👍0  2025-10-22
+Original: still rocking an m1 air😆
+Sentiment: positive (confidence 0.54)
+
+------------------------------------------------------------
+
+[91] ➖ @mathiashund3837  👍0  2025-11-26
+Original: Was für ein Mist Video. THX and BYE
+Sentiment: neutral (confidence 0.75)
+
+------------------------------------------------------------
+
+[92] ✅ @thisISyouish  👍0  2025-10-22
+Original: Ill upgrade if they upgrade MB air display and make it lighter.
+Sentiment: positive (confidence 0.53)
+
+------------------------------------------------------------
+
+[93] ➖ @snehalkumarpadghane6765  👍0  2025-12-25
+Original: It seems , Shashi Tharoor doing dubbing now a days  😂
+Sentiment: neutral (confidence 0.88)
+
+------------------------------------------------------------
+
+[94] ✅ @Abhid0909  👍1  2025-10-23
+Original: Still rocking the 13" MacBook Pro (2019, Intel).
+It gets the job done, but I'm really waiting for a redesigned Pro since the current one’s a bit thick for my liking — I’m coming from a Touch Bar 13-inch, which is so sleek.
+Sentiment: positive (confidence 0.92)
+
+------------------------------------------------------------
+
+[95] ➖ @lambda_ink  👍0  2025-10-22
+Original: new old apple product every year is crazy. I mean, apple has been releasing iPhone 11 Pro every year since years now.  Just rebranding it.
+Sentiment: neutral (confidence 0.49)
+
+------------------------------------------------------------
+
+[96] ✅ @NinjaOperator00  👍5  2025-10-22
+Original: Great review. I'm glad I didn't go for the Pro M4 and went for the Air M4, runs like a beast and while I thought I'd be using local LLMs and maybe that called for a Pro upgrade, Air still runs 4bit and 8bit sub 20b parameters  perfectly fine albeit somewhat slow. Most of the time I'm on Claude Desktop/Code or ChatGPT anyways. Code compilation is superbly fast already. So yeah, good specs for the M5 Pro but an Air M4 is just a no brainer from a cost to performance ratio.
+Sentiment: positive (confidence 0.94)
+
+------------------------------------------------------------
+
+[97] ❌ @johnsnow9653  👍0  2025-10-25
+Original: You don't get the charger because the Europeans live under tyranny. And love it. Lol. Sheep. Sad!
+Sentiment: negative (confidence 0.91)
+
+------------------------------------------------------------
+
+[98] ❌ @MahdiSarlak-m2z  👍0  2025-10-29
+Original: fuck apple
+Sentiment: negative (confidence 0.77)
+
+------------------------------------------------------------
+
+[99] ✅ @clb74656  👍0  2026-02-18
+Original: Upgrading from intel based 13 inch to the new M5 Pro! Better screen and faster
+Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[100] ➖ @ndwolfwood09  👍0  2026-01-05
+Original: @1:28 M5/16GB/512GB.... @0:38 earlier you showed a M5/32GB/probably 1TB... lol
+Also don't blame Apple on the power brick... blame EU politicians + laws! lol
+Sentiment: neutral (confidence 0.53)
+
+------------------------------------------------------------
+
+[101] ✅ @memememe3878  👍0  2025-10-31
+Original: Still having the 2020 core i5 mbp. still looks so good ngl
+Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[102] ❌ @Paul-if1jq  👍0  2025-10-21
+Original: So no new Mac Studio, if this is a spec bump...For AI I suggest you have a minimum of 64GB, preferably 128GB, and that is prohibitively expensive
+Sentiment: negative (confidence 0.69)
+
+------------------------------------------------------------
+
+[103] ✅ @Fixirgb  👍2  2025-10-22
+Original: Love watching you video's, watching your tech video"s give warmth and information that you're looking for at the same time, love that.
+Looking forward for a next year OLED and new redesign, that'll be insane.
+Sentiment: positive (confidence 0.99)
+
+    ↳ ✅ @Thetechchap  👍0  2025-10-23
+    Original: Cheers! and me too
+    Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[104] ❌ @UpdateMaster  👍0  2025-10-23
+Original: It's too hot, while live streaming on obs in my macbook air m2 15 inch.
+Sentiment: negative (confidence 0.73)
+
+------------------------------------------------------------
+
+[105] ✅ @rogerhalt3991  👍0  2026-02-17
+Original: Can’t wait for the next video comparing oranges and oranges..
+Sentiment: positive (confidence 0.86)
+
+------------------------------------------------------------
+
+[106] ➖ @Razzbow  👍0  2025-10-22
+Original: I was just about to buy a macbook air and they release this... should I wait?
+Sentiment: neutral (confidence 0.69)
+
+------------------------------------------------------------
+
+[107] ❌ @akaChriss4L  👍0  2026-01-17
+Original: I just bought the M1 Pro Macbook Pro 14 inch and this video goes to show that I have no reason at all to consider upgrading any time soon.
+Sentiment: negative (confidence 0.63)
+
+------------------------------------------------------------
+
+[108] ❌ @ElmerMediaTV  👍0  2025-11-17
+Original: When the fuck has Apple ever offered something for free?
+Sentiment: negative (confidence 0.87)
+
+------------------------------------------------------------
+
+[109] ❌ @Adiiiman2xxx  👍1  2025-10-21
+Original: No charger ? this is a joke ?
+Sentiment: negative (confidence 0.85)
+
+------------------------------------------------------------
+
+[110] ❌ @andrewt9204  👍0  2025-10-24
+Original: The power adapter should definitely be a free addon, or perhaps just the postal fee. That's absurd. Especially since most trade-in programs require you to also turn in the power adapter.
+Sentiment: negative (confidence 0.73)
+
+------------------------------------------------------------
+
+[111] ➖ @philliprokkas195  👍0  2025-10-22
+Original: Touchbar m1
+Sentiment: neutral (confidence 0.84)
+
+------------------------------------------------------------
+
+[112] ➖ @einekleineente1  👍50  2025-10-21
+Original: No, it is not an EU regulation that Apple cannot include a charger with MacBooks. The EU’s Common Charger Directive (Directive (EU) 2022/2380) only requires that manufacturers offer the option to buy devices without a charger. It does not ban including one in the box.
+Sentiment: neutral (confidence 0.81)
+
+    ↳ ✅ @ssergium.4520  👍12  2025-10-21
+    Original: That’s why in Germany at least the MacBook is 100€ cheaper if you get it without the charger.
+    Sentiment: positive (confidence 0.62)
+
+    ↳ ➖ @alexa9771  👍5  2025-10-21
+    Original: The prices Apple charges to EU are for subsiding the low prices Apple charges for US clients. That's all folks!
+    Sentiment: neutral (confidence 0.74)
+
+    ↳ ❌ @theendurance  👍1  2025-10-21
+    Original: @alexa9771 no, its for making up for the lower volume of sales. less sales = higher price to make up for it. and europe has less sales because europeans make less money and therefore buy less apple stuff
+    Sentiment: negative (confidence 0.58)
+
+    ↳ ✅ @Thetechchap  👍4  2025-10-21
+    Original: You are quite right
+    Sentiment: positive (confidence 0.62)
+
+    ↳ ❌ @mrc0a124  👍0  2025-10-21
+    Original: EU are still being idiots
+    Sentiment: negative (confidence 0.85)
+
+    ↳ ➖ @andyH_England  👍2  2025-10-22
+    Original: But the logic of including a free charger means that all buyers are likely to bundle the free charger in, making the whole directive pointless. So, Apple reduces the price in the EU, and you get €100 off or pay for a charger. I expect all OEMs to do this, or alternatively, offer free gifts, including the charger, which the Chinese OEMs do.
+    Sentiment: neutral (confidence 0.69)
+
+    ↳ ➖ @SeanTube2099  👍0  2025-10-22
+    Original: True, it doesn’t ban having another SKU with the charger included. But Apple aren’t going to have two SKU’s of EVERY Mac portable in every European and English Apple retail store.
+    Sentiment: neutral (confidence 0.76)
+
+    ↳ ❌ @vaclavklem5191  👍3  2025-10-23
+    Original: This is a common theme for all the misinformation about many EU directives. People don't really know what they are talking about.
+    Sentiment: negative (confidence 0.79)
+
+    ↳ ❌ @hype4dimensional  👍0  2025-10-23
+    Original: its what the companies lobbied the government to do probably and this is the classic misdirection on their end as well.
+    Sentiment: negative (confidence 0.59)
+
+    ↳ ➖ @Zoolookuk  👍0  2025-10-24
+    Original: @theendurance fewer sales
+    Sentiment: neutral (confidence 0.70)
+
+    ↳ ➖ @wurf5336  👍0  2025-10-26
+    Original: NPC-s will starts defending EU and APPLE... hahahhaha xD
+    Sentiment: neutral (confidence 0.55)
+
+    ↳ ➖ @CapitanHarlockisback  👍0  2025-12-30
+    Original: In italy you still get the charger in the box.
+    Sentiment: neutral (confidence 0.90)
+
+------------------------------------------------------------
+
+[113] ✅ @wia_wia-m9t  👍1  2025-10-21
+Original: So, YouTube updated its Web player. Seems to be focused on accessibility!
+
+Sorry, the video is about the new M5 on Macbook Pro. Seems that the M5 focused on AI and GPU which is great.
+Sentiment: positive (confidence 0.87)
+
+------------------------------------------------------------
+
+[114] ❌ @UtsabSaha99  👍0  2025-10-22
+Original: 2:33 well thts wht u get for making apple mad i guess..🤣
+Sentiment: negative (confidence 0.77)
+
+------------------------------------------------------------
+
+[115] ✅ @kat68822  👍0  2025-11-17
+Original: To me the Air is so good that I don't see a reason to get the Pro. Sure a miniled and 120hz would be nice but in my country the base Pro is basically twice the price of Air. Even though I'm a sucker for high refresh rate on phones , on laptops the lower refresh rate is not as noticable.
+Sentiment: positive (confidence 0.58)
+
+------------------------------------------------------------
+
+[116] ❌ @chion2477  👍0  2026-02-09
+Original: MBP M5 does it for me. Playing some games in the living room when I am not able to sit in my office, keeping it in the Apple eco-system too. The MBA M4 is just too weak for basically any game.
+Sentiment: negative (confidence 0.50)
+
+------------------------------------------------------------
+
+[117] ➖ @esomethingplayz1264  👍0  2025-10-22
+Original: I could here you breathing very loudly when you left
+Sentiment: neutral (confidence 0.67)
+
+------------------------------------------------------------
+
+[118] ✅ @Kunal-x5i  👍0  2025-10-23
+Original: Can anyone please sponsor me MacBook Air m4 24gb ram and 256gb SSD please 😢
+I don't have budget and I am learning to be DevOps engineer so.
+Please support me. I'll be forever greatful 🙏🙏🙏
+Sentiment: positive (confidence 0.86)
+
+------------------------------------------------------------
+
+[119] ❌ @Kryptstar_mack  👍0  2025-10-25
+Original: Only 32gb of ram is horrible for local llms,  it seems like apple is forcing you to get the m5 pro to even use the boosted gpu performance
+Sentiment: negative (confidence 0.90)
+
+------------------------------------------------------------
+
+[120] ➖ @laherikeval2524  👍3  2025-10-23
+Original: 1:00 I tought it was over.
+Sentiment: neutral (confidence 0.49)
+
+------------------------------------------------------------
+
+[121] ➖ @Kartik__Sharma  👍0  2025-10-22
+Original: I am thinking of upgrading from the base MacBook M1 Air. Should I do it?
+Sentiment: neutral (confidence 0.88)
+
+------------------------------------------------------------
+
+[122] ➖ @zoran123456  👍0  2025-10-22
+Original: Isnt UK part of the Europe?
+Sentiment: neutral (confidence 0.91)
+
+    ↳ ➖ @REALHARSH  👍0  2025-10-22
+    Original: Not since BREXIT years ago no
+    Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[123] ❌ @Conv1cti0n  👍0  2025-10-21
+Original: They are charging extra for a charger???? F THAT!!
+Sentiment: negative (confidence 0.90)
+
+------------------------------------------------------------
+
+[124] ➖ @AaronFigFront  👍0  2025-10-22
+Original: Didn’t apple lowered the price by 100 in EU? So if you add the charger, it is still cheat then before, right?
+Sentiment: neutral (confidence 0.63)
+
+    ↳ ❌ @andyH_England  👍0  2025-10-22
+    Original: The UK Government's dismal economic performance has meant the value of the Pound has fallen, and for every £2000 sale in the UK, Apple loses £60 compared to October 2024. So, rightly, Apple reduced the price of the Mac by £100 for no charger but added £100 due to exchange rate risks. Ergo, the Pound is likely to fall further with the upcoming Budget.
+    Sentiment: negative (confidence 0.82)
+
+------------------------------------------------------------
+
+[125] ➖ @Ishanveer-Singh  👍3  2025-10-21
+Original: 1:09 could have been 3 to 5 seconds longer
+Sentiment: neutral (confidence 0.73)
+
+------------------------------------------------------------
+
+[126] ✅ @SW-lw6mt  👍0  2025-10-21
+Original: The CPU is plenty fast enough, so excited to finally see a focus on improving the GPU for 3D work. Can't wait for the Max variant.
+Sentiment: positive (confidence 0.98)
+
+------------------------------------------------------------
+
+[127] ❌ @CharlesBartlett  👍0  2025-10-23
+Original: Why do laptop reviewers always play 3-card Monty with the machines to keep you guessing which one they are talking about?
+Sentiment: negative (confidence 0.54)
+
+------------------------------------------------------------
+
+[128] ❌ @UzielUntalan  👍0  2025-11-26
+Original: tbh im not planning to update my machine, I am using m2 since 2022 but suddenly my screen cracked and repair cost around 600ish and m4 price is almost the same as the screen. Should get the m4 or wait for an m5 or something.
+Sentiment: negative (confidence 0.84)
+
+------------------------------------------------------------
+
+[129] ❌ @spicecaptain7279  👍0  2025-10-22
+Original: 3:44 It would've been more fair to compare gaming on M5 MBP with M4 MBP, not M4 MBA, because active cooling is a HUGE, decisive factor in graphically intensive gaming. 
+Such comparison makes no sense.
+Sentiment: negative (confidence 0.61)
+
+------------------------------------------------------------
+
+[130] ✅ @Gjcddgvgdjhc  👍0  2025-11-12
+Original: Thank you. Please Santa bring me one for Christmas. Billy
+Sentiment: positive (confidence 0.89)
+
+------------------------------------------------------------
+
+[131] ❌ @radeshenmoodley4147  👍0  2025-10-22
+Original: I’m confused…surely M4 MacBook Pro vs M5 MacBook Pro…why compare to an Air?! Especially with benchmarks not sure what to deduce from this video except it’s not a proper comparison
+Sentiment: negative (confidence 0.64)
+
+------------------------------------------------------------
+
+[132] ➖ @Krieky  👍0  2025-10-22
+Original: May I make an unsolicited suggestion? If 2 devices are being compared side by side, it would be lovely if their background image on the screen displays their key specs. For example, here, if the laptops could just display M5 or M4, the viewer knows exactly what is going on.
+Sentiment: neutral (confidence 0.65)
+
+------------------------------------------------------------
+
+[133] ➖ @talielnussen3867  👍0  2025-10-21
+Original: I wish they will put this M5 chip into the 16" and give us 100wh battery not the 66wh in the 15"
+
+How can  the 14" have 70wh with fan, yet 15" without fan has just 66wh
+
+We need 90wh in 15" or M5 in 16" with 100wh
+
+Some people absolutely need the loong battery life
+Sentiment: neutral (confidence 0.52)
+
+------------------------------------------------------------
+
+[134] ✅ @Drey-Hobbies  👍11  2025-10-24
+Original: I will get this, once they discount it next year. Still rocking the M1 Air.
+Sentiment: positive (confidence 0.94)
+
+------------------------------------------------------------
+
+[135] ✅ @MichaelGGarry  👍0  2025-10-22
+Original: At least in Europe, the M5 is €100 cheaper than last year, so you're saving money even by buying the charger. Of course you can save more by buying a 3rd party charger. You fail to mention this
+Sentiment: positive (confidence 0.67)
+
+    ↳ ➖ @binflydushy  👍0  2025-11-02
+    Original: UK also is in Europe
+    Sentiment: neutral (confidence 0.86)
+
+------------------------------------------------------------
+
+[136] ❌ @esomethingplayz1264  👍0  2025-10-22
+Original: 5:21 then what’s the point of the npu
+Sentiment: negative (confidence 0.59)
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-23
+    Original: lower power, but some specific uses
+    Sentiment: neutral (confidence 0.88)
+
+------------------------------------------------------------
+
+[137] ➖ @Zereniti77  👍2  2025-10-21
+Original: EU does not require Apple to remove the charger. They give the vendors the option of not shipping one with the product, which Apple is now doing.
+Sentiment: neutral (confidence 0.84)
+
+    ↳ ➖ @andyH_England  👍0  2025-10-22
+    Original: The EU requires OEMs not to include the charger in the PC sale, but they can offer it as an extra, similar to more storage or RAM, and, like those, you have to pay for it. The logic of not charging for a charger is counterproductive, as consumers will ask for one if it is free, and that does not stop e-waste.
+    Sentiment: neutral (confidence 0.54)
+
+------------------------------------------------------------
+
+[138] ➖ @wepeople21  👍0  2025-10-22
+Original: better buy M3 pro Macbook
+Sentiment: neutral (confidence 0.62)
+
+------------------------------------------------------------
+
+[139] ❌ @PeterbFree  👍1  2025-10-22
+Original: Only at 6:20 you you reveal that the Pro machine has 32GB of RAM! So... this comparison is more or less meaningless. Its not a like for like spec comparison.
+Sentiment: negative (confidence 0.71)
+
+------------------------------------------------------------
+
+[140] ✅ @murtazachaudhary3339  👍0  2025-10-22
+Original: Nice video
+Sentiment: positive (confidence 0.90)
+
+------------------------------------------------------------
+
+[141] ❌ @adamharbour111  👍6  2025-10-21
+Original: There is no  uk legislation  it’s BS money grabbing Tim Cook
+Sentiment: negative (confidence 0.86)
+
+------------------------------------------------------------
+
+[142] ➖ @jazong  👍0  2025-10-22
+Original: Complain to your government.
+Sentiment: neutral (confidence 0.78)
+
+------------------------------------------------------------
+
+[143] ❌ @dmenace82  👍0  2025-12-08
+Original: M5 is just ridiculous and way overkill, even the M3 and M4 are overkill
+Sentiment: negative (confidence 0.93)
+
+------------------------------------------------------------
+
+[144] ❌ @obeythesystem-n6v  👍0  2025-10-22
+Original: To be honest, there isn't much difference from the Macbook Pro M4. The fact that only the processor has changed doesn't really make a difference. The M5 Pro base model should have started with at least a 12-19 Core CPU, 1TB SSD, Wi-Fi 7, 160hz refresh rate and 32GB RAM. There's no point in upgrading from the M2, M3 or M4 at this point. However, Macbook Air has significant overheating and throttling issues.
+Sentiment: negative (confidence 0.71)
+
+------------------------------------------------------------
+
+[145] ❌ @waterzipper  👍0  2025-10-22
+Original: basically what you are saying is year over year comparisons are dumb. Most people can keep a laptop for 4-8 years before it matters.
+Sentiment: negative (confidence 0.70)
+
+------------------------------------------------------------
+
+[146] ➖ @tronewsky2  👍0  2025-10-21
+Original: Please write what graphics settings were used in Cyberpunk 2077?
+Sentiment: neutral (confidence 0.90)
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-21
+    Original: High, 1200p
+    Sentiment: neutral (confidence 0.63)
+
+------------------------------------------------------------
+
+[147] ✅ @slogue77  👍0  2025-10-25
+Original: 100% upgrading to this weapon... I am using the last of the 2019 Intel MacBook Pro... This will be the madness upgrade of POWER!!
+Sentiment: positive (confidence 0.88)
+
+------------------------------------------------------------
+
+[148] ➖ @rubenraulmartin9782  👍0  2025-10-22
+Original: Still using M1 Pro 8 core, programming
+Sentiment: neutral (confidence 0.87)
+
+------------------------------------------------------------
+
+[149] ❌ @nothingtosee7718  👍1  2025-11-13
+Original: The answer is never the MBA, it’s just a stripped down pro with all the decent bits that make a laptop good to use.
+
+The specs are too low for the price across the range. This is not a pro laptop, it should be just called a MacBook, it should also come with 24G RAM and 512GB of storage as a base option. The real MBPs with M5 pro chips should come with 36G and 1TB as standard.
+Sentiment: negative (confidence 0.75)
+
+------------------------------------------------------------
+
+[150] ✅ @IrisaAhmed  👍0  2025-10-24
+Original: The visuals are amazing.
+Sentiment: positive (confidence 0.98)
+
+------------------------------------------------------------
+
+[151] ➖ @jry01010  👍0  2025-10-22
+Original: Boring is good, showing it has reached its peak.
+Sentiment: neutral (confidence 0.35)
+
+------------------------------------------------------------
+
+[152] ➖ @HIMalinov  👍0  2025-10-22
+Original: This is not correct comparison MBP vs MBA , we already know from M4 generation, that the M4 in MBP use almost double sustain power and get 43% higher perforce in Cyberpunk (40Wats for complete MBP with M4 vs 22 Wats for MBA with M4).
+Sentiment: neutral (confidence 0.48)
+
+------------------------------------------------------------
+
+[153] ❌ @nDm_Rappelz  👍0  2025-12-24
+Original: almost 2026 and you can't game on mac 
+lol
+Sentiment: negative (confidence 0.62)
+
+------------------------------------------------------------
+
+[154] ➖ @rottinjonny  👍2  2025-10-25
+Original: The value prop depends on how you spec it. The higher you go up, the more sense the Pro makes. For example, if you want a unit with 32GB of RAM and a 1TB SSD, there is only a $200 USD difference. That is more than justified by the Pro's several hours of additional battery life, superior display, expanded port selection, and better speakers. That's before you even get into the performance deltas between the two SoCs. And the Pro has active cooling if needed, while the Air will just throttle. The 15" Air and the 14" Pro also weight very similarly-- 1.51 kg versus 1.55 kg.
+Sentiment: neutral (confidence 0.48)
+
+------------------------------------------------------------
+
+[155] ➖ @FurryPuppyPaws  👍0  2025-12-19
+Original: The price of 512GB SSD, 16G ram Macbook Air M4 is approaching that of Macbook Pro M5 of the same storage capacity, so you might as well get the latter.
+Sentiment: neutral (confidence 0.73)
+
+    ↳ ➖ @itr0863  👍0  2025-12-19
+    Original: i got a new remote job and was looking at that same exact air(15 inch) and you're right. the same spec mbpro m5 is only $200 more (14 inch). i think ill lean towards the mbpro m5 even though the air is more than enough for me. only extra i would do is your basic 4k family vacation youtube videos and basic photography edits. if the price difference was bigger than $300+ than i'd get the air
+    Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[156] ❌ @House_Of_Cards_  👍0  2025-11-06
+Original: Apple needs to be fined for not including a charger with their computers. This is an essential component and without it the device will not work. I will not buy apple products anymore until they provide the chargers. Is as if you want to buy a car and the manufacturer sells it without wheels. How are you supposed to used it?
+Sentiment: negative (confidence 0.88)
+
+------------------------------------------------------------
+
+[157] ❌ @gdotone1  👍0  2025-11-14
+Original: the m4 and m5 are slow
+Sentiment: negative (confidence 0.86)
+
+------------------------------------------------------------
+
+[158] ❌ @tk2x  👍0  2025-10-29
+Original: Why are you complaining that Apple is following UK law? Maybe vote better.
+Sentiment: negative (confidence 0.84)
+
+------------------------------------------------------------
+
+[159] ❌ @jaydee864  👍0  2025-10-22
+Original: You gotta keep the same computer on the SAME SIDE of the screen in your videos. So annoying!!
+Sentiment: negative (confidence 0.85)
+
+------------------------------------------------------------
+
+[160] ✅ @CoffeeNo0b0514  👍0  2025-12-02
+Original: My M1 MacBook Pro still runs very fast and smooth
+Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[161] ✅ @mirkofcapogreco  👍0  2025-10-22
+Original: Great video! Love the way you casually grab them, ahah. When do you think M5 Air is gonna be released? And do you think it will get some improvements that we already saw in the iPhone 17 base model? (like 120hz and better screen?)
+Sentiment: positive (confidence 0.98)
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-22
+    Original: My bet would be next summer
+    Sentiment: neutral (confidence 0.84)
+
+------------------------------------------------------------
+
+[162] ❌ @LuciousKage  👍0  2025-10-22
+Original: THEY .... Dont CARE anymore. 
+we need competition. 
+they put in new chip into WHOLE Laptop, and thats only change!  and u gonna pay for it.
+Sentiment: negative (confidence 0.78)
+
+------------------------------------------------------------
+
+[163] ➖ @lennartluthi4869  👍1  2025-10-23
+Original: For tax reasons I need a new one this year, so thinking about upgrading to the M5 Pro from my Macbook Pro M1.
+Sentiment: neutral (confidence 0.64)
+
+------------------------------------------------------------
+
+[164] ➖ @amaranthinecloud  👍0  2025-10-23
+Original: Is this Shashi Tharoor?
+Sentiment: neutral (confidence 0.94)
+
+------------------------------------------------------------
+
+[165] ➖ @CarlosFromPhilly  👍0  2025-10-23
+Original: If you're going to compare to an M4 Air, the least you could have done is add a heatsink to the Air to prevent throttling. The fans on the MBP are instantly going go give it the edge. You'd get similar performance disparity in an M4 MBP vs. an M4 Air.
+Sentiment: neutral (confidence 0.70)
+
+------------------------------------------------------------
+
+[166] ❌ @MaxWilkesUK  👍0  2025-12-04
+Original: No charger but same base price? That is disgusting apple! Especially given the price of (official) MacBook chargers! If you’re going to parrot all this saving the environment nonsense at least lower the base price to reflect the missing charger (and costs saved to you)…???
+Sentiment: negative (confidence 0.93)
+
+------------------------------------------------------------
+
+[167] ➖ @Ceeziep  👍0  2025-10-22
+Original: In surprised this is the first year they release a MacBook with 120hz
+Sentiment: neutral (confidence 0.58)
+
+------------------------------------------------------------
+
+[168] ➖ @colinstock325  👍0  2025-10-27
+Original: I have a M1 16gb Mac Mini, which has started to exhibit regular beach balls with the most recent OS update. I have switched off Apple Intelligence to save processing power. I reckon I’ll have to update within a couple of years and probably to a MacBook of some sort.
+Sentiment: neutral (confidence 0.68)
+
+------------------------------------------------------------
+
+[169] ➖ @Powergeek2011  👍17  2025-10-21
+Original: Would like to see LM Studio running vs M4, M4 Pro and M4 Max.
+Sentiment: neutral (confidence 0.76)
+
+------------------------------------------------------------
+
+[170] ✅ @ARMON-bt1md  👍0  2025-11-20
+Original: Still rocking with my MBP M1 MAX 🦾🦾🦾
+Sentiment: positive (confidence 0.79)
+
+------------------------------------------------------------
+
+[171] ❌ @DJHEADPHONENINJA  👍0  2025-10-24
+Original: Still a notch, still no buy.
+Sentiment: negative (confidence 0.53)
+
+------------------------------------------------------------
+
+[172] ❌ @DaveFogel  👍6  2025-10-21
+Original: I'm not getting rid of my M1 Macbook Pro until they make one that doesnt look exactly the same.  Guess I'm waiting for the M6
+Sentiment: negative (confidence 0.52)
+
+    ↳  @Xaphtr  👍0  2025-10-21
+    Original: 😂 😂 😂
+
+    ↳ ✅ @GlobalWave1  👍1  2025-10-21
+    Original: Yeah the M6 will be crazy with its tandem OLED screen and 2nm chip.
+    Sentiment: positive (confidence 0.87)
+
+------------------------------------------------------------
+
+[173]  @SSIshorts  👍0  2025-10-22
+Original: 👍👍
+
+------------------------------------------------------------
+
+[174] ➖ @drateraeruoy  👍0  2025-10-25
+Original: on an M2 MBA rn and the M5 MBP is tempting me
+Sentiment: neutral (confidence 0.56)
+
+------------------------------------------------------------
+
+[175] ✅ @RustProofHero  👍0  2025-10-21
+Original: Sounds like a great machine but I won’t purchase another Mac or PC without touchscreen.
+Sentiment: positive (confidence 0.54)
+
+------------------------------------------------------------
+
+[176] ➖ @vipinpg  👍0  2026-01-10
+Original: How many 4k display can be connected
+Sentiment: neutral (confidence 0.86)
+
+------------------------------------------------------------
+
+[177] ✅ @SuperKirschbluete  👍0  2025-11-01
+Original: Still loving my MacBook Pro m1 love my MacBook and love the design of it 😊 let’s see how it will look like next year :) 🫢
+Sentiment: positive (confidence 0.99)
+
+------------------------------------------------------------
+
+[178] ❌ @Jst4vdeos  👍0  2025-10-31
+Original: Still has a shitty notch 😂😂😂
+Sentiment: negative (confidence 0.89)
+
+------------------------------------------------------------
+
+[179] ❌ @SONGS_FOR_EVER  👍0  2025-10-22
+Original: i hope in 2030 apple disappear
+Sentiment: negative (confidence 0.81)
+
+------------------------------------------------------------
+
+[180] ➖ @ricosun  👍0  2025-11-29
+Original: I am still rocking the M1.  Only looking to upgrade is because its running out of disk space .. 512gb just doesn't cut it anymore.
+Sentiment: neutral (confidence 0.46)
+
+------------------------------------------------------------
+
+[181] ➖ @JimAtHome  👍0  2025-10-24
+Original: Would it not be cheaper to buy a more powerful and much smaller power brick from Anker or Ugreen than to buy the Apple tax one
+Sentiment: neutral (confidence 0.71)
+
+------------------------------------------------------------
+
+[182] ❌ @peterhubbard7665  👍0  2025-10-22
+Original: I’m not buying it. I’m in the UK and I believe this is another cash grab by Apple. I would change my mind IF the new MacBook Pros Brice was reduced by the cost of the charging brick but, since we already pay £1 per $1 whilst the US dollar is has less worth than the British £ we are already being ripped off. Of course I could sell my M4 MacBook Pro and retain the power brick but this is just passing on the loss so I’m not doing that.
+Sentiment: negative (confidence 0.81)
+
+------------------------------------------------------------
+
+[183] ➖ @AndyAksen  👍0  2025-10-23
+Original: the base model of the macbook air m4 (256 GB) has only 8 GPU cores. The 512GB models have the full 10 GPU cores...
+Sentiment: neutral (confidence 0.87)
+
+------------------------------------------------------------
+
+[184] ✅ @GiftaIo  👍236  2025-10-21
+Original: Cyberpunk 2077 reaching 75 FPS on base MacBook pro is wild
+Sentiment: positive (confidence 0.78)
+
+    ↳ ✅ @Thetechchap  👍19  2025-10-21
+    Original: Crazy right!
+    Sentiment: positive (confidence 0.46)
+
+    ↳ ➖ @GiftaIo  👍17  2025-10-21
+    Original: @Thetechchapfr, we just need more games to come to MacOS or Steamplay (proton) to come as well
+    Sentiment: neutral (confidence 0.66)
+
+    ↳ ✅ @AffectionateBirdNest-oz9by  👍14  2025-10-22
+    Original: You can get close to 75 FPS with a gaming laptop costing 2/3 the price of MBP
+    Sentiment: positive (confidence 0.60)
+
+    ↳ ❌ @STE999X  👍1  2025-10-22
+    Original: Yes but with MetalFX (ugly graphics) enabled or disabled…? U not said this….
+    Sentiment: negative (confidence 0.65)
+
+    ↳ ➖ @QQ_Q4  👍1  2025-10-22
+    Original: ​@AffectionateBirdNest-oz9by لكن لو احضرت هذه التجميعه كم سوف يكلفك احضار شاشه شبيهه بشاشه mac وكم سوف يكفك سماعات بنفس جوده mac بلاضافه الى كيبورد وهناك سلبيه وهي التجميعه لا يمكنها التنقل معك 😂
+    Sentiment: neutral (confidence 0.72)
+
+    ↳ ❌ @GiftaIo  👍5  2025-10-22
+    Original: @AffectionateBirdNest-oz9by bro compare that to the Dell XPS or the ASUS Zenbook stop comparing MacBooks to gaming laptops, MACS ARENT FOR GAMING
+    Sentiment: negative (confidence 0.71)
+
+    ↳ ➖ @GiftaIo  👍1  2025-10-22
+    Original: @STE999Xno without it…
+    Sentiment: neutral (confidence 0.73)
+
+    ↳ ➖ @AffectionateBirdNest-oz9by  👍0  2025-10-22
+    Original: @QQ_Q4 Bro, a gaming laptop.......does have all of it. Keyboard and screen- that's what a laptop means. Headphones, mouse and other peripherals will anyways not be present in Mac.
+    Sentiment: neutral (confidence 0.65)
+
+    ↳ ❌ @mrboostification  👍1  2025-10-22
+    Original: @AffectionateBirdNest-oz9by Gaming laptops look like shit.
+    Sentiment: negative (confidence 0.93)
+
+    ↳ ❌ @AffectionateBirdNest-oz9by  👍1  2025-10-22
+    Original: @mrboostification I won't debate abt that coz I definitely agree. They are just plastic-like, clunky, bends with little pressure and the RGB looks like a kid's toy
+    Sentiment: negative (confidence 0.71)
+
+    ↳ ❌ @SixPathsOfJin  👍6  2025-10-22
+    Original: 75fps with low settings on a £1600 laptop is impressive to you? Damn, times have changed.
+    Sentiment: negative (confidence 0.44)
+
+    ↳ ❌ @GiftaIo  👍1  2025-10-22
+    Original: @AffectionateBirdNest-oz9by bro, can you stop comparing MacBooks to gaming laptops? Compare them to productivity laptops.
+    Sentiment: negative (confidence 0.65)
+
+    ↳ ✅ @GiftaIo  👍3  2025-10-22
+    Original: @SixPathsOfJin a similarly priced Dell XPS 14 gets around 60 to 70 FPS in cyberpunk, forget gaming laptops these are for productivity
+    Sentiment: positive (confidence 0.52)
+
+    ↳ ❌ @AffectionateBirdNest-oz9by  👍0  2025-10-22
+    Original: @GiftaIo Then why are you playing games on productivity laptops in the first place?
+    Sentiment: negative (confidence 0.69)
+
+    ↳ ❌ @zoeherriot  👍2  2025-10-22
+    Original: @AffectionateBirdNest-oz9by not on battery you can't.
+    Sentiment: negative (confidence 0.67)
+
+    ↳ ✅ @AffectionateBirdNest-oz9by  👍0  2025-10-22
+    Original: @zoeherriot You got me there
+    Sentiment: positive (confidence 0.50)
+
+    ↳ ✅ @Tonicwave2  👍0  2025-10-22
+    Original: @AffectionateBirdNest-oz9by Right. Macbooks are never going to be price-competitive gaming laptops. But having them get decent at gaming is nice for owners that want to game on the Macbooks. I have been waiting for this generation for a long time.
+    Sentiment: positive (confidence 0.79)
+
+    ↳ ❌ @vinx5518  👍0  2025-10-22
+    Original: ​@GiftaIoihope not, if they sell more expensive machines disguised as mid-range laptops
+    Sentiment: negative (confidence 0.53)
+
+    ↳ ❌ @theothernodude3139  👍0  2025-10-22
+    Original: @AffectionateBirdNest-oz9by You mean the ones that get like 2 hours battery, twice or 3x the weight, sounding like a jet engine about to take off, and burns your legs if played on lap, and suffocates easily? 
+
+Sure, a "gaming laptop" will do it better for cheaper, but once you factor in anything that has to do with portability, long day batter life, heat, power draw, display quality indoors/outdoors, using it as a computers, the MacBook dominates gaming laptops. 
+
+A great all rounder laptop that has gaming capabilities >>>>>> gaming laptop.
+    Sentiment: negative (confidence 0.47)
+
+    ↳  @Samscents  👍0  2025-10-22
+    Original: @AffectionateBirdNest-oz9by please it's 2025 going into 2026 lets leave gaming laptop in the pass, most people who understands anything about electronic would agree that gaming laptops are a gimmick, the point of a laptop is to be able to travel with it aka portability and that comes with you are using it on the go aka not having time to plug it in at all time, 90% of gaming laptops on the market has a battery of a double A battery, there's reason why most promotion never mention battery life or they will say something like oh it last 7 hours... yes 7 hours watching YouTube try playing a AAA title on it you might get 2 hours top, that might be okay for some people but it isn't practical so might as well get a pc, the only out there every know type gaming laptop is the razer blade and it cost as much or more like a mac oh and i didn't even mention most of the time gaming laptop are two to three time thicker and you need a whole power brick to run it so yes you can get 75fps on a gaming laptop under 1000 usd but be fr clogging up your backpack, fan louder than a jett engine, barely last running AAA not accounting using it in the heat and you will be using it on charged most of the time at home so may aswell get a PC at that point...
+
+    ↳ ❌ @SixPathsOfJin  👍1  2025-10-22
+    Original: ​@TendyDefendy Let's be honest, the m5 MacBook air isn't getting anywhere near this performance. Watch M4 MacBook pro Vs M4 MacBook air comparison  videos
+    Sentiment: negative (confidence 0.52)
+
+    ↳ ➖ @EYE_OF_THUNDERA  👍1  2025-10-23
+    Original: Not really, ARM is stronger then ancient x86, there is a reason why your phone runs circles around most PC's in this world
+    Sentiment: neutral (confidence 0.59)
+
+    ↳ ➖ @GiftaIo  👍5  2025-10-23
+    Original: @EYE_OF_THUNDERA bro, I don’t get what you’re saying. I know that ARM is stronger than the old architecture, but I was just impressed by the performance of the MacBook on cyberpunk 2077
+    Sentiment: neutral (confidence 0.48)
+
+    ↳ ➖ @bearbrassIT-KH  👍6  2025-10-23
+    Original: Time for an Apple TV with M5 chip.
+    Sentiment: neutral (confidence 0.72)
+
+    ↳ ❌ @canddidd  👍3  2025-10-26
+    Original: ​@GiftaIo he's an Apple hater. Just ignore him.
+    Sentiment: negative (confidence 0.86)
+
+    ↳  @GiftaIo  👍0  2025-10-26
+    Original: @canddiddfr
+
+    ↳ ❌ @m.z.9411  👍0  2025-10-31
+    Original: yeah, point is, at an integrated soc level..the effeciency is pretty insane
+    Sentiment: negative (confidence 0.85)
+
+    ↳ ✅ @MyronZhao  👍0  2025-11-10
+    Original: @mrboostification depends on which one you get. Asus G14 and G16 look great. Plus you have creator/gaming laptops now that are built for both work and gaming.
+    Sentiment: positive (confidence 0.96)
+
+    ↳ ✅ @labest1605  👍0  2025-11-25
+    Original: ​@AffectionateBirdNest-oz9byyeah but macbooks also have better screen,better battery,better mousepad,and way less noise,you shouldn't buy a macbook for gaming but the fact that it can do some gaming is appreciated
+    Sentiment: positive (confidence 0.85)
+
+    ↳ ❌ @SamyMann  👍1  2025-12-01
+    Original: ​@Thetechchapyou compared macbook air to macbook pro. This is inherently a wrong comparison due to lack of cooling and weaker ssd bandwith on m4 air. You need to compare macbook pro m4 to macbook pro m5.
+    Sentiment: negative (confidence 0.74)
+
+    ↳ ❌ @0xVlad  👍0  2025-12-09
+    Original: Charge $600 for 1 TB ssd is wild )))
+    Sentiment: negative (confidence 0.55)
+
+    ↳ ❌ @naz3154  👍1  2025-12-13
+    Original: Let's not forget it's 75fps until it starts to thermal throttle in less than an hour, reducing your performance to a M4 level
+    Sentiment: negative (confidence 0.61)
+
+    ↳ ➖ @GiftaIo  👍1  2025-12-14
+    Original: @naz3154 thermal throttle? Bro it’s the MacBook Pro not the air.
+    Sentiment: neutral (confidence 0.50)
+
+    ↳ ❌ @mashy712  👍0  2025-12-15
+    Original: @TendyDefendyI don’t think it’s Apple.   It’s the game developers.   
+
+Games are default to run on Direct X and X86.    Apple runs on Metal and ARM.    most gaming PC’s and even all of the handheld PC’s uses X86 architecture.    So honestly, it’s the game developers not Apple.   
+
+
+If we were to blame Apple, it would be the sour relationship with Nvidia and Apple back in 2010
+    Sentiment: negative (confidence 0.54)
+
+    ↳ ➖ @bannedprofile1  👍0  2025-12-16
+    Original: @SixPathsOfJinFor a laptop that was never intended for any kind of gaming is impressive
+    Sentiment: neutral (confidence 0.39)
+
+    ↳ ❌ @i5j2q  👍0  2025-12-25
+    Original: @SixPathsOfJin $1600 laptop in the form factor of a 14"MBP with a fan you never hear, that gets lukewarm at best. with a SOC CPU/GPU that is roasting Intels/AMDs desktop CPUs.
+    Sentiment: negative (confidence 0.84)
+
+    ↳ ✅ @goldennlt8164  👍1  2026-01-26
+    Original: @SamyMannI think it’s a pretty good comparison to make for a lot of people who are trying to decide between performance (MBP) and affordability (MBA) to see if they will miss the features on the MBP if they buy the air
+    Sentiment: positive (confidence 0.49)
+
+    ↳ ✅ @i5j2q  👍0  2026-01-26
+    Original: @GiftaIo Even my Air get a constant ~70FPS even during extended gameplay. Cyberpunk like the other 6 games apple shows off, is super well optimized.
+    Sentiment: positive (confidence 0.93)
+
+    ↳ ➖ @chion2477  👍0  2026-02-09
+    Original: But can it run Crysis?
+    Sentiment: neutral (confidence 0.85)
+
+    ↳  @GiftaIo  👍0  2026-02-09
+    Original: @chion2477 crossover…
+
+------------------------------------------------------------
+
+[185] ✅ @LabRat_089  👍1  2025-12-19
+Original: I’m on a base M1 air and this looks enticing- good thing I’m broke 😂
+Sentiment: positive (confidence 0.86)
+
+------------------------------------------------------------
+
+[186] ✅ @victormtzc  👍0  2025-12-31
+Original: I think is the the start model of the M5. The real product is the M5 PRO and the M5 MAX. Wait for it?. I am sure when they launch the M5 Pro with 30 GPU are it is going to be very competitive with Nvidia GPU on laptops.
+Sentiment: positive (confidence 0.75)
+
+------------------------------------------------------------
+
+[187] ➖ @AmazingVibes1000  👍0  2025-10-22
+Original: Screen looks bit bigger and bezels are more thin
+Sentiment: neutral (confidence 0.79)
+
+------------------------------------------------------------
+
+[188] ❌ @kiwibom1  👍0  2025-10-22
+Original: I still use the last intel based 13inch macbook pro :)
+It does start to get slow in certain scenarios and the battery life isn't that good anymore (expected after 5 years of use). I'll wait and see for the next macbook pro's witch are rumored to be OLED's. The only thing that doesn't excite me about the oled's will be the price haha
+Sentiment: negative (confidence 0.73)
+
+------------------------------------------------------------
+
+[189] ❌ @terabit.  👍2  2025-10-21
+Original: 6:04 The nanobullshit texture on the MBP washes out the colors SO much that the blacks on the MBA look better.
+6:09 vs 6:12 And the text looks SO blur with the nanobullshit.
+Sentiment: negative (confidence 0.64)
+
+    ↳ ➖ @andymccurley1  👍0  2025-10-21
+    Original: Momma not hug you enough bubba?
+    Sentiment: neutral (confidence 0.56)
+
+------------------------------------------------------------
+
+[190] ❌ @Scott-mv7xm  👍169  2025-10-21
+Original: You should have compared the MB Pro M4 to the MB Pro M5. This is an unrealistic comparison. The Pro is for professionals needing sustained performance and the Air is for everyday users.
+Sentiment: negative (confidence 0.66)
+
+    ↳ ❌ @piggystorybook  👍11  2025-10-21
+    Original: Exactly, I couldn't watch this rubbish. If there is a comparison at least make the effort to make it as fair as possible
+    Sentiment: negative (confidence 0.91)
+
+    ↳ ➖ @LuizAlexandre-t7k  👍2  2025-10-21
+    Original: he did. 3:22 to 6:33 is M4 vs M5
+    Sentiment: neutral (confidence 0.89)
+
+    ↳ ➖ @hanklin4633  👍1  2025-10-21
+    Original: Is the m5 pro coming next year with OLED screen?
+    Sentiment: neutral (confidence 0.92)
+
+    ↳  @TheSeeking2know  👍0  2025-10-21
+    Original: Yep.
+
+    ↳ ➖ @SPDTDL  👍2  2025-10-21
+    Original: @piggystorybookThis fella knows Tech in the same way Curry’s staff do. Get over to Artisright & Alex Ziskind for the real stuff.
+    Sentiment: neutral (confidence 0.80)
+
+    ↳ ➖ @chrisvernon3156  👍13  2025-10-21
+    Original: I expect this choice, 15" M4 Air Vs 14" M5 MBP is literally the most common choice folk are making over the next couple of months. It is exactly the right comparison to make.
+    Sentiment: neutral (confidence 0.50)
+
+    ↳ ➖ @Thetechchap  👍35  2025-10-21
+    Original: In real world use, the m4 in the air vs the Pro is within 10%, and only really in sustained work loads.
+    Sentiment: neutral (confidence 0.84)
+
+    ↳ ✅ @js986  👍5  2025-10-21
+    Original: Pro to Pro is newer = better. Comparing the 2 currently available models seems a better choice for most shoppers. 
+
+And if you don’t need to know the difference between these models, don’t watch this video…
+    Sentiment: positive (confidence 0.63)
+
+    ↳ ❌ @BlendlogicTech  👍5  2025-10-21
+    Original: I feel like I always see this in my channel and the one time I saw benchs on this is like 5-10% throttle becuase no fans -- idk why people worry about it so much... imo I dont even think having fans is worth it on MBP - the screen (promotion) hdmi and ports is like the only reason I would consider going to base model Macbook pro - otherwise the Air is just way better cuz same chip
+    Sentiment: negative (confidence 0.69)
+
+    ↳ ❌ @hanzoomahatwiko9007  👍13  2025-10-22
+    Original: ​@Thetechchappoor comparison especially the Ram option you chose. A faster machine with double the ram vs a slower machine with less ram. Pure apples and oranges comparison. The video is not useful at all!
+    Sentiment: negative (confidence 0.87)
+
+    ↳ ❌ @hanzoomahatwiko9007  👍5  2025-10-22
+    Original: Totally useless comparison. M5 with 32GB of Ram vs 16GB on the Air. This guy is proudly comparing apples and oranges. He should compared the M4 MacBook pro base model with similar ram to the M5 or an air with similar ram. That would have been a more sensible comparison. It almost seems like he's over hyping the M5 with this lackluster review.
+    Sentiment: negative (confidence 0.77)
+
+    ↳ ➖ @mcd5082  👍7  2025-10-22
+    Original: It’s not a real pro so I think it’s a good illustration of if the incremental money is worth it. Had it been a M5 Pro/Ultra/Max chipset compared to an air, then I think your point is valid. But this is just a base M5.
+    Sentiment: neutral (confidence 0.63)
+
+    ↳ ❌ @Kakaidol  👍9  2025-10-22
+    Original: @Thetechchap useless comparison.
+    Sentiment: negative (confidence 0.86)
+
+    ↳ ❌ @danpinho  👍0  2025-10-22
+    Original: Reading this comment and the channel trying to justify it 🤮. Thumbs down, channel blocked
+    Sentiment: negative (confidence 0.91)
+
+    ↳ ➖ @SeanTube2099  👍2  2025-10-22
+    Original: In the real world people don’t upgrade from a MBP M4 to the MBP M5, people upgrade from the MBP M1 or M2 or Air.
+    Sentiment: neutral (confidence 0.87)
+
+    ↳ ❌ @Thetechchap  👍6  2025-10-22
+    Original: Seems a bit extreme 😅
+    Sentiment: negative (confidence 0.66)
+
+    ↳ ❌ @smohan123  👍0  2025-10-22
+    Original: Yes the MacBook Air is perfectly fine for regular workloads, but you're out here generating an image on a local LLM and then enhancing a high-resolution video on a MacBook Air. I think this is probably one of the more bizarre head-to-head tests that I've ever seen. I know you have an M4 MacBook Pro laying around somewhere. Why not just pit that against the M5...? I think you just compared a fanless to a fan (fanned?) laptop.
+    Sentiment: negative (confidence 0.53)
+
+    ↳ ✅ @EuSuntDracula  👍3  2025-10-22
+    Original: If you want a comparison, you can just go on ahead and type MB Pro M5 vs MB Pro M4 and there will be lots of videos. This comparison works incredibly well for students since it’s the choice we’re always stuck in. I opted for the M4 Air since I won’t be doing heavy editing or gaming, just a million tabs open with papers and research. But these videos serve to inform you around making that choice.
+    Sentiment: positive (confidence 0.78)
+
+    ↳ ❌ @X_D-309  👍8  2025-10-22
+    Original: do people watch videos skipping parts, he even said for most people not for professionals. Just watch the first 3 minutes and you would know that 😒
+    Sentiment: negative (confidence 0.50)
+
+    ↳ ➖ @SixPathsOfJin  👍0  2025-10-22
+    Original: ​@piggystorybookAnything to make the new model seem better than it actually is 😂
+    Sentiment: neutral (confidence 0.56)
+
+    ↳ ➖ @Alexandru1996_  👍0  2025-10-23
+    Original: Dude, he compares the procesor itself in 2 laptops, m4 vs m5. And i do believe he used m4 air and m5 air as they looked the same.
+    Sentiment: neutral (confidence 0.80)
+
+    ↳  @ritukashyap7080  👍0  2025-10-24
+    Original: ₹fr
+
+    ↳ ➖ @makeshiftgamer5864  👍4  2025-10-29
+    Original: He literally explained his reasoning for the comparison to the air
+    Sentiment: neutral (confidence 0.86)
+
+    ↳ ✅ @Clydelyng  👍2  2025-12-21
+    Original: From a consumer standpoint, this comparison is the most useful one.
+    Sentiment: positive (confidence 0.91)
+
+    ↳ ✅ @coridor45  👍0  2026-01-14
+    Original: @Thetechchapi actually love this comparison. Was torn in between and just got my air m4 last weekend. Thank you for the video and for those who insist on another “fairly similar spec” should go and watch other videos. There are plenty of it 😂
+    Sentiment: positive (confidence 0.95)
+
+    ↳ ✅ @REALHARSH  👍0  2026-01-16
+    Original: @ThetechchapI ditched my M2 MacBook Pro 14” and just took delivery of 13” M4 MacBook Air ( 24gb RAM and 512gb SSD ) and everything I have thrown at this in the last couple of days it has outperformed the pro. That’s Final Cut Pro X edits and rendering, live streaming AND air drop performance. I would say that this spec Air is the most powerful laptop you can buy for £1250 and in 90% of use cases will keep up with a pro machine and anyone doing that 10% that this won’t work with will likely understand that already and wouldn’t even consider the Air. 
+
+I think your comparison here is actually VERY important for average consumers and business consumers as how many people buy a pro because they think they need it when in fact they absolutely do not… Great video.
+    Sentiment: positive (confidence 0.85)
+
+------------------------------------------------------------
+
+[191] ➖ @chibiribiri  👍0  2026-01-05
+Original: They removed the power brick. But they dropped the price too. So nothing wrong with it.
+Sentiment: neutral (confidence 0.71)
+
+------------------------------------------------------------
+
+[192] ➖ @callumery119  👍0  2025-10-21
+Original: In the US, the apple pricing doesn't include the taxes whereas eu/uk pricing does. So, it'll probably be a little cheaper anyway.
+Sentiment: neutral (confidence 0.73)
+
+------------------------------------------------------------
+
+[193] ➖ @Kabs_1828  👍0  2025-12-22
+Original: I am still using M1 Pro. Not gonna change anytime soon 😅😅😅😅
+Sentiment: neutral (confidence 0.73)
+
+------------------------------------------------------------
+
+[194] ✅ @EYE_OF_THUNDERA  👍0  2025-10-23
+Original: Imagine how powerfull the M5 pro is gonna be
+Sentiment: positive (confidence 0.87)
+
+------------------------------------------------------------
+
+[195] ➖ @tomwilliams2964  👍0  2025-11-05
+Original: what did you mean about single performance on the battery plugged in on windows laptops at 10.06
+Sentiment: neutral (confidence 0.92)
+
+------------------------------------------------------------
+
+[196] ➖ @AW-xb5uf  👍0  2025-10-25
+Original: 120hz is needed on the air otherwise just get the pro
+Sentiment: neutral (confidence 0.75)
+
+------------------------------------------------------------
+
+[197] ➖ @boriscrisp518  👍0  2025-10-21
+Original: Give me linux on a generic x86 for a fraction of the price, I'm a coder not some media ponce
+Sentiment: neutral (confidence 0.53)
+
+------------------------------------------------------------
+
+[198] ✅ @User10384  👍8  2025-10-21
+Original: This will be my first mac! Preordered but still have to wait one more week
+Sentiment: positive (confidence 0.57)
+
+    ↳ ➖ @ISTIGHFAR1997  👍1  2025-11-26
+    Original: Same i got m4 15 inch 10 core
+    Sentiment: neutral (confidence 0.78)
+
+------------------------------------------------------------
+
+[199] ❌ @rudevectors8018  👍35  2025-10-21
+Original: Tim Apple doesn’t do free.
+Sentiment: negative (confidence 0.53)
+
+    ↳ ➖ @frankiebegbie  👍2  2025-10-21
+    Original: Saving your comment to check if you regurgitate it for the other laptop manufacturers. They all copy Apple anyway, so you can bet they’ll follow this one.
+    Sentiment: neutral (confidence 0.66)
+
+------------------------------------------------------------
+
+[200] ➖ @beatrizmariamendez2809  👍0  2025-10-22
+Original: Would I be downgrading if I get a macbook air M4? I currently have a Macbook pro M2 2022.
+Sentiment: neutral (confidence 0.84)
+
+    ↳ ✅ @Thetechchap  👍0  2025-10-23
+    Original: Ohh good question. yes i think the screen would be a big downgrade. Id' stick with the Pro series
+    Sentiment: positive (confidence 0.50)
+
+------------------------------------------------------------
+
+[201] ➖ @Mooooody786  👍0  2025-10-22
+Original: m1 pro or m4 air?
+Sentiment: neutral (confidence 0.91)
+
+    ↳ ✅ @Thetechchap  👍0  2025-10-23
+    Original: I'd still do M1 Pro for better screen, ports and speakers
+    Sentiment: positive (confidence 0.76)
+
+------------------------------------------------------------
+
+[202] ➖ @retr0x913  👍0  2025-10-21
+Original: Just ordered the M5 Pro yesterday - just to clarify, we don't get the charging cable too? I thought I was just the brick - so I decided to collect the macbook and ask really nicely for a free charging brick 😂
+Sentiment: neutral (confidence 0.72)
+
+    ↳ ➖ @liambond9643  👍0  2025-10-21
+    Original: you do get the cable
+    Sentiment: neutral (confidence 0.90)
+
+------------------------------------------------------------
+
+[203] ➖ @FinnishSuperSomebody  👍0  2025-10-22
+Original: For me the biggest surprise was that there is FINALLY base model what is 512 GB, not only 256 GB. I have couple of years old MBA and that 256 GB what I bought somehow just feels so limited and absurd nowadays. Like c'mon, any software you install it immediately takes huge amounts of space (Logic Pro X + some plugins), then if you want to use it on anything with photos and/or videos and/or music production the disk space is almost full very quickly. 
+
+It just feels insane how long we have had this 256 GB as a base model when even cellphones have so much space on base models.
+
+And yeah of course, it is my own fault that I was naive to buy 256 GB model thinking it is good enough. Well, it has been good enough because I have not used it that much :D If there would be more space internally I probably might use it more for Lightroom Classic and so on, but now I always go for Windows PC and use Mac only on very light usage.
+Sentiment: neutral (confidence 0.42)
+
+------------------------------------------------------------
+
+[204] ✅ @AdnanShabbar  👍0  2025-10-23
+Original: What I great review. I had same confusion. Air m4 is at crazy good price. Based on your review I will buy this for next 2 years then upgrade to proper macbook m6. M5 16gb doesn't justify.
+Sentiment: positive (confidence 0.87)
+
+------------------------------------------------------------
+
+[205] ❌ @gdotone1  👍0  2025-11-14
+Original: can't be free. the packaging cost something, the shipping cost something. take it up with your government.
+Sentiment: negative (confidence 0.80)
+
+------------------------------------------------------------
+
+[206] ✅ @ayan0834  👍0  2025-11-24
+Original: Great insights, as always! Any input on "AI noise reduction" time comparisons in Lightroom Classic, between the M4 Air and the M5 Pro?
+Sentiment: positive (confidence 0.90)
+
+------------------------------------------------------------
+
+[207] ❌ @kevikiru  👍0  2025-10-23
+Original: This comparison makes absolutely no sense whatsoever. Why would you compare:
+- Last generation's base laptop with no active cooling, 16GB of RAM
+VS
+- This generation's pro laptop with active cooling AND 32GB of RAM
+
+This is just a comparison for comparison sake!
+Sentiment: negative (confidence 0.82)
+
+    ↳ ➖ @kevikiru  👍0  2025-10-23
+    Original: 3:43 for the RAM.
+    Sentiment: neutral (confidence 0.80)
+
+------------------------------------------------------------
+
+[208] ➖ @Andre-cj3ec  👍1  2025-10-21
+Original: The the Macbook Pro M5 have one fan or two? The Macbook Pro with base M4 has one fan and the Macbook Pro with M4 Pro & Max chips have 2 fans.
+Sentiment: neutral (confidence 0.89)
+
+------------------------------------------------------------
+
+[209] ➖ @AllThingsKelvin  👍1  2025-10-21
+Original: Can someone please explain these EU rules on chargers
+Sentiment: neutral (confidence 0.65)
+
+    ↳ ➖ @metamon2704  👍2  2025-10-21
+    Original: There aren't any laws that says they can't ship it with a charger, the EU law says it has to be USB-C and that it's optional to provide one.
+    Sentiment: neutral (confidence 0.85)
+
+    ↳ ➖ @Adiiiman2xxx  👍0  2025-10-21
+    Original: dont know , whats next ? 2 hours per day ?
+    Sentiment: neutral (confidence 0.51)
+
+------------------------------------------------------------
+
+[210] ❌ @cyberpsychosis5367  👍0  2025-10-23
+Original: Your paying $1,6k + tax and you got no charger?? Wtf
+Sentiment: negative (confidence 0.88)
+
+------------------------------------------------------------
+
+[211] ❌ @House_Of_Cards_  👍0  2025-11-06
+Original: I rather buy an Asus laptop to be frank. Fuck Apple.
+Sentiment: negative (confidence 0.88)
+
+------------------------------------------------------------
+
+[212] ➖ @Arkadij7  👍0  2025-10-23
+Original: What Monitor do you use? :)
+Sentiment: neutral (confidence 0.92)
+
+------------------------------------------------------------
+
+[213] ➖ @intranix  👍0  2025-10-22
+Original: I think a more useful comparison would be the M5 vs M4 Pro
+Sentiment: neutral (confidence 0.76)
+
+------------------------------------------------------------
+
+[214] ➖ @MohammedSaqlain-s6e  👍1  2025-10-21
+Original: How about performance for running major software like docker, kubernetes and other stuff
+Sentiment: neutral (confidence 0.81)
+
+    ↳ ➖ @Hillbinoverthehill  👍0  2025-10-21
+    Original: If you’re using your MacBook for those things you might want more RAM. I don’t think you would see a huge speed difference from M4 to M5. Docker and Kubernetes are not typically going to tax the gpu.
+    Sentiment: neutral (confidence 0.62)
+
+------------------------------------------------------------
+
+[215] ✅ @NotChetHanks  👍0  2025-10-24
+Original: For the people upset about the comparison, some of us actually find it useful. I have enough money to buy whichever one I want but I was considering a maxed out M4 Air because I don’t NEED a MB Pro. But I also like the newest tech so I literally got on YouTube for this EXACT comparison.
+Sentiment: positive (confidence 0.62)
+
+------------------------------------------------------------
+
+[216] ✅ @PhihoaKimxuyen  👍0  2025-10-27
+Original: Such positive vibes here.
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[217] ❌ @parzival123  👍0  2025-10-22
+Original: My m1 mac mini can do the same thing as those. Why would you spend thousands to save 1 minute
+Sentiment: negative (confidence 0.62)
+
+------------------------------------------------------------
+
+[218] ❌ @scdingundaroo  👍0  2025-12-07
+Original: Why should the power brick be free???? Your government doesn't want it to be bundled, there is already a price for an unbundled power brick ... The logic is pretty straightforward 😊
+Sentiment: negative (confidence 0.64)
+
+------------------------------------------------------------
+
+[219] ✅ @Ltotheleft  👍32  2025-10-23
+Original: still rocking my m1 max 32 core 64gb 1tb. silky smooth
+Sentiment: positive (confidence 0.82)
+
+    ↳ ➖ @HelloThere-lo3qi  👍4  2025-11-09
+    Original: Of course man thats gonna last for a decade loo
+    Sentiment: neutral (confidence 0.49)
+
+------------------------------------------------------------
+
+[220] ➖ @nelson5743  👍0  2025-10-22
+Original: As a regular guy who uses his laptop for mostly Excel and Word(I have a PC and Deck for gaming)... the 15" Air m4 was my upgrade about 2 months ago, my previous laptop was a Dell latitude 7280 I've had since 2016... And my dear lord the difference is just too huge, this thing runs cold not cool, cold AF🤣🤣🤣... Best decision ever, for most people the m4 Air is more than enough for day to day business
+Sentiment: neutral (confidence 0.45)
+
+------------------------------------------------------------
+
+[221] ➖ @Hbbvvhfdsertf  👍1  2025-10-22
+Original: blender is 1.6 faster on m5 compared to m4, you're probably running on cpu.
+Sentiment: neutral (confidence 0.65)
+
+------------------------------------------------------------
+
+[222] ❌ @zbatchDOC  👍0  2025-10-24
+Original: Only Apple fanboys are so technically inept they’d call a YoY 20% processing improvement boring. What surface level buffoonery
+Sentiment: negative (confidence 0.92)
+
+------------------------------------------------------------
+
+[223] ❌ @pashabiceps95  👍0  2025-10-21
+Original: My eyes don’t see less than 120fps. Who would buy 60hz laptop in 2025
+Sentiment: negative (confidence 0.68)
+
+------------------------------------------------------------
+
+[224] ❌ @myfpv6813  👍0  2025-10-22
+Original: is that a joke? compared air with pro??? diffrence in cooling will kill any reason in such test :/ rubbish
+Sentiment: negative (confidence 0.90)
+
+------------------------------------------------------------
+
+[225]  @Amrrkevin  👍0  2025-10-22
+Original: 5:11 woah 🤯
+
+------------------------------------------------------------
+
+[226] ➖ @Lukeintherain  👍0  2025-10-22
+Original: 2:30 “only in the UK and Europe” ummm, is the UK not Europe anymore? Did you join Asia or North America?
+Sentiment: neutral (confidence 0.90)
+
+    ↳ ❌ @yourgflikesit  👍0  2025-10-23
+    Original: He means European Union and uk which is no longer part of it after Brexit. Nice try to be a smart arse anyway but you’re an idiot
+    Sentiment: negative (confidence 0.83)
+
+    ↳ ➖ @mohils3581  👍0  2025-10-24
+    Original: I think he’s talking about mainland Europe, plus the uk isn’t in the European Union anymore and we are a kingdom of our own.
+    Sentiment: neutral (confidence 0.85)
+
+    ↳ ➖ @XAV-117  👍0  2025-10-26
+    Original: United kingdom isn’t in the EU anymore, it’s in Europe, just not a member of the EU
+    Sentiment: neutral (confidence 0.77)
+
+------------------------------------------------------------
+
+[227] ✅ @bjornark  👍0  2025-10-22
+Original: M5 ultra is going to be wild!
+Sentiment: positive (confidence 0.92)
+
+------------------------------------------------------------
+
+[228] ❌ @mrpickles3479  👍0  2025-12-03
+Original: Why are we still under EU regs?
+Sentiment: negative (confidence 0.61)
+
+------------------------------------------------------------
+
+[229] ➖ @wurf5336  👍0  2025-10-26
+Original: do you have to pay to get notch removed ?
+Sentiment: neutral (confidence 0.79)
+
+------------------------------------------------------------
+
+[230] ❌ @liambond9643  👍2  2025-10-21
+Original: it does include the charging cable, just no brick. Still ridiculous
+Sentiment: negative (confidence 0.83)
+
+    ↳  @YFDRentals  👍0  2025-10-21
+    Original: Bohoooo
+
+------------------------------------------------------------
+
+[231]  @alcylon  👍0  2025-10-22
+Original: None
+
+------------------------------------------------------------
+
+[232] ➖ @MadMetalMacho  👍12  2025-10-21
+Original: Why you comparing macbook air to pro?
+Sentiment: neutral (confidence 0.73)
+
+    ↳ ➖ @ssergium.4520  👍4  2025-10-21
+    Original: He literally says why in the video
+    Sentiment: neutral (confidence 0.88)
+
+    ↳ ➖ @Natak222  👍3  2025-10-21
+    Original: @ssergium.4520  I think he just happened to have a M4 MBA lying around and wanted to compare the two
+    Sentiment: neutral (confidence 0.89)
+
+    ↳  @Thetechchap  👍0  2025-10-21
+    Original: @Natak222this
+
+    ↳ ➖ @Thetechchap  👍10  2025-10-21
+    Original: Most people want to know whether to buy a m5 pro or m4 air
+    Sentiment: neutral (confidence 0.84)
+
+    ↳ ❌ @MadMetalMacho  👍1  2025-10-22
+    Original: @Thetechchap sure, I guess it felt like the m5 was coming off unnecessarily good. I was personally confused (I don't know if mba m4 has an identical m4 to an m4 macbook pro). I guess apple and their naming conventions make it so you're easily comparing apples... and oranges...
+    Sentiment: negative (confidence 0.65)
+
+    ↳ ➖ @kenharrison2446  👍0  2025-10-24
+    Original: ​@ThetechchapI was about to buy the MBA Air until a friend told me about the M5 release
+    Sentiment: neutral (confidence 0.86)
+
+    ↳ ➖ @PLANETWATERMELON  👍0  2025-11-02
+    Original: Because he is really comparing the m5 vs m4 chipset. The only difference with the base Pro is a fan when it comes to performance.
+    Sentiment: neutral (confidence 0.71)
+
+------------------------------------------------------------
+
+[233] ✅ @bonedatt  👍1  2025-10-21
+Original: 7:39 That would be me 🙋🏿‍♂️ Still rocking the MacBook Pro 16 inch M1 Pro 16GB/1TB
+Sentiment: positive (confidence 0.56)
+
+    ↳ ➖ @NNNedlog  👍0  2025-10-22
+    Original: I'm coming from windows and thinking of getting an m1 pro. How well does it perform?
+    Sentiment: neutral (confidence 0.62)
+
+    ↳ ✅ @bonedatt  👍0  2025-10-22
+    Original: ​@NNNedlogI'm also a Dell XPS user. There's a learning curve but it's pretty quick to adjust. M1 Pro performs really well for the things that I do. Battery life is unbelievable compared to my Dell or any windows PC that I ever used.
+    Sentiment: positive (confidence 0.95)
+
+    ↳ ❌ @vblueice  👍0  2025-10-22
+    Original: @bonedatt I just don't feel right about buying any electronics second hand or used. You never know what it has went through and you cant really tell.
+As a matter of fact I dont like anything second hand. Its just a psychological thing that I have.
+    Sentiment: negative (confidence 0.90)
+
+    ↳ ➖ @bonedatt  👍0  2025-10-22
+    Original: ​@vblueiceI understand. I'm kinda that way to an extent. Things that I consider really personal... like clothing, shoes, mattress etc are usually difficult for me to purchase second hand. I'm not that strict with Automobiles and electronics. I've never bought a used phone, but I bought a used Sony Vaio laptop once in 2008.
+    Sentiment: neutral (confidence 0.82)
+
+------------------------------------------------------------
+
+[234] ❌ @John7No  👍0  2025-10-22
+Original: you can thank EU for the missing charger .
+Sentiment: negative (confidence 0.82)
+
+------------------------------------------------------------
+
+[235] ✅ @01bigtrev  👍0  2025-11-03
+Original: I moved from windows after life time on it last November to the MacBook m4 pro 16 inch and absolutely love it. I.
+Sentiment: positive (confidence 0.98)
+
+------------------------------------------------------------
+
+[236] ✅ @xdlikadam2101  👍1  2025-10-21
+Original: I will use my M3 for life...
+Sentiment: positive (confidence 0.69)
+
+------------------------------------------------------------
+
+[237] ➖ @makwikus  👍16  2025-10-21
+Original: Interesting how they removed the charger, but the price stayed the same. Something tells me the latter was apple's decision.
+Sentiment: neutral (confidence 0.75)
+
+    ↳ ➖ @GlobalWave1  👍1  2025-10-21
+    Original: I think it’s them telling the EU fine, we are keeping the same price and removing the charger.
+    Sentiment: neutral (confidence 0.78)
+
+    ↳ ❌ @andyH_England  👍3  2025-10-22
+    Original: The price was reduced in the EU, but in the UK, due to the fall in the pound's value, Apple lost approximately £60 for every £2000 MB Pro sold here compared with October 2024. Obviously, Apple cannot accept that, as other OEMs would not, so we do not get the £100 discount for not having an included charger.
+    Sentiment: negative (confidence 0.66)
+
+------------------------------------------------------------
+
+[238]  @MicheleHeynes-g4o  👍0  2025-12-26
+Original: If that was only true that the charger was available in South Africa, which is also only an optional extra.
+
+Because I am was an ASUS user, okay it is running in the background, and New to the MacBook arena, I decided on a Sky Blue 13" MacBook Air M4, which I got for a Christmas present.  Binge watching and checking if the present I bought my sister for her birthday / Christmas / work present was the MacBook Pro M4 14" because her old Intel MacBook Pro didn't have the MagSafe.
+
+I'm finding that I type fast and was literally no adjustment to the typing, but the shortcuts which was my favorite on Windows products, but this will be a learning curve, and a challenge to learn it as fast as possible, before I start studying computer science.  And don't tell me, being older makes this a problem, I love a challenge and would strive and thrive to better than the children, as life experiences has taught me studying anything, you should want to prove something to yourself and want to learn that field for your betterment.  Luckily I'm not technologically stinted.
+
+The question would be, what will I struggle with on the base M4 Air.
+
+------------------------------------------------------------
+
+[239] ➖ @impactunknown  👍0  2025-11-08
+Original: would a air with 24 ram be good enough for a podcast with the hope of one day doing video podcast
+Sentiment: neutral (confidence 0.66)
+
+------------------------------------------------------------
+
+[240] ➖ @DhammikaWeeratunge  👍1  2025-10-21
+Original: 8:10 Is it OLED or a MiniLED panel ?
+Sentiment: neutral (confidence 0.90)
+
+    ↳ ❌ @Thetechchap  👍3  2025-10-21
+    Original: MiniLED, my mistake. Just finished my iPad review so my brain is frazzled haha
+    Sentiment: negative (confidence 0.48)
+
+    ↳ ➖ @youtubesurfer1533  👍0  2025-10-21
+    Original: I was just getting to buy it because of that bruh!
+    Sentiment: neutral (confidence 0.67)
+
+    ↳ ➖ @r5sec5cyl  👍0  2025-10-22
+    Original: I was wondering for a moment there if they were shipping something to the UK and EU, would be worth the £70 premium on the charger
+    Sentiment: neutral (confidence 0.86)
+
+------------------------------------------------------------
+
+[241]  @bertraminc9412  👍0  2025-10-23
+Original: Apple fail of the day:  3 hours on the phone with Apple customer disservice.   Operatorsr are either incompetent and reading large files while you wait, or they are agitators who answer questions with answers that have nothing to do with your question.  Escalating to a "senior advisor" gets spanish males who don't understand that there is a left mouse button and a right mouse button and will tell you, "it doesn't matter which mouse button you use...  press control and click."  This is how incompetent even "senior advisors" are at Apple today.  Apple tech support can not help you any more.  You will be on the phones for hours; you will be hung up on; they will not call you back;  when you ask why they didn't you will get a black agitator female who says, "you are yelling at me and I feel like you are talking to me like a child".   These are pathetic people who don't understand customer service; hang up on you if they think they can't help; don't call you back; and get annoyed that you spend hours on the phone and sit there for long periods of time while they, "read support articles" trying to train themselves on the phones.  Tim Cook needs to be fired;  demolish the gay rainbow (priorities are all screwed up.. start with the basics and maybe you can save Apple from falling like Rome);  all these incompetent affirmative action/DEI moron hires fired; and start all over again.
+
+------------------------------------------------------------
+
+[242] ✅ @Godslayerphsycho-x6p  👍12  2025-10-24
+Original: I'm still using my MacBook air M1 , and I'm a masters student in cybersec. Base model good old MacBook air M1. Completed my computer science engineering undergrad with it and now onto my master's. Still no lag no battery issues all runs great.
+Sentiment: positive (confidence 0.91)
+
+    ↳ ➖ @DavidApetroaia-ew3zk  👍0  2025-12-03
+    Original: same lol but still want ot updrage even though its fine
+    Sentiment: neutral (confidence 0.59)
+
+------------------------------------------------------------
+
+[243] ❌ @Dosahka  👍0  2026-01-28
+Original: thanks for the unbalanced review. should've been m5 macbook pro vs m4 macbook pro....
+Sentiment: negative (confidence 0.80)
+
+------------------------------------------------------------
+
+[244] ❌ @The_Big_Beans_Of_All_Beans  👍3  2025-11-01
+Original: So hear me out. Apple does not allow you to sideload in the UK well you can in the eu with their regulations BUT the second they see a regulation to save money it all of a sudden applies to the uk.
+Sentiment: negative (confidence 0.53)
+
+------------------------------------------------------------
+
+[245] ➖ @themysteryman-e2j  👍0  2025-10-21
+Original: i'm on m1 air currently, wanted to upgrade asap for my programming, app development use cases etc.. which is best i'm confused between m4 versions and this m5
+Sentiment: neutral (confidence 0.68)
+
+    ↳ ✅ @frankiebegbie  👍0  2025-10-21
+    Original: If you are just now running out of steam on the M1 Air, then an M4 Air will be a revelation for that use case. This was my own path and Xcode and Macports/Homebrew tools just take off. Docker performance is so much better, as is Parallels.
+
+Recommended! I’m sure an M5 Air would be a bump if you can wait, but I’d just go for a 2nd hand M4.
+    Sentiment: positive (confidence 0.88)
+
+------------------------------------------------------------
+
+[246] ✅ @celcom989  👍0  2025-10-23
+Original: You look really healthy bro
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[247] ➖ @navneeths3748  👍0  2025-10-22
+Original: should i get the macbook pro m4 pro 24 512 or the new m5 macbook pro
+Sentiment: neutral (confidence 0.85)
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-23
+    Original: interesting question. I'd probably get the m5 pro, has memory bandwidth is higher too.
+    Sentiment: neutral (confidence 0.56)
+
+    ↳ ➖ @navneeths3748  👍0  2025-10-23
+    Original: ​@Thetechchaphey sir did u mean the m4 pro cuz the m5pro is not out yet
+    Sentiment: neutral (confidence 0.90)
+
+------------------------------------------------------------
+
+[248] ✅ @CamiloDuarteFranco  👍1  2025-10-22
+Original: i got one ! cant wait to test it for work on autodesk maya ! hopefully can handle decent work
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[249] ❌ @rexmen123  👍0  2025-10-22
+Original: Thanks for real product unlike other cringe youtubers who would make thumbnails and all and act like they are even holding it on hand when showing in video. But its m4 or old version with just M5 Logo as background set. YES THATS CRINGE AF
+Sentiment: negative (confidence 0.83)
+
+------------------------------------------------------------
+
+[250] ❌ @LMNDZ513  👍0  2025-10-22
+Original: There is no point getting this!..same chassis, screen, etc....people should just wait for a proper "update"..next year or so..especially if you are looking into a MacBook Pro..wait for the OLED screen and maybe an actual updated body design on the laptop its-self, an even an  M5 Pro chip..etc ..lol
+Sentiment: negative (confidence 0.68)
+
+------------------------------------------------------------
+
+[251] ➖ @MalikB91  👍0  2025-10-22
+Original: Wish people would do more reviews comparing products from a few years ago when it comes to apple. Like i have a base model M2 Macbook Air 15 in. Apple products are not meant for people to upgrade yearly. 3-5 years yeah, unless you got it like that.
+Sentiment: neutral (confidence 0.50)
+
+------------------------------------------------------------
+
+[252] ✅ @unleashthedog  👍0  2025-10-22
+Original: This new MBP M5 will be perfect simply for those professionals that need an upgrade. Say you are a freelancer working on M1 or M2, and you are starting to integrate AI in your pipeline. Same for corporate, say an advertising or web agency/marketing department. Where I was working we had base M3s, and it was perfectly fine for heavy Adobe Suite use.
+Sentiment: positive (confidence 0.93)
+
+------------------------------------------------------------
+
+[253] ❌ @Atulya_Chaudhary  👍0  2025-10-21
+Original: You did make a typo mentioning the gb/s instead of mb/s at 8:29 .. but yeah, probably because of you being tired from making the ipad video.. take a rest buddy! Don't overwork yourself.
+Sentiment: negative (confidence 0.63)
+
+------------------------------------------------------------
+
+[254] ➖ @oscarpradilla  👍0  2025-11-07
+Original: Can you run benchmark test in this two devices running parallels; windows 11; direct X programs
+Sentiment: neutral (confidence 0.93)
+
+------------------------------------------------------------
+
+[255] ➖ @LifeonFireforGod  👍4  2025-11-05
+Original: Definitely would like to see an M5 air vs M4 air. That being said, my 15” M4 Air (24/512) does everything I need to include video editing, all without a fan. I don’t see the need to upgrade anytime soon.
+Sentiment: neutral (confidence 0.46)
+
+    ↳ ✅ @itr0863  👍0  2026-01-21
+    Original: im on the fence between that same exact spec air or an m5 pro. it seems like the air with more ram is a better value. i need a new laptop for work in 2 weeks so that means i obv cant wait for the m5 air.
+    Sentiment: positive (confidence 0.86)
+
+    ↳ ✅ @BB-mt5sb  👍0  2026-01-24
+    Original: @itr0863 definitely go for at least 24gb ram
+    Sentiment: positive (confidence 0.64)
+
+------------------------------------------------------------
+
+[256] ➖ @kehi6257  👍0  2025-10-22
+Original: Now the question is whether I should go with M4 Air or wait for M5 Air...  Tough call.
+Sentiment: neutral (confidence 0.76)
+
+    ↳ ➖ @farhandirhami8224  👍0  2025-10-28
+    Original: Exactly my thought
+    Sentiment: neutral (confidence 0.57)
+
+------------------------------------------------------------
+
+[257] ➖ @michaelfiedler1419  👍0  2025-10-26
+Original: Does tetris run on the processor?
+Sentiment: neutral (confidence 0.93)
+
+------------------------------------------------------------
+
+[258] ➖ @Magichandzpro  👍0  2025-10-23
+Original: MacBook Pro M5 vs MacBook Pro M4 Pro? I can get both for the same price. I’m undecided, it’s for music production.
+Sentiment: neutral (confidence 0.80)
+
+------------------------------------------------------------
+
+[259] ❌ @WiFiDW  👍0  2025-10-22
+Original: Still very disappointing they dropped the lighted logo
+Sentiment: negative (confidence 0.93)
+
+------------------------------------------------------------
+
+[260] ➖ @sean8729  👍0  2026-01-06
+Original: for getting into a cs/ data science oriented career what is a better pick and why, im a fresher,which among them is a better pick and why
+Sentiment: neutral (confidence 0.73)
+
+------------------------------------------------------------
+
+[261] ❌ @hadeseye2297  👍0  2025-10-23
+Original: It's not because of EU regulations. They just despise us Europeans simply because, we do not have enough of solar panels and wind turbines. And that's all. But you can tell yourselve it's other way around. shmupple is investing quite heavily into green solutions in Europe. And you, The Customer, you are paying for it. xD
+Sentiment: negative (confidence 0.71)
+
+------------------------------------------------------------
+
+[262] ❌ @fadoobabadpl  👍1  2025-10-21
+Original: It comes without a charger... WTF.
+Sentiment: negative (confidence 0.89)
+
+    ↳ ➖ @leebeeskee  👍0  2025-10-21
+    Original: Regulations outside of Apple’s control
+    Sentiment: neutral (confidence 0.78)
+
+    ↳  @fadoobabadpl  👍0  2025-10-22
+    Original: @leebeeskee lobbying...
+
+------------------------------------------------------------
+
+[263] ➖ @bradderrs6221  👍0  2025-10-22
+Original: Wait, why are the UK abiding to the EU rules about the charging bricks not being included. Last time I checked we were outsiders. Also, these gen on gen chip improvements are really impressive, Intel and AMD should take note
+Sentiment: neutral (confidence 0.64)
+
+    ↳ ❌ @andyH_England  👍0  2025-10-22
+    Original: I expect that Apple is not prepared to manufacture different boxes for different regions, as it would be costly. That is why the US also does not get an included charger. It's common sense, really.
+    Sentiment: negative (confidence 0.68)
+
+------------------------------------------------------------
+
+[264] ➖ @jeambapt  👍0  2025-10-22
+Original: You didn’t brexit hard enough to get a charger included haha
+Sentiment: neutral (confidence 0.56)
+
+------------------------------------------------------------
+
+[265] ➖ @matklm  👍0  2025-10-23
+Original: Just for the screen, go for the Pro... and it has double the base storage
+Sentiment: neutral (confidence 0.60)
+
+------------------------------------------------------------
+
+[266] ➖ @chen0rama  👍1  2025-10-29
+Original: 60hz no thank you
+Sentiment: neutral (confidence 0.63)
+
+------------------------------------------------------------
+
+[267] ❌ @Loveandeatcake  👍0  2025-10-22
+Original: EU has nothing to do with apple not including a power brick, it’s optional, apple’s greed just removed it for the sake of corporate greed
+Sentiment: negative (confidence 0.67)
+
+------------------------------------------------------------
+
+[268] ❌ @DecBytes  👍0  2025-10-22
+Original: Stupid bureaucrats. Now I will buy a Chinese adapter.
+Sentiment: negative (confidence 0.93)
+
+------------------------------------------------------------
+
+[269] ❌ @mikeybajan  👍0  2025-10-21
+Original: Thanks for making the MBA (10 Core GPU) I bought just two weeks ago look like a dinosaur!! 😂
+Sentiment: negative (confidence 0.39)
+
+------------------------------------------------------------
+
+[270] ➖ @marcuscromwell3369  👍0  2025-10-22
+Original: The base Macbook Air M4 has 1 GPU core less then the Macbook Pro M4
+Sentiment: neutral (confidence 0.78)
+
+    ↳ ➖ @marcuscromwell3369  👍0  2025-10-22
+    Original: No wait 2 GPU cores less
+    Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[271] ➖ @NhatLe-k6k8z  👍0  2025-11-20
+Original: Currently have mac pro 2020 intel and pc for gaming. I'm considering between mac air m4 24/512 15inch for 1349 or mac pro m5 14 inch base model for 1449 which should be better bc its just about 100$ different? Or better to go w mac air 15inch 16/512 for 1149? Thank you!
+Sentiment: neutral (confidence 0.52)
+
+    ↳ ❌ @arunca190  👍0  2026-02-04
+    Original: What did you get? Torn beteeen 15” air m4 24 gb 512gb or 14” pro m5 16 gb 1tb. Haha. Driving me nuts. $600 difference. Is it with it?
+    Sentiment: negative (confidence 0.47)
+
+    ↳ ✅ @NhatLe-k6k8z  👍1  2026-02-11
+    Original: I bought the Air but am returning it for the Pro because of the brightness, the pro more balance to grab, and portability
+    Sentiment: positive (confidence 0.72)
+
+------------------------------------------------------------
+
+[272] ✅ @AlanThomas-q7b  👍0  2025-10-26
+Original: M4 Air 15” is amazing machine got at BB on sale for 999 the price of the 13” Air. Now 16GB RAM 256 SSD standard and included  on base models. personally, I’ve never had an issue with storage because iCloud is so interwoven into MACs   But hey if you prefer get a Pro your money spend how you want it but 90% of people really need to ask are they gonna be rendering 3-D models editing 4K to 8K video are only gonna be checking emails surfing the web watching videos working with productivity apps etc. and maybe some occasional video and photo editing and by the way, the M4 has more power than the average user could even begin to tap so bais your choice on your real life. Use not a bunch of benchmark numbers that you’ll probably never even notice
+Sentiment: positive (confidence 0.92)
+
+------------------------------------------------------------
+
+[273] ➖ @DSudonwadon  👍0  2025-11-28
+Original: why is the screen more yellow like it has night shift on?
+Sentiment: neutral (confidence 0.51)
+
+------------------------------------------------------------
+
+[274] ❌ @J-Kimble  👍0  2025-10-21
+Original: Graphics and AI are the 2 areas you shouldn't use a small form factor laptop for. We are entering gaming laptop territory which notoriously suck.
+Looks like I have to wait for the snapdragon X elite 2 to upgrade my M3
+Sentiment: negative (confidence 0.88)
+
+------------------------------------------------------------
+
+[275] ❌ @N34R4T0M4T  👍0  2025-10-22
+Original: You are totally correct, I am a developer and even I think about getting an air, because unless you are doing yes local ML or say gaming or other intense GPU and CPU tasks, then the M5 is overkill for most people, not that that is not nice, but it also can be money out the window for a lot of peoples usecases
+Sentiment: negative (confidence 0.48)
+
+------------------------------------------------------------
+
+[276] ✅ @Chutneyfan  👍0  2025-11-27
+Original: Can’t wait for oled one in 2026
+Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[277] ✅ @kmigellano  👍0  2025-12-28
+Original: Still rocking my M1 Air. Looking to upgrade to a MacBook Pro soon as I want a better screen and higher refresh rate. I was looking for an iPad, but I will definitely use my MacBook more than this.
+Sentiment: positive (confidence 0.92)
+
+------------------------------------------------------------
+
+[278] ✅ @itskayeds  👍0  2025-10-26
+Original: I got the macbook air m4. Perfect for traveling and going around. My M1 macbook pro stays at home or my office
+Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[279] ✅ @tarbyonlineful  👍0  2025-12-07
+Original: I’ll be waiting for the m5pro (at least) before replacing my M2 Pro MBP - my work M1 Pro still crushes the new Core Ultra 7 laptops others are being issued on the same tasks.  Hopefully we’ll get a chassis change soon as well.
+Sentiment: positive (confidence 0.73)
+
+------------------------------------------------------------
+
+[280] ➖ @Kat125-b6f  👍0  2025-10-21
+Original: You know I i thought I had already watched this video but instead I was watching the M5 IPad pro not the M5 MacBook 😅
+Sentiment: neutral (confidence 0.81)
+
+------------------------------------------------------------
+
+[281] ✅ @paullefko  👍0  2025-11-14
+Original: The difference between the mid spec MBA 512 and the MacBook Pro M5 entry is about $400 for that you get a much better screen better battery, faster USB ports, improved memory and better sound. If people are keeping their computers for 3+ years or more why would you go to the MacBook Air it makes absolutely no sense. If you amortize 400 dollars over even three years it’s literally 11 dollars a month, plus your resale value will be a little better. Get the air if you fly all the time and use your computer on the aircraft. But otherwise I think the argument should be why the MBA. FWIW I have the m1 MBA and it’s great ! I have been playing the MBA mid tier and M5, I do need a tax rights this year
+Sentiment: positive (confidence 0.57)
+
+------------------------------------------------------------
+
+[282] ✅ @DennisSchmitz  👍23  2025-10-21
+Original: If Apple keeps up with the RT and GPU improvements, Apple will have NVIDIA Desktop performance in a laptop in just a few generations.
+Sentiment: positive (confidence 0.83)
+
+    ↳ ➖ @alanmay7929  👍1  2025-10-21
+    Original: No they won’t! Nvidia is a very specialized company that actually has hardware and software support for their GPUs and no one even comes close lol!
+    Sentiment: neutral (confidence 0.49)
+
+    ↳ ❌ @williamferreira3992  👍2  2025-10-21
+    Original: This is imposible for a ARM Soc
+    Sentiment: negative (confidence 0.76)
+
+    ↳ ❌ @PrivateSharing-p2k  👍1  2025-10-21
+    Original: ​@alanmay7929 that depends because nvidia's generation improvements are laughable atp, they seem to have hit barrier. I'd assume apple will hit one earlier tho
+    Sentiment: negative (confidence 0.50)
+
+    ↳ ❌ @lukabosnjak3829  👍3  2025-10-21
+    Original: @williamferreira3992 Well, Apple is literally proving that it's not...
+    Sentiment: negative (confidence 0.63)
+
+    ↳ ➖ @GlobalWave1  👍0  2025-10-21
+    Original: @williamferreira3992Don’t say impossible… Tech has been disproving what’s possible for years now.
+    Sentiment: neutral (confidence 0.48)
+
+    ↳ ✅ @GlobalWave1  👍0  2025-10-21
+    Original: @alanmay7929Nvidia is great but all their focus is mostly on servers and server GPU’s. The M5 max will match the 5090 mobile in many respects and potentially beat it in certain areas.
+    Sentiment: positive (confidence 0.78)
+
+    ↳ ❌ @alanmay7929  👍0  2025-10-21
+    Original: @GlobalWave1another very lame joke lol!!!! Nvidia isn’t just about GPUS but CPUS too! They’ve been working with other companies to make SOC and lately they’re going to integrate their GPUs with intel cpus and far more.
+    Sentiment: negative (confidence 0.49)
+
+    ↳ ➖ @alanmay7929  👍0  2025-10-21
+    Original: ⁠@GlobalWave1the dedicated graphic card has a significantly way higher bandwidth compared to anything apple provides
+    Sentiment: neutral (confidence 0.55)
+
+    ↳ ➖ @williamferreira3992  👍0  2025-10-21
+    Original: @lukabosnjak3829 If you are talking about them being comparable to Nvidia GPUs, these cards were already at the same level, M4 max with the 4060 the same performance in Cyberpunk, M3 Ultra had the performance of a 4060Ti, if what you mean is that M8 max 80 = RTX 7090 400W with the 80W you are very wrong, also you will not always have jumps of 60% every year with the same level of cores
+    Sentiment: neutral (confidence 0.76)
+
+    ↳ ➖ @GlobalWave1  👍0  2025-10-21
+    Original: @alanmay7929Sure but it’s not a joke… just look at Nvidia’s revenue. It’s mostly server gpus. Yeah they are getting into the cpu market because they don’t want apples Arm and Qualcomm’s arm chips to take over plus trump let these tech companies go wild. Less regulation and tax cuts for making chips here. 
+
+Most of Nvidias revenue is still going to server GPU’s no doubt. I mean they are the largest company by revenue but it’s not because their gaming and creator GPU’s.
+    Sentiment: neutral (confidence 0.60)
+
+    ↳ ❌ @GlobalWave1  👍0  2025-10-21
+    Original: @alanmay7929The bandwidth speed of a 5090 mobile will most likely be taken by the bandwidth speed of the M5 max or it’ll be similar.
+
+The problem with a theoretical M5 ultra is the infinity link between two M5 max’s. It doesn’t scale up well. Now if a M5 ultra was a single chip then it’ll take a 5090 in some areas but those cuda cores are monsters.
+    Sentiment: negative (confidence 0.54)
+
+    ↳ ✅ @aleksdeveloper698  👍1  2025-10-22
+    Original: ​@williamferreira3992gen on gen the macbook will surpass nvidia. Currently, a 75fps in cyberpunk is like a 5050. What about M5 Max??? I think its already over for nvidia. And remember, nvidia laptop 5050 performs better in most cases than 5050 desktop.
+    Sentiment: positive (confidence 0.54)
+
+    ↳ ➖ @williamferreira3992  👍0  2025-10-24
+    Original: @aleksdeveloper698m5 Max 5060ti or 4070 level of course
+    Sentiment: neutral (confidence 0.82)
+
+------------------------------------------------------------
+
+[283] ➖ @spacemann1880  👍0  2025-10-21
+Original: Hello I just ordered a MacBook Pro m5 upgrading from an m2 pro 13 inch, is it worth it or do I wait till 2026 and cancel my order
+Sentiment: neutral (confidence 0.73)
+
+    ↳ ➖ @pashabiceps95  👍0  2025-10-21
+    Original: If you sell the old one for a good price why not
+    Sentiment: neutral (confidence 0.78)
+
+------------------------------------------------------------
+
+[284] ❌ @FromDesertTown  👍0  2025-11-15
+Original: What Apple SHOULD do is drop the price by 70 quid. If they offered a “free add-on” power brick, that would look like a bad faith move in the EU’s eyes.
+Sentiment: negative (confidence 0.65)
+
+------------------------------------------------------------
+
+[285] ✅ @eddventures  👍15  2025-10-21
+Original: Still rocking the M1 Pro, no reasons still to upgrade
+Sentiment: positive (confidence 0.94)
+
+    ↳ ❌ @TamimTech22  👍2  2025-10-21
+    Original: Mine needs an upgrade bad…the 16gb of RAM is reaching its limits debating on going Mac Studio m4 Max or waiting for m5 pro/m6 pro with redesign
+    Sentiment: negative (confidence 0.79)
+
+    ↳ ➖ @numberl6  👍0  2025-10-21
+    Original: plenty of reasons to upgrade from that (im also on M1 Pro), but for a personal machine i would wait for the OLED redesign
+    Sentiment: neutral (confidence 0.55)
+
+    ↳ ❌ @eddventures  👍0  2025-10-25
+    Original: @numberl6I agree I’m waiting on the oled. I have an M4 Max as a work machine and use an M1 Pro at home, I barely see any difference. Maybe a web page opens 0.1s faster but that’s it.
+    Sentiment: negative (confidence 0.47)
+
+------------------------------------------------------------
+
+[286] ➖ @Elias-mj3hf  👍0  2025-10-25
+Original: Worth getting the Air M4 or wait for the M5 which is coming when…spring 2026?
+Sentiment: neutral (confidence 0.88)
+
+------------------------------------------------------------
+
+[287] ✅ @hz_sf  👍0  2025-10-22
+Original: For me M4 air 15 is way better given 90% of the user won't notice the perfermance difference on a daily base. The only downside for me the 120HZ will makes your eyes feel better and the sounds would be better ...
+Sentiment: positive (confidence 0.77)
+
+------------------------------------------------------------
+
+[288] ➖ @Treeburnify  👍0  2025-10-22
+Original: Quite possibly the last chance to buy a MBP before they are plagued with OLED screen burn, also Apple and third party software producers will likely make the M4 obsolete and unsupported a year or two earlier than the M5 so for longevity the M5 wins.  Needing an MBP over an Air is nowadays more about a better display for creatives, SD card slot and more ports., avoiding the need for docks and adapters while on the move.
+Sentiment: neutral (confidence 0.61)
+
+------------------------------------------------------------
+
+[289] ➖ @madsouris  👍0  2025-11-11
+Original: web dev and web designing (without VM or docker).. just upgraded from m2 air to m4 air, I can't feel the different 😂
+I guess the for most people, it would be the same case. Unless your work really really push it, that you need the pro macbook
+Sentiment: neutral (confidence 0.54)
+
+------------------------------------------------------------
+
+[290] ➖ @nnnnnn3647  👍0  2025-10-21
+Original: You have charging cable in box.
+Sentiment: neutral (confidence 0.89)
+
+------------------------------------------------------------
+
+[291]  @garminizator  👍0  2025-10-22
+Original: The EU regulations sure do know how to bend us over, so that our politicians can virtue signal how clean they're in their heads while the rest of the world continues absolutely ravaging the environment further. The state of EU is insane as we're paying more for less, we're destroying our car manufacturers, we're even trying to shut down our farmers to "reduce" CO2 emissions and import food from China at 5x the CO2 and without a doubt some serious potential to compromise our health while our healthcare is falling behind at an astonishing rate at the same time. Luckily farmers managed to stand against tax cuts being taken away from them this time, but how long until some lunatics try forcing that again? Meanwhile, China is flooding us with subsidized cheap garbage of products (cars, for example) to fill in the gap with an order of magnitude higher CO2 emissions than if we were to produce what we need ourselves. Got a bit off topic there, but it's very much relevant with how we need to cash out more for chargers as if not including them is gonna make any difference to the environment anyway. Manufacturers are sure happy about it as they definitely won't be selling phones and laptops at a lower price due to the absence of a charger.
+
+------------------------------------------------------------
+
+[292] ➖ @NareshKushwaha-rp7rh  👍0  2025-10-22
+Original: Comparing 16gb M4 with 32 gb of M5 😅
+Sentiment: neutral (confidence 0.88)
+
+------------------------------------------------------------
+
+[293] ➖ @ferchomx  👍0  2025-11-04
+Original: Is upgrading from a MBP M3 14 worth it? I faced display limitations and wished for space black and nano display. I have 16 GB RAM and 1 TB SSD, considering upgrading to 24 GB RAM and 2 TB SSD with a MBP M5. Trading mine in could cost a lot, but is the full experience worth it? Thanks for any advice you can share.
+Sentiment: neutral (confidence 0.71)
+
+------------------------------------------------------------
+
+[294] ➖ @rishanpbacker53  👍0  2025-10-22
+Original: Apple is investing some serious gaming performance rather than just upgrading the nomenclature for minor tweaks
+Sentiment: neutral (confidence 0.54)
+
+------------------------------------------------------------
+
+[295] ✅ @DeejayWilly  👍0  2025-10-25
+Original: thx to apple for releasing M5 so the M4 can get cheaper and we all will buy
+Sentiment: positive (confidence 0.93)
+
+------------------------------------------------------------
+
+[296] ✅ @MattRichardsEsq  👍0  2026-01-16
+Original: I still have a 16" Core i9 MacBook Pro... it's still fast and hasn't put a foot wrong.
+Sentiment: positive (confidence 0.82)
+
+------------------------------------------------------------
+
+[297] ✅ @Davor.Spasoski  👍0  2025-10-28
+Original: Thanks for the review @Thetechchap! I am choosing a laptop for my daughter who is studying art/illustration. I'm inclined towards the air due to its lightness and portability. Backpack weight adds up quickly for an art student. But I'm not sure if she'll be limited by throttling. She'll be using the Adobe Creative suite mostly and Toon Boom 3D animation program. Is the Air a good investment or should I just forget and jump to the Pro? Also, is the 13,6" Air sufficient for PS/AI stuff considering she also has the iPad Pro tablet (I think 12.5") that she'll be using with the Sidecar feature as a second screen so she can actually use her pencil?
+Sentiment: positive (confidence 0.72)
+
+------------------------------------------------------------
+
+[298] ✅ @ricarmig  👍0  2025-10-22
+Original: BOTTOM LINE: for the most the better option will be the MACBOOK AIR M5 with 120 hz screen
+Sentiment: positive (confidence 0.57)
+
+------------------------------------------------------------
+
+[299] ❌ @X0RK3  👍0  2025-10-22
+Original: It’s too freaking bulky I don’t see my self buying this with a price tag that could get me BETTER
+Sentiment: negative (confidence 0.94)
+
+------------------------------------------------------------
+
+[300] ➖ @rorymiddleton3854  👍0  2025-10-23
+Original: HOw does this hold up for DAW's and live electronic music performance?
+Sentiment: neutral (confidence 0.89)
+
+------------------------------------------------------------
+
+[301] ➖ @ManuPonce  👍0  2025-11-23
+Original: Change it every 5-6 years its fine for me that I make music production.
+Sentiment: neutral (confidence 0.57)
+
+------------------------------------------------------------
+
+[302] ❌ @Colin-s5b  👍0  2025-10-25
+Original: They will have a problem when the m5 drops into the MacBook Air. It needs a Vapor chamber or a fan
+Sentiment: negative (confidence 0.72)
+
+------------------------------------------------------------
+
+[303] ✅ @martysilar  👍2  2025-10-25
+Original: Still deciding, but that Space Black on the M5 Pro looks way better than Midnight on the M4 Air.
+Sentiment: positive (confidence 0.82)
+
+    ↳ ➖ @FurryPuppyPaws  👍0  2025-12-19
+    Original: The price of 512GB SSD, 16G ram Macbook Air M4 is approaching that of the base model of Macbook Pro M5, so you might as well get the latter.
+    Sentiment: neutral (confidence 0.73)
+
+------------------------------------------------------------
+
+[304] ❌ @lauisiada  👍0  2025-10-22
+Original: thermals are totally different in these computers, performance comparison in kinda pointless
+Sentiment: negative (confidence 0.63)
+
+------------------------------------------------------------
+
+[305] ❌ @owjianbang01  👍0  2025-10-28
+Original: What madness is that with the EU? No power brick and charging cable!???
+Sentiment: negative (confidence 0.90)
+
+------------------------------------------------------------
+
+[306] ❌ @Notacet  👍0  2025-10-25
+Original: Blender doesn’t use raytracing? Dude what😸
+Sentiment: negative (confidence 0.81)
+
+------------------------------------------------------------
+
+[307] ➖ @davidagyakwa288  👍0  2026-01-09
+Original: what model did you download for draw things .
+Sentiment: neutral (confidence 0.92)
+
+------------------------------------------------------------
+
+[308] ❌ @Riverwideful  👍23  2025-10-21
+Original: I can't deal with the MacBook Air's display! It's such a huge step down from the Pros.
+Sentiment: negative (confidence 0.92)
+
+    ↳ ➖ @ISTIGHFAR1997  👍1  2025-11-26
+    Original: M4 air 15 inch is more than fine whats ur problem n point?
+    Sentiment: neutral (confidence 0.64)
+
+    ↳ ❌ @Riverwideful  👍4  2025-11-26
+    Original: @ISTIGHFAR1997Are you thick? I said the display is nowhere near as good as the Pro models. The point was clearly made and shouldn’t require explanation. Do I need to explain with glove puppets?
+    Sentiment: negative (confidence 0.89)
+
+    ↳ ✅ @ISTIGHFAR1997  👍0  2025-11-26
+    Original: ​@Riverwidefulyeah  the display is very nice upgrade but cant u read? M4 air display is decent but pro are the best
+    Sentiment: positive (confidence 0.85)
+
+    ↳ ❌ @davem8670  👍0  2026-01-28
+    Original: So is the money. An absolutely pointless comment. A “Dacia is such a step down from a Rolls Royce” type comment. Put the crack pipe down fella - clearly not doing you any good!
+    Sentiment: negative (confidence 0.91)
+
+------------------------------------------------------------
+
+[309] ✅ @challengeaccepted6458  👍0  2025-12-26
+Original: tbh I bought the base m5 pro just because I wanted the 14inches plus I get headroom in cooling & performance more. I come from windows/linux just wanted a good small powerful laptop with an amazing battery life
+Sentiment: positive (confidence 0.72)
+
+------------------------------------------------------------
+
+[310] ✅ @ulfmarten  👍0  2025-10-28
+Original: Thx for a very honest review nailing it down to value for money - I will get an AIR ;-)
+Sentiment: positive (confidence 0.93)
+
+------------------------------------------------------------
+
+[311] ➖ @formismt  👍0  2025-10-22
+Original: So fans is something new for Apple ?
+Sentiment: neutral (confidence 0.86)
+
+------------------------------------------------------------
+
+[312] ❌ @Ihavenoideaokbro  👍0  2025-10-30
+Original: I can’t believe we still have to deal with that camera bump/fringe whatever it’s called. Apple are no longer innovating
+Sentiment: negative (confidence 0.92)
+
+------------------------------------------------------------
+
+[313] ➖ @piggystorybook  👍1  2025-10-21
+Original: Why are you comparing MacBook air M4 with MacBook pro M5?
+Sentiment: neutral (confidence 0.69)
+
+    ↳ ❌ @terabit.  👍2  2025-10-21
+    Original: Because he is an APPLE PAID channel !
+Apple tells him HOW to review it so that people can bite this NON-SENSE !
+    Sentiment: negative (confidence 0.75)
+
+------------------------------------------------------------
+
+[314] ➖ @artfulalias3984  👍0  2025-10-23
+Original: Too focused on the GPU/AI optimization.  Who's it for?  Digital photographer processing a full SD of RAW,, you-tubers-editing 4+ camera angles in 4k., code developers compiling large-ish code blocks.  I really don't see who's going to need more than this except 3D animation professionals, etc... The overall value just went up.  Notable increase in disk performance - very under appreciated.  Substantial increase in memory performance.  And some next-gen features on the CPU/GPU that bump it up into aaa gaming territory.  Try to match price on an intel pc laptop just with equivalent display quality.  Then take a critical look at the machine that comes with it.
+Sentiment: neutral (confidence 0.52)
+
+------------------------------------------------------------
+
+[315] ✅ @dbtech4562  👍0  2025-10-24
+Original: Having both a MacBook Pro 16 and the smallest MacBook Air with the M4 generation, the refresh rate, better speakers, bigger screen fan are not that big of a deal as I thought.   Air all day long.
+Sentiment: positive (confidence 0.81)
+
+------------------------------------------------------------
+
+[316]  @parminderbrar  👍0  2025-10-22
+Original: Corrections/Opinions:
+1 - the MiniLED/OLED graphics thing. (already mentioned by others)
+2 - You said for the 96W power adaptor it was £70 extra, when the video [2:02] clearly says £79.
+3 - The MBA speed graphics [8:30] shows it has much faster Write than Read speeds - 50% faster!  I've never seen storage that is much faster write than read (if at all). If it's true, then my bad.
+4 - The position of the two laptops keeps changing in the video. For the viewer, sometime the MBP M5 is on the left and then it cuts to another scene where the MBP M5 is now on the right, and then it cuts to another scene, where it's back on the left, etc. keep some consistency please - just so the viewer doesn't get confused which way round they are, especially when there's suddenly spec graphics/text on them.
+5 - You are using way more expensive models that the base models. e.g. having 1TB storage each, 32GB RAM in the MBP, MBP nano-texture, etc. but then you casually say to the viewer [8:42] £1K for the MBA and £1.6K for the MBP. That's the base model prices, not the ones you're showing/using. It's always worth telling the viewer the cost of the macbooks you're actually using as well, so they don't think they can get all the stuff/specs you were showing for the last 8 minutes for just £1K or £1.6K. That should be much clearer.
+
+Feels like a bit of a rush job video without the usual quality checks beforehand. Otherwise, keep up the good work. Thanks.
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-23
+    Original: 1. You're right, was confusing myself vs the iPad.
+2. Also correct, my mistake.
+3. I re-ran the tests a few times and the numbers were similar.
+    Sentiment: neutral (confidence 0.70)
+
+------------------------------------------------------------
+
+[317] ➖ @Mnekhari  👍0  2025-10-22
+Original: Which one would you recommend for the video editing Davinci Resolve, M4 air or M5 Pro?
+Sentiment: neutral (confidence 0.90)
+
+    ↳ ✅ @Thetechchap  👍1  2025-10-23
+    Original: M5 Pro, definitely.
+    Sentiment: positive (confidence 0.63)
+
+------------------------------------------------------------
+
+[318] ❌ @peterstone6307  👍0  2025-10-27
+Original: How is it boring?
+Sentiment: negative (confidence 0.71)
+
+------------------------------------------------------------
+
+[319] ✅ @Spinks345  👍0  2025-10-22
+Original: Thank you for the wonderful video. It was exactly what I was looking for. Ignore the people claiming this should have been M4 pro v M5 pro. No sane person with a M4 pro is considering a M5 pro.
+Sentiment: positive (confidence 0.91)
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-23
+    Original: Haha I understand it from an academic old vs new standpoint, but yes i think most buying decisions will be M4 air vs M5 Pro right now
+    Sentiment: neutral (confidence 0.64)
+
+    ↳ ➖ @Spinks345  👍0  2025-10-23
+    Original: @Thetechchapany further thoughts on the nano coating? The glare bothers me here and there, but not regularly, and I hear the glossy screen is better for image and video quality.
+    Sentiment: neutral (confidence 0.53)
+
+------------------------------------------------------------
+
+[320] ✅ @codecaine  👍0  2025-10-22
+Original: Excellent review
+Sentiment: positive (confidence 0.94)
+
+    ↳  @Thetechchap  👍1  2025-10-22
+    Original: Thanks!
+
+------------------------------------------------------------
+
+[321] ✅ @mainemoja5132  👍1  2025-10-27
+Original: This was a masterpiece.
+Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[322] ➖ @BB-mt5sb  👍0  2026-01-24
+Original: Not including a charger is Apple's decision and has NOTHING to do with any EU regulations
+Sentiment: neutral (confidence 0.58)
+
+------------------------------------------------------------
+
+[323] ✅ @tornikedarchiashvili1774  👍0  2025-10-23
+Original: Hey! Do you think my MacBook Air M3 8GB RAM is still good in 2025 and will last longer? I use it for writing, browsing, and occasional photo editing. What do you think?
+Sentiment: positive (confidence 0.64)
+
+------------------------------------------------------------
+
+[324] ➖ @deanzaZZR  👍0  2025-10-22
+Original: To save money wait for the previous generation major discounts on Amazon or the equivalent. Bump up the Unified Memory or Storage numbers with the savings, or not.
+Sentiment: neutral (confidence 0.77)
+
+------------------------------------------------------------
+
+[325] ✅ @akin242002  👍1  2025-10-22
+Original: Cool story, but most people will either get a refurbished M4 Pro MBP or wait until the M6 Pro MBP with OLED touch screen.
+Sentiment: positive (confidence 0.53)
+
+------------------------------------------------------------
+
+[326] ➖ @elgordo543  👍0  2025-10-22
+Original: Sopot on review
+Sentiment: neutral (confidence 0.77)
+
+------------------------------------------------------------
+
+[327] ➖ @Shortsator  👍0  2025-10-22
+Original: You will know if the comic effect was long enough when you check the retention of the video :D
+Sentiment: neutral (confidence 0.89)
+
+------------------------------------------------------------
+
+[328] ➖ @senseiTV143  👍0  2025-11-04
+Original: I’m torn between the two, which is best for a serious but not full-time video editor? I edit long episodes (~1 hour) with up to three reactor feeds on one screen, plus short social reels. My footage is usually 1080p but I need to be ready for 4K. Can the MacBook Air (M4) handle this, or should I save for a MacBook Pro (M5)? Thank you.
+Sentiment: neutral (confidence 0.72)
+
+------------------------------------------------------------
+
+[329] ✅ @devanshi2193  👍2  2025-10-22
+Original: I have M2 Air. and it works really well, my only issue is that it only supports 1 screen!
+Sentiment: positive (confidence 0.95)
+
+    ↳ ❌ @TLB015-k7o  👍0  2025-11-05
+    Original: Screen limitation is annoying, I have M3 Air, still one screen only.
+    Sentiment: negative (confidence 0.90)
+
+------------------------------------------------------------
+
+[330] ➖ @kalpeshnikam2516  👍0  2025-11-13
+Original: I need a suggestion here, do you think for $140 more its worth worth to buy m5 MBP instead of m4 MBP?
+Sentiment: neutral (confidence 0.90)
+
+------------------------------------------------------------
+
+[331] ❌ @Thetechchap  👍148  2025-10-21
+Original: Correction: MiniLED, my mistake. Just finished my iPad review so my brain is frazzled haha
+Sentiment: negative (confidence 0.48)
+
+    ↳ ➖ @Ravi-x8p  👍2  2025-10-21
+    Original: Please make a video on the Samsung s11 ultra tablet
+    Sentiment: neutral (confidence 0.56)
+
+    ↳ ✅ @BohdanWynnyckyj  👍3  2025-10-21
+    Original: lol I get excited for a second))
+    Sentiment: positive (confidence 0.88)
+
+    ↳ ➖ @Weaselszone  👍1  2025-10-21
+    Original: @Ravi-x8pis it out?
+    Sentiment: neutral (confidence 0.92)
+
+    ↳ ➖ @d4mterro320  👍1  2025-10-22
+    Original: Ye u also called the macbook, an ipad and the other way around at the beginning in the first 20seconds🤣🤣🤣
+    Sentiment: neutral (confidence 0.79)
+
+    ↳ ➖ @vinx5518  👍0  2025-10-22
+    Original: Don't fire anyone😂, ok?
+    Sentiment: neutral (confidence 0.71)
+
+    ↳ ✅ @Kunal-x5i  👍0  2025-10-23
+    Original: Can anyone please sponsor me MacBook Air m4 24gb ram and 256gb SSD please 😢
+I don't have budget and I am learning to be DevOps engineer so.
+Please support me. I'll be forever greatful 🙏🙏🙏
+    Sentiment: positive (confidence 0.86)
+
+    ↳ ✅ @boring.YT.  👍0  2025-11-10
+    Original: Great video! Helped a lot, thank you! It was a bit wonky to follow when you constantly flip which side the MacBook is on you're comparing. If the Pro is on the left and the Air is on the right, they should stay in these positions for consistency <3
+    Sentiment: positive (confidence 0.85)
+
+    ↳ ❌ @NothingButGoodStuff  👍1  2025-12-08
+    Original: I thought you left the EU. Why are you still following their demands??
+They make you import too many people who have no desire to take part and every  nefarious plan to take over. Please guard your Britain from all enemies, foreign and domestic. 
+Rule Britannia!
+    Sentiment: negative (confidence 0.87)
+
+    ↳ ➖ @xcpt  👍0  2026-01-12
+    Original: Yeah. And the cable thing is also wrong. Apple still ships a Magsafe cable. The only thing which is not included anymore is the power adapter.  But its also cheaper, which makes it possible to choose if you want the 65w or the bigger one or you dont need one because you have one. Me for instance I have power adapters and especially since i mostly use a 85w Dockingstation, i never really needed another one. So, getting the option to having it cheaper but without a power adapter is quite neat. And as i said, the Magsafe cable is still in the box.
+    Sentiment: neutral (confidence 0.59)
+
+    ↳ ➖ @easternv1lle  👍0  2026-02-18
+    Original: @xcpt they still include an adapter, just not in Europe
+    Sentiment: neutral (confidence 0.89)
+
+------------------------------------------------------------
+
+[332] ➖ @pseudo-risto  👍0  2025-10-21
+Original: which mic do you use?
+Sentiment: neutral (confidence 0.92)
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-23
+    Original: tascam Tascam DR10L, with TM-10L lav mic
+    Sentiment: neutral (confidence 0.90)
+
+------------------------------------------------------------
+
+[333] ❌ @Real_Matt  👍0  2025-10-31
+Original: when do you think they will change the actual look of the macbook pro, it's starting to look really boring.
+Sentiment: negative (confidence 0.89)
+
+------------------------------------------------------------
+
+[334] ➖ @tendai.dchipatiso6752  👍1  2025-10-21
+Original: So in essence that's all we ever talk about in apple Macs chip speed, battery life, key board feel, screen brightness.... Hhmm interesting ?
+Sentiment: neutral (confidence 0.64)
+
+    ↳ ➖ @Thetechchap  👍0  2025-10-21
+    Original: That's what most people care about in a laptop!
+    Sentiment: neutral (confidence 0.57)
+
+------------------------------------------------------------
+
+[335] ❌ @jameshatch5324  👍0  2025-12-21
+Original: Just bought the new M5. Currently on an i7 MBP, and Tahoe makes it run like crap, plus the Adobe stuff is now more geared for Apple silicon.
+Sentiment: negative (confidence 0.86)
+
+------------------------------------------------------------
+
+[336] ➖ @theothernodude3139  👍0  2025-10-22
+Original: Man I hope the M5 Air comes with a vapor chamber.
+Sentiment: neutral (confidence 0.41)
+
+------------------------------------------------------------
+
+[337]  @mohammedshoeb2766  👍0  2025-10-22
+Original: help me
+
+------------------------------------------------------------
+
+[338] ✅ @barbur99  👍0  2025-11-30
+Original: 00:16 "we have the macbook pro, apple vision pro and THE MACBOOK PRO" (AKA Ipad PRO) LMAO
+Sentiment: positive (confidence 0.52)
+
+    ↳ ❌ @chippetychaps  👍0  2025-12-03
+    Original: They said iPad Pro when placing the Macbook Pro. Error between the script and the B-roll shot.
+    Sentiment: negative (confidence 0.53)
+
+------------------------------------------------------------
+
+[339] ✅ @Ushakov_viktor  👍0  2025-10-22
+Original: love EU regulations and Trump tariffs. they will clearly save the world. from happiness
+Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[340] ➖ @Eric-Marsh  👍20  2025-11-22
+Original: I have a 15" M4 Macbook Air for my music studio. I now use the low end M2 Air that it replaced for when I sit in front of the TV. It's perfectly adequate even with only 8gb RAM and 256gb SSD. My point is that unless there is a real need for the newer models there is no reason to replace the older ones.
+Sentiment: neutral (confidence 0.55)
+
+------------------------------------------------------------
+
+[341] ➖ @KennethFernandes-h6n  👍0  2026-01-10
+Original: When will a full-length video, detailed and dedicated review, of the Apple Magic Mouse become available from online YouTube reviewers?
+Sentiment: neutral (confidence 0.82)
+
+------------------------------------------------------------
+
+[342] ❌ @RicardoLima-u8b  👍0  2025-10-23
+Original: i have m2 macbook air and screen and speakears suck, hopefully the macbook pro fix these issues
+Sentiment: negative (confidence 0.89)
+
+------------------------------------------------------------
+
+[343] ➖ @colors6692  👍0  2025-10-23
+Original: The UK is in Europe!!!
+Sentiment: neutral (confidence 0.84)
+
+------------------------------------------------------------
+
+[344] ❌ @edkode  👍0  2025-10-25
+Original: Apple are greedy assholes. Sure, if the EU doesn't let you add an adapter, then cut the fucking price. Or give it for free separately if requested. This is fucking bullshit.
+Sentiment: negative (confidence 0.93)
+
+------------------------------------------------------------
+
+[345] ✅ @thanatosor  👍0  2025-10-23
+Original: But considering the price-tier among other "AI" laptop right now, Macbook M5 indeed is still cheap & very competitive this year.
+Sentiment: positive (confidence 0.65)
+
+------------------------------------------------------------
+
+[346] ✅ @shlee4769  👍0  2025-10-22
+Original: If Air can get 120hz, I will buy instantly
+Sentiment: positive (confidence 0.73)
+
+------------------------------------------------------------
+
+[347] ➖ @bhatnagarsumit  👍0  2025-10-27
+Original: 😂😂 only in the UK and Europe.😅
+Tell me a part of UK, that is not in Europe, where they don't send charger??
+
+UK intellect is matching Americans
+Sentiment: neutral (confidence 0.49)
+
+------------------------------------------------------------
+
+[348] ✅ @chasecole4628  👍0  2026-01-30
+Original: Yes Pleas!
+Sentiment: positive (confidence 0.89)
+
+------------------------------------------------------------
+
+[349] ✅ @BrandonJSmith  👍2  2025-10-27
+Original: Thank you!!! I was looking for this exact comparison and will ultimately end up going with the M5 Pro. I usually upgrade every 10 years or so, so it'll do me another 10 it seems.
+Sentiment: positive (confidence 0.84)
+
+    ↳ ➖ @Hyper75191  👍0  2025-11-10
+    Original: I advice you to not upgrade now and wait for the m6 since they will finally do a real change rather than recycle the same product of the last year
+    Sentiment: neutral (confidence 0.60)
+
+------------------------------------------------------------
+
+[350] ➖ @Majesticanglers  👍0  2026-02-11
+Original: Trying to get a Mac for editing on YouTube what do you recommend?
+Sentiment: neutral (confidence 0.84)
+
+------------------------------------------------------------
+
+[351] ✅ @gloriouskatatsumuri  👍1  2025-10-21
+Original: Your hair is looking great bud!
+Sentiment: positive (confidence 0.98)
+
+    ↳ ✅ @Thetechchap  👍1  2025-10-21
+    Original: Haha thanks man
+    Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[352] ❌ @alexn5426  👍0  2025-10-23
+Original: What a horrible, biased and inconsistent comparison. Have you been paid to promote the new M5? Compare it to the Pro M4 for consistency. Compare it to the M4 Pro for curiosity. But obviously is gonna be much better than the Air M4…
+Sentiment: negative (confidence 0.81)
+
+------------------------------------------------------------
+
+[353] ➖ @laveshtirthani5470  👍0  2025-10-22
+Original: why does apple launch the pro series with the base chips. like keep the base m chips (m4,m5) for the air and keep the pro, max and ultra for the pro series. even for the imacs they should start with the pro chips and further
+Sentiment: neutral (confidence 0.67)
+
+------------------------------------------------------------
+
+[354] ➖ @sajithsamyrules  👍0  2025-10-22
+Original: Make a video on Apple Watch ultra
+Sentiment: neutral (confidence 0.80)
+
+------------------------------------------------------------
+
+[355] ✅ @pb6063  👍15  2025-10-21
+Original: I hope gaming on Macs will just grow. Just an addition to what you can do on that machine. 
+
+Would be also great to see an webcam, mics updates on next Air / MBP
+Sentiment: positive (confidence 0.94)
+
+------------------------------------------------------------
+
+[356]  @franklong6269  👍0  2025-10-22
+Original: 1. It has no Wi-Fi 7, no Thunderbolt 5, and no Bluetooth 5.4 or 6. It's outdated already. Honestly, it's a dinosaur without Wi-Fi 7 and Thunderbolt 5. 
+
+2. The EU and UK have become autocratic dictators over the corporations that do business in their countries. They are also taxing the living hell out of American companies like Apple. You are paying the price for voting for and electing extreme-left nutcase leaders like Keir Starmer and his political ilk. Hang on to your wallet, because paying for a charging brick is just the start. American companies are going to pass the cost of doing business in the draconian taxing EU and UK to YOU.
+
+3. UK citizens have lost their right of free speech. Your radically left government is sending armed police to arrest and charge 33 people a day in your country for posting non-violent tweets that criticize Starmer and his leftist cohorts. They are sentencing these people to MINIMUM sentences of 2 years, though some lesser sentences are imposed in some cases. Yes, that's right, your government is putting over 12,000 people a year IN JAIL for posting information critical of your government that is NON-VIOLENT!
+
+4. You have lost your rights to peacefully protest in the UK. The Starmer government is arresting political opponents and protesters and sentencing them to multi-year prison terms for NON-VIOLENT protests.
+
+5. You've lost your right to freedom of religion. The UK government is charging people in your nation for praying SILENTLY for women getting abortions outside of abortion clinics on public streets. Yes, that's right, your dystopian dictators are arresting UK citizens for praying SILENTLY in public. A decorated military veteran was just arrested for this "crime."
+
+In summary, the UK has become an excrement-filled, third-world totalitarian dictatorship, and most of the UK citizens are too damn stupid and politically illiterate to understand that the government has taken priceless civil rights freedoms away from them. It's like boiling a frog slowly. If you boil the frog very slowly, it will never realize it is in danger and jump out of the pot. Similarly, if you slowly and secretly take away citizens' "unalienable rights" from them, most of the uneducated, mentally lazy, politically illiterate citizens don't have a clue that they are losing precious freedoms forever and descending into a 1984 dystopian dictatorship.
+
+------------------------------------------------------------
+
+[357] ✅ @100Jim  👍0  2025-10-23
+Original: Yeah it's a thing of beauty
+Sentiment: positive (confidence 0.93)
+
+------------------------------------------------------------
+
+[358] ✅ @ChinmayHajare  👍0  2025-10-22
+Original: Macbook pro M5 or Macbook Pro M4 pro which one will be better
+Sentiment: positive (confidence 0.56)
+
+    ↳  @Magichandzpro  👍0  2025-10-23
+    Original: UP
+
+------------------------------------------------------------
+
+[359] ➖ @TomLoveman  👍0  2025-10-22
+Original: I'm considering the M5 Macbook Pro as an upgrade to my M3 Macbook Pro with the M3 Pro chip. I've been plagued with performance issues (spinning beachballs on any action) requiring restarts every day or so and Terminal cache clearing. I also have, possibly releated, issues accessing external HDs and having them disconnect.
+Sentiment: neutral (confidence 0.53)
+
+------------------------------------------------------------
+
+[360] ➖ @TravisBasson  👍0  2025-10-25
+Original: 1:45 uh the MagSafe cable still included in the uk
+Sentiment: neutral (confidence 0.88)
+
+------------------------------------------------------------
+
+[361] ➖ @iseptimus  👍0  2025-10-28
+Original: 2:00 thanks EU
+Sentiment: neutral (confidence 0.67)
+
+------------------------------------------------------------
+
+[362] ✅ @Gentlemans_sport  👍0  2025-10-23
+Original: Haha watching you from iMac 2019 intel 😂 which is still fully capable to cut 4k videos
+Sentiment: positive (confidence 0.63)
+
+------------------------------------------------------------
+
+[363] ❌ @DanielSchramm  👍0  2025-10-22
+Original: It's really frustrating when reviewers compare prices without saying what the price would be with the same RAM and storage specs. 
+
+People comparing these two devices will likely configure them the same regardless of which device they get, so this should be factored into the price comparison.
+Sentiment: negative (confidence 0.68)
+
+------------------------------------------------------------
+
+[364] ❌ @Muhammed-al-sultan  👍1  2025-10-22
+Original: I remember when apple stopped including the EarPods with their devices and people that was extreme, but no charger? they're really pushing their limits
+Sentiment: negative (confidence 0.72)
+
+    ↳ ➖ @intranix  👍0  2025-10-22
+    Original: not really, i'd rather have 100 off and buy my own non-apple charger.
+    Sentiment: neutral (confidence 0.64)
+
+    ↳ ❌ @Muhammed-al-sultan  👍0  2025-10-24
+    Original: ​@intranix As in like a third party charger? those damage your battery
+    Sentiment: negative (confidence 0.85)
+
+------------------------------------------------------------
+
+[365] ❌ @edgargabriel6640  👍0  2025-12-14
+Original: Apple is just Greed Shit Company. I use my 30€ XIAOMI 120 (!) Watt charger, working fine on rotten apples
+Sentiment: negative (confidence 0.83)
+
+------------------------------------------------------------
+
+[366] ✅ @dimasmukhlas  👍0  2026-02-05
+Original: Still rocking with my M4 pro 24 Gigs RAM
+Sentiment: positive (confidence 0.77)
+
+------------------------------------------------------------
+
+[367] ➖ @ProNab  👍0  2025-10-21
+Original: 4:20 ur using the cpu for benchmark there not the gpu..
+Sentiment: neutral (confidence 0.66)
+
+------------------------------------------------------------
+
+[368] ➖ @Seannyboy  👍0  2025-10-23
+Original: For college Cs engineering 
+Should i consider MBA M4
+Or M5 MBP
+
+
+Tho i have a windows pc at home but it’s really old
+Sentiment: neutral (confidence 0.80)
+
+------------------------------------------------------------
+
+[369] ❌ @alexthelion7466  👍0  2025-11-20
+Original: I’m so broke using a laptop or pc let  alone a Mac feels so foreign to me
+Sentiment: negative (confidence 0.88)
+
+------------------------------------------------------------
+
+[370]  @DaniPooo  👍0  2026-01-10
+Original: Well to be fair, you can for many usecases get away with 16GB of unified memory for many AI workloads.
+you can run many distilled and quantized models that fit into memory just fine.
+
+Sure, more memory allow you to run larger models without triggering swap.
+But for a lot of people it's really not needed. 
+There's also quite a lot of good LLM's that will run just fine on 16GB of unified memory.
+
+However I agree that if you feel the need to run the biggest and best models without any quantization yeah you will probably need more like 64-128GB.
+But I would not recommend this for the general hobbyist. This is something I would recommend if you have a business need for it, if you need the very best accuracy. 
+
+Other use cases I can see for having loads of memory would be perhaps if you are an artist/composer making huge music projects that loads a large number of sample based virtual instruments. For example orchestral work. some of these sample libraries can be absolutely huge.
+(that being said, you should get quite far with 32GB of memory)
+
+What made it a no-brainer for me to get this computer is that it is actively cooled and has neural accelerators which dramatically increase AI workload performance.
+When running heavy workloads for and extended period of time a MacBook Air would thermal throttle.
+So waiting for an M5 MacBook Air is not interesting for me.
+And the more expensive models are simply too expensive for me, I don't think it's worth it unless I earn money using the computer (which I don't)
+
+------------------------------------------------------------
+
+[371] ➖ @legacyreaper1834  👍0  2025-10-22
+Original: I think the Razer Blade 16 is better for gaming
+Sentiment: neutral (confidence 0.50)
+
+------------------------------------------------------------
+
+[372] ➖ @hadeseye2297  👍0  2025-10-23
+Original: 4:00 :"So mych smaller than windows." Here. I fixed that for you. Mac is also a PC. And no, not even a single PC has a RJ45 socket. It's 8P8C. That's the LAN socket, each single network device has. PS. "Let's generate an image." This is what all people without any talent or skill always craved for. PS.S. A mate screen is now called "nano-texture" just to make you pay for it. xD
+Sentiment: neutral (confidence 0.59)
+
+------------------------------------------------------------
+
+[373] ➖ @Infections95  👍0  2025-10-21
+Original: Why we comparing an air to a pro? not the M4 Pro
+Sentiment: neutral (confidence 0.50)
+
+------------------------------------------------------------
+
+[374] ➖ @MRVSKIN  👍0  2025-10-22
+Original: Why don’t you do a review of the MacBook range and break them down to the best Mac for each user and their requirement
+Sentiment: neutral (confidence 0.74)
+
+    ↳ ✅ @Thetechchap  👍0  2025-10-23
+    Original: good idea!
+    Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[375] ✅ @Babaji5D  👍0  2025-10-22
+Original: 200% more performance for 60% more money, sounds like a good deal to me
+Sentiment: positive (confidence 0.84)
+
+------------------------------------------------------------
+
+[376] ✅ @tukangsirkus  👍0  2025-10-22
+Original: for sofware developer. compiling in android studio, xcode, running local LLM. very nice.
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[377] ✅ @jo09oi  👍0  2025-10-22
+Original: 1:22 if your end credit shown it will be more funny
+Sentiment: positive (confidence 0.56)
+
+------------------------------------------------------------
+
+[378] ❌ @amany5383  👍1  2025-10-25
+Original: This Eu none sense regulation is must stop 🙄
+Sentiment: negative (confidence 0.92)
+
+------------------------------------------------------------
+
+[379] ❌ @Mattrycky  👍1  2025-11-10
+Original: Vote woke, go broke.
+
+No sympathy!
+Sentiment: negative (confidence 0.76)
+
+------------------------------------------------------------
+
+[380] ➖ @marianistefanoj  👍0  2025-10-23
+Original: Technically 1200 vs 1600 comparing 10c cpu / gpu w/ 512gb ssd, and EEA/UK/EU is crazy about the power adapter and this kind of 'laws', they're just helping apple sell a product that would come free, without reduce the retail price.
+Sentiment: neutral (confidence 0.51)
+
+------------------------------------------------------------
+
+[381] ❌ @Drafts-N-Crafts  👍0  2025-10-22
+Original: At the age of 35 I probably sound like a right old man when I say this, but whenever new phones and machines come out... I really couldn't give a rat's ass about AI! XD
+Sentiment: negative (confidence 0.68)
+
+------------------------------------------------------------
+
+[382] ➖ @karankawa1703  👍0  2025-10-25
+Original: Maybe Apple should just make a gaming MacBook line lol
+Sentiment: neutral (confidence 0.72)
+
+------------------------------------------------------------
+
+[383] ✅ @Deetroiter  👍3  2025-10-21
+Original: I’m on a 14” MBP M1 Pro…still chugging along but wouldn’t mind upgrading to the M5 Pro when it releases. That said, the M4 Air is an incredible value for the price that will satisfy 99% of users!   
+
+No charger included in the UK and EU?
+
+“You will own nothing. And be happy”
+- Klaus Schwab and the world economic forum 😂
+Sentiment: positive (confidence 0.89)
+
+------------------------------------------------------------
+
+[384] ❌ @BenryHoyson  👍0  2025-10-23
+Original: I have the M2 Air and its a piece of crap. I have dual monitors and it can't open more than 10 tabs without it coming to a standstill. Airs are great for very basic tasks but not for any vaguely heavy lifting
+Sentiment: negative (confidence 0.94)
+
+------------------------------------------------------------
+
+[385] ✅ @RichardServello  👍0  2025-11-05
+Original: I have a 24GB MBA and it's AMAZING.
+Sentiment: positive (confidence 0.98)
+
+------------------------------------------------------------
+
+[386] ➖ @Maple5  👍0  2025-10-22
+Original: If only there was a 14 inch air
+Sentiment: neutral (confidence 0.59)
+
+------------------------------------------------------------
+
