@@ -5808,6 +5808,18 @@
     "sentiment_score": 0.9138
   },
   {
+    "comment_id": "UgzJzHxiH3NJmaZdLIF4AaABAg.AOYjkiwLOy1ATPuYm4pGmn",
+    "video_id": "NHlLPTRM8JI",
+    "parent_id": "UgzJzHxiH3NJmaZdLIF4AaABAg",
+    "username": "@TWALL45",
+    "clean_text": "for 850 to get the m4 chip with the 13\" it's a no brainer",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T15:01:27Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.6371
+  },
+  {
     "comment_id": "UgzKV302TBsJZPuH6Rd4AaABAg",
     "video_id": "NHlLPTRM8JI",
     "parent_id": null,

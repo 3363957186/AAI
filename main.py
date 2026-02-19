@@ -9,10 +9,11 @@ from preprocess import preprocess_comments
 from sentiment import analyze_batch
 from storage.database import save_sentiment, get_sentiment_summary, get_comments_by_sentiment
 from transcript import fetch_transcript_auto, export_transcript
+from gemini_analysis import generate_full_analysis, export_analysis_json
 
-VIDEO_URL    = "https://www.googleapis.com/youtube/v3/videos"
-SEARCH_URL   = "https://www.googleapis.com/youtube/v3/search"
-THREADS_URL  = "https://www.googleapis.com/youtube/v3/commentThreads"
+VIDEO_URL = "https://www.googleapis.com/youtube/v3/videos"
+SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
+THREADS_URL = "https://www.googleapis.com/youtube/v3/commentThreads"
 COMMENTS_URL = "https://www.googleapis.com/youtube/v3/comments"
 COMMENTS_DIR = "comments"
 
@@ -26,63 +27,71 @@ def get_video_id_from_url(url: str) -> str:
         return url.split("youtu.be/")[1].split("?")[0]
     return url
 
-def _mode_search() -> list[Video]:
+
+def _mode_search() -> tuple[list[Video], str]:
+    """
+    Search mode - returns videos and the product keyword
+    Returns: (videos, product_keyword)
+    """
     keyword = input("\nEnter product name (English): ").strip()
     if not keyword:
         print("Cannot be empty")
-        return []
-    return search_videos(keyword, max_results=MAX_VIDEOS)
+        return [], ""
+
+    videos = search_videos(keyword, max_results=MAX_VIDEOS)
+    return videos, keyword
 
 
-def _mode_url() -> list[Video]:
-    print("\nEnter video URLs (one per line, max 3, empty line to finish):")
-    urls = []
-    while len(urls) < MAX_VIDEOS:
-        line = input(f"  Link {len(urls)+1}: ").strip()
-        if not line:
-            break
-        if "youtube.com" in line or "youtu.be" in line:
-            urls.append(line)
-        else:
-            print("  ⚠️  Invalid YouTube link, please try again")
-
-    if not urls:
-        print("No links entered")
-        return []
-
-    # Batch fetch video info
-    video_ids = [get_video_id_from_url(u) for u in urls]
-    resp = httpx.get(VIDEO_URL, params={
-        "key":  YOUTUBE_API_KEY,
-        "id":   ",".join(video_ids),
-        "part": "snippet,statistics",
-    })
-    resp.raise_for_status()
-
-    videos = []
-    for item in resp.json().get("items", []):
-        stats   = item.get("statistics", {})
-        snippet = item.get("snippet", {})
-        videos.append(Video(
-            video_id      = item["id"],
-            author        = snippet.get("channelTitle", ""),
-            description   = snippet.get("title", ""),
-            view_count    = int(stats.get("viewCount", 0)),
-            like_count    = int(stats.get("likeCount", 0)),
-            comment_count = int(stats.get("commentCount", 0)),
-        ))
-
-    return videos
+# URL 模式暂时禁用
+# def _mode_url() -> list[Video]:
+#     print("\nEnter video URLs (one per line, max 3, empty line to finish):")
+#     urls = []
+#     while len(urls) < MAX_VIDEOS:
+#         line = input(f"  Link {len(urls)+1}: ").strip()
+#         if not line:
+#             break
+#         if "youtube.com" in line or "youtu.be" in line:
+#             urls.append(line)
+#         else:
+#             print("  ⚠️  Invalid YouTube link, please try again")
+#
+#     if not urls:
+#         print("No links entered")
+#         return []
+#
+#     # Batch fetch video info
+#     video_ids = [get_video_id_from_url(u) for u in urls]
+#     resp = httpx.get(VIDEO_URL, params={
+#         "key":  YOUTUBE_API_KEY,
+#         "id":   ",".join(video_ids),
+#         "part": "snippet,statistics",
+#     })
+#     resp.raise_for_status()
+#
+#     videos = []
+#     for item in resp.json().get("items", []):
+#         stats   = item.get("statistics", {})
+#         snippet = item.get("snippet", {})
+#         videos.append(Video(
+#             video_id      = item["id"],
+#             author        = snippet.get("channelTitle", ""),
+#             description   = snippet.get("title", ""),
+#             view_count    = int(stats.get("viewCount", 0)),
+#             like_count    = int(stats.get("likeCount", 0)),
+#             comment_count = int(stats.get("commentCount", 0)),
+#         ))
+#
+#     return videos
 
 def search_videos(keyword: str, max_results: int = 2) -> list[Video]:
     print(f"[VideoSearcher] Searching: '{keyword} review'")
 
     resp = httpx.get(SEARCH_URL, params={
-        "key":               YOUTUBE_API_KEY,
-        "q":                 f"{keyword} review",
-        "part":              "snippet",
-        "type":              "video",
-        "maxResults":        max_results,
+        "key": YOUTUBE_API_KEY,
+        "q": f"{keyword} review",
+        "part": "snippet",
+        "type": "video",
+        "maxResults": max_results,
         "relevanceLanguage": "en",
     })
     resp.raise_for_status()
@@ -93,23 +102,23 @@ def search_videos(keyword: str, max_results: int = 2) -> list[Video]:
     video_ids = [item["id"]["videoId"] for item in items]
 
     stats_resp = httpx.get(VIDEO_URL, params={
-        "key":  YOUTUBE_API_KEY,
-        "id":   ",".join(video_ids),
+        "key": YOUTUBE_API_KEY,
+        "id": ",".join(video_ids),
         "part": "snippet,statistics",
     })
     stats_resp.raise_for_status()
 
     videos = []
     for item in stats_resp.json().get("items", []):
-        stats   = item.get("statistics", {})
+        stats = item.get("statistics", {})
         snippet = item.get("snippet", {})
         videos.append(Video(
-            video_id      = item["id"],
-            author        = snippet.get("channelTitle", ""),
-            description   = snippet.get("title", ""),
-            view_count    = int(stats.get("viewCount", 0)),
-            like_count    = int(stats.get("likeCount", 0)),
-            comment_count = int(stats.get("commentCount", 0)),
+            video_id=item["id"],
+            author=snippet.get("channelTitle", ""),
+            description=snippet.get("title", ""),
+            view_count=int(stats.get("viewCount", 0)),
+            like_count=int(stats.get("likeCount", 0)),
+            comment_count=int(stats.get("commentCount", 0)),
         ))
 
     print(f"[VideoSearcher] Found {len(videos)} videos")
@@ -124,9 +133,9 @@ def fetch_replies(parent_id: str, video_id: str) -> list[Comment]:
 
     while True:
         params = {
-            "key":        YOUTUBE_API_KEY,
-            "parentId":   parent_id,
-            "part":       "snippet",
+            "key": YOUTUBE_API_KEY,
+            "parentId": parent_id,
+            "part": "snippet",
             "maxResults": 100,
         }
         if next_page_token:
@@ -143,14 +152,14 @@ def fetch_replies(parent_id: str, video_id: str) -> list[Comment]:
         for item in data.get("items", []):
             s = item["snippet"]
             replies.append(Comment(
-                comment_id  = item["id"],
-                video_id    = video_id,
-                parent_id   = parent_id,
-                username    = s.get("authorDisplayName", ""),
-                text        = s.get("textOriginal", ""),
-                like_count  = s.get("likeCount", 0),
-                reply_count = 0,
-                created_at  = s.get("publishedAt", ""),
+                comment_id=item["id"],
+                video_id=video_id,
+                parent_id=parent_id,
+                username=s.get("authorDisplayName", ""),
+                text=s.get("textOriginal", ""),
+                like_count=s.get("likeCount", 0),
+                reply_count=0,
+                created_at=s.get("publishedAt", ""),
             ))
 
         next_page_token = data.get("nextPageToken")
@@ -167,7 +176,7 @@ def fetch_all_comments(video_id: str, max_pages_per_order: int = 3) -> list[Comm
     2. Time order (newest comments) - 3 pages
     """
     all_comments = []
-    seen_ids = set()  # For deduplication
+    seen_ids = set()
 
     # Strategy 1: Hot/Popular comments (relevance)
     print("\n  [Strategy 1] Fetching popular comments (relevance order)...")
@@ -279,13 +288,14 @@ def _fetch_comments_by_order(video_id: str, order: str, max_pages: int) -> list[
 
     return comments
 
+
 # ── Export TXT ──────────────────────────────────────────────────
 
 def export_to_txt(video: Video, all_stored: list[dict]):
     os.makedirs(COMMENTS_DIR, exist_ok=True)
     filename = os.path.join(COMMENTS_DIR, f"{video.video_id}_comments.txt")
     top_level = [c for c in all_stored if c["parent_id"] is None]
-    replies   = [c for c in all_stored if c["parent_id"] is not None]
+    replies = [c for c in all_stored if c["parent_id"] is not None]
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write("=" * 60 + "\n")
@@ -311,12 +321,13 @@ def export_to_txt(video: Video, all_stored: list[dict]):
 
     print(f"  Exported to {filename}")
 
+
 def export_to_txt_v2(video: Video, all_stored: list[dict], summary: dict):
     os.makedirs(COMMENTS_DIR, exist_ok=True)
     filename = os.path.join(COMMENTS_DIR, f"{video.video_id}_comments_v2.txt")
     top_level = [c for c in all_stored if c["parent_id"] is None]
-    replies   = [c for c in all_stored if c["parent_id"] is not None]
-    total     = sum(summary.values())
+    replies = [c for c in all_stored if c["parent_id"] is not None]
+    total = sum(summary.values())
 
     with open(filename, "w", encoding="utf-8") as f:
 
@@ -335,9 +346,9 @@ def export_to_txt_v2(video: Video, all_stored: list[dict], summary: dict):
         f.write("【Sentiment Analysis Summary】\n")
         f.write("-" * 60 + "\n")
         if total > 0:
-            f.write(f"Positive: {summary['positive']} ({summary['positive']/total*100:.1f}%)\n")
-            f.write(f"Negative: {summary['negative']} ({summary['negative']/total*100:.1f}%)\n")
-            f.write(f"Neutral:  {summary['neutral']}  ({summary['neutral']/total*100:.1f}%)\n")
+            f.write(f"Positive: {summary['positive']} ({summary['positive'] / total * 100:.1f}%)\n")
+            f.write(f"Negative: {summary['negative']} ({summary['negative'] / total * 100:.1f}%)\n")
+            f.write(f"Neutral:  {summary['neutral']}  ({summary['neutral'] / total * 100:.1f}%)\n")
         f.write("\n")
 
         # Top 5 Positive
@@ -368,7 +379,7 @@ def export_to_txt_v2(video: Video, all_stored: list[dict], summary: dict):
         for i, c in enumerate(top_level, 1):
             label = c.get("sentiment_label", "")
             score = c.get("sentiment_score", 0)
-            icon  = LABEL_MAP.get(label, "")
+            icon = LABEL_MAP.get(label, "")
 
             f.write(f"[{i}] {icon} {c['username']}  "
                     f"👍{c['like_count']}  {c['created_at'][:10]}\n")
@@ -384,7 +395,7 @@ def export_to_txt_v2(video: Video, all_stored: list[dict], summary: dict):
             for r in comment_replies:
                 r_label = r.get("sentiment_label", "")
                 r_score = r.get("sentiment_score", 0)
-                r_icon  = LABEL_MAP.get(r_label, "")
+                r_icon = LABEL_MAP.get(r_label, "")
                 f.write(f"\n    ↳ {r_icon} {r['username']}  "
                         f"👍{r['like_count']}  {r['created_at'][:10]}\n")
                 f.write(f"    Original: {r['text']}\n")
@@ -422,32 +433,28 @@ def export_clean_json(video_id: str, analyzed: list[dict]):
 
     print(f"  Exported to {filename}")
 
+
 # ── Main Flow ────────────────────────────────────────────────────
 
 def run():
     init_db()
 
-    # ── Step 1: Select Mode ──────────────────────────────────────
+    # ── Step 1: Select Mode (只保留搜索模式) ──────────────────────────────────────
     print("=" * 60)
-    print("  YouTube Comment Scraper")
+    print("  YouTube Comment Scraper & Analyzer")
     print("=" * 60)
-    print("  1. Search by product name (auto-find review videos)")
-    print("  2. Enter video URLs directly")
+    print("  Search by product name to find and analyze review videos")
     print("=" * 60)
 
-    mode = input("Select mode (1/2): ").strip()
-
-    if mode == "1":
-        videos = _mode_search()
-    elif mode == "2":
-        videos = _mode_url()
-    else:
-        print("Invalid input, please enter 1 or 2")
-        return
+    # 直接进入搜索模式，同时获取商品名
+    videos, product_name = _mode_search()
 
     if not videos:
         print("No videos found, please check input or API Key")
         return
+
+    # 保存商品名，供后续 Gemini 分析使用
+    print(f"\n📦 Product: {product_name}")
 
     # ── Step 2: Confirm Videos ──────────────────────────────────────
     print("\nFound the following videos:")
@@ -459,10 +466,10 @@ def run():
         print(f"   https://youtube.com/watch?v={v.video_id}")
     print("-" * 60)
 
-    confirm = input(f"\nScrape comments from these {len(videos)} video(s)? (y/n): ").strip().lower()
-    if confirm != "y":
-        print("Cancelled")
-        return
+    # confirm = input(f"\nScrape comments from these {len(videos)} video(s)? (y/n): ").strip().lower()
+    # if confirm != "y":
+    #     print("Cancelled")
+    #     return
 
     # Step 3: Fetch comments + analyze + export
     for i, video in enumerate(videos, 1):
@@ -473,20 +480,31 @@ def run():
         print(f"  Comments: {video.comment_count:,}")
         save_video(video)
 
+        # Fetch transcript
+        print(f"\n[Transcript] Fetching video transcript...")
+        transcript_result = fetch_transcript_auto(video.video_id, debug=True)
+
+        if transcript_result["success"]:
+            print(f"  ✓ Got transcript ({transcript_result['language']})")
+            export_transcript(video.video_id, transcript_result)
+        else:
+            print(f"  ⚠️  {transcript_result['error']}")
+            print(f"     Video may not have captions/subtitles available")
+
         print(f"\nFetching comments and replies...")
         comments = fetch_all_comments(video.video_id)
         save_comments(comments)
 
         all_stored = get_all_comments(video.video_id)
-        top_level  = [c for c in all_stored if c["parent_id"] is None]
-        replies    = [c for c in all_stored if c["parent_id"] is not None]
+        top_level = [c for c in all_stored if c["parent_id"] is None]
+        replies = [c for c in all_stored if c["parent_id"] is not None]
 
-        print(f"\n{'='*50}")
+        print(f"\n{'=' * 50}")
         print(f"Scraping complete!")
         print(f"  Top-level: {len(top_level)} comments")
         print(f"  Replies:   {len(replies)} comments")
         print(f"  Total:     {len(all_stored)} comments")
-        print(f"{'='*50}")
+        print(f"{'=' * 50}")
 
         # Preview first 3 comments
         print("\nFirst 3 comments preview (with replies):")
@@ -546,8 +564,52 @@ def run():
         else:
             print(f"  ⚠️  {transcript_result['error']}")
             print(f"     Video may not have captions/subtitles available")
+            continue
 
         print(f"\nFetching comments and replies...")
+
+        # ─────────────────────────────────────────────────
+        # 新增：Gemini 完整分析
+        # ─────────────────────────────────────────────────
+
+        print("\n" + "=" * 60)
+        print("Starting Gemini AI Analysis...")
+        print("=" * 60)
+
+        # 使用保存的商品名
+        analysis_result = generate_full_analysis(
+            video_id=video.video_id,
+            product_name=product_name,  # ← 使用搜索时输入的商品名
+            directory="comments"
+        )
+
+        if analysis_result:
+            # 导出分析结果
+            export_analysis_json(video.video_id, analysis_result, directory="comments")
+
+            # 打印摘要
+            print("\n" + "=" * 60)
+            print("FINAL ANALYSIS SUMMARY")
+            print("=" * 60)
+            print(f"Product: {analysis_result['product']}")
+            print(f"Verdict: {analysis_result['recommendation']['verdict']}")
+            print(f"Confidence: {analysis_result['confidence']}%")
+            print(f"Value Score: {analysis_result['value']['score']}/100")
+            print(f"\nSentiment Breakdown:")
+            print(f"  Positive: {analysis_result['sentiment']['positive']}%")
+            print(f"  Neutral:  {analysis_result['sentiment']['neutral']}%")
+            print(f"  Negative: {analysis_result['sentiment']['negative']}%")
+            print(f"\nTotal Reviews Analyzed: {analysis_result['totalReviews']}")
+            print(f"\nPros ({len(analysis_result['pros'])}):")
+            for pro in analysis_result['pros'][:3]:
+                print(f"  ✓ {pro}")
+            print(f"\nCons ({len(analysis_result['cons'])}):")
+            for con in analysis_result['cons'][:3]:
+                print(f"  ✗ {con}")
+            print("=" * 60 + "\n")
+        else:
+            print("\n⚠️  Gemini analysis failed, but other exports are complete.\n")
+
 
 if __name__ == "__main__":
     run()

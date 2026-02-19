@@ -120,6 +120,18 @@
     "sentiment_score": 0.8577
   },
   {
+    "comment_id": "Ugw8qxdO6Cjeatp48-J4AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@SunSunVunVun",
+    "clean_text": "so. with the rise in memory prices for ai hogs. so. would this mean -- that if you do trade in, for upgrades -- that you get more for the trade in price, to the point where companies pays you to upgrade own it ?",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T08:20:40Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.9184
+  },
+  {
     "comment_id": "UgwEemGBmJrqOT9ogj94AaABAg",
     "video_id": "dsQjIfSfu0A",
     "parent_id": null,
@@ -178,6 +190,30 @@
     "created_at": "2026-02-17T15:07:20Z",
     "sentiment_label": "negative",
     "sentiment_score": 0.9535
+  },
+  {
+    "comment_id": "UgwIr3qt_CAUwlUZduZ4AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@adamlourenco",
+    "clean_text": "836 i know a teddy baldassarre fan when i see one",
+    "like_count": 1,
+    "reply_count": 1,
+    "created_at": "2026-02-19T09:42:59Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.6383
+  },
+  {
+    "comment_id": "UgwIr3qt_CAUwlUZduZ4AaABAg.ATPL6ImxkxtATQ9wGGN0j0",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": "UgwIr3qt_CAUwlUZduZ4AaABAg",
+    "username": "@thedrivenote",
+    "clean_text": "teddy is the goat",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T17:24:36Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.9019
   },
   {
     "comment_id": "UgwMm0VxrI3u7vDrIH14AaABAg",
@@ -540,6 +576,30 @@
     "sentiment_score": 0.7825
   },
   {
+    "comment_id": "Ugwam6a1zNEzvBEvVvV4AaABAg.ATFv0wBMQowATQGGHWQPYe",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": "Ugwam6a1zNEzvBEvVvV4AaABAg",
+    "username": "@Emerald_City_",
+    "clean_text": "the guy has what he has",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T18:19:54Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.8396
+  },
+  {
+    "comment_id": "Ugwam6a1zNEzvBEvVvV4AaABAg.ATFv0wBMQowATQGIr96Dxy",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": "Ugwam6a1zNEzvBEvVvV4AaABAg",
+    "username": "@Emerald_City_",
+    "clean_text": "no, not pedantic, i just thought the same",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T18:20:15Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.6387
+  },
+  {
     "comment_id": "Ugwc_5WIyVEC5JuFyGZ4AaABAg",
     "video_id": "dsQjIfSfu0A",
     "parent_id": null,
@@ -696,6 +756,18 @@
     "sentiment_score": 0.8352
   },
   {
+    "comment_id": "UgwnejzyloqK5pAx8794AaABAg.ATFusd5r3aSATQ5xv5cofw",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": "UgwnejzyloqK5pAx8794AaABAg",
+    "username": "@MUR47_k",
+    "clean_text": "does that mean you can run steam os ?",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T16:49:53Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.9246
+  },
+  {
     "comment_id": "Ugwnh3AJdSlI1u01IrZ4AaABAg",
     "video_id": "dsQjIfSfu0A",
     "parent_id": null,
@@ -826,6 +898,18 @@
     "created_at": "2026-02-17T14:41:29Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.5102
+  },
+  {
+    "comment_id": "UgwxRZvyIrqNJRmaxoJ4AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@arlonyd",
+    "clean_text": "a \"pro\" device should have at least a 512gb base storage. leaning more to 1tb. 16gb ram is just ok.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T08:34:38Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.4983
   },
   {
     "comment_id": "UgwxS6CvHnITZGfbnvJ4AaABAg",
@@ -1092,6 +1176,18 @@
     "sentiment_score": 0.8167
   },
   {
+    "comment_id": "UgxPbXhOBZ83wNgCjdl4AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@davekc7431",
+    "clean_text": "ngl . too chonky to lug around waiting for thinner lighter m6 redesign . dont hate on me",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T06:50:31Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.5897
+  },
+  {
     "comment_id": "UgxRd2M1sC6m94adewN4AaABAg",
     "video_id": "dsQjIfSfu0A",
     "parent_id": null,
@@ -1138,6 +1234,18 @@
     "created_at": "2026-02-18T16:18:40Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.7515
+  },
+  {
+    "comment_id": "UgxXqv0J9UFJHgjGTm94AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@SPER1",
+    "clean_text": "why are you comparing an m5 macbook pro to m1, m2, m3, m4 macbook airs?",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T17:32:39Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.5956
   },
   {
     "comment_id": "Ugx_IdEv79dJ6y_4jaB4AaABAg",
@@ -2028,6 +2136,18 @@
     "sentiment_score": 0.5438
   },
   {
+    "comment_id": "UgxytVshI6P9k2zyMYJ4AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@ulfw",
+    "clean_text": "no it didn't.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T08:34:30Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.5718
+  },
+  {
     "comment_id": "Ugxz06LmBrPGGmCM58F4AaABAg",
     "video_id": "dsQjIfSfu0A",
     "parent_id": null,
@@ -2038,6 +2158,18 @@
     "created_at": "2026-02-16T06:15:34Z",
     "sentiment_label": "negative",
     "sentiment_score": 0.7017
+  },
+  {
+    "comment_id": "Ugy-5F_R1-_dV8e6-414AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@nikhilgaruda9634",
+    "clean_text": "i like the benchmarks but they arent fair, you cant compare air with pro. mba doesnt have fans and thermal throttles while mbp does. that said, i have been using m1 mba since it launched for astronomy research and it still does a pretty good job for my workload.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T18:57:21Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.442
   },
   {
     "comment_id": "Ugy-_97IZCr_1M-LCJZ4AaABAg",
@@ -2302,6 +2434,18 @@
     "created_at": "2026-02-16T06:13:22Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.7624
+  },
+  {
+    "comment_id": "UgyKdxyvCTBve9FEbTB4AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@dapaolo4103",
+    "clean_text": "take note that the m1 was out 5 years ago if the test ran on 5 year old device its amazing",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T05:22:45Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.9019
   },
   {
     "comment_id": "UgyOhijlKtQSzI0-E7B4AaABAg",
@@ -2578,6 +2722,18 @@
     "created_at": "2026-02-17T06:03:33Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.5134
+  },
+  {
+    "comment_id": "Ugyco_AvwutAVhWgTM14AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@DomCobb1",
+    "clean_text": "i switched from windows to my mbp since i managed to get 24gb 1tb for 1400 with apple care. i had apple discount from a friend. i wouldnt have bought it if i didnt",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T13:36:07Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.6498
   },
   {
     "comment_id": "UgyeM_JNLj2KDuqllpt4AaABAg",
@@ -2902,6 +3058,18 @@
     "created_at": "2026-02-16T07:16:15Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.8614
+  },
+  {
+    "comment_id": "Ugz2Sj7QthbcwcVgU_h4AaABAg",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": null,
+    "username": "@MUR47_k",
+    "clean_text": "apples leaving money on the table with gaming. if they actually committed, theyd make way more. one smart move would be letting something like steamos run nativelythe way boot camp let people run windows. if games could run at native screen resolution, hit a stable 120fps, and support raypath tracing, macs would be insanely good for story-driven games. for competitive online titles, you could always dial back ray tracing to prioritize performance and latency. but the bigger issue is focus they need to land the blockbuster games gta, call of duty, battlefield, fifa, f1, red dead, and the rest rather than mostly leaning on smaller indie titles. thats how you make mac a real gaming platform, not just capable technically.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T17:00:41Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.6875
   },
   {
     "comment_id": "Ugz48TuXYa1_G6qiuwJ4AaABAg",
@@ -4834,6 +5002,30 @@
     "created_at": "2026-02-17T01:54:12Z",
     "sentiment_label": "negative",
     "sentiment_score": 0.7322
+  },
+  {
+    "comment_id": "Ugzy1nSMcFWZ39AOiWZ4AaABAg.ATFtDwYpbJsATP1ZLDG0y9",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": "Ugzy1nSMcFWZ39AOiWZ4AaABAg",
+    "username": "@davekc7431",
+    "clean_text": "yep tahoe is diabolical dont go there",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T06:52:11Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.9209
+  },
+  {
+    "comment_id": "Ugzy1nSMcFWZ39AOiWZ4AaABAg.ATFtDwYpbJsATP3GKlFc9V",
+    "video_id": "dsQjIfSfu0A",
+    "parent_id": "Ugzy1nSMcFWZ39AOiWZ4AaABAg",
+    "username": "@CorneliusTaylor-s1u",
+    "clean_text": "the macos doesn't do that.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2026-02-19T07:07:04Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.6166
   },
   {
     "comment_id": "UgzzsZwOrUtQt-Wv-MR4AaABAg",

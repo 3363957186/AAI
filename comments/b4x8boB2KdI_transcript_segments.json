@@ -1,0 +1,857 @@
+[
+  {
+    "text": "so Apple launched the new M4 MacBook",
+    "start": 1.36,
+    "duration": 3.6
+  },
+  {
+    "text": "Pros this is their 14-in model and it's",
+    "start": 3.04,
+    "duration": 4.04
+  },
+  {
+    "text": "equipped with the M4 Max their topend",
+    "start": 4.96,
+    "duration": 4.52
+  },
+  {
+    "text": "configuration and it also has their new",
+    "start": 7.08,
+    "duration": 5.04
+  },
+  {
+    "text": "Nano texture on their screen it's a",
+    "start": 9.48,
+    "duration": 4.0
+  },
+  {
+    "text": "texture that's designed to cut down",
+    "start": 12.12,
+    "duration": 2.599
+  },
+  {
+    "text": "Reflections it's the first time they've",
+    "start": 13.48,
+    "duration": 3.44
+  },
+  {
+    "text": "actually had it on one of their laptops",
+    "start": 14.719,
+    "duration": 3.601
+  },
+  {
+    "text": "uh but I want to do a quick video here",
+    "start": 16.92,
+    "duration": 3.24
+  },
+  {
+    "text": "that kind of goes over the important",
+    "start": 18.32,
+    "duration": 3.32
+  },
+  {
+    "text": "things I think you should be aware of",
+    "start": 20.16,
+    "duration": 3.039
+  },
+  {
+    "text": "when it comes to this device and the",
+    "start": 21.64,
+    "duration": 2.639
+  },
+  {
+    "text": "first thing I want to talk about is",
+    "start": 23.199,
+    "duration": 3.281
+  },
+  {
+    "text": "performance the CPU gains are quite good",
+    "start": 24.279,
+    "duration": 3.84
+  },
+  {
+    "text": "year on-ear but it's particularly",
+    "start": 26.48,
+    "duration": 3.6
+  },
+  {
+    "text": "impressive that the M4 Max can",
+    "start": 28.119,
+    "duration": 4.721
+  },
+  {
+    "text": "outperform the M2 Ultra in a lot of",
+    "start": 30.08,
+    "duration": 4.999
+  },
+  {
+    "text": "benchmarks and workflows in terms of",
+    "start": 32.84,
+    "duration": 4.84
+  },
+  {
+    "text": "Graphics the GPU gains on the M4 Pro are",
+    "start": 35.079,
+    "duration": 5.441
+  },
+  {
+    "text": "decent but the GPU games on the M4 Max",
+    "start": 37.68,
+    "duration": 5.96
+  },
+  {
+    "text": "are very impressive most GPU bound apps",
+    "start": 40.52,
+    "duration": 4.64
+  },
+  {
+    "text": "and games will get a nice bump up from",
+    "start": 43.64,
+    "duration": 3.399
+  },
+  {
+    "text": "this plus the rate tracing capabilities",
+    "start": 45.16,
+    "duration": 3.559
+  },
+  {
+    "text": "are better so apps and games can take",
+    "start": 47.039,
+    "duration": 3.121
+  },
+  {
+    "text": "advantage of that the thing I'm most",
+    "start": 48.719,
+    "duration": 3.36
+  },
+  {
+    "text": "impressed by though is how good the M4",
+    "start": 50.16,
+    "duration": 4.199
+  },
+  {
+    "text": "Max GPU is compared to the previous",
+    "start": 52.079,
+    "duration": 4.601
+  },
+  {
+    "text": "generation especially at a very similar",
+    "start": 54.359,
+    "duration": 3.84
+  },
+  {
+    "text": "thermal envelope like if you think about",
+    "start": 56.68,
+    "duration": 3.48
+  },
+  {
+    "text": "the competitors in this space like AMD",
+    "start": 58.199,
+    "duration": 4.0
+  },
+  {
+    "text": "Nvidia when they come out with laptop",
+    "start": 60.16,
+    "duration": 5.56
+  },
+  {
+    "text": "gpus typically the new models come also",
+    "start": 62.199,
+    "duration": 5.081
+  },
+  {
+    "text": "come with like an increase in power",
+    "start": 65.72,
+    "duration": 2.719
+  },
+  {
+    "text": "requirement right it's just like you",
+    "start": 67.28,
+    "duration": 3.04
+  },
+  {
+    "text": "know 5 or 10 watts per year but it adds",
+    "start": 68.439,
+    "duration": 4.401
+  },
+  {
+    "text": "up over the course of time and on this",
+    "start": 70.32,
+    "duration": 4.68
+  },
+  {
+    "text": "device if you think about the M1 Max to",
+    "start": 72.84,
+    "duration": 5.52
+  },
+  {
+    "text": "the M4 Max the GPU has improved so much",
+    "start": 75.0,
+    "duration": 5.479
+  },
+  {
+    "text": "with very little increase in power",
+    "start": 78.36,
+    "duration": 3.64
+  },
+  {
+    "text": "consumption The Thermals on this device",
+    "start": 80.479,
+    "duration": 3.201
+  },
+  {
+    "text": "are pretty much the same as last year's",
+    "start": 82.0,
+    "duration": 3.759
+  },
+  {
+    "text": "models in terms of memory the base",
+    "start": 83.68,
+    "duration": 4.119
+  },
+  {
+    "text": "configuration start at 16 GB now",
+    "start": 85.759,
+    "duration": 3.72
+  },
+  {
+    "text": "thankfully and they've also increased",
+    "start": 87.799,
+    "duration": 3.64
+  },
+  {
+    "text": "the memory bandwidth it's noticeable",
+    "start": 89.479,
+    "duration": 3.841
+  },
+  {
+    "text": "already on the base models but the pro",
+    "start": 91.439,
+    "duration": 3.801
+  },
+  {
+    "text": "and Max chips get a significant boost in",
+    "start": 93.32,
+    "duration": 4.079
+  },
+  {
+    "text": "memory speed so for applications that",
+    "start": 95.24,
+    "duration": 3.879
+  },
+  {
+    "text": "lean on Fast memory you definitely",
+    "start": 97.399,
+    "duration": 3.76
+  },
+  {
+    "text": "notice a bump up this year if I'm being",
+    "start": 99.119,
+    "duration": 3.761
+  },
+  {
+    "text": "honest though it's difficult for me to",
+    "start": 101.159,
+    "duration": 3.56
+  },
+  {
+    "text": "tell how much of the gains that we're",
+    "start": 102.88,
+    "duration": 3.36
+  },
+  {
+    "text": "seeing this year come from the memory",
+    "start": 104.719,
+    "duration": 3.961
+  },
+  {
+    "text": "speed increase versus the CPU or the GPU",
+    "start": 106.24,
+    "duration": 4.12
+  },
+  {
+    "text": "increase like they're all tied together",
+    "start": 108.68,
+    "duration": 3.039
+  },
+  {
+    "text": "and I don't have the tools to lock",
+    "start": 110.36,
+    "duration": 3.84
+  },
+  {
+    "text": "memory speed on a Macbook so it's tough",
+    "start": 111.719,
+    "duration": 4.32
+  },
+  {
+    "text": "to tell I will say though that if you",
+    "start": 114.2,
+    "duration": 5.8
+  },
+  {
+    "text": "have an older M1 or M2 or M3 MacBook Pro",
+    "start": 116.039,
+    "duration": 5.321
+  },
+  {
+    "text": "I wouldn't upgrade because Apple's",
+    "start": 120.0,
+    "duration": 3.159
+  },
+  {
+    "text": "silicon performance progresses so fast",
+    "start": 121.36,
+    "duration": 3.759
+  },
+  {
+    "text": "year on-ear that it can pay off to just",
+    "start": 123.159,
+    "duration": 3.56
+  },
+  {
+    "text": "wait as long as you can before you buy",
+    "start": 125.119,
+    "duration": 3.441
+  },
+  {
+    "text": "new hardware okay let's talk about the",
+    "start": 126.719,
+    "duration": 3.361
+  },
+  {
+    "text": "screens so this particular device is",
+    "start": 128.56,
+    "duration": 4.36
+  },
+  {
+    "text": "running their new Nano texture finish",
+    "start": 130.08,
+    "duration": 4.08
+  },
+  {
+    "text": "and it's finish we've seen on other",
+    "start": 132.92,
+    "duration": 3.44
+  },
+  {
+    "text": "devices before right like their screens",
+    "start": 134.16,
+    "duration": 4.56
+  },
+  {
+    "text": "uh the new iPads and every time I've",
+    "start": 136.36,
+    "duration": 5.36
+  },
+  {
+    "text": "ever talked about that texture in a",
+    "start": 138.72,
+    "duration": 5.12
+  },
+  {
+    "text": "video like a review video I've been like",
+    "start": 141.72,
+    "duration": 4.64
+  },
+  {
+    "text": "it's nice but it's not all that special",
+    "start": 143.84,
+    "duration": 6.479
+  },
+  {
+    "text": "at least not to me but check this out so",
+    "start": 146.36,
+    "duration": 6.48
+  },
+  {
+    "text": "on the laptop the one on the left that",
+    "start": 150.319,
+    "duration": 5.92
+  },
+  {
+    "text": "is the Nano texture this is a regular uh",
+    "start": 152.84,
+    "duration": 5.88
+  },
+  {
+    "text": "like the glossy finish and I have an",
+    "start": 156.239,
+    "duration": 5.961
+  },
+  {
+    "text": "overhead light do you see the difference",
+    "start": 158.72,
+    "duration": 5.36
+  },
+  {
+    "text": "in the reflection it's not just like a",
+    "start": 162.2,
+    "duration": 5.039
+  },
+  {
+    "text": "diffusion it's a pretty distinct",
+    "start": 164.08,
+    "duration": 6.68
+  },
+  {
+    "text": "reduction in just light emittance and I",
+    "start": 167.239,
+    "duration": 6.64
+  },
+  {
+    "text": "think okay when it came to the regular",
+    "start": 170.76,
+    "duration": 5.44
+  },
+  {
+    "text": "screens and the iPad I even said this in",
+    "start": 173.879,
+    "duration": 4.921
+  },
+  {
+    "text": "my review of that like it's a nice it's",
+    "start": 176.2,
+    "duration": 4.6
+  },
+  {
+    "text": "a nice feature for some people but for",
+    "start": 178.8,
+    "duration": 3.719
+  },
+  {
+    "text": "me I would never get it but for whatever",
+    "start": 180.8,
+    "duration": 3.799
+  },
+  {
+    "text": "reason on the laptop I looked at this",
+    "start": 182.519,
+    "duration": 4.121
+  },
+  {
+    "text": "I'm like this is awesome I totally would",
+    "start": 184.599,
+    "duration": 3.92
+  },
+  {
+    "text": "get this if I was buying this year's",
+    "start": 186.64,
+    "duration": 5.28
+  },
+  {
+    "text": "device and I think it's because on a",
+    "start": 188.519,
+    "duration": 4.681
+  },
+  {
+    "text": "laptop your face tends to be a little",
+    "start": 191.92,
+    "duration": 3.12
+  },
+  {
+    "text": "bit closer to the screen because we're",
+    "start": 193.2,
+    "duration": 3.56
+  },
+  {
+    "text": "just like you know that's how we use a",
+    "start": 195.04,
+    "duration": 3.199
+  },
+  {
+    "text": "laptops versus a desktop you tend to be",
+    "start": 196.76,
+    "duration": 2.36
+  },
+  {
+    "text": "a little bit further away from the",
+    "start": 198.239,
+    "duration": 2.28
+  },
+  {
+    "text": "screen and because it's a little bit",
+    "start": 199.12,
+    "duration": 3.119
+  },
+  {
+    "text": "closer I just find that the reflections",
+    "start": 200.519,
+    "duration": 4.521
+  },
+  {
+    "text": "that are being muted by this finish are",
+    "start": 202.239,
+    "duration": 4.161
+  },
+  {
+    "text": "like it just seems to have more impact",
+    "start": 205.04,
+    "duration": 3.8
+  },
+  {
+    "text": "there's just more value to that feature",
+    "start": 206.4,
+    "duration": 5.839
+  },
+  {
+    "text": "So it's 15 option and it's also not like",
+    "start": 208.84,
+    "duration": 5.36
+  },
+  {
+    "text": "a coating or some kind of layer that",
+    "start": 212.239,
+    "duration": 3.801
+  },
+  {
+    "text": "they put on top it's part of the glass",
+    "start": 214.2,
+    "duration": 3.8
+  },
+  {
+    "text": "it's like a a treatment for the glass",
+    "start": 216.04,
+    "duration": 3.52
+  },
+  {
+    "text": "they etch it with some kind of acid and",
+    "start": 218.0,
+    "duration": 4.04
+  },
+  {
+    "text": "it just does this to the glass and",
+    "start": 219.56,
+    "duration": 4.16
+  },
+  {
+    "text": "supposedly it doesn't affect the",
+    "start": 222.04,
+    "duration": 5.24
+  },
+  {
+    "text": "durability or like fragility of it but",
+    "start": 223.72,
+    "duration": 5.439
+  },
+  {
+    "text": "we'll have to see the other new feature",
+    "start": 227.28,
+    "duration": 3.08
+  },
+  {
+    "text": "for the screens this year is that they",
+    "start": 229.159,
+    "duration": 2.681
+  },
+  {
+    "text": "now get brighter these now are able to",
+    "start": 230.36,
+    "duration": 3.12
+  },
+  {
+    "text": "hit a thousand nits at the top end but",
+    "start": 231.84,
+    "duration": 3.0
+  },
+  {
+    "text": "in order to get it you have to be in a",
+    "start": 233.48,
+    "duration": 2.88
+  },
+  {
+    "text": "really bright environment for that",
+    "start": 234.84,
+    "duration": 3.28
+  },
+  {
+    "text": "detector to be like okay you need that",
+    "start": 236.36,
+    "duration": 4.04
+  },
+  {
+    "text": "extra brightness it's a nice feature ad",
+    "start": 238.12,
+    "duration": 3.6
+  },
+  {
+    "text": "but I wouldn't be buying a new device",
+    "start": 240.4,
+    "duration": 3.08
+  },
+  {
+    "text": "just for that brighter screen and also",
+    "start": 241.72,
+    "duration": 3.519
+  },
+  {
+    "text": "there's apps like better display that",
+    "start": 243.48,
+    "duration": 3.759
+  },
+  {
+    "text": "crank up the brightness of your screen",
+    "start": 245.239,
+    "duration": 4.28
+  },
+  {
+    "text": "like beyond the stock levels if that's",
+    "start": 247.239,
+    "duration": 4.28
+  },
+  {
+    "text": "something that you really need uh okay",
+    "start": 249.519,
+    "duration": 4.44
+  },
+  {
+    "text": "ports so the number of USBC ports has",
+    "start": 251.519,
+    "duration": 4.521
+  },
+  {
+    "text": "increased on the baseall from two to",
+    "start": 253.959,
+    "duration": 4.481
+  },
+  {
+    "text": "three so last year's M3 MacBook Pro at",
+    "start": 256.04,
+    "duration": 4.479
+  },
+  {
+    "text": "the base only had these two USBC ports",
+    "start": 258.44,
+    "duration": 4.479
+  },
+  {
+    "text": "on the left and then on the right there",
+    "start": 260.519,
+    "duration": 5.081
+  },
+  {
+    "text": "was no third USBC Port but now all of",
+    "start": 262.919,
+    "duration": 5.401
+  },
+  {
+    "text": "the MacBook Pros the M4 devices all have",
+    "start": 265.6,
+    "duration": 5.72
+  },
+  {
+    "text": "three USBC ports now now on the base M4",
+    "start": 268.32,
+    "duration": 5.4
+  },
+  {
+    "text": "it is still just Thunderbolt 4 and then",
+    "start": 271.32,
+    "duration": 5.0
+  },
+  {
+    "text": "on the M4 Pro and M4 Max chips they're",
+    "start": 273.72,
+    "duration": 4.12
+  },
+  {
+    "text": "Thunderbolt 5 now I've said this some",
+    "start": 276.32,
+    "duration": 3.719
+  },
+  {
+    "text": "previous videos but Thunderbolt 5 is not",
+    "start": 277.84,
+    "duration": 4.12
+  },
+  {
+    "text": "particularly useful for most people in",
+    "start": 280.039,
+    "duration": 4.281
+  },
+  {
+    "text": "terms of like having faster storage",
+    "start": 281.96,
+    "duration": 4.679
+  },
+  {
+    "text": "because Thunderbolt 3 and4 are plenty",
+    "start": 284.32,
+    "duration": 5.12
+  },
+  {
+    "text": "fast for that but Thunderbolt 5 enables",
+    "start": 286.639,
+    "duration": 4.441
+  },
+  {
+    "text": "higher resolution displays because of",
+    "start": 289.44,
+    "duration": 3.319
+  },
+  {
+    "text": "that extra bandwidth if that's important",
+    "start": 291.08,
+    "duration": 3.36
+  },
+  {
+    "text": "to you the battery life is supposed to",
+    "start": 292.759,
+    "duration": 3.561
+  },
+  {
+    "text": "be longer lasting this generation the",
+    "start": 294.44,
+    "duration": 3.72
+  },
+  {
+    "text": "battery size stays the same but for my",
+    "start": 296.32,
+    "duration": 3.4
+  },
+  {
+    "text": "testing I didn't see too much of a gain",
+    "start": 298.16,
+    "duration": 3.72
+  },
+  {
+    "text": "with heavy workflows on the 14-in model",
+    "start": 299.72,
+    "duration": 3.72
+  },
+  {
+    "text": "but for lighter tasks it was definitely",
+    "start": 301.88,
+    "duration": 3.56
+  },
+  {
+    "text": "a little bit longer lasting the webcam",
+    "start": 303.44,
+    "duration": 3.24
+  },
+  {
+    "text": "has improved over the previous",
+    "start": 305.44,
+    "duration": 3.4
+  },
+  {
+    "text": "generation the M4 MacBook Pros are now",
+    "start": 306.68,
+    "duration": 4.84
+  },
+  {
+    "text": "running a 12 megapixel sensor and this",
+    "start": 308.84,
+    "duration": 4.88
+  },
+  {
+    "text": "because of the higher resolution enables",
+    "start": 311.52,
+    "duration": 4.8
+  },
+  {
+    "text": "Center Stage so as you move around it'll",
+    "start": 313.72,
+    "duration": 4.52
+  },
+  {
+    "text": "kind of track your face and do the stuff",
+    "start": 316.32,
+    "duration": 3.999
+  },
+  {
+    "text": "we've seen on like iPads and iMacs it's",
+    "start": 318.24,
+    "duration": 3.959
+  },
+  {
+    "text": "a neat feature and I do think that the",
+    "start": 320.319,
+    "duration": 4.481
+  },
+  {
+    "text": "image quality is better but it's very",
+    "start": 322.199,
+    "duration": 4.881
+  },
+  {
+    "text": "slight like this is still a very thin",
+    "start": 324.8,
+    "duration": 3.8
+  },
+  {
+    "text": "panel on the screen so you can't put",
+    "start": 327.08,
+    "duration": 5.28
+  },
+  {
+    "text": "like huge sens or huge Optics in that uh",
+    "start": 328.6,
+    "duration": 6.319
+  },
+  {
+    "text": "webcam area Okay uh the other thing",
+    "start": 332.36,
+    "duration": 4.119
+  },
+  {
+    "text": "that's changed for this year is they've",
+    "start": 334.919,
+    "duration": 3.881
+  },
+  {
+    "text": "gotten rid of the space gray coloration",
+    "start": 336.479,
+    "duration": 5.401
+  },
+  {
+    "text": "which is I think a huge shame this is",
+    "start": 338.8,
+    "duration": 4.76
+  },
+  {
+    "text": "the space black it's not like a new",
+    "start": 341.88,
+    "duration": 3.8
+  },
+  {
+    "text": "color but they don't have space gray",
+    "start": 343.56,
+    "duration": 4.24
+  },
+  {
+    "text": "anymore it's the only dark colored",
+    "start": 345.68,
+    "duration": 4.72
+  },
+  {
+    "text": "MacBook Pro they have uh but otherwise",
+    "start": 347.8,
+    "duration": 5.16
+  },
+  {
+    "text": "it's a nice bump I think the performance",
+    "start": 350.4,
+    "duration": 4.519
+  },
+  {
+    "text": "this year is much more impressive than I",
+    "start": 352.96,
+    "duration": 3.16
+  },
+  {
+    "text": "thought it would be particularly on the",
+    "start": 354.919,
+    "duration": 3.361
+  },
+  {
+    "text": "GPU component uh but yeah there you have",
+    "start": 356.12,
+    "duration": 6.4
+  },
+  {
+    "text": "it that's the new M4 Max MacBook Pros",
+    "start": 358.28,
+    "duration": 4.24
+  }
+]

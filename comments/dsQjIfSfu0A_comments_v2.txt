@@ -2,17 +2,17 @@
 Video Title: Somehow the MacBook Pro became a BARGAIN.
 Channel:     Hardware Canucks
 URL:         https://youtube.com/watch?v=dsQjIfSfu0A
-Views:       56,927
-Top-level:   154 comments
-Replies:     276 comments
-Total:       430 comments
+Views:       60,835
+Top-level:   164 comments
+Replies:     283 comments
+Total:       447 comments
 ============================================================
 
 【Sentiment Analysis Summary】
 ------------------------------------------------------------
-Positive: 67 (16.1%)
-Negative: 177 (42.7%)
-Neutral:  171  (41.2%)
+Positive: 70 (16.2%)
+Negative: 180 (41.8%)
+Neutral:  181  (42.0%)
 
 Top 5 Most Positive Comments:
   1. [0.99] great review as always eber. looking forward to your experience with the iphone 
@@ -91,38 +91,56 @@ What's cringe is your ignorance in comparing such a laptop, in fact any current 
 
 ------------------------------------------------------------
 
-[5] ✅ @Kjaywest  👍0  2026-02-15
+[5] ➖ @SunSunVunVun  👍0  2026-02-19
+Original: So... with the rise in memory prices for ai hogs.  
+
+So..... Would this mean -- that if you do trade in, for upgrades -- that you get more for the trade in price, to the point where companies pays you to upgrade & own it ??????
+Sentiment: neutral (confidence 0.92)
+
+------------------------------------------------------------
+
+[6] ✅ @Kjaywest  👍0  2026-02-15
 Original: I need to upgrade from my M2 Pro MBP. I went out and got a new M4 Pro MBP and my job finally upgraded my old M1 MBA 2 days later. LOL now I have a MBP that I’m not using as much because I was using it for work. I have no issues with MacOS 26 at all. I’m sorry for the ones who have issues with it.
 Sentiment: positive (confidence 0.48)
 
 ------------------------------------------------------------
 
-[6] ➖ @faizanbaber  👍0  2026-02-18
+[7] ➖ @faizanbaber  👍0  2026-02-18
 Original: Considering I spent $2000 on lenovo legion 5i and got a macbook pro m5 from work that is worth $1500 and handles the same workload and have hourss long battery 
 It surely is a bargain if you don't play games
 Sentiment: neutral (confidence 0.54)
 
 ------------------------------------------------------------
 
-[7] ❌ @ThisIsSoMEan  👍1  2026-02-18
+[8] ❌ @ThisIsSoMEan  👍1  2026-02-18
 Original: Comparing a passively cooled MacBook Air M4 to the actively cooled MacBook Pro M5 seems quite „sneaky“, I mean, misleading.
 Sentiment: negative (confidence 0.72)
 
 ------------------------------------------------------------
 
-[8] ✅ @saturnotaku  👍0  2026-02-16
+[9] ✅ @saturnotaku  👍0  2026-02-16
 Original: I got a base M5 MBP for $1349 brand new over the holidays. At that price, I think it's worth it. That said, the outgoing entry-level M4 Pro model is regularly being discounted to $1750-1800, which makes it a stronger value than the M5 at $1599 since you're getting better GPU performance, 24 GB of unified memory, and a laptop that is quieter under load because of its dual-fan cooling solution.
 Sentiment: positive (confidence 0.82)
 
 ------------------------------------------------------------
 
-[9] ❌ @AndreHansen96  👍0  2026-02-17
+[10] ❌ @AndreHansen96  👍0  2026-02-17
 Original: MacOS Tahoe and iOS 26 both sucks. Lots of gimmicks like transparent glass look, unnecessary bloat, bugs, UI clutter (like adding 4 steps to something that used to take 1 step) and worst of all, it drains battery way faster than what it should. I hate the latest operating systems. Wtf are apple doing ??
 Sentiment: negative (confidence 0.95)
 
 ------------------------------------------------------------
 
-[10] ❌ @florider_hd  👍0  2026-02-17
+[11] ➖ @adamlourenco  👍1  2026-02-19
+Original: 8:36 I know a Teddy Baldassarre fan when I see one 🤝
+Sentiment: neutral (confidence 0.64)
+
+    ↳ ✅ @thedrivenote  👍0  2026-02-19
+    Original: Teddy is the GOAT
+    Sentiment: positive (confidence 0.90)
+
+------------------------------------------------------------
+
+[12] ❌ @florider_hd  👍0  2026-02-17
 Original: Chill unc. It’s not a bargain if it only has 16GB of ram and 512gb internal storage. Once you go up to usable specs it’s not that good of a deal anymore
 Sentiment: negative (confidence 0.63)
 
@@ -132,18 +150,18 @@ Sentiment: negative (confidence 0.63)
 
 ------------------------------------------------------------
 
-[11] ❌ @emmanuelibarra435  👍8  2026-02-16
+[13] ❌ @emmanuelibarra435  👍8  2026-02-16
 Original: As a tech enthusiast, I don't settle for base models because every time I come up with demanding use case scenarios, I never feel like I have enough performance. Even when I have high end hardware, I always find ways to push it to its limits regardless if it's intentional or not.
 Sentiment: negative (confidence 0.50)
 
 ------------------------------------------------------------
 
-[12]  @JosephDickson  👍0  2026-02-15
+[14]  @JosephDickson  👍0  2026-02-15
 Original: Gaming. 😂
 
 ------------------------------------------------------------
 
-[13] ❌ @Dras7  👍2  2026-02-15
+[15] ❌ @Dras7  👍2  2026-02-15
 Original: I really like the new xps laptops but the value is totally not there, you really must need windows to not get a MacBook when comparing the 2.
 Sentiment: negative (confidence 0.57)
 
@@ -153,19 +171,19 @@ Sentiment: negative (confidence 0.57)
 
 ------------------------------------------------------------
 
-[14] ❌ @evanjrowley  👍0  2026-02-17
+[16] ❌ @evanjrowley  👍0  2026-02-17
 Original: I regret not buying one during the holidays when the price was $1349
 Sentiment: negative (confidence 0.62)
 
 ------------------------------------------------------------
 
-[15] ❌ @aliquresh87  👍0  2026-02-15
+[17] ❌ @aliquresh87  👍0  2026-02-15
 Original: The only reason I haven't gotten one is gaming. I know you can use Crossover, but the performance isn't great unless you get the higher end tier MacBooks.
 Sentiment: negative (confidence 0.85)
 
 ------------------------------------------------------------
 
-[16] ❌ @MS12-u5p  👍0  2026-02-15
+[18] ❌ @MS12-u5p  👍0  2026-02-15
 Original: I refuse to upgrade the OS, all platforms have been bad this new era launch.
 Sentiment: negative (confidence 0.95)
 
@@ -179,7 +197,7 @@ Sentiment: negative (confidence 0.95)
 
 ------------------------------------------------------------
 
-[17] ❌ @billionnaire1  👍2  2026-02-15
+[19] ❌ @billionnaire1  👍2  2026-02-15
 Original: The RAM is the issue, most non apple laptops at this price are coming with 32GB of Ram and usualy 1TB of storage.
 Sentiment: negative (confidence 0.68)
 
@@ -189,7 +207,7 @@ Sentiment: negative (confidence 0.68)
 
 ------------------------------------------------------------
 
-[18] ➖ @onimashou  👍1  2026-02-15
+[20] ➖ @onimashou  👍1  2026-02-15
 Original: Just bought a M1 Max 64gb 32 core MacBook Pro
 Sentiment: neutral (confidence 0.69)
 
@@ -199,32 +217,32 @@ Sentiment: neutral (confidence 0.69)
 
 ------------------------------------------------------------
 
-[19] ➖ @chrislopezzapata  👍0  2026-02-16
+[21] ➖ @chrislopezzapata  👍0  2026-02-16
 Original: Original MacBook Air had active cooling. It would be a more cost saving and incremental feature difference for their product segmentation as to why 7:03
 Sentiment: neutral (confidence 0.70)
 
 ------------------------------------------------------------
 
-[20] ❌ @aymanjc4146  👍0  2026-02-15
+[22] ❌ @aymanjc4146  👍0  2026-02-15
 Original: At first Windows laptop were dying because of Intel now windows laptop is dying because of Microsoft and Intel pricing.
 Sentiment: negative (confidence 0.87)
 
 ------------------------------------------------------------
 
-[21] ❌ @frostgodx  👍0  2026-02-18
+[23] ❌ @frostgodx  👍0  2026-02-18
 Original: Hilariously when M1 came out then M2 everything was seemingly so overpriced it was insane and each upgrade hurt. Never did i think in only a few years the prices barely shift but everything else raises to that level to the point where we are now. Its actually wild.
 Sentiment: negative (confidence 0.76)
 
 ------------------------------------------------------------
 
-[22] ✅ @HanniVlad  👍0  2026-02-16
+[24] ✅ @HanniVlad  👍0  2026-02-16
 Original: It's kinda funny to notice Apple's popular price policy, also thanks to a clever RAM chip deal that's keeping prices unusually low – while everybody used to talk about "Apple tax" on RAM…
 This M5 is a real powerhouse, at the point I'd like to stick the M5 logo by BMW on the cover 😁
 Sentiment: positive (confidence 0.92)
 
 ------------------------------------------------------------
 
-[23] ➖ @Tyler_Durden_99  👍174  2026-02-15
+[25] ➖ @Tyler_Durden_99  👍174  2026-02-15
 Original: Seems pedantic maybe but id trust a M1 MBP to M5 MBP comparison more than a M1 Macbook Air  to M5 Macbook pro
 Sentiment: neutral (confidence 0.72)
 
@@ -272,21 +290,29 @@ Sentiment: neutral (confidence 0.72)
     Original: The AIR is so under rated. I use my M3 Air for work that my desktop PC can't do faster lol.
     Sentiment: negative (confidence 0.78)
 
+    ↳ ➖ @Emerald_City_  👍0  2026-02-19
+    Original: @alexct3912 the guy has what he has
+    Sentiment: neutral (confidence 0.84)
+
+    ↳ ➖ @Emerald_City_  👍0  2026-02-19
+    Original: No, not pedantic, I just thought the same
+    Sentiment: neutral (confidence 0.64)
+
 ------------------------------------------------------------
 
-[24] ❌ @achintgupta8533  👍3  2026-02-15
+[26] ❌ @achintgupta8533  👍3  2026-02-15
 Original: The MacBook Air packages get less power than the pros. Saying that the m5 is getting double the power than the m4 and that’s why it’s so much better is stupid. You should have used an m4 MacBook Pro for actual real differences where you would see that they use similar power levels, with the m5 using just a bit more not double
 Sentiment: negative (confidence 0.49)
 
 ------------------------------------------------------------
 
-[25] ❌ @Renbits  👍0  2026-02-17
+[27] ❌ @Renbits  👍0  2026-02-17
 Original: wish u had mentioned that it's not a good time to buy a new mac, since the m5 pro/max are around the corner (even if someone only wants a base m5, there will probably be used market deals on them), not to mention the m6 with oled in september
 Sentiment: negative (confidence 0.75)
 
 ------------------------------------------------------------
 
-[26] ❌ @Marko-nx9eq  👍0  2026-02-15
+[28] ❌ @Marko-nx9eq  👍0  2026-02-15
 Original: Close but not yet imho.  If you run macOS only after reboot, 15 GB RAM is eaten (don't forget that is ram is shared) so 32 GB is bare minimum. 512 GB for 2026 and media producers is big joke. If you want upgrade, you must buy new. OLED display, 2TB  SSD and 32GB  RAM for that price is ok.
 Sentiment: negative (confidence 0.50)
 
@@ -296,7 +322,7 @@ Sentiment: negative (confidence 0.50)
 
 ------------------------------------------------------------
 
-[27] ✅ @KyleSand  👍0  2026-02-15
+[29] ✅ @KyleSand  👍0  2026-02-15
 Original: I think you should pick up an MSI Prestige with the new intel x9 388H,  64gb ram, 2tb nvme, oled 120hz for 2600 CAD at memory express.  Looks like the best value out there.
 Sentiment: positive (confidence 0.89)
 
@@ -310,7 +336,7 @@ Sentiment: positive (confidence 0.89)
 
 ------------------------------------------------------------
 
-[28] ❌ @JaimeChereau  👍2  2026-02-15
+[30] ❌ @JaimeChereau  👍2  2026-02-15
 Original: Today, it seems that running local LLMs is more of a way to validate computer prices than for real value. Nobody runs a local LLM for serious work, not when you can use a state-of-the-art model for $20 a month. If you want a truly useful local LLM, you'll probably have to spend MUCH more than that.
 Sentiment: negative (confidence 0.72)
 
@@ -324,13 +350,13 @@ Sentiment: negative (confidence 0.72)
 
 ------------------------------------------------------------
 
-[29] ✅ @Nutmeg8o9  👍1  2026-02-15
+[31] ✅ @Nutmeg8o9  👍1  2026-02-15
 Original: For all the folks complaining that macOS can't game.. Codeweavers has came a long way with their work on WINE. Crossover (the commercial version of wine for macOS and Linux) can run almost every game that the SteamDeck can, except for the 2-3 games that are patched for anticheat. Plus, the M5 is over 100% faster.
 Sentiment: positive (confidence 0.59)
 
 ------------------------------------------------------------
 
-[30] ✅ @slik2  👍9  2026-02-15
+[32] ✅ @slik2  👍9  2026-02-15
 Original: Would've loved to go for the latest M5 chip but settled for 2022 M2 Air - Supports Linux. A smart looking machine, amazing performance. Life is now good.
 Sentiment: positive (confidence 0.96)
 
@@ -338,9 +364,13 @@ Sentiment: positive (confidence 0.96)
     Original: Is Asahi Linux actually good now? Heard that battery life takes a big, big hit compared to MacOS. Which sort of defeats the point of getting a Mac
     Sentiment: negative (confidence 0.84)
 
+    ↳ ➖ @MUR47_k  👍0  2026-02-19
+    Original: @ClassicalRaritiesChannel does that mean you can run steam os ?
+    Sentiment: neutral (confidence 0.92)
+
 ------------------------------------------------------------
 
-[31] ➖ @metamon2704  👍1  2026-02-16
+[33] ➖ @metamon2704  👍1  2026-02-16
 Original: I'd get one if I could run linux on it.
 Sentiment: neutral (confidence 0.49)
 
@@ -349,7 +379,7 @@ Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[32] ✅ @monsG165  👍8  2026-02-15
+[34] ✅ @monsG165  👍8  2026-02-15
 Original: I got a MacBook Air with 16GB of ram for 999 and honestly couldn’t be happier. Because I am done with Microslop.
 Sentiment: positive (confidence 0.97)
 
@@ -359,13 +389,13 @@ Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[33] ✅ @ketz555  👍0  2026-02-17
+[35] ✅ @ketz555  👍0  2026-02-17
 Original: I think you're convincing me to get a M4 air. The efficiency at 12w is really good
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[34] ✅ @akin242002  👍13  2026-02-15
+[36] ✅ @akin242002  👍13  2026-02-15
 Original: Whey did this seem like an extended commercial for the M5 MBP?  Most M2-M4 Air users will never push their laptops to those extreme multi-core CPU performance levels.  The M2 Air single core CPU performance is still excellent to this very day. 
 
 The only rational reasons to get the M5 MBP from that audience (MacBook Air crowd) is for the extra ports, better display, better screen refresh rate, and to play the new games available for MacOS.
@@ -401,19 +431,25 @@ Let alone the fact that you can get an M4 Air for half the price of the M5 and u
 
 ------------------------------------------------------------
 
-[35] ➖ @defianceforhumanity  👍0  2026-02-16
+[37] ➖ @arlonyd  👍0  2026-02-19
+Original: A "Pro" device should have at least a 512GB base storage. Leaning more to 1TB. 16GB ram is just ok.
+Sentiment: neutral (confidence 0.50)
+
+------------------------------------------------------------
+
+[38] ➖ @defianceforhumanity  👍0  2026-02-16
 Original: Simping for Apple in 2026 🤦
 Sentiment: neutral (confidence 0.66)
 
 ------------------------------------------------------------
 
-[36] ➖ @Xathos  👍1  2026-02-15
+[39] ➖ @Xathos  👍1  2026-02-15
 Original: Bro looks like he's trying to sell me an Apple device.
 Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[37] ➖ @jonvalde  👍1  2026-02-15
+[40] ➖ @jonvalde  👍1  2026-02-15
 Original: Bargain is pushing it for a 16gb ram with 512gb storage in 2026
 Sentiment: neutral (confidence 0.83)
 
@@ -427,19 +463,19 @@ Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[38] ✅ @BrotherO4  👍0  2026-02-15
+[41] ✅ @BrotherO4  👍0  2026-02-15
 Original: what made the m1 so great is listed right on the score. its power usage. its very low power usage with the performance. what i am seeing is that yes double the performance but at a greater than 3x the power usage. assuming the watt number is the power usage. so the question is did apple manage to get the fan noise back down to m1 levels with the m5s?
 Sentiment: positive (confidence 0.53)
 
 ------------------------------------------------------------
 
-[39] ✅ @mike36525  👍0  2026-02-17
+[42] ✅ @mike36525  👍0  2026-02-17
 Original: Great review as always Eber. Looking forward to your experience with the iPhone Air!! Also wondering if you'll be releasing a review of the Pixel 10? Your other Pixel reviews are right on point, so hopeful to see more phone review content. Thanks.
 Sentiment: positive (confidence 0.99)
 
 ------------------------------------------------------------
 
-[40] ❌ @SuperWolfkin  👍0  2026-02-15
+[43] ❌ @SuperWolfkin  👍0  2026-02-15
 Original: good grief this AI stuff is just never ending. i get it channel's gotta channel but it's like this stain on everything I see.
 Sentiment: negative (confidence 0.94)
 
@@ -449,31 +485,31 @@ Sentiment: negative (confidence 0.94)
 
 ------------------------------------------------------------
 
-[41] ✅ @singular9  👍0  2026-02-17
+[44] ✅ @singular9  👍0  2026-02-17
 Original: I bought my M3 Air 15" with 16GB+512GB for SUB 900$ and it BLOWS the competition out of the water.
 I can comfortably edit my 4k HDR 60fps FPV footage all day and export to H265 in under a minute. ON AN AIR.
 Sentiment: positive (confidence 0.87)
 
 ------------------------------------------------------------
 
-[42] ➖ @superamario64  👍0  2026-02-15
+[45] ➖ @superamario64  👍0  2026-02-15
 Original: Your breath intake is audible . Please use a pop mic
 Sentiment: neutral (confidence 0.77)
 
 ------------------------------------------------------------
 
-[43] ❌ @LandonMorrow-g1w  👍5  2026-02-15
+[46] ❌ @LandonMorrow-g1w  👍5  2026-02-15
 Original: What kind of apple add is this??? 😂😂😂 The MacBook Pro m5 is 2x faster than the m4 air thanks the the uplifts in power concumtion? NO SHART THEY ARE TWO DIFFERENT MODELS. MF comparing a pro to the base spec and saying that the fan helps the bro is dumb ass type stuff. Compare the m4 pro OF THE SAME DAMN SPEC TO THE m5 PRO OF THE SAME DAMN SPEC. JESUS YOU CANT ACOUNT THE UPLIFT TO A BETTER MODEL NUMBER THAT WAS ALSO AVAILABLE FOR M4. Im sorry im low key so mad I watched this tho. I like apple like a lot of you but this is the equivalent of when apple has a graph that just says the new product is 2x faster without providing what its faster than 😂😂😂
 Sentiment: negative (confidence 0.66)
 
 ------------------------------------------------------------
 
-[44]  @cocobjorn  👍0  2026-02-15
+[47]  @cocobjorn  👍0  2026-02-15
 Original: Awesome
 
 ------------------------------------------------------------
 
-[45] ➖ @st33ldi9ital  👍3  2026-02-15
+[48] ➖ @st33ldi9ital  👍3  2026-02-15
 Original: they own the supply...
 Sentiment: neutral (confidence 0.75)
 
@@ -483,13 +519,13 @@ Sentiment: neutral (confidence 0.75)
 
 ------------------------------------------------------------
 
-[46] ✅ @wisdomyaw03  👍0  2026-02-16
+[49] ✅ @wisdomyaw03  👍0  2026-02-16
 Original: 3:47 The “Neural Accelerators” addition to the M5 GPU are for matrix-matrix multiplication which benefits prompt processing when using LLMs. Token generation is memory bound. You’ll notice the improvement even more with diffusion models.
 Sentiment: positive (confidence 0.82)
 
 ------------------------------------------------------------
 
-[47] ❌ @einstien2409  👍1  2026-02-16
+[50] ❌ @einstien2409  👍1  2026-02-16
 Original: It's not a bargain if it says 16GB ram and 512GB SSD for 1600$. That's crazy expensive.
 Sentiment: negative (confidence 0.84)
 
@@ -511,55 +547,67 @@ Sentiment: negative (confidence 0.84)
 
 ------------------------------------------------------------
 
-[48] ✅ @Domino3k  👍0  2026-02-15
+[51] ✅ @Domino3k  👍0  2026-02-15
 Original: Well done with this information.  Thank you.  Currently have an M4 and personally don’t have a need to upgrade but I thought I was going crazy with the Tahoe OS. Glad to see I’m not the only one
 Sentiment: positive (confidence 0.83)
 
 ------------------------------------------------------------
 
-[49] ✅ @lordv1le859  👍0  2026-02-15
+[52] ✅ @lordv1le859  👍0  2026-02-15
 Original: They’ve been like this for 5 years? I bought my 14” M1 Pro MacBook in 2021 and it’s still better than most other laptops.
 Sentiment: positive (confidence 0.82)
 
 ------------------------------------------------------------
 
-[50] ➖ @padistedor457  👍2  2026-02-15
+[53] ❌ @davekc7431  👍0  2026-02-19
+Original: Ngl …. Too chonky to lug around… waiting for thinner lighter M6 redesign . Dont hate on me
+Sentiment: negative (confidence 0.59)
+
+------------------------------------------------------------
+
+[54] ➖ @padistedor457  👍2  2026-02-15
 Original: I still use a 27" iMac with 40GB RAM from 2017 and have a M1 Macbook Air. They do everything I need to do and won't be upgrading unless something breaks.
 Sentiment: neutral (confidence 0.51)
 
 ------------------------------------------------------------
 
-[51] ❌ @TheFourthWinchester  👍0  2026-02-18
+[55] ❌ @TheFourthWinchester  👍0  2026-02-18
 Original: Buggy software though.
 Sentiment: negative (confidence 0.72)
 
 ------------------------------------------------------------
 
-[52] ➖ @Doctor_Technopolis  👍1  2026-02-15
+[56] ➖ @Doctor_Technopolis  👍1  2026-02-15
 Original: "addressed in the recent 26.2 update".... ummm, we're on 26.3 now, mate.
 Sentiment: neutral (confidence 0.90)
 
 ------------------------------------------------------------
 
-[53] ➖ @eekhead1  👍0  2026-02-18
+[57] ➖ @eekhead1  👍0  2026-02-18
 Original: Have the pixel response times improved with this refresh?
 Sentiment: neutral (confidence 0.75)
 
 ------------------------------------------------------------
 
-[54] ✅ @strato_5459  👍0  2026-02-15
+[58] ➖ @SPER1  👍0  2026-02-19
+Original: Why are you comparing an M5 MacBook Pro to M1, M2, M3, M4 MacBook Airs?
+Sentiment: neutral (confidence 0.60)
+
+------------------------------------------------------------
+
+[59] ✅ @strato_5459  👍0  2026-02-15
 Original: just picked up my m5 MBP and im in love with it over my windows laptops
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[55] ➖ @willy7968  👍0  2026-02-17
+[60] ➖ @willy7968  👍0  2026-02-17
 Original: It's $1449 RN on Amazon RN but I think I will still stick to my 16 inches M1 Pro laptop
 Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[56] ➖ @rebeccawarren2976  👍0  2026-02-15
+[61] ➖ @rebeccawarren2976  👍0  2026-02-15
 Original: I was ready to switch to Apple but recently I saw that beautiful Tandem OLED screen in Lenovo Yoga and now I don't know what to do!
 Sentiment: neutral (confidence 0.41)
 
@@ -577,7 +625,7 @@ Sentiment: neutral (confidence 0.41)
 
 ------------------------------------------------------------
 
-[57] ✅ @Razear  👍0  2026-02-16
+[62] ✅ @Razear  👍0  2026-02-16
 Original: There's no question the build quality is excellent. But you're SOL as far as user upgradability/reparability without having to pay an arm and a leg to Apple.
 Sentiment: positive (confidence 0.86)
 
@@ -587,7 +635,7 @@ Sentiment: positive (confidence 0.86)
 
 ------------------------------------------------------------
 
-[58] ❌ @edrozenberg  👍0  2026-02-15
+[63] ❌ @edrozenberg  👍0  2026-02-15
 Original: Pretty much all the Mac hardware is awesome these days (except for the huge price premiums of mem/ssd upgrades). Too bad the latest Liquid Ass software is terrible, personally am avoiding all the latest v26 OS's on all my devices. We'll see what happens with v27 in the summer. Luckily M4 devices will always support Sequoia and hopefully Apple will keep shipping minor Sequoia updates for another year or two.
 Sentiment: negative (confidence 0.58)
 
@@ -597,7 +645,7 @@ Sentiment: negative (confidence 0.58)
 
 ------------------------------------------------------------
 
-[59] ❌ @glendatilly  👍26  2026-02-15
+[64] ❌ @glendatilly  👍26  2026-02-15
 Original: is this even real life anymore
 Sentiment: negative (confidence 0.72)
 
@@ -638,7 +686,7 @@ Sentiment: negative (confidence 0.72)
 
 ------------------------------------------------------------
 
-[60] ❌ @FinalLightNL  👍1  2026-02-15
+[65] ❌ @FinalLightNL  👍1  2026-02-15
 Original: Just wish the touchbar came back
 Sentiment: negative (confidence 0.62)
 
@@ -648,7 +696,7 @@ Sentiment: negative (confidence 0.62)
 
 ------------------------------------------------------------
 
-[61] ➖ @ravipeiris4388  👍0  2026-02-15
+[66] ➖ @ravipeiris4388  👍0  2026-02-15
 Original: There yet to be a video where the reviewer is 100% happy with any laptop 😢.
 Sentiment: neutral (confidence 0.48)
 
@@ -658,7 +706,7 @@ Sentiment: neutral (confidence 0.48)
 
 ------------------------------------------------------------
 
-[62] ✅ @RussellBaker  👍0  2026-02-15
+[67] ✅ @RussellBaker  👍0  2026-02-15
 Original: My M1 MBP is still fantastic, I feel like there's still not enough uplift for me to get upgrade-itis. The Intel MBP before the M1, the last couple of OS updates tanked its performance, so looks like its going to be the same here, I upgrade when Apple decicdes.
 Sentiment: positive (confidence 0.67)
 
@@ -667,7 +715,7 @@ Sentiment: positive (confidence 0.67)
 
 ------------------------------------------------------------
 
-[63] ➖ @bilawalm1  👍92  2026-02-15
+[68] ➖ @bilawalm1  👍92  2026-02-15
 Original: 1:24 Isn't Mac also 2199 with 32GB ram and 1 tb storage.
 Sentiment: neutral (confidence 0.68)
 
@@ -846,13 +894,13 @@ So if you want to run AutoCad 2025 on on MacOS, you fire up MacOS, the HOST OS, 
 
 ------------------------------------------------------------
 
-[64] ❌ @coreyagainagainagain  👍0  2026-02-17
+[69] ❌ @coreyagainagainagain  👍0  2026-02-17
 Original: who thought it was a good idea to use the macbook air models for the older chips and the pro for the m5? fine for short benchmarks but even a 10 minute cinebench multi core will thermal throttle on the air
 Sentiment: negative (confidence 0.61)
 
 ------------------------------------------------------------
 
-[65] ✅ @weizenw  👍1  2026-02-16
+[70] ✅ @weizenw  👍1  2026-02-16
 Original: Mac has always been the best option of you care about build quality.
 Sentiment: positive (confidence 0.89)
 
@@ -864,7 +912,7 @@ If you're only comparing to cheap Windows laptop, sure. But if you compare to pr
 
 ------------------------------------------------------------
 
-[66] ➖ @bilawalm1  👍9  2026-02-15
+[71] ➖ @bilawalm1  👍9  2026-02-15
 Original: MacOS not so much.
 Sentiment: neutral (confidence 0.58)
 
@@ -900,7 +948,7 @@ In my experience it's almost 100% the case that people that make your kind of co
 
 ------------------------------------------------------------
 
-[67] ❌ @TRHardware  👍3  2026-02-15
+[72] ❌ @TRHardware  👍3  2026-02-15
 Original: It's not a bargain! 1600 USD for 16GB of RAM and 512GB! of storage! Ok, RAM price has gone grazy, but this laptop existed before the apocalypse. It should have at least 2TB of storage right now. If you want to upgrade, it's half the cost of a laptop! How is that a bargain!?
 Sentiment: negative (confidence 0.82)
 
@@ -910,7 +958,7 @@ Sentiment: negative (confidence 0.82)
 
 ------------------------------------------------------------
 
-[68] ✅ @lukabosnjak3829  👍1  2026-02-15
+[73] ✅ @lukabosnjak3829  👍1  2026-02-15
 Original: Should've also included something from the windows side, anyway M5 Pro / Max will be the real deal when they come out, eventually... 
 Especially if the core counts get increased because of Soic from tsmc, supposedly 24 gpu cores for the pro and 48 for the max
 Sentiment: positive (confidence 0.73)
@@ -921,25 +969,37 @@ Sentiment: positive (confidence 0.73)
 
 ------------------------------------------------------------
 
-[69] ❌ @Jorge101  👍1  2026-02-16
+[74] ➖ @ulfw  👍0  2026-02-19
+Original: No it didn't.
+Sentiment: neutral (confidence 0.57)
+
+------------------------------------------------------------
+
+[75] ❌ @Jorge101  👍1  2026-02-16
 Original: Comparing a Gen 1 chip to a Gen 5 chip ,  like there better be significant improvement ...What is this ,....why are you comparing this? 🤦
 Sentiment: negative (confidence 0.70)
 
 ------------------------------------------------------------
 
-[70] ➖ @sunil198925  👍0  2026-02-16
+[76] ➖ @nikhilgaruda9634  👍0  2026-02-19
+Original: I like the benchmarks but they aren’t fair, you can’t compare Air with Pro. MBA doesn’t have fans and thermal throttles while MBP does. That said, I have been using M1 MBA since it launched for astronomy research and it still does a pretty good job for my workload.
+Sentiment: neutral (confidence 0.44)
+
+------------------------------------------------------------
+
+[77] ➖ @sunil198925  👍0  2026-02-16
 Original: I wonder how the M4 Mac mine will perform against all the macbooks
 Sentiment: neutral (confidence 0.78)
 
 ------------------------------------------------------------
 
-[71] ❌ @ole7736  👍1  2026-02-16
+[78] ❌ @ole7736  👍1  2026-02-16
 Original: A work machine for 1600 bucks that has too little RAM and storage to be actually viable as a professional device. And 32 GB of RAM is the max. smh
 Sentiment: negative (confidence 0.90)
 
 ------------------------------------------------------------
 
-[72] ❌ @gustersongusterson4120  👍2  2026-02-15
+[79] ❌ @gustersongusterson4120  👍2  2026-02-15
 Original: 16gb for $1600 is stooooopid.
 Sentiment: negative (confidence 0.86)
 
@@ -949,31 +1009,31 @@ Sentiment: negative (confidence 0.86)
 
 ------------------------------------------------------------
 
-[73] ❌ @prashanthkrishanduth8521  👍0  2026-02-17
+[80] ❌ @prashanthkrishanduth8521  👍0  2026-02-17
 Original: This Jobs lookalike is low key scary😂, at least he didn't go full turtleneck
 Sentiment: negative (confidence 0.81)
 
 ------------------------------------------------------------
 
-[74] ✅ @3ricegr8  👍4  2026-02-15
+[81] ✅ @3ricegr8  👍4  2026-02-15
 Original: I bought a used M4 macbook pro and love it. I was able to actually afford a 1TB drive and 24GB of RAM since it was used. I never feel the need to get the latest and greatest, once the newer models come I am looking for discount on the older ones. In my use case I would probably never even notice the difference between M4 and M5.I have had some issues with my macbook too, nothing crazy but not as issue free as I remember with my 2016 macbook pro. I will probably switch to linux in a few years. I only switched back to mac because windows has been getting worse and worse over the past few years and I don't think its going to get any better, I hope macOS doesn't end up trending that way as well.
 Sentiment: positive (confidence 0.88)
 
 ------------------------------------------------------------
 
-[75] ➖ @technicallyme  👍0  2026-02-16
+[82] ➖ @technicallyme  👍0  2026-02-16
 Original: Wow I haven't had any of the issues you've had 😮 with macos Tahoe
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[76] ✅ @nexorabolis  👍0  2026-02-17
+[83] ✅ @nexorabolis  👍0  2026-02-17
 Original: my 2012 macbook pro just wont die! To be fair it barely lives, but man, its gonna outlive me at this point.
 Sentiment: positive (confidence 0.84)
 
 ------------------------------------------------------------
 
-[77] ➖ @SlitheredEntrailsInTheCargoBay  👍0  2026-02-17
+[84] ➖ @SlitheredEntrailsInTheCargoBay  👍0  2026-02-17
 Original: I would never have paid £1599 for this but on a deal at £1199, I got it for around what I would’ve paid for the 15” M4 Mac Air I was previously in the market for. 
 
 Great machine but I didn’t think through portability.  Before Xmas I honestly didn’t care, but visiting and commuting during that period it became apparent that it wasn’t about the weight of the Pro per se- it’s the EDC stuff in your bag that you forget to add to that weight.
@@ -981,43 +1041,43 @@ Sentiment: neutral (confidence 0.42)
 
 ------------------------------------------------------------
 
-[78] ✅ @Gaminggagreel  👍0  2026-02-15
+[85] ✅ @Gaminggagreel  👍0  2026-02-15
 Original: Somehow palpatine returned
 Sentiment: positive (confidence 0.55)
 
 ------------------------------------------------------------
 
-[79] ➖ @ryanlawrence3690  👍0  2026-02-16
+[86] ➖ @ryanlawrence3690  👍0  2026-02-16
 Original: my brother in christ who is rendering videos on macbook air's 🥀🥀😭😭
 Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[80] ➖ @aleksdeveloper698  👍0  2026-02-16
+[87] ➖ @aleksdeveloper698  👍0  2026-02-16
 Original: Only snapdragon x2 elite extreme has a chance to lower the price
 Sentiment: neutral (confidence 0.67)
 
 ------------------------------------------------------------
 
-[81] ➖ @yol_n  👍0  2026-02-15
+[88] ➖ @yol_n  👍0  2026-02-15
 Original: *base price
 Sentiment: neutral (confidence 0.75)
 
 ------------------------------------------------------------
 
-[82] ❌ @smashninja22  👍1  2026-02-17
+[89] ❌ @smashninja22  👍1  2026-02-17
 Original: Are you on crack dude? 1600 dollars for a laptop with 16gb of RAM and 512GB storage is a good deal?? I'd say it it would be a decent deal at 1200.
 Sentiment: negative (confidence 0.45)
 
 ------------------------------------------------------------
 
-[83] ❌ @thihaoo9378  👍0  2026-02-17
+[90] ❌ @thihaoo9378  👍0  2026-02-17
 Original: the same review for m series, the only word change is m word, the rest is pointless..... and still 13 minutes long.. which is not necessary and a lot of talks in this video are extra most of the time because previous mac had that too.
 Sentiment: negative (confidence 0.84)
 
 ------------------------------------------------------------
 
-[84] ➖ @DrAliToma  👍0  2026-02-15
+[91] ➖ @DrAliToma  👍0  2026-02-15
 Original: If they ported cp2077 to macbooks why not release it for ipads? Same chip anyway
 Sentiment: neutral (confidence 0.83)
 
@@ -1027,13 +1087,13 @@ Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[85] ❌ @jamieadams4310  👍0  2026-02-16
+[92] ❌ @jamieadams4310  👍0  2026-02-16
 Original: Biggest issue I see being a music producer is that Logic Pro doesn't use efficiency cores... Only Performance Cores.  Ironically the M5 in the Macbook Pro only has 4 Performance Cores.  Exact same as the M1.  I have a Mac Mini M1 with 16gb that I use in the studio and until they increase the core count on the M5, I'll just stick with that.  It's not enough of a performance boost to justify the cost.  The only options that would give me a good performance boost would be the M4 Pro or Max but really don't want to upgrade to something already being replaced.  I do want to replace it with a Macbook Pro, but will wait until the M5 Pro or Max or whatever they end up calling it is out.
 Sentiment: negative (confidence 0.74)
 
 ------------------------------------------------------------
 
-[86] ❌ @vasudevmenon2496  👍0  2026-02-15
+[93] ❌ @vasudevmenon2496  👍0  2026-02-15
 Original: I'm thinking of Mac mini just for image and video editing. At the moment windows 11 is a mess because it starts updating in the background when I've paused it with Pro license. Most of the CPU is spent on updates rather than work and after updating there's lot of micro srutters with switchable graphics and I've to connect external display
 Sentiment: negative (confidence 0.76)
 
@@ -1054,7 +1114,13 @@ That NPU and all the AI features are causing major hiccups and AMD drivers for N
 
 ------------------------------------------------------------
 
-[87] ✅ @ellypsis603  👍16  2026-02-15
+[94] ✅ @dapaolo4103  👍0  2026-02-19
+Original: Take note that the M1 was out 5 years ago if the test ran on 5 year old device its amazing
+Sentiment: positive (confidence 0.90)
+
+------------------------------------------------------------
+
+[95] ✅ @ellypsis603  👍16  2026-02-15
 Original: The MBA M4 efficiency is crazy
 Sentiment: positive (confidence 0.50)
 
@@ -1068,13 +1134,13 @@ Sentiment: positive (confidence 0.50)
 
 ------------------------------------------------------------
 
-[88] ❌ @zzaretube  👍0  2026-02-16
+[96] ❌ @zzaretube  👍0  2026-02-16
 Original: Comparing the new Pro model to the old Air models is VERY iffy.
 Sentiment: negative (confidence 0.66)
 
 ------------------------------------------------------------
 
-[89] ➖ @boombox8675  👍0  2026-02-16
+[97] ➖ @boombox8675  👍0  2026-02-16
 Original: if thinking of buying mac then hold off untill new mac announcement.
 also never spec a mac it cost so much more. go to bestbuy or other store and get the mac that is on sale. thats how i got m4 macbook 16-256 air for 700ish
 checked justjosh site and there are m4 of same laptop for 1000. idk if the 500 usd is worth the diff you showed
@@ -1082,13 +1148,13 @@ Sentiment: neutral (confidence 0.50)
 
 ------------------------------------------------------------
 
-[90] ✅ @lslurpeek  👍0  2026-02-16
+[98] ✅ @lslurpeek  👍0  2026-02-16
 Original: MacBook Air is a better value and good enough for almost everyone
 Sentiment: positive (confidence 0.89)
 
 ------------------------------------------------------------
 
-[91] ❌ @ArefinGamingandWork  👍1  2026-02-16
+[99] ❌ @ArefinGamingandWork  👍1  2026-02-16
 Original: I really wanna get macbook pro but why macbooks dont support architecture software like 3ds max revit thats so shameful. If u dont support architects software and how can u call it laptop for creative works?
 Sentiment: negative (confidence 0.89)
 
@@ -1102,7 +1168,7 @@ Sentiment: negative (confidence 0.89)
 
 ------------------------------------------------------------
 
-[92] ❌ @ffw-d4c  👍0  2026-02-17
+[100] ❌ @ffw-d4c  👍0  2026-02-17
 Original: Yes they make GREAT hardware, especially laptops and they have great batter life with minimal fan noise.  However with the release of MacOS 26, I can't stand it anymore.  
 
 My Macbook is nothing but a launching pad for 3rd party software.  I use NO Apple software....none, as in zero.  Then they drop this LiquidArse bombshell on us and you cant turn it off.  The rounded corners on apps is also just fugly and lame.  MacOS feels like it was made by Fisher Price.
@@ -1110,7 +1176,7 @@ Sentiment: negative (confidence 0.68)
 
 ------------------------------------------------------------
 
-[93] ✅ @MrReddragongamingHD  👍0  2026-02-15
+[101] ✅ @MrReddragongamingHD  👍0  2026-02-15
 Original: Hopefully we see the availability of Panther Lake laptops increase. Currently, the only model available in Australia is the MSI Prestige 16 Flip AI+ 16 with the Ultra 9 386H, 32GB RAM and a 2 TB SSD which is $850 AUD more than the cheapest M5 MacBook Pro (with the education discount). 
 
 That said, x86 is still more appealing to me at this time. When Apple eventually drops support, you basically have a brick. With an x86 based laptop, you have SO many alternatives that you could easily run this for a decade or more if you really wanted to, and you aren't locked into a single OS. Plus no compatibility issues, even if this is increasingly becoming less of a concern on ARM based laptops as time progresses.
@@ -1122,14 +1188,14 @@ Sentiment: positive (confidence 0.71)
 
 ------------------------------------------------------------
 
-[94] ➖ @busybee2148  👍3  2026-02-15
+[102] ➖ @busybee2148  👍3  2026-02-15
 Original: Old macbooks in thermal and efficiency 🤡
 Apple silicon performance efficiency 🗿🗿💎💎
 Sentiment: neutral (confidence 0.67)
 
 ------------------------------------------------------------
 
-[95] ❌ @arpeik  👍0  2026-02-15
+[103] ❌ @arpeik  👍0  2026-02-15
 Original: 16GB is not enough these days, unless you aren't doing much
 Sentiment: negative (confidence 0.53)
 
@@ -1143,19 +1209,19 @@ Sentiment: negative (confidence 0.53)
 
 ------------------------------------------------------------
 
-[96] ➖ @user-jp5nn9ct3x  👍0  2026-02-17
+[104] ➖ @user-jp5nn9ct3x  👍0  2026-02-17
 Original: only 16 gig ram lol
 Sentiment: neutral (confidence 0.60)
 
 ------------------------------------------------------------
 
-[97] ❌ @reldegartGi  👍3  2026-02-15
+[105] ❌ @reldegartGi  👍3  2026-02-15
 Original: When getting a similar performing Dell XPS, you are not only paying more but also getting a crappy windows 11 OS.
 Sentiment: negative (confidence 0.90)
 
 ------------------------------------------------------------
 
-[98] ❌ @phuxv  👍2  2026-02-15
+[106] ❌ @phuxv  👍2  2026-02-15
 Original: not a single comparison to other laptops. what a joke of a review
 Sentiment: negative (confidence 0.91)
 
@@ -1173,13 +1239,19 @@ Sentiment: negative (confidence 0.91)
 
 ------------------------------------------------------------
 
-[99] ➖ @weather-mann  👍0  2026-02-17
+[107] ➖ @weather-mann  👍0  2026-02-17
 Original: Somehow Palpatine RETURNED.
 Sentiment: neutral (confidence 0.51)
 
 ------------------------------------------------------------
 
-[100] ✅ @richies_muse  👍0  2026-02-16
+[108] ➖ @DomCobb1  👍0  2026-02-19
+Original: I switched from windows to my MBP since I managed to get 24GB + 1TB for £1400 with apple care. I had Apple discount from a friend. I wouldn’t have bought it if I didn’t
+Sentiment: neutral (confidence 0.65)
+
+------------------------------------------------------------
+
+[109] ✅ @richies_muse  👍0  2026-02-16
 Original: Intel's battery life improvements is simply because they come with laptops with 99whr batteries, put 65 and 75 whr batteries like last generation came with & see
 Sentiment: positive (confidence 0.63)
 
@@ -1189,19 +1261,19 @@ Sentiment: positive (confidence 0.63)
 
 ------------------------------------------------------------
 
-[101] ❌ @cameron_bosch  👍0  2026-02-15
+[110] ❌ @cameron_bosch  👍0  2026-02-15
 Original: MacOS has been goong downhill since Big Sur. On Sequoia, I had a serious Spotlight bug that made search basically broken, and that alone made me stop using my Mac. Nothing I tried fixed it.
 Sentiment: negative (confidence 0.95)
 
 ------------------------------------------------------------
 
-[102] ➖ @intensifiedhipster  👍0  2026-02-16
+[111] ➖ @intensifiedhipster  👍0  2026-02-16
 Original: 0:05 that perception of Apple was never true lol; most of their products are priced very competitively
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[103] ➖ @mokkkkkkkk  👍0  2026-02-15
+[112] ➖ @mokkkkkkkk  👍0  2026-02-15
 Original: i feel like the same 16gb ram for both m4 and m5 would be a more accurate test for some of the benchmarks and tests.
 Sentiment: neutral (confidence 0.74)
 
@@ -1211,7 +1283,7 @@ Sentiment: neutral (confidence 0.74)
 
 ------------------------------------------------------------
 
-[104] ✅ @brokawmike  👍2  2026-02-15
+[113] ✅ @brokawmike  👍2  2026-02-15
 Original: The newest crossover (the team that maintains wine, and what proton is developed off of and in conjunction with) is doing phenomenal work for apple silicon machines. Outside of the kernel level anticheat shooters even stuff like space marine 2, Helldivers 2, etc multiplayer is working now.
 
 I would love to just use a MacBook Pro for everything in my life and hopefully we’re there soon.
@@ -1219,19 +1291,19 @@ Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[105] ✅ @vissaf  👍0  2026-02-18
+[114] ✅ @vissaf  👍0  2026-02-18
 Original: Well if one doesn't care about the laptop form factor, they can get a Mac mini with the same performance as the MacBook Pro M5 for one third the price. Now that is some insane value.
 Sentiment: positive (confidence 0.57)
 
 ------------------------------------------------------------
 
-[106] ✅ @Julzaa  👍0  2026-02-15
+[115] ✅ @Julzaa  👍0  2026-02-15
 Original: I agree, this new MacBook Pro M5 seems amazing for anyone looking to buy a very capable laptop at a relatively low price (for this kind of package).
 Sentiment: positive (confidence 0.99)
 
 ------------------------------------------------------------
 
-[107] ➖ @j1nchuika  👍0  2026-02-16
+[116] ➖ @j1nchuika  👍0  2026-02-16
 Original: I have an M2 MacBook Pro 16", I've been looking into the new M5 MacBooks, since mine is getting slower, but there's not 16" version just yet. Should I change now or wait for the 16" version to be announced?
 Sentiment: neutral (confidence 0.53)
 
@@ -1241,7 +1313,7 @@ Sentiment: neutral (confidence 0.53)
 
 ------------------------------------------------------------
 
-[108] ❌ @kaossverige  👍0  2026-02-15
+[117] ❌ @kaossverige  👍0  2026-02-15
 Original: Windows in 2026? 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣I cant take seriously ANYONE spewing such nonsense in 2026 and beyond 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣Linux baby! Oh yes!
 Sentiment: negative (confidence 0.89)
 
@@ -1259,7 +1331,7 @@ Sentiment: negative (confidence 0.89)
 
 ------------------------------------------------------------
 
-[109] ❌ @Will-f3c9d  👍3  2026-02-15
+[118] ❌ @Will-f3c9d  👍3  2026-02-15
 Original: base model being 16GB is a joke. nothing pro about 16
 Sentiment: negative (confidence 0.88)
 
@@ -1281,7 +1353,7 @@ No excuse for the storage capacity or cost from Apple.
 
 ------------------------------------------------------------
 
-[110] ➖ @Just_Areki  👍0  2026-02-16
+[119] ➖ @Just_Areki  👍0  2026-02-16
 Original: Used M1 Air with 16Gb ram IS a bargain for a 400-500 USD. But in what world base M5 for a 1600 USD is a bargain?
 Sentiment: neutral (confidence 0.60)
 
@@ -1291,19 +1363,19 @@ Sentiment: neutral (confidence 0.60)
 
 ------------------------------------------------------------
 
-[111] ➖ @firstNamelastName-n4s  👍0  2026-02-16
+[120] ➖ @firstNamelastName-n4s  👍0  2026-02-16
 Original: Ehh...Air VS Pro? Apples and oranges. The Pro uses two to three times more power, of course it's going to have better performance. It's a larger chassis with a larger battery, of course it's going to have better battery life. This feels unnecessary. Waiting for the M5 Air and comparing would have been a lot more "fair."
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[112] ➖ @Atulya_Chaudhary  👍2  2026-02-16
+[121] ➖ @Atulya_Chaudhary  👍2  2026-02-16
 Original: You changed the thumbnail? Like 1-2 hours ago
 Sentiment: neutral (confidence 0.91)
 
 ------------------------------------------------------------
 
-[113] ✅ @PandaMoniumHUN  👍2  2026-02-15
+[122] ✅ @PandaMoniumHUN  👍2  2026-02-15
 Original: Picked up an Ideapad Pro 5 for $900 with 32GBs of LPDDR5, 1TB SSD, i5 225H, 2.8K 120Hz OLED, that has ~10 hour battery life. Sure, it is not as powerful as M5, but not far off (20-30% slower) and having double the RAM and SSD for half the price with the amazing screen.. hard to call the M5 Macbook Pro a bargain compared to that.
 Sentiment: positive (confidence 0.50)
 
@@ -1317,13 +1389,23 @@ Sentiment: positive (confidence 0.50)
 
 ------------------------------------------------------------
 
-[114] ➖ @briskandpepsi  👍0  2026-02-16
+[123] ➖ @briskandpepsi  👍0  2026-02-16
 Original: Hardware Canucks should display in cdn dollars and usd
 Sentiment: neutral (confidence 0.86)
 
 ------------------------------------------------------------
 
-[115] ❌ @nikm3r  👍2  2026-02-15
+[124] ✅ @MUR47_k  👍0  2026-02-19
+Original: Apple’s leaving money on the table with gaming. If they actually committed, they’d make way more. One smart move would be letting something like SteamOS run nativelythe way Boot Camp let people run Windows.
+
+If games could run at native screen resolution, hit a stable 120fps, and support ray/path tracing, Macs would be insanely good for story-driven games. For competitive online titles, you could always dial back ray tracing to prioritize performance and latency.
+
+But the bigger issue is focus: they need to land the blockbuster games GTA, Call of Duty, Battlefield, FIFA, F1, Red Dead, and the rest rather than mostly leaning on smaller indie titles. That’s how you make Mac a real gaming platform, not just “capable… technically.
+Sentiment: positive (confidence 0.69)
+
+------------------------------------------------------------
+
+[125] ❌ @nikm3r  👍2  2026-02-15
 Original: The nano texture is definitely not for me, glossy offers much better clarity and contrast.
 Sentiment: negative (confidence 0.72)
 
@@ -1333,7 +1415,7 @@ Sentiment: negative (confidence 0.72)
 
 ------------------------------------------------------------
 
-[116] ❌ @Doctor_Technopolis  👍1  2026-02-15
+[126] ❌ @Doctor_Technopolis  👍1  2026-02-15
 Original: “MacOS Tahoe looks awful” is subjective. Sequoia feels outdated, but you can tweak Tahoe settings to make it look like Sequoia, except fresher. It’s wrong to criticize the entire OS as awful when a few settings changes suffice. If you’re interested in discussing stability and pointing out frequent bugs, that’s a valid discussion. However, criticizing subjective things that can be tuned or flipped identical to the old OS is dishonest, mate. Please consider that.
 Sentiment: negative (confidence 0.86)
 
@@ -1343,7 +1425,7 @@ Sentiment: negative (confidence 0.86)
 
 ------------------------------------------------------------
 
-[117] ➖ @SirSavesALot1977  👍70  2026-02-15
+[127] ➖ @SirSavesALot1977  👍70  2026-02-15
 Original: Bargain, unless you want 32 or 64gb of ram. 😅
 Sentiment: neutral (confidence 0.74)
 
@@ -1408,7 +1490,7 @@ Even if you go back and watch M1 release or comparison videos, it walked all ove
 
 ------------------------------------------------------------
 
-[118] ➖ @geirarneholum  👍1  2026-02-16
+[128] ➖ @geirarneholum  👍1  2026-02-16
 Original: I just bought a MacBook Pro (M5, 1TB, 24GB RAM) for the first time in over 15 years because of rising prices and Microslop. I am not a fan of Apple in general, but after having used it a couple of weeks i totally would recommend MacBooks to more people unless you really need x86 for something. I am not a fan of the liquid glass, but besides that i am super happy with it. If Apple keeps their current pricing i can see more people switching to Mac with PCs getting more expensive and Windows 11 being the way it is.
 Sentiment: neutral (confidence 0.38)
 
@@ -1418,13 +1500,13 @@ Sentiment: neutral (confidence 0.38)
 
 ------------------------------------------------------------
 
-[119] ✅ @p4l4d1n7  👍0  2026-02-15
+[129] ✅ @p4l4d1n7  👍0  2026-02-15
 Original: zenbook with intel utlra first gen with 32 gb terra storage and dropped windows for linux. life is cheaper and better.
 Sentiment: positive (confidence 0.90)
 
 ------------------------------------------------------------
 
-[120] ✅ @busybee2148  👍2  2026-02-15
+[130] ✅ @busybee2148  👍2  2026-02-15
 Original: Base m5 is huge jump in gpu and performance even better than pro M series in some aspects Just imagine m5 pro and m5x gonna be monsters👿
 Sentiment: positive (confidence 0.97)
 
@@ -1442,7 +1524,7 @@ At this point some of it has to fall onto developers to release versions that wi
 
 ------------------------------------------------------------
 
-[121] ➖ @the_penitent_man  👍5  2026-02-16
+[131] ➖ @the_penitent_man  👍5  2026-02-16
 Original: My takeaway is buy a second hand M4 Pro MacBook Pro...
 Sentiment: neutral (confidence 0.68)
 
@@ -1453,13 +1535,13 @@ Most of the results shows that the M4 macbook pro how shines the M5 macbook pro.
 
 ------------------------------------------------------------
 
-[122] ❌ @Niels_f2704  👍0  2026-02-16
+[132] ❌ @Niels_f2704  👍0  2026-02-16
 Original: Great laptops but I’m sure anywhere outside America it’s still expensive
 Sentiment: negative (confidence 0.61)
 
 ------------------------------------------------------------
 
-[123] ❌ @chinesesparrows  👍46  2026-02-16
+[133] ❌ @chinesesparrows  👍46  2026-02-16
 Original: How tf is 16gb and 512gb storage 1600 USD a bargain? No way
 Sentiment: negative (confidence 0.79)
 
@@ -1629,49 +1711,49 @@ Finally MBP is dead-end in upgradability when at OS level egpus are not supporte
 
 ------------------------------------------------------------
 
-[124] ➖ @adhirajsingh5027  👍2  2026-02-15
+[134] ➖ @adhirajsingh5027  👍2  2026-02-15
 Original: This video is comparing a 2025 M5 MBP with a slew of 2026 Panther Lake releases. It would make more sense to see what the 2026 MBP is priced at before calling the M5 MBP a bargain. Alternatively, compare the M5 MBP with Arrow Lake laptops - it will stop looking like a bargain. The machine is great - it is not and will never be a bargain.
 Sentiment: neutral (confidence 0.59)
 
 ------------------------------------------------------------
 
-[125] ❌ @COCOLEMON-TV  👍3  2026-02-15
+[135] ❌ @COCOLEMON-TV  👍3  2026-02-15
 Original: We don’t hate AI and Billionaires enough
 Sentiment: negative (confidence 0.89)
 
 ------------------------------------------------------------
 
-[126] ➖ @athena263  👍0  2026-02-18
+[136] ➖ @athena263  👍0  2026-02-18
 Original: Can i use m5 for capcut editing long videos like 3-5 hours WITHOUT LAGGING?
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[127] ➖ @itischetan  👍0  2026-02-16
+[137] ➖ @itischetan  👍0  2026-02-16
 Original: Bro why do u look like Randeep Hooda? 😅😅
 Sentiment: neutral (confidence 0.64)
 
 ------------------------------------------------------------
 
-[128] ❌ @ade9597  👍0  2026-02-15
+[138] ❌ @ade9597  👍0  2026-02-15
 Original: As long as you reviewers don't tell in your reviews not to buy their expensive price-gouged laptops, prices won't go down. Sorry, but you are the shills they base their cartel practices on and we're tired of you downplaying their anti-consumer tactics and paying with our hard-earned money for their greed.
 Sentiment: negative (confidence 0.89)
 
 ------------------------------------------------------------
 
-[129] ❌ @animelover5093  👍0  2026-02-16
+[139] ❌ @animelover5093  👍0  2026-02-16
 Original: Freaking over price laptop that give you minium of everything !!
 Sentiment: negative (confidence 0.87)
 
 ------------------------------------------------------------
 
-[130] ❌ @leonardwise5807  👍1  2026-02-16
+[140] ❌ @leonardwise5807  👍1  2026-02-16
 Original: Such an Apple shill should not be able to review other laptops.
 Sentiment: negative (confidence 0.88)
 
 ------------------------------------------------------------
 
-[131]  @jcchaconjr  👍0  2026-02-16
+[141]  @jcchaconjr  👍0  2026-02-16
 Original: My biggest problem is that when it comes right down to it, Apple's optional pricing is borderline CRIMINAL - and this was BEFORE the current DRAM-ageddon crisis; I can only imagine what it's going to be with prices spiraling out of control. Anything above 512GB of storage is insane compared to what you would be able to get for typical PC laptops - if you could even replace it, thanks to it being soldered on the board now. This goes all the way back to the days when you could still upgrade the memory yourself with off the shelf SO-DIMM's. My 2007 MacBook Pro was such a case. It came with 2GB of RAM, and the 4GB upgrade was $200, IIRC. I ended up looking for the same spec memory on Newegg (PC2 5300) and got the 2x2GB memory modules for $100 ( if it supported more than 4GB, I would have gladly gotten it). After my warranty expired, I also ended up replacing the HDD (it was a standard 2.5" mechanical drive back then), which unlike the memory, was not "user serviceable". This basically meant that you were opening parts of the laptop that normal people weren't supposed to touch.
 
 Anyway, if involved  removing the keyboard panel with 8 tiny screws around the edges of the laptop, carefully lifting it to disconnect the thin ribbon cable, then pulling out the small isolated shell that contained the hard drive. I ended up replacing the included 200GB HDD with a 512GB model, where I was able to dual boot it with Windows 7 via Boot Camp. Total cost? Roughly half of the price of the 320GB upgrade.
@@ -1682,37 +1764,37 @@ BTW, if you really want to see what's more expensive, configure that MAcBook Pro
 
 ------------------------------------------------------------
 
-[132] ✅ @pf888  👍0  2026-02-17
+[142] ✅ @pf888  👍0  2026-02-17
 Original: I recently bot a new iPhone 17 and iPad Pro 11 M5, Apple will be raising their prices later this year so best to buy now
 Sentiment: positive (confidence 0.81)
 
 ------------------------------------------------------------
 
-[133] ✅ @АндрейБ-к3к  👍0  2026-02-16
+[143] ✅ @АндрейБ-к3к  👍0  2026-02-16
 Original: Cool watch! Is it the Khaki Field Automatic?
 Sentiment: positive (confidence 0.94)
 
 ------------------------------------------------------------
 
-[134] ❌ @socas_nic  👍4  2026-02-15
+[144] ❌ @socas_nic  👍4  2026-02-15
 Original: Right, let's compare the MacBook Pro M5 to the other generations of MacBook Air. 🤡 Why would someone compare a passively cooled device in creative workloads. This channel is getting worse day by day.
 Sentiment: negative (confidence 0.78)
 
 ------------------------------------------------------------
 
-[135] ❌ @wahaaj_24_7  👍0  2026-02-15
+[145] ❌ @wahaaj_24_7  👍0  2026-02-15
 Original: it could be a good comarison if you compared it with other macbook pros instead of air and windows laptop with RTX GPUS (As you can get them much cheeper than macbooks). Overall this comparison video is totally pointless.
 Sentiment: negative (confidence 0.51)
 
 ------------------------------------------------------------
 
-[136] ➖ @samven582  👍0  2026-02-15
+[146] ➖ @samven582  👍0  2026-02-15
 Original: Camera dust
 Sentiment: neutral (confidence 0.64)
 
 ------------------------------------------------------------
 
-[137] ❌ @TheTalipbelgin  👍8  2026-02-15
+[147] ❌ @TheTalipbelgin  👍8  2026-02-15
 Original: why you recommending this ? macbook air m5 update around the corner , DONT BUY THİS EVERYONE, WAIT FOR THE AIR M5 AND BUY THAT !
 Sentiment: negative (confidence 0.61)
 
@@ -1738,19 +1820,19 @@ Sentiment: negative (confidence 0.61)
 
 ------------------------------------------------------------
 
-[138] ✅ @arunca190  👍18  2026-02-15
+[148] ✅ @arunca190  👍18  2026-02-15
 Original: I got it open box in excellent condition. $1519 with 24gb and 1tb. How could I say no!?
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[139] ➖ @threeddie  👍0  2026-02-18
+[149] ➖ @threeddie  👍0  2026-02-18
 Original: I thought Americans (your main audience) switched to mm for measurements below 1 and 1/2 inch.
 Sentiment: neutral (confidence 0.75)
 
 ------------------------------------------------------------
 
-[140] ❌ @yu.niverse  👍0  2026-02-16
+[150] ❌ @yu.niverse  👍0  2026-02-16
 Original: MacBook pricing hasnt been updated to reflect the new state of component pricing, Windows laptops have. Don’t expect this dynamic to hold after the next gen, or the old gen will be kept around at the same price as the “budget” option while margins on the next gen make up for the AI IC crisis.
 Sentiment: negative (confidence 0.64)
 
@@ -1760,7 +1842,7 @@ Sentiment: negative (confidence 0.64)
 
 ------------------------------------------------------------
 
-[141] ❌ @AbhishekVaid  👍255  2026-02-15
+[151] ❌ @AbhishekVaid  👍255  2026-02-15
 Original: The problem isn't with Macbook base pricing, it's mostly with updates. They would charge you bloody 800 dollars more if you go for 32 GB + 512 GB upgrade. That's criminal.
 Sentiment: negative (confidence 0.93)
 
@@ -1988,25 +2070,25 @@ This not up for a debate thinkpads outclaases any macbook in durability and long
 
 ------------------------------------------------------------
 
-[142] ❌ @high-captain-BaLrog  👍3  2026-02-15
+[152] ❌ @high-captain-BaLrog  👍3  2026-02-15
 Original: why won't you stop parroting psychological pricing salesman?
 Sentiment: negative (confidence 0.86)
 
 ------------------------------------------------------------
 
-[143] ➖ @dfxxfd5561  👍3  2026-02-15
+[153] ➖ @dfxxfd5561  👍3  2026-02-15
 Original: My nephew bought the base model MacBook Pro M5 on Friday 👍👍👍
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[144] ➖ @Will-f3c9d  👍1  2026-02-15
+[154] ➖ @Will-f3c9d  👍1  2026-02-15
 Original: 3nm is an architecture , its a node process
 Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[145] ❌ @bumbeelegends7018  👍0  2026-02-16
+[155] ❌ @bumbeelegends7018  👍0  2026-02-16
 Original: Mac is boring asfk
 Sentiment: negative (confidence 0.88)
 
@@ -2022,7 +2104,7 @@ Sentiment: negative (confidence 0.88)
 
 ------------------------------------------------------------
 
-[146] ❌ @Garrettdx1988  👍0  2026-02-16
+[156] ❌ @Garrettdx1988  👍0  2026-02-16
 Original: It seems like Apple's software has been buggy for the last ten years. I hate it.
 Sentiment: negative (confidence 0.95)
 
@@ -2036,7 +2118,7 @@ Sentiment: negative (confidence 0.95)
 
 ------------------------------------------------------------
 
-[147] ➖ @abhijith_mb  👍1  2026-02-15
+[157] ➖ @abhijith_mb  👍1  2026-02-15
 Original: I'll buy a macbook when they come with Windows.
 Sentiment: neutral (confidence 0.56)
 
@@ -2046,7 +2128,7 @@ Sentiment: neutral (confidence 0.56)
 
 ------------------------------------------------------------
 
-[148] ❌ @dhash-fb6e8  👍6  2026-02-15
+[158] ❌ @dhash-fb6e8  👍6  2026-02-15
 Original: A shame MacOS is so awful. If Fedora Linux could run smoothly on a Mac I’d never buy anything else again.
 Sentiment: negative (confidence 0.94)
 
@@ -2071,7 +2153,7 @@ That said, KDE Plasma is a better designed desktop environment than either of th
 
 ------------------------------------------------------------
 
-[149] ❌ @ClassicalRaritiesChannel  👍3  2026-02-15
+[159] ❌ @ClassicalRaritiesChannel  👍3  2026-02-15
 Original: What baffles me is how Windows laptops have basically brought this upon themselves. They had 5 years to catch up with Apple Silicon Macs, yet instead Dell killed the XPS line, Asus kept struggling with Quality Control, and Microsoft... well, released Windows 11. By this point it almost feels irrational to NOT buy a MacBook instead
 Sentiment: negative (confidence 0.84)
 
@@ -2081,13 +2163,13 @@ Sentiment: negative (confidence 0.84)
 
 ------------------------------------------------------------
 
-[150] ✅ @Oldaker  👍0  2026-02-17
+[160] ✅ @Oldaker  👍0  2026-02-17
 Original: Awesome video. I personally love Liquid Glass tho but i’m no pro user 😊 bought the Mac Mini to finally get back to a desktop set-up again.
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[151] ➖ @lancergt1000  👍6  2026-02-15
+[161] ➖ @lancergt1000  👍6  2026-02-15
 Original: But what about Mac's prices outside of North America
 Sentiment: neutral (confidence 0.79)
 
@@ -2101,7 +2183,7 @@ Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[152] ❌ @PSYCHOV3N0M  👍0  2026-02-17
+[162] ❌ @PSYCHOV3N0M  👍0  2026-02-17
 Original: 8:41 Did you really have to use the bullshit "Liquid Retina" terminology?
 
 It's called Mini LED IPS LCD.
@@ -2109,7 +2191,7 @@ Sentiment: negative (confidence 0.89)
 
 ------------------------------------------------------------
 
-[153] ❌ @garminizator  👍6  2026-02-15
+[163] ❌ @garminizator  👍6  2026-02-15
 Original: Interesting to hear macOS Tahoe being... quite bad, no way around it. I installed macOS Sequoia on my PC just for some Hackintosh fun and it's just such a beautiful operating system. Apple moving it all to Liquid Glass looks like throwing something out the door long before it's ready just because they needed something new to release urgently as they didn't have anything special to release otherwise. I guess they'll fix it, of course, but right now, Liquid Glass everywhere feels more like a beta release rather than a finished product ready for mass use. As for the MacBook and Mac in general, there's no comparison for tasks in which it excels, the hardware quality, power and efficiency is on a different level altogether. Far too expensive for any RAM and storage upgrades, though, Apple is raking in some seriously massive amounts of cold cash in profits there.
 Sentiment: negative (confidence 0.71)
 
@@ -2121,9 +2203,24 @@ Sentiment: negative (confidence 0.71)
     Original: Liquid glass is just cosmetics.
     Sentiment: negative (confidence 0.73)
 
+    ↳ ❌ @davekc7431  👍0  2026-02-19
+    Original: Yep taHOE is diabolical… dont go there
+    Sentiment: negative (confidence 0.92)
+
+    ↳  @CorneliusTaylor-s1u  👍0  2026-02-19
+    Original: @davekc7431
+
+Why?
+
+    ↳ ❌ @CorneliusTaylor-s1u  👍0  2026-02-19
+    Original: @MKR3238
+
+The macOS doesn't do that.
+    Sentiment: negative (confidence 0.62)
+
 ------------------------------------------------------------
 
-[154] ➖ @saulgoodman2018  👍5  2026-02-15
+[164] ➖ @saulgoodman2018  👍5  2026-02-15
 Original: $1,600 a bargain?
 I can get a 1k Windows laptop that have the same, or better specs.
 Sentiment: neutral (confidence 0.56)

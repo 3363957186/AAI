@@ -1,0 +1,32 @@
+{
+  "product": "macbook pro",
+  "confidence": 75,
+  "recommendation": {
+    "verdict": "Strong Don't Buy",
+    "type": "dont-buy",
+    "summary": "Based on 591 user comments. Video transcript not available."
+  },
+  "sentiment": {
+    "positive": 39.6,
+    "neutral": 44.5,
+    "negative": 15.9
+  },
+  "totalReviews": 591,
+  "value": {
+    "score": 51,
+    "description": "Score based on 39.6% positive sentiment."
+  },
+  "pros": [
+    "Positive user feedback"
+  ],
+  "cons": [
+    "Negative user feedback"
+  ],
+  "sources": [
+    {
+      "platform": "youtube",
+      "name": "YouTube",
+      "count": 591
+    }
+  ]
+}
