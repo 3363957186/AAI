@@ -88,7 +88,17 @@ def analyze():
         export_clean_json(video_id, analyzed)
         print(f"  ✓ Saved: {video_id}_clean.txt")
 
-        # 8. Gemini 完整分析
+        # 8.获取视频字幕
+        transcript_result = fetch_transcript_auto(video.video_id)
+
+        if transcript_result["success"]:
+            print(f"  ✓ Got transcript ({transcript_result['language']})")
+            export_transcript(video.video_id, transcript_result)
+        else:
+            print(f"  ⚠️  {transcript_result['error']}")
+            print(f"     Video may not have captions/subtitles available")
+
+        # 9. Gemini 完整分析
         print(f"[API] Running Gemini analysis...")
         analysis_result = generate_full_analysis(
             video_id=video_id,
@@ -105,7 +115,7 @@ def analyze():
         export_analysis_json(video_id, analysis_result, directory="comments")
         print(f"  ✓ Saved: {video_id}_analysis.json")
 
-        # 9. 打印摘要
+        # 10. 打印摘要
         print(f"\n{'=' * 60}")
         print(f"[API] ✅ Analysis Complete!")
         print(f"  Product: {product_name}")

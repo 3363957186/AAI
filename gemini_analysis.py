@@ -4,6 +4,7 @@ import glob
 import json
 import google.generativeai as genai
 from pydantic import BaseModel, Field
+from config import GEMINI_API_KEY, YOUTUBE_API_KEY
 
 
 # ═══════════════════════════════════════════════════════════
@@ -26,7 +27,7 @@ class ProductSummary(BaseModel):
 
 def setup_gemini():
     """Initialize Gemini API"""
-    api_key = "AIzaSyDwQ6xobU0kPGHwTVhYEfCrX7uDosoiQGw"
+    api_key = GEMINI_API_KEY
     if not api_key:
         raise ValueError("GEMINI_API_KEY not found. Set environment variable.")
     genai.configure(api_key=api_key)
@@ -247,16 +248,16 @@ def generate_full_analysis(video_id: str, product_name: str, directory: str = "c
     positive_pct = sentiment_data['positive_percentage']
     score = transcript_summary['product_score']
 
-    if positive_pct >= 70 and score >= 75:
+    if score >= 80:
         verdict = "Strong Buy"
         rec_type = "buy"
-    elif positive_pct >= 60 and score >= 60:
+    elif score >= 60:
         verdict = "Buy"
         rec_type = "buy"
-    elif positive_pct >= 50 and score >= 50:
+    elif score >= 50:
         verdict = "Consider"
         rec_type = "consider"
-    elif positive_pct >= 40 and score >= 40:
+    elif score >= 40:
         verdict = "Don't Buy"
         rec_type = "dont-buy"
     else:

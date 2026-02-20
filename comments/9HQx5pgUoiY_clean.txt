@@ -1176,6 +1176,18 @@
     "sentiment_score": 0.6513
   },
   {
+    "comment_id": "UgwJRC02pdDmn8PRoxl4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@pushanpaul8449",
+    "clean_text": "when will mac help me render my solidworksautodesk gears and rotors?",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-11-20T11:45:09Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.8504
+  },
+  {
     "comment_id": "UgwKHH3rpBxKkJKWHD14AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -1990,6 +2002,18 @@
     "created_at": "2025-03-09T20:45:47Z",
     "sentiment_label": "positive",
     "sentiment_score": 0.9488
+  },
+  {
+    "comment_id": "UgwQZDcWPL81zlq57ZR4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@Μιχαήλ-ω3ψ",
+    "clean_text": "the métal score of macbook pro m1 max is 110000 , the métal score of the base m2 ultra is 202000 and m2 ultra maxed out is 246000 and the métal score of the macbook pro m4 max is 194000",
+    "like_count": 2,
+    "reply_count": 0,
+    "created_at": "2024-11-20T15:33:40Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.8826
   },
   {
     "comment_id": "UgwQjAm42Bab6gd_q0N4AaABAg",
@@ -3216,6 +3240,18 @@
     "sentiment_score": 0.7467
   },
   {
+    "comment_id": "UgwiN4X5GVbm7tcEshV4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@BlueNaaBee24",
+    "clean_text": "you can go triple the speed limit in a school zone so what's taking so long for that apology video to come out.",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-11-20T00:26:23Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.7544
+  },
+  {
     "comment_id": "UgwjHtx8guKQNTKr6Hd4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -3430,6 +3466,18 @@
     "created_at": "2025-02-13T18:37:35Z",
     "sentiment_label": "negative",
     "sentiment_score": 0.8404
+  },
+  {
+    "comment_id": "UgwmC8yWzew6c24oDWh4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@lolyes4947",
+    "clean_text": "he really appreciates the added horsepower of the new macs",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-11-24T15:23:37Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.9603
   },
   {
     "comment_id": "UgwmvMLtWt3RkWMDsB54AaABAg",
@@ -4116,6 +4164,18 @@
     "sentiment_score": 0.7323
   },
   {
+    "comment_id": "UgwuuFJUuIF4LT7ii0l4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@Emet.V",
+    "clean_text": "545 an m4 maxultra studio mac mini would be insane",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-12-15T01:55:14Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.5211
+  },
+  {
     "comment_id": "Ugwv60sVaFk0QCnZZdd4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -4248,6 +4308,18 @@
     "sentiment_score": 0.7813
   },
   {
+    "comment_id": "Ugwxp0M8znaOZGGL8jh4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@SomethingCurious2",
+    "clean_text": "can it go 95mph in a kids playing around zone?",
+    "like_count": 4,
+    "reply_count": 0,
+    "created_at": "2024-11-19T12:32:13Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.6506
+  },
+  {
     "comment_id": "Ugwxpc8myfGAexJJNR14AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -4318,6 +4390,18 @@
     "created_at": "2025-01-16T06:16:48Z",
     "sentiment_label": "negative",
     "sentiment_score": 0.7792
+  },
+  {
+    "comment_id": "UgwzWuh8GIFCRUAPZo14AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@kindofanmol",
+    "clean_text": "does the m4 macbook charge at 96w when plugged into a 30w adaptor?",
+    "like_count": 5,
+    "reply_count": 0,
+    "created_at": "2024-11-18T18:24:54Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.9278
   },
   {
     "comment_id": "UgwzXCU1lrD__hxxm7N4AaABAg",
@@ -4474,6 +4558,18 @@
     "created_at": "2024-11-20T14:06:11Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.444
+  },
+  {
+    "comment_id": "Ugx1M5hcd8NLZYnRFcd4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@veleromedia",
+    "clean_text": "you can perfectly emulate the screen thing with a 10 screen matte cover p",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-11-19T22:23:48Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.6057
   },
   {
     "comment_id": "Ugx1sOH5Mhp9dcCu3fp4AaABAg",
@@ -4788,6 +4884,18 @@
     "sentiment_score": 0.8235
   },
   {
+    "comment_id": "Ugx9Wyf0_Y4WAxJVQPF4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@VloggRJ",
+    "clean_text": "excuse me sir, the m4 went super fast and crashed down your dashboard. hope everyone is okay.",
+    "like_count": 9,
+    "reply_count": 0,
+    "created_at": "2024-11-19T07:00:49Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.628
+  },
+  {
     "comment_id": "Ugx9wopk5cAOmeUtoax4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -4810,6 +4918,18 @@
     "created_at": "2025-04-28T17:06:38Z",
     "sentiment_label": "negative",
     "sentiment_score": 0.6455
+  },
+  {
+    "comment_id": "UgxAjlUQYoMYl7I2wgl4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@truejim",
+    "clean_text": "the m4 max is so fast, i started using mine three years ago.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-11-20T22:00:47Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.9451
   },
   {
     "comment_id": "UgxBp6Yftcpi80oaDKx4AaABAg",
@@ -5050,6 +5170,30 @@
     "created_at": "2025-07-22T22:46:04Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.8404
+  },
+  {
+    "comment_id": "UgxGPt9m-eweOqonyKt4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@trellsf415.bsky.social",
+    "clean_text": "currently using a m4 max, rendered a video for testing in roughly 3 seconds, this same video took about 16 seconds on my desktop gaming pc running a 3090.",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-12-11T16:23:20Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.8503
+  },
+  {
+    "comment_id": "UgxHc4hr1ESlpIrOQQt4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@MarkoMood",
+    "clean_text": "621 not 200, but 100. 200 would be 3 times faster.",
+    "like_count": 5,
+    "reply_count": 0,
+    "created_at": "2024-11-18T18:32:17Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.5402
   },
   {
     "comment_id": "UgxHj2R36dyq6dOY_Ft4AaABAg",
@@ -5472,6 +5616,18 @@
     "sentiment_score": 0.821
   },
   {
+    "comment_id": "UgxMn3FNnei5wxPMrrZ4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@zayyirthomas789",
+    "clean_text": "coming from a late 2016 15 inch, to this new machine. is actually insane! yes i held off upgrading for that long!",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-12-09T20:25:10Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.9447
+  },
+  {
     "comment_id": "UgxNvpSh4wDYSqmU0vx4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -5760,6 +5916,18 @@
     "sentiment_score": 0.8893
   },
   {
+    "comment_id": "UgxQQpzZZgohW23IrVR4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@sunnysharma89",
+    "clean_text": "and there are people like me who are still happy with their macbook m1 air",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-12-02T15:22:56Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.7957
+  },
+  {
     "comment_id": "UgxRAg00lRXgq_T9tU94AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -6022,6 +6190,18 @@
     "created_at": "2024-11-20T11:19:49Z",
     "sentiment_label": "positive",
     "sentiment_score": 0.9532
+  },
+  {
+    "comment_id": "UgxWMWxyqKrRRrgPE2x4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@GilbertTV",
+    "clean_text": "i bought a m1 macbook pro in 2023 , the base model 16gb ram 512gb hard drive its awesome , better than any macbook ive had in the last 20 years of using buying apple laptops . i do photography video it works well for my needs. yeah if you edit multiple layers of video with effects etc etc you may need to upgrade but i don't see any reason to upgrade for most m1 macbook users at all, spend the money on a holiday with your loved ones . now if you don't have a m series macbook , yes the m4 macbook is a great buy you should get one .",
+    "like_count": 7,
+    "reply_count": 0,
+    "created_at": "2024-11-23T02:31:01Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.9701
   },
   {
     "comment_id": "UgxWfHotOMOKaUBADal4AaABAg",
@@ -7716,6 +7896,18 @@
     "sentiment_score": 0.4933
   },
   {
+    "comment_id": "UgxsUkzzLwcYJcwEzn54AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@toni-tonator",
+    "clean_text": "i got an m4 mac at work and i love it. rendering blender 3d with cycles in the background while im working in other apps normally. premiere pro edits and after effects animations render with speed.",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-11-20T21:50:00Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.9725
+  },
+  {
     "comment_id": "Ugxtnw-SjmQ96m4dzfF4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -8460,6 +8652,18 @@
     "sentiment_score": 0.6023
   },
   {
+    "comment_id": "Ugy03mjWKQCyxpWkqC14AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@yukun-i8f",
+    "clean_text": "the m4 might be quick, but the pursangue is always faster",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-11-20T11:19:55Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.5081
+  },
+  {
     "comment_id": "Ugy1-9CBIfWQdjyLsop4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -9180,6 +9384,42 @@
     "sentiment_score": 0.9771
   },
   {
+    "comment_id": "UgyJHeVZQHBObwV6QUB4AaABAg.AB-cHxUTIv9AB31CVx0F6j",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": "UgyJHeVZQHBObwV6QUB4AaABAg",
+    "username": "@Cronay",
+    "clean_text": "he acknowledge it and apologized on twitter, didn't he?",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-11-20T08:20:41Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.8562
+  },
+  {
+    "comment_id": "UgyJHeVZQHBObwV6QUB4AaABAg.AB-cHxUTIv9AB3E17Bmlam",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": "UgyJHeVZQHBObwV6QUB4AaABAg",
+    "username": "@DavidMulderOne",
+    "clean_text": "acknowledging and taking responsibility are quite different things. can't even find the tweet without an account. found it on reddit though. regardless, worst part is that the next video he published shows a driver probably not him driving, but it's his video and he hosts the video and pays the driver crossing a double yellow line. which feels like the opposite of trying to do better.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-11-20T10:12:43Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.8243
+  },
+  {
+    "comment_id": "UgyJHeVZQHBObwV6QUB4AaABAg.AB-cHxUTIv9AB3GGXqf7J5",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": "UgyJHeVZQHBObwV6QUB4AaABAg",
+    "username": "@Cronay",
+    "clean_text": "i don't care, i just wanted to inform you that not everything happens on youtube.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-11-20T10:32:18Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.7021
+  },
+  {
     "comment_id": "UgyJOwYxBYCmVA-L6iJ4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -9658,6 +9898,18 @@
     "created_at": "2025-01-06T07:38:20Z",
     "sentiment_label": "positive",
     "sentiment_score": 0.9775
+  },
+  {
+    "comment_id": "UgyWVWgYWjSR2EpdJnx4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@verysidd",
+    "clean_text": "i wish they would also increase their base storage too in the future.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-11-20T15:32:36Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.663
   },
   {
     "comment_id": "UgyWs9wc-hC5HzhzWJp4AaABAg",
@@ -10944,6 +11196,30 @@
     "sentiment_score": 0.9478
   },
   {
+    "comment_id": "UgysN9f9X9f3Ow9wtvp4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@Tiporae",
+    "clean_text": "157, they're not both 10 cpu cores, the m4 max is 16 cores with 12 performance",
+    "like_count": 5,
+    "reply_count": 1,
+    "created_at": "2024-11-18T17:52:11Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.7848
+  },
+  {
+    "comment_id": "UgysN9f9X9f3Ow9wtvp4AaABAg.AAzu0ZsgtL0AB-2HnqWfjt",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": "UgysN9f9X9f3Ow9wtvp4AaABAg",
+    "username": "@icephoenix5466",
+    "clean_text": "its like all the comparisons are biased for some unknown reason.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-11-18T19:13:11Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.8781
+  },
+  {
     "comment_id": "UgysOG6JorgrNXOmbCB4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -11088,6 +11364,18 @@
     "sentiment_score": 0.6671
   },
   {
+    "comment_id": "UgyxeMHq8B87bNfV8UB4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@alialhayek5170",
+    "clean_text": "i can't believe we're reach the m4 max now its crazy since the m1 come out and it will be m5 ? m6 ? in future",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-11-21T10:39:49Z",
+    "sentiment_label": "positive",
+    "sentiment_score": 0.8541
+  },
+  {
     "comment_id": "UgyyHsrFZa2_EJZxpbR4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -11146,6 +11434,18 @@
     "created_at": "2025-06-26T02:00:53Z",
     "sentiment_label": "negative",
     "sentiment_score": 0.8081
+  },
+  {
+    "comment_id": "Ugz-5Ann6gkWlHj-y6J4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@CineverseSculpt",
+    "clean_text": "we need a comparison marcus with lambo vs m4 in a special zone.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-11-28T15:23:36Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.9147
   },
   {
     "comment_id": "Ugz-Tp4Otved-A52ECt4AaABAg",
@@ -11302,6 +11602,18 @@
     "created_at": "2024-11-22T22:21:47Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.6388
+  },
+  {
+    "comment_id": "Ugz3KeMeK81btjVNAat4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@butwhytho6522",
+    "clean_text": "interesting how fast these tech reviewers forget that the vast majority of people can't afford any of these things. a6,499.00 16\" base price , a11,529.00 maxxed out everything my car's market value is 4000 at a stretch.",
+    "like_count": 4,
+    "reply_count": 0,
+    "created_at": "2024-11-19T02:23:00Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.7875
   },
   {
     "comment_id": "Ugz3QSH71WBRWZecD6d4AaABAg",
@@ -11470,6 +11782,18 @@
     "created_at": "2024-11-18T22:44:16Z",
     "sentiment_label": "neutral",
     "sentiment_score": 0.6462
+  },
+  {
+    "comment_id": "Ugz4PFuwINSEwjVeHwN4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@calorion",
+    "clean_text": "159 shout-out for the six million dollar man reference.",
+    "like_count": 0,
+    "reply_count": 0,
+    "created_at": "2024-12-03T00:17:43Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.6306
   },
   {
     "comment_id": "Ugz4uaGp63Dv_FZ9m9Z4AaABAg",
@@ -13296,6 +13620,18 @@
     "sentiment_score": 0.611
   },
   {
+    "comment_id": "UgzWJKp5olgs51FvbyV4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@blufinityy",
+    "clean_text": "apple still isnt the industry leader in chips, the car you were driving was faster",
+    "like_count": 9,
+    "reply_count": 0,
+    "created_at": "2024-11-18T21:44:35Z",
+    "sentiment_label": "negative",
+    "sentiment_score": 0.651
+  },
+  {
     "comment_id": "UgzWhamLKqkH75gXmOd4AaABAg",
     "video_id": "9HQx5pgUoiY",
     "parent_id": null,
@@ -13642,6 +13978,18 @@
     "created_at": "2024-11-24T12:29:18Z",
     "sentiment_label": "positive",
     "sentiment_score": 0.6664
+  },
+  {
+    "comment_id": "Ugz_Wrvpfb29sx5t_vB4AaABAg",
+    "video_id": "9HQx5pgUoiY",
+    "parent_id": null,
+    "username": "@warlockdude12",
+    "clean_text": "do you think apple will ever add cellular to the macbook?",
+    "like_count": 1,
+    "reply_count": 0,
+    "created_at": "2024-11-20T04:17:43Z",
+    "sentiment_label": "neutral",
+    "sentiment_score": 0.9194
   },
   {
     "comment_id": "Ugza5ldf_fUQFEwrbjV4AaABAg",

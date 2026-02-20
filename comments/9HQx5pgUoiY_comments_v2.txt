@@ -2,17 +2,17 @@
 Video Title: M4 Max MacBook Pro: I'm Convinced!
 Channel:     Marques Brownlee
 URL:         https://youtube.com/watch?v=9HQx5pgUoiY
-Views:       4,002,048
-Top-level:   580 comments
-Replies:     879 comments
-Total:       1459 comments
+Views:       4,002,303
+Top-level:   606 comments
+Replies:     883 comments
+Total:       1489 comments
 ============================================================
 
 【Sentiment Analysis Summary】
 ------------------------------------------------------------
-Positive: 247 (19.4%)
-Negative: 448 (35.2%)
-Neutral:  576  (45.3%)
+Positive: 257 (19.8%)
+Negative: 454 (34.9%)
+Neutral:  589  (45.3%)
 
 Top 5 Most Positive Comments:
   1. [0.99] always good to see a new upload from my favorite youtuber 96mphd
@@ -556,61 +556,67 @@ Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[47] ➖ @Jmgrieff  👍0  2025-08-21
+[47] ➖ @pushanpaul8449  👍1  2024-11-20
+Original: When will mac help me render my solidworks/autodesk gears and rotors? 😭😭
+Sentiment: neutral (confidence 0.85)
+
+------------------------------------------------------------
+
+[48] ➖ @Jmgrieff  👍0  2025-08-21
 Original: Ngl all these youtube tech reviewers reviewing just the standard config m4, you know the one 80% of people are actually gonna buy.. do the standard and then do the max
 Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[48] ✅ @Ricelord4  👍0  2025-03-14
+[49] ✅ @Ricelord4  👍0  2025-03-14
 Original: I went from a base A2442 (M1 Pro MBP 14") to a base A3401 (M4 Pro MBP 14") with Nano-Texture Display upgrade. While it looks and feels the same physically as the prior generation, I'm excited to see just how big the performance jump really is.
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[49] ✅ @thegunnersfan00  👍41  2024-11-21
+[50] ✅ @thegunnersfan00  👍41  2024-11-21
 Original: wow the new m4 Max is so fast, like driving a sports car over the speed limit in a school zone.
 Sentiment: positive (confidence 0.94)
 
 ------------------------------------------------------------
 
-[50] ➖ @TheGameMastersTome  👍0  2025-01-10
+[51] ➖ @TheGameMastersTome  👍0  2025-01-10
 Original: bro if you've been manually rotoing every single frame you're wayyyy behind the times. After effects has been able to track pretty darn good for at least 5 years. and Resolve has depth mapping that does the same thing
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[51] ➖ @darthsheriff2405  👍0  2025-09-02
+[52] ➖ @darthsheriff2405  👍0  2025-09-02
 Original: there is a reason large corps have a policy to rotate mac pros every 3 years ...
 Sentiment: neutral (confidence 0.81)
 
 ------------------------------------------------------------
 
-[52] ❌ @hitch4198  👍0  2024-11-22
+[53] ❌ @hitch4198  👍0  2024-11-22
 Original: So the PR team says just turn a blind eye ay?
 Sentiment: negative (confidence 0.63)
 
 ------------------------------------------------------------
 
-[53] ➖ @Ofkis65290  👍0  2025-03-18
+[54] ➖ @Ofkis65290  👍0  2025-03-18
 Original: I wish to buy one for my music production 😁👌👊
 Sentiment: neutral (confidence 0.69)
 
 ------------------------------------------------------------
 
-[54] ✅ @account-pi3nj  👍1  2024-11-20
+[55] ✅ @account-pi3nj  👍1  2024-11-20
 Original: that snail is fast!
 Sentiment: positive (confidence 0.89)
 
 ------------------------------------------------------------
 
-[55] ❌ @CloudyShinobi  👍0  2025-03-26
+[56] ❌ @CloudyShinobi  👍0  2025-03-26
 Original: Can’t believe Marcus prefers the nano texture display with noticeably lower peak brightness and image vibrancy
 Sentiment: negative (confidence 0.48)
 
 ------------------------------------------------------------
 
-[56] ❌ @BobbleCube  👍420  2024-11-19
+[57] ❌ @BobbleCube  👍420  2024-11-19
 Original: Accidentally opened comments too fast in a school zone
 Sentiment: negative (confidence 0.67)
 
@@ -636,19 +642,19 @@ Sentiment: negative (confidence 0.67)
 
 ------------------------------------------------------------
 
-[57] ➖ @willdefb  👍1  2024-11-22
+[58] ➖ @willdefb  👍1  2024-11-22
 Original: It’s as fast as a lambo
 Sentiment: neutral (confidence 0.53)
 
 ------------------------------------------------------------
 
-[58] ➖ @GodIsLoveAndMerciful  👍107  2024-11-20
+[59] ➖ @GodIsLoveAndMerciful  👍107  2024-11-20
 Original: When is your next F1 race man?
 Sentiment: neutral (confidence 0.90)
 
 ------------------------------------------------------------
 
-[59] ❌ @mickgi  👍34  2024-11-18
+[60] ❌ @mickgi  👍34  2024-11-18
 Original: Don’t talk so fast, I can’t keep up. I’ll watch at 0.5 speed. 
 
 Sincerely,
@@ -661,25 +667,25 @@ Sentiment: negative (confidence 0.53)
 
 ------------------------------------------------------------
 
-[60] ❌ @oscarthegod7690  👍1  2025-03-03
+[61] ❌ @oscarthegod7690  👍1  2025-03-03
 Original: beside all the dumb comments is it worth getting?
 Sentiment: negative (confidence 0.85)
 
 ------------------------------------------------------------
 
-[61] ➖ @roots4x  👍0  2025-03-31
+[62] ➖ @roots4x  👍0  2025-03-31
 Original: lmao at the comments. i admire marques for taking it like a champ though and not disabling comments. it'll eventually subside, but honestly i think he's getting more views now just for people to make the comments.
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[62] ✅ @legitcolloh  👍15  2024-11-18
+[63] ✅ @legitcolloh  👍15  2024-11-18
 Original: 0:38 that intro is lowkey fire 🔥
 Sentiment: positive (confidence 0.88)
 
 ------------------------------------------------------------
 
-[63] ❌ @franciscogafas3442  👍212  2024-11-18
+[64] ❌ @franciscogafas3442  👍212  2024-11-18
 Original: This comment section is an attestment to the fact that it's basically impossible to sweep shit under the rug on the internet. You will just make it even more talked about.
 Sentiment: negative (confidence 0.85)
 
@@ -721,25 +727,25 @@ He did dumb shit. The internet clown him. That's just how it's gonna be for a lo
 
 ------------------------------------------------------------
 
-[64] ✅ @mauree1618  👍0  2025-04-12
+[65] ✅ @mauree1618  👍0  2025-04-12
 Original: It's really funny how the crowd can quickly turn.
 Sentiment: positive (confidence 0.69)
 
 ------------------------------------------------------------
 
-[65] ➖ @Itsganyo  👍1  2024-11-22
+[66] ➖ @Itsganyo  👍1  2024-11-22
 Original: is nano screen coming on iPhone sometime soon
 Sentiment: neutral (confidence 0.86)
 
 ------------------------------------------------------------
 
-[66] ➖ @Silenceisgold25  👍0  2025-04-26
+[67] ➖ @Silenceisgold25  👍0  2025-04-26
 Original: I wish I have one 4:22
 Sentiment: neutral (confidence 0.48)
 
 ------------------------------------------------------------
 
-[67] ❌ @VygoShorts  👍1345  2024-11-19
+[68] ❌ @VygoShorts  👍1345  2024-11-19
 Original: Bro is giving this drama the MrBeast treatment
 Sentiment: negative (confidence 0.69)
 
@@ -879,19 +885,25 @@ Hell, I think just as he said it himself, he caused this himself due to the Stre
 
 ------------------------------------------------------------
 
-[68] ✅ @cizzlen07  👍2  2025-03-09
+[69] ✅ @cizzlen07  👍2  2025-03-09
 Original: Holy shit that intro and effects. Bro is on another level still 10+ years in the game!
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[69] ➖ @2sb-x8d  👍2  2024-11-20
+[70] ➖ @Μιχαήλ-ω3ψ  👍2  2024-11-20
+Original: The métal score of MacBook Pro M1 Max is 110000 , the métal score of the base m2 ultra is 202000 and m2 ultra maxed out is 246000 and the métal score of the MacBook Pro m4 Max is 194000
+Sentiment: neutral (confidence 0.88)
+
+------------------------------------------------------------
+
+[71] ➖ @2sb-x8d  👍2  2024-11-20
 Original: max verstappen 🏎
 Sentiment: neutral (confidence 0.66)
 
 ------------------------------------------------------------
 
-[70] ➖ @dudedood12345  👍43  2024-11-19
+[72] ➖ @dudedood12345  👍43  2024-11-19
 Original: Whats up guys its NJPD here, and  We've been looking for Marques for the past few weeks...
 Sentiment: neutral (confidence 0.83)
 
@@ -901,31 +913,31 @@ Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[71] ➖ @SolutionD  👍0  2025-05-28
+[73] ➖ @SolutionD  👍0  2025-05-28
 Original: Wish you could test After Effects.
 Sentiment: neutral (confidence 0.63)
 
 ------------------------------------------------------------
 
-[72] ➖ @simpletech2016  👍0  2025-04-14
+[74] ➖ @simpletech2016  👍0  2025-04-14
 Original: What is the difference between nano-texture and the antireflection coating by other windows laptops?
 Sentiment: neutral (confidence 0.92)
 
 ------------------------------------------------------------
 
-[73] ➖ @Myolana459  👍0  2025-01-05
+[75] ➖ @Myolana459  👍0  2025-01-05
 Original: How about you start a laptop award show 🤔?
 Sentiment: neutral (confidence 0.71)
 
 ------------------------------------------------------------
 
-[74] ➖ @regret5053  👍0  2024-11-20
+[76] ➖ @regret5053  👍0  2024-11-20
 Original: Moving on like nothing happened huh Marques
 Sentiment: neutral (confidence 0.66)
 
 ------------------------------------------------------------
 
-[75] ➖ @truebornword2273  👍2352  2024-11-18
+[77] ➖ @truebornword2273  👍2352  2024-11-18
 Original: Brace for impact, the speeding jokes are incoming
 Sentiment: neutral (confidence 0.68)
 
@@ -977,13 +989,13 @@ Sentiment: neutral (confidence 0.68)
 
 ------------------------------------------------------------
 
-[76] ✅ @razor0707  👍11  2024-11-18
+[78] ✅ @razor0707  👍11  2024-11-18
 Original: The MKBHD animations are becoming cooler than everr
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[77] ✅ @devzoy  👍2575  2024-11-18
+[79] ✅ @devzoy  👍2575  2024-11-18
 Original: M4 is three times faster than M1. Talking about three times faster... 😂 We all know why we are here and we are not disappointed.
 Sentiment: positive (confidence 0.67)
 
@@ -1009,19 +1021,19 @@ Sentiment: positive (confidence 0.67)
 
 ------------------------------------------------------------
 
-[78] ✅ @iloveilona2211  👍0  2024-11-23
+[80] ✅ @iloveilona2211  👍0  2024-11-23
 Original: i played with it at best buy . expensive but so fun
 Sentiment: positive (confidence 0.90)
 
 ------------------------------------------------------------
 
-[79] ➖ @pieceofcrop  👍0  2025-03-27
+[81] ➖ @pieceofcrop  👍0  2025-03-27
 Original: I just noticed that he placed the BMW M4 color in the background while talking about the m4 Mac 💻👌🏻
 Sentiment: neutral (confidence 0.89)
 
 ------------------------------------------------------------
 
-[80] ❌ @denisdunaj  👍0  2024-12-30
+[82] ❌ @denisdunaj  👍0  2024-12-30
 Original: Hi all
 Asking for help/advice: 
 
@@ -1031,31 +1043,31 @@ Sentiment: negative (confidence 0.69)
 
 ------------------------------------------------------------
 
-[81] ➖ @unquestionabletv  👍0  2026-02-03
+[83] ➖ @unquestionabletv  👍0  2026-02-03
 Original: Just want one more thunderbolt port 😅🫣
 Sentiment: neutral (confidence 0.56)
 
 ------------------------------------------------------------
 
-[82] ❌ @kuroexmachina  👍1  2024-11-23
+[84] ❌ @kuroexmachina  👍1  2024-11-23
 Original: 2:48
 the editing was so fast, they didn't do it properly
 Sentiment: negative (confidence 0.79)
 
 ------------------------------------------------------------
 
-[83] ➖ @Ray__E  👍0  2024-11-20
+[85] ➖ @Ray__E  👍0  2024-11-20
 Original: This was a quick review
 Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[84]  @srijansahu8081  👍0  2025-12-03
+[86]  @srijansahu8081  👍0  2025-12-03
 Original: Daaammm!!!
 
 ------------------------------------------------------------
 
-[85] ✅ @b.e.e.l.i  👍13  2024-11-18
+[87] ✅ @b.e.e.l.i  👍13  2024-11-18
 Original: i’ve gone from a 2014 i7 macbook pro with a partially broken screen to the new m4 pro macbook. It’s been so creatively nourishing to have a computer with modern capabilities and performance. I can’t believe it’s taken me this long to upgrade
 Sentiment: positive (confidence 0.94)
 
@@ -1065,13 +1077,13 @@ Sentiment: positive (confidence 0.94)
 
 ------------------------------------------------------------
 
-[86] ❌ @Twiliqhtly  👍1  2024-11-19
+[88] ❌ @Twiliqhtly  👍1  2024-11-19
 Original: Bruh how did I not know this earlier, I was too slow.
 Sentiment: negative (confidence 0.88)
 
 ------------------------------------------------------------
 
-[87] ➖ @TheVengord  👍0  2025-03-18
+[89] ➖ @TheVengord  👍0  2025-03-18
 Original: So, after all, should I upgrade from my MBP 2017 13" 128GB SSD or waiting for a next year gen?
 Sentiment: neutral (confidence 0.92)
 
@@ -1081,25 +1093,25 @@ Sentiment: neutral (confidence 0.92)
 
 ------------------------------------------------------------
 
-[88] ❌ @haq-or-sach  👍0  2025-01-02
+[90] ❌ @haq-or-sach  👍0  2025-01-02
 Original: Why don't you guys simply say number of processor clockspeed etc instead of shits
 Sentiment: negative (confidence 0.81)
 
 ------------------------------------------------------------
 
-[89] ❌ @coolzar  👍0  2025-05-13
+[91] ❌ @coolzar  👍0  2025-05-13
 Original: At this point just give me ur old macbook m1 max, my macbook air 2017 cant keep up no more
 Sentiment: negative (confidence 0.67)
 
 ------------------------------------------------------------
 
-[90] ➖ @Coholbell15  👍0  2025-07-12
+[92] ➖ @Coholbell15  👍0  2025-07-12
 Original: Im waiting for M100
 Sentiment: neutral (confidence 0.71)
 
 ------------------------------------------------------------
 
-[91] ➖ @sohumnemlekar3834  👍30  2024-11-19
+[93] ➖ @sohumnemlekar3834  👍30  2024-11-19
 Original: MKBHD = Many Kids Bodied High-speed Driving
 Sentiment: neutral (confidence 0.71)
 
@@ -1108,37 +1120,37 @@ Sentiment: neutral (confidence 0.71)
 
 ------------------------------------------------------------
 
-[92] ➖ @dominicbarbosa8861  👍0  2025-08-22
+[94] ➖ @dominicbarbosa8861  👍0  2025-08-22
 Original: if you're decided to upgrade. can you donate it to me bro. I'm gonna used for work from home while watching my kid with autism
 Sentiment: neutral (confidence 0.80)
 
 ------------------------------------------------------------
 
-[93] ❌ @Quiyum  👍5  2024-11-20
+[95] ❌ @Quiyum  👍5  2024-11-20
 Original: Do the lives of kids not matter to you?
 Sentiment: negative (confidence 0.93)
 
 ------------------------------------------------------------
 
-[94] ➖ @imnoweren  👍22  2024-11-19
+[96] ➖ @imnoweren  👍22  2024-11-19
 Original: at this point, im clicking on these videos for the comment section
 Sentiment: neutral (confidence 0.66)
 
 ------------------------------------------------------------
 
-[95] ✅ @GaryKetchum808  👍0  2025-06-27
+[97] ✅ @GaryKetchum808  👍0  2025-06-27
 Original: I like how Marques has probably the least problematic “YouTuber controversy” of all time. Always loved my boy Marques.
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[96] ❌ @OceanicMaestro  👍1  2025-05-10
+[98] ❌ @OceanicMaestro  👍1  2025-05-10
 Original: Why is everyone in the comments acting like they've never speeded before
 Sentiment: negative (confidence 0.71)
 
 ------------------------------------------------------------
 
-[97] ➖ @Serjko2  👍7  2024-11-18
+[99] ➖ @Serjko2  👍7  2024-11-18
 Original: 4.4 GHz means 4.4 billion clock cycles per second.
 Let’s imagine that each cycle is like a small step or movement (for example, traveling a certain distance), so we could think of each "step" of the processor as moving 1 millimeter per cycle.
 Now, imagine that 4.4 billion cycles per second equals 4.4 billion millimeters per second.
@@ -1151,36 +1163,36 @@ Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[98] ❌ @Maulucianelli  👍0  2025-02-06
+[100] ❌ @Maulucianelli  👍0  2025-02-06
 Original: Thunderbolt 5 does t work with portable monitors in usb c 😢
 Sentiment: negative (confidence 0.72)
 
 ------------------------------------------------------------
 
-[99]  @bitbeee  👍0  2025-09-30
+[101]  @bitbeee  👍0  2025-09-30
 Original: Costlier 😂😂😂
 
 ------------------------------------------------------------
 
-[100] ✅ @Sweaty-Boi  👍2  2024-11-20
+[102] ✅ @Sweaty-Boi  👍2  2024-11-20
 Original: I went to the comment sections faster than Marques in a BMW, was not disappointed.
 Sentiment: positive (confidence 0.48)
 
 ------------------------------------------------------------
 
-[101] ❌ @BILLYPATRON  👍0  2025-05-29
+[103] ❌ @BILLYPATRON  👍0  2025-05-29
 Original: I bought a m4 max 16 inch and asked chat GPT if it was good for music production and it told me its overkill 😂
 Sentiment: negative (confidence 0.63)
 
 ------------------------------------------------------------
 
-[102] ✅ @anmolsharma4049  👍174  2024-11-18
+[104] ✅ @anmolsharma4049  👍174  2024-11-18
 Original: The new MacBook is so fast that it rivals 90mph in Kids play zone
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[103] ➖ @kenneilangelo  👍18750  2024-11-18
+[105] ➖ @kenneilangelo  👍18750  2024-11-18
 Original: bro edited out the part when the m4 ran 95mbps in a 35mbps zone
 Sentiment: neutral (confidence 0.57)
 
@@ -1339,38 +1351,38 @@ Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[104] ✅ @AlKhafajiOne  👍0  2025-04-01
+[106] ✅ @AlKhafajiOne  👍0  2025-04-01
 Original: It's kinda cool to see Marques's eyes look up every now and then at the script/monitor on top of the camera.
 Sentiment: positive (confidence 0.77)
 
 ------------------------------------------------------------
 
-[105] ❌ @JAYJAY1787  👍0  2025-02-11
+[107] ❌ @JAYJAY1787  👍0  2025-02-11
 Original: I'm convinced he gets paid by apple cause that's super ugly & apple just keeps giving buyers the same old same old
 Sentiment: negative (confidence 0.93)
 
 ------------------------------------------------------------
 
-[106] ➖ @xivallora8834  👍1  2025-02-02
+[108] ➖ @xivallora8834  👍1  2025-02-02
 Original: Which model is the one you're showing us? Is it the 14 inch or the 16 inch?
 Thanks
 Sentiment: neutral (confidence 0.88)
 
 ------------------------------------------------------------
 
-[107] ➖ @simpletech2016  👍0  2025-04-22
+[109] ➖ @simpletech2016  👍0  2025-04-22
 Original: There are many windows laptops out with matt finished screen. Why this nano texture is so special and 150 USD more?
 Sentiment: neutral (confidence 0.64)
 
 ------------------------------------------------------------
 
-[108] ✅ @vijaymago9483  👍4  2024-11-19
+[110] ✅ @vijaymago9483  👍4  2024-11-19
 Original: Always good to see a new upload from my favorite youtuber 96MPHIAL
 Sentiment: positive (confidence 0.99)
 
 ------------------------------------------------------------
 
-[109] ➖ @FilledWithChillVR  👍72  2024-11-19
+[111] ➖ @FilledWithChillVR  👍72  2024-11-19
 Original: This kinda felt like an ad, like when he was showing the benchmarks and comparing them to old generation intel chips, like why? Compare it to current gen Intel chips in laptops. This thing is like $5K I wonder how it will do compared to a $4K maxed out windows gaming laptop with an i9 and a 4090 mobile chip.
 Sentiment: neutral (confidence 0.64)
 
@@ -1415,7 +1427,7 @@ Sentiment: neutral (confidence 0.64)
 
 ------------------------------------------------------------
 
-[110] ➖ @shivamkanodia9826  👍144  2024-11-18
+[112] ➖ @shivamkanodia9826  👍144  2024-11-18
 Original: 3:15 don't think so buddy
 Sentiment: neutral (confidence 0.57)
 
@@ -1447,19 +1459,19 @@ Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[111] ✅ @j-dided  👍0  2025-02-05
+[113] ✅ @j-dided  👍0  2025-02-05
 Original: I have a M1 mac book pro and I love davinci resolve studio (paid version) I also have final cut and you mentioned, “magnetic mask.” Sounds a lot like Davinci’s ‘magic mask.’
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[112] ❌ @GuardiansCreed  👍0  2024-11-20
+[114] ❌ @GuardiansCreed  👍0  2024-11-20
 Original: I wonder if anyone got fired for not blurring the second speedometer
 Sentiment: negative (confidence 0.60)
 
 ------------------------------------------------------------
 
-[113] ✅ @Kovman9  👍0  2025-10-24
+[115] ✅ @Kovman9  👍0  2025-10-24
 Original: Ive watched this review like 5 times, js love it ❤😂
 Sentiment: positive (confidence 0.98)
 
@@ -1469,43 +1481,49 @@ Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[114] ❌ @ItsMeTheDante  👍3  2024-11-20
+[116] ❌ @BlueNaaBee24  👍1  2024-11-20
+Original: You can go triple the speed limit in a school zone so what's taking so long for that apology video to come out.
+Sentiment: negative (confidence 0.75)
+
+------------------------------------------------------------
+
+[117] ❌ @ItsMeTheDante  👍3  2024-11-20
 Original: No kids was harmed on this video😂
 Sentiment: negative (confidence 0.69)
 
 ------------------------------------------------------------
 
-[115]  @BrandonSongvilay  👍0  2025-01-23
+[118]  @BrandonSongvilay  👍0  2025-01-23
 Original: 🫨🫨🫨
 
 ------------------------------------------------------------
 
-[116] ❌ @bluejay4069  👍1  2024-12-30
+[119] ❌ @bluejay4069  👍1  2024-12-30
 Original: Everyone acting like they don't drive to fast.. Jesus.
 Sentiment: negative (confidence 0.76)
 
 ------------------------------------------------------------
 
-[117] ✅ @pranith850  👍7  2024-11-18
+[120] ✅ @pranith850  👍7  2024-11-18
 Original: Been waiting for this review!
 Sentiment: positive (confidence 0.92)
 
 ------------------------------------------------------------
 
-[118] ➖ @ArcienPlaysGames  👍0  2026-01-31
+[121] ➖ @ArcienPlaysGames  👍0  2026-01-31
 Original: 1:58
 Are the cores harder too?
 Sentiment: neutral (confidence 0.74)
 
 ------------------------------------------------------------
 
-[119] ❌ @Batzalko  👍1  2024-11-21
+[122] ❌ @Batzalko  👍1  2024-11-21
 Original: 96MPH laptop sounds so fast it’s dangerous!!
 Sentiment: negative (confidence 0.89)
 
 ------------------------------------------------------------
 
-[120] ➖ @hamstersmash  👍866  2024-11-20
+[123] ➖ @hamstersmash  👍866  2024-11-20
 Original: Protect your kids, marques has a fast machine in his hands
 Sentiment: neutral (confidence 0.60)
 
@@ -1515,7 +1533,7 @@ Sentiment: neutral (confidence 0.60)
 
 ------------------------------------------------------------
 
-[121] ❌ @sirreal2290  👍7  2024-11-18
+[124] ❌ @sirreal2290  👍7  2024-11-18
 Original: Damn people turned so quickly on mkbhd. There are more people defending diddy than him….
 Sentiment: negative (confidence 0.86)
 
@@ -1525,19 +1543,19 @@ Sentiment: negative (confidence 0.86)
 
 ------------------------------------------------------------
 
-[122] ➖ @CZI_army  👍2  2025-07-25
+[125] ➖ @CZI_army  👍2  2025-07-25
 Original: yall can you tell the wallpaper he is using
 Sentiment: neutral (confidence 0.91)
 
 ------------------------------------------------------------
 
-[123] ➖ @visheshsharma1365  👍4  2024-11-18
+[126] ➖ @visheshsharma1365  👍4  2024-11-18
 Original: M4 is just how Marques likes it. FAST AND EXPENSIVE
 Sentiment: neutral (confidence 0.53)
 
 ------------------------------------------------------------
 
-[124] ❌ @AugustineGreyy  👍720  2024-11-18
+[127] ❌ @AugustineGreyy  👍720  2024-11-18
 Original: Either you die a hero or live long enough to see yourself become a samtime parody.
 Sentiment: negative (confidence 0.74)
 
@@ -1559,7 +1577,7 @@ Sentiment: negative (confidence 0.74)
 
 ------------------------------------------------------------
 
-[125] ➖ @darocknl  👍0  2025-02-01
+[128] ➖ @darocknl  👍0  2025-02-01
 Original: Is it just me, or does the nano texture in this video appear to flatten the contrast of the screen? It somehow seems that the deep blacks seem less black. I have the normal screen on my MBP M3 Max and I'm very happy with the contrast and the deep blacks. Taking away the reflections would be very nice, but not at the expense of less contrast. But maybe I need to see it in person by the time I want to shop for a replacement.
 Sentiment: neutral (confidence 0.66)
 
@@ -1569,55 +1587,61 @@ Sentiment: neutral (confidence 0.66)
 
 ------------------------------------------------------------
 
-[126] ➖ @josephreiff2010  👍23  2024-11-18
+[129] ✅ @lolyes4947  👍1  2024-11-24
+Original: he really appreciates the added HORSEPOWER of the new macs
+Sentiment: positive (confidence 0.96)
+
+------------------------------------------------------------
+
+[130] ➖ @josephreiff2010  👍23  2024-11-18
 Original: 1:33 So, did anyone else notice the BMW M colors in the background while talking about an M4 (Mac, not BMW)? I feel like this was intentional… 🤣😎👍🏼
 Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[127] ❌ @zedpassway4140  👍0  2025-04-06
+[131] ❌ @zedpassway4140  👍0  2025-04-06
 Original: Yes... clearly faster than my old M1Pro.  Not as happy with OS Giant Tree.  I have had to remove stupid items that suck RAM like Phone Mirroring(I just take it out of my pocket), or Apple moronic intelligence, or Special Ed Siri.
 Sentiment: negative (confidence 0.90)
 
 ------------------------------------------------------------
 
-[128] ✅ @mitchelldexter4917  👍0  2025-01-27
+[132] ✅ @mitchelldexter4917  👍0  2025-01-27
 Original: Hey man! love your videos!  What do I got to do to get your m1 max???? I could never afford one lol
 Sentiment: positive (confidence 0.83)
 
 ------------------------------------------------------------
 
-[129] ✅ @karmickronicles92  👍5  2024-11-18
+[133] ✅ @karmickronicles92  👍5  2024-11-18
 Original: Best comment section
 Sentiment: positive (confidence 0.85)
 
 ------------------------------------------------------------
 
-[130] ✅ @stabbx  👍139  2024-11-18
+[134] ✅ @stabbx  👍139  2024-11-18
 Original: Seems like you really like it FAST
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[131] ✅ @adc_15  👍0  2025-04-02
+[135] ✅ @adc_15  👍0  2025-04-02
 Original: i love the display image, where is from?
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[132] ➖ @abbddos  👍0  2025-08-26
+[136] ➖ @abbddos  👍0  2025-08-26
 Original: Hi Marques. I'm a software engineer, an old time Linux enthusiast, but recently, I got to work with a client who insisted having a system that is secure and supported, he means either Windows or Mac. Since I would not touch Windows to save my life, I'm thinking of getting myself a Macbook pro... not necessarily an M4 chip, maybe an older model. Unfortunately, most content reviewing Macs are more oriented to content creation rather than software development and engineering, so I need your advice on something that works, but not an overkill... Thanks
 Sentiment: neutral (confidence 0.54)
 
 ------------------------------------------------------------
 
-[133] ✅ @DjJemn  👍0  2025-01-02
+[137] ✅ @DjJemn  👍0  2025-01-02
 Original: I wish macbook pro are flipable like 2 in 1 computer and a touchscreen aswell then it will be perfect for me
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[134] ✅ @Dior444L  👍789  2024-11-18
+[138] ✅ @Dior444L  👍789  2024-11-18
 Original: 0:24 yeah you sure do love some extra horsepower...
 Sentiment: positive (confidence 0.78)
 
@@ -1627,43 +1651,43 @@ Sentiment: positive (confidence 0.78)
 
 ------------------------------------------------------------
 
-[135] ✅ @antonioiniguez1615  👍5  2024-11-18
+[139] ✅ @antonioiniguez1615  👍5  2024-11-18
 Original: Looks like a really good device. My only concern is the speed as I live near a school zone
 Sentiment: positive (confidence 0.92)
 
 ------------------------------------------------------------
 
-[136] ➖ @snowleopard3470  👍0  2025-01-21
+[140] ➖ @snowleopard3470  👍0  2025-01-21
 Original: Sir, do u recommend macbook air + macmini m4 or mb pro m4
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[137] ✅ @Uvxis  👍1  2025-04-29
+[141] ✅ @Uvxis  👍1  2025-04-29
 Original: I have a 2013 MacBook Air and it’s in a really good condition do I need to upgrade???
 Sentiment: positive (confidence 0.90)
 
 ------------------------------------------------------------
 
-[138] ❌ @yahyashafqat7352  👍5  2024-11-19
+[142] ❌ @yahyashafqat7352  👍5  2024-11-19
 Original: Surprised he hasn't removed these comments... like his speed
 Sentiment: negative (confidence 0.77)
 
 ------------------------------------------------------------
 
-[139] ✅ @Knutacious  👍0  2024-12-20
+[143] ✅ @Knutacious  👍0  2024-12-20
 Original: Have you looked at editing with a speed editor on Davinci Resolve? Would love your take on video editing software.
 Sentiment: positive (confidence 0.66)
 
 ------------------------------------------------------------
 
-[140] ➖ @argo13fr  👍5  2025-04-05
+[144] ➖ @argo13fr  👍5  2025-04-05
 Original: if you don't want that m4 MacBook i'll gladly take it!
 Sentiment: neutral (confidence 0.61)
 
 ------------------------------------------------------------
 
-[141] ❌ @platin2148  👍0  2025-08-30
+[145] ❌ @platin2148  👍0  2025-08-30
 Original: Well GPU perf is for me not enough to upgrade. The Neural Engine stuff locally i can't really use so not worth it. The CPU perf i'm not sure if i really need it. So overall fells like not worth it.
 The Perf in Xcode seems to not really get any better as it eats whatever it is there. I upgrade at most every like 7 or 10ish years and buy the latest.
 For the screen i use glass protector and its totally fine. Non of these features justify for me a upgrade till they sort out there gpu which they have not in M5 and not sure they will in M6 but by the changes the made to the apis it looks like it will.
@@ -1671,7 +1695,7 @@ Sentiment: negative (confidence 0.86)
 
 ------------------------------------------------------------
 
-[142] ➖ @sgam43  👍4898  2024-11-18
+[146] ➖ @sgam43  👍4898  2024-11-18
 Original: After reading comments for 20 minutes: Oh yeah, there was a video attached to this...
 Sentiment: neutral (confidence 0.70)
 
@@ -1690,31 +1714,31 @@ Sentiment: neutral (confidence 0.70)
 
 ------------------------------------------------------------
 
-[143] ✅ @thebee18  👍0  2025-01-16
+[147] ✅ @thebee18  👍0  2025-01-16
 Original: Apple computers fucking rock
 Sentiment: positive (confidence 0.94)
 
 ------------------------------------------------------------
 
-[144] ➖ @Gooster3-9  👍0  2025-07-23
+[148] ➖ @Gooster3-9  👍0  2025-07-23
 Original: Does the M1 still hold up?
 Sentiment: neutral (confidence 0.92)
 
 ------------------------------------------------------------
 
-[145] ➖ @Vanantics  👍0  2025-02-08
+[149] ➖ @Vanantics  👍0  2025-02-08
 Original: Wish they give us the touch bar back 😥
 Sentiment: neutral (confidence 0.59)
 
 ------------------------------------------------------------
 
-[146] ➖ @jagadishkumarhiremath1143  👍0  2024-11-30
+[150] ➖ @jagadishkumarhiremath1143  👍0  2024-11-30
 Original: You forgot to mention about the center stage camera for desk view
 Sentiment: neutral (confidence 0.71)
 
 ------------------------------------------------------------
 
-[147] ➖ @ambitious6963  👍154  2024-11-18
+[151] ➖ @ambitious6963  👍154  2024-11-18
 Original: Grabs Popcorns, heads to comments
 Sentiment: neutral (confidence 0.78)
 
@@ -1728,13 +1752,13 @@ Sentiment: neutral (confidence 0.78)
 
 ------------------------------------------------------------
 
-[148] ➖ @spenitor  👍1  2024-11-20
+[152] ➖ @spenitor  👍1  2024-11-20
 Original: is that laptop wallpaper from panels?
 Sentiment: neutral (confidence 0.91)
 
 ------------------------------------------------------------
 
-[149] ✅ @hassaanahmadsheikh  👍102  2024-11-21
+[153] ✅ @hassaanahmadsheikh  👍102  2024-11-21
 Original: I'm in 8th grade and I love watching MKBHD's vid-
 Sentiment: positive (confidence 0.97)
 
@@ -1744,13 +1768,13 @@ Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[150] ➖ @Mobik_  👍247  2024-11-18
+[154] ➖ @Mobik_  👍247  2024-11-18
 Original: 0:25 "Macbook Pro M4 Max is so fast that even kids are afraid to play nearby" 💀
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[151] ✅ @BoutWout  👍6  2024-11-18
+[155] ✅ @BoutWout  👍6  2024-11-18
 Original: Video duration 12:34.. nice
 Sentiment: positive (confidence 0.86)
 
@@ -1760,13 +1784,13 @@ Sentiment: positive (confidence 0.86)
 
 ------------------------------------------------------------
 
-[152] ➖ @Sergioelg  👍1  2025-04-09
+[156] ➖ @Sergioelg  👍1  2025-04-09
 Original: 16 gigs of unified memory . this guys is sold
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[153] ✅ @x7Samuraix  👍1  2025-09-01
+[157] ✅ @x7Samuraix  👍1  2025-09-01
 Original: saw the M4 running Windows and performed BETTER than a gaming intel laptop. I was impressed to say the least. Apple made a leap forward with this machine. 
 
 I’m considering upgrading from my old MacBook Pro (7 years and still performing), just because I started to run test BI tools, Anaconda for Python and a SQL database, for practice.
@@ -1776,7 +1800,7 @@ Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[154] ✅ @thegentlemanscracklechannel  👍11  2024-11-18
+[158] ✅ @thegentlemanscracklechannel  👍11  2024-11-18
 Original: Thank you for the video, planning on upgrading for Black Friday.
 Sentiment: positive (confidence 0.93)
 
@@ -1797,7 +1821,7 @@ Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[155] ➖ @ritobs  👍19346  2024-11-18
+[159] ➖ @ritobs  👍19346  2024-11-18
 Original: the M4 is fast but it ain't beating Marques in a school zone
 Sentiment: neutral (confidence 0.48)
 
@@ -1887,37 +1911,43 @@ Sentiment: neutral (confidence 0.48)
 
 ------------------------------------------------------------
 
-[156] ➖ @tech-sport  👍0  2025-02-28
+[160] ✅ @Emet.V  👍0  2024-12-15
+Original: 5:45 An m4 max/ultra studio mac mini would be insane 🤌
+Sentiment: positive (confidence 0.52)
+
+------------------------------------------------------------
+
+[161] ➖ @tech-sport  👍0  2025-02-28
 Original: my dream marquest repy me for my question i think bather colse the comments. 😡
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[157] ❌ @panmanafro  👍2  2024-11-20
+[162] ❌ @panmanafro  👍2  2024-11-20
 Original: 4:15 you can't make this up 😂
 Sentiment: negative (confidence 0.88)
 
 ------------------------------------------------------------
 
-[158] ➖ @ibrahimishaq1930  👍0  2025-03-16
+[163] ➖ @ibrahimishaq1930  👍0  2025-03-16
 Original: Pass the M1 max down bro
 Sentiment: neutral (confidence 0.67)
 
 ------------------------------------------------------------
 
-[159] ✅ @SirReynoldsLarry  👍1  2024-11-20
+[164] ✅ @SirReynoldsLarry  👍1  2024-11-20
 Original: I love how fast the M4 is I have one, but it’s not allowed near a school zone
 Sentiment: positive (confidence 0.81)
 
 ------------------------------------------------------------
 
-[160] ❌ @c1oudyyyy  👍11  2024-11-18
+[165] ❌ @c1oudyyyy  👍11  2024-11-18
 Original: The comments are faster than the car.
 Sentiment: negative (confidence 0.60)
 
 ------------------------------------------------------------
 
-[161] ✅ @JohnCena-nx4of  👍133  2024-11-19
+[166] ✅ @JohnCena-nx4of  👍133  2024-11-19
 Original: Marques be like: Speed... I am speed
 Sentiment: positive (confidence 0.55)
 
@@ -1931,13 +1961,13 @@ Sentiment: positive (confidence 0.55)
 
 ------------------------------------------------------------
 
-[162] ➖ @kamislookout327  👍0  2025-06-16
+[167] ➖ @kamislookout327  👍0  2025-06-16
 Original: Switching from MacBook Air 2019 to m4 max 40 core MacBook Pro!
 Sentiment: neutral (confidence 0.51)
 
 ------------------------------------------------------------
 
-[163] ➖ @Jazmento  👍19  2024-11-18
+[168] ➖ @Jazmento  👍19  2024-11-18
 Original: Does the Max mean Max Verstappen? Because I've seen you do speeds that he would find impressive.
 Sentiment: neutral (confidence 0.56)
 
@@ -1947,13 +1977,19 @@ Sentiment: neutral (confidence 0.56)
 
 ------------------------------------------------------------
 
-[164] ✅ @SiobhanSampson1997  👍0  2025-04-25
+[169] ➖ @SomethingCurious2  👍4  2024-11-19
+Original: *Can it go 95mph in a kids playing around zone?*
+Sentiment: neutral (confidence 0.65)
+
+------------------------------------------------------------
+
+[170] ✅ @SiobhanSampson1997  👍0  2025-04-25
 Original: I'm a photographer, and I'm planning to branch out into videography as well. My last Mac was a 2013 Intel i5 with 8GB of RAM, it served me as best it could, but by the end, it was painfully slow (it was all I could afford at the time). Now, I'm upgrading to the new 16-inch M4 Mac with 64GB of RAM and 1TB of storage. These are the best specs I can afford, and I'm hoping this setup will power my current and future creative workflows for years to come. I can’t wait! 😄
 Sentiment: positive (confidence 0.79)
 
 ------------------------------------------------------------
 
-[165] ➖ @miamatti  👍1  2024-12-21
+[171] ➖ @miamatti  👍1  2024-12-21
 Original: whatupguys it’s mphhd
 Sentiment: neutral (confidence 0.64)
 
@@ -1962,62 +1998,68 @@ Sentiment: neutral (confidence 0.64)
 
 ------------------------------------------------------------
 
-[166] ➖ @ghannamisaeed  👍0  2024-12-05
+[172] ➖ @ghannamisaeed  👍0  2024-12-05
 Original: Will it freeze if connected to an external screen as old versions?
 Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[167] ➖ @kazmaz82  👍0  2025-05-29
+[173] ➖ @kazmaz82  👍0  2025-05-29
 Original: Have they throttled the intel machines?
 Sentiment: neutral (confidence 0.78)
 
 ------------------------------------------------------------
 
-[168] ➖ @mindlessftw  👍2  2024-11-21
+[174] ➖ @mindlessftw  👍2  2024-11-21
 Original: 2 million views 
 Average play time 3 seconds
 Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[169] ❌ @sn1peaudio  👍0  2025-01-16
+[175] ❌ @sn1peaudio  👍0  2025-01-16
 Original: the jokes are getting kinda burnt out
 Sentiment: negative (confidence 0.78)
 
 ------------------------------------------------------------
 
-[170] ❌ @OvidiusPrime  👍5  2024-11-18
+[176] ➖ @kindofanmol  👍5  2024-11-18
+Original: Does the M4 Macbook charge at 96W when plugged into a 30W adaptor?
+Sentiment: neutral (confidence 0.93)
+
+------------------------------------------------------------
+
+[177] ❌ @OvidiusPrime  👍5  2024-11-18
 Original: There is a reason why public schools dont allow Apple PCs. MKMPH going so fast on the M4 just reminded them of the horrors of the Apple II days. Its why they fired Steve Jobs back in the 80s.
 Sentiment: negative (confidence 0.85)
 
 ------------------------------------------------------------
 
-[171] ➖ @DGendron  👍0  2025-04-24
+[178] ➖ @DGendron  👍0  2025-04-24
 Original: "Other things are updated about this laptop as well, first of all this laptop is space black".. apple has negotiated its way on colors in a way that a gentleman like Marques is spending a lot of time on the color alone
 Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[172] ✅ @Metalmilitia69  👍0  2025-01-15
+[179] ✅ @Metalmilitia69  👍0  2025-01-15
 Original: I'm pretty excited for this. Way back in 2008 I got the macbook pro (first ever laptop), the first version where they switched from the plastic body to the full aluminum body. I used that laptop up until 2016, laptop still worked but ssd upgraded werent working. I switched to a Microsoft surface pro is 2017 and that was amazing for school using the pen in one note and have all my notes in one area, although it was great for notes it even kept up with solidworks and inventor. Going to present day, the surface is shitting the bed worse than the mac did and almost isn't functional anymore. Being out of school, I decided to get the mac pro M4 max chip version and I'm excited for it. Going to use it for music production and video editing along with rendering software. I'm excited
 Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[173] ❌ @Dnest10  👍0  2025-03-15
+[180] ❌ @Dnest10  👍0  2025-03-15
 Original: thanks for this. With the apple trade-in promo im completely dumbfounded on what I should do. I currently have the M1 Pro Max 19 core COU 32 Core GPU and 32gb Ram. However, given the current trade in bonus I could recoup roughly $1100 as a trade-in and upgrade. Im currently on the fence on whether it's worthwhile for either a M4 Pro with 14 Core CPU  20 Core GPU and 48GB memory for $2500 or if it would be a worthwhile trade for an M3 Pro Max w/ 14 Core CPU, 30 core Gpu and 36GB unified memory for about $2800. In terms of usage, it would be an everyday driver whilst on the road and away from my studio. There is a good amount of work in Final Cut, Logic Pro and the adobe suite of products excluding premiere. I shoot in raw and use an FX3 for most of the video content.  What would be your opinion?
 Sentiment: negative (confidence 0.56)
 
 ------------------------------------------------------------
 
-[174] ✅ @adamslawson  👍0  2025-03-06
+[181] ✅ @adamslawson  👍0  2025-03-06
 Original: Thunderbolt 3, 4, 5 docks all should work.  I wish the laptops had 4 Thunderbolt ports still like my 2018 MBP.  Good to know about the nano-texture info, I'd normally go for glossy for brighter shine of color.  Good video Marques! thx
 Sentiment: positive (confidence 0.88)
 
 ------------------------------------------------------------
 
-[175] ➖ @MesMos  👍3409  2024-11-18
+[182] ➖ @MesMos  👍3409  2024-11-18
 Original: I clicked so fast on this video that I almost went over 91mph.
 Sentiment: neutral (confidence 0.41)
 
@@ -2039,79 +2081,85 @@ Sentiment: neutral (confidence 0.41)
 
 ------------------------------------------------------------
 
-[176] ➖ @christeduard951  👍1  2024-11-21
+[183] ➖ @christeduard951  👍1  2024-11-21
 Original: As a noob can someone explain how many cores (performance vs efficiency) the base MacBook Pro M4  will have
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[177] ➖ @clemenceWONDER  👍0  2025-07-06
+[184] ➖ @clemenceWONDER  👍0  2025-07-06
 Original: Dope review, watching it again to catch up. May I have your M1 Max?
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[178] ➖ @wicakradityo1734  👍2  2024-11-20
+[185] ➖ @wicakradityo1734  👍2  2024-11-20
 Original: 5:11, Pleaseee give him a brake 😭😭😭
 Sentiment: neutral (confidence 0.44)
 
 ------------------------------------------------------------
 
-[179] ✅ @ZackaryYoung-i5g  👍0  2025-04-26
+[186] ✅ @veleromedia  👍1  2024-11-19
+Original: you can perfectly emulate the screen thing with a $10 screen matte cover ;P
+Sentiment: positive (confidence 0.61)
+
+------------------------------------------------------------
+
+[187] ✅ @ZackaryYoung-i5g  👍0  2025-04-26
 Original: This looks great. I'de like to use Classic Mac so I can take advantage of Unix To Unix Copy Program.
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[180] ➖ @RojomAnimations  👍0  2025-04-12
+[188] ➖ @RojomAnimations  👍0  2025-04-12
 Original: Test also on 3d animation and motion graphics
 Sentiment: neutral (confidence 0.88)
 
 ------------------------------------------------------------
 
-[181] ➖ @Daggerhead69  👍1  2024-11-20
+[189] ➖ @Daggerhead69  👍1  2024-11-20
 Original: are those bmw m4 colorways in the background ???
 Sentiment: neutral (confidence 0.94)
 
 ------------------------------------------------------------
 
-[182] ❌ @rickbiessman6084  👍0  2025-03-21
+[190] ❌ @rickbiessman6084  👍0  2025-03-21
 Original: 0:51 What in the world are those SIIIIIIICK GRAPHICS?!?!?!? 😍😍😍😍
 Sentiment: negative (confidence 0.94)
 
 ------------------------------------------------------------
 
-[183] ➖ @richzhart2374  👍0  2024-11-22
+[191] ➖ @richzhart2374  👍0  2024-11-22
 Original: That thunderbolt 5 port is almost as fast as him on a school zone
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[184] ➖ @randomguy1234-s3s  👍42  2024-11-20
+[192] ➖ @randomguy1234-s3s  👍42  2024-11-20
 Original: The youtube topics ai had a stroke trying to process the comments 💀
 Sentiment: neutral (confidence 0.54)
 
 ------------------------------------------------------------
 
-[185] ❌ @KarismoPlays  👍0  2025-02-12
+[193] ❌ @KarismoPlays  👍0  2025-02-12
 Original: Just because I’m watching this doesn’t meant I want to buy it 💀
 Sentiment: negative (confidence 0.57)
 
 ------------------------------------------------------------
 
-[186] ➖ @codemajic_23  👍0  2025-11-08
+[194] ➖ @codemajic_23  👍0  2025-11-08
 Original: This video is from around 11 months, do you think the M5 pro max will be coming up in the following month to keep up the pace of this year?
 Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[187] ❌ @rickbiessman6084  👍0  2025-03-21
+[195] ❌ @rickbiessman6084  👍0  2025-03-21
 Original: Dang, I don’t even like MacOS for a variety of reasons, but the performance AND value on MacBook Pros eversince Apple Silicon was introduced... the itch is getting stronger every year.
 Sentiment: negative (confidence 0.90)
 
 ------------------------------------------------------------
 
-[188] ❌ @paullebon323  👍0  2025-01-27
+[196] ❌ @paullebon323  👍0  2025-01-27
 Original: You couldn't give me a laptop without a touchscreen.
 Sentiment: negative (confidence 0.61)
 
@@ -2121,61 +2169,61 @@ Sentiment: negative (confidence 0.61)
 
 ------------------------------------------------------------
 
-[189] ➖ @SuProcione  👍6  2024-11-19
+[197] ➖ @SuProcione  👍6  2024-11-19
 Original: Seeing Marques under heat 2 TIMES in just a month is really surprising, he basically had a spotless reputation for the past decade
 Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[190] ➖ @zoranm6432  👍0  2025-09-18
+[198] ➖ @zoranm6432  👍0  2025-09-18
 Original: I’ve still got my  16 inch M1 Max with 64gb of Ram. Yes it is slower than the M4 but until it stops receiving OS updates I’ll stick with it until then.
 Sentiment: neutral (confidence 0.61)
 
 ------------------------------------------------------------
 
-[191] ➖ @swordoftech  👍0  2025-03-20
+[199] ➖ @swordoftech  👍0  2025-03-20
 Original: If you ever feel like giving away your old mac.... I'm in tier need😇
 Sentiment: neutral (confidence 0.53)
 
 ------------------------------------------------------------
 
-[192] ✅ @shahulbsr  👍9  2024-11-19
+[200] ✅ @shahulbsr  👍9  2024-11-19
 Original: Was tired of waiting for MPHD's review on the M4 Macbook Pro! Finally gonna upgrade, I hope this is fast enough to render and design a 3D model of a kids play area that I got assigned to work on last week!
 Sentiment: positive (confidence 0.86)
 
 ------------------------------------------------------------
 
-[193] ❌ @RajeevRaj-CivilEngineer  👍0  2025-01-31
+[201] ❌ @RajeevRaj-CivilEngineer  👍0  2025-01-31
 Original: Can you please help me to give your older Macbook Pro like M1, M2 cause my MBP has damaged and I am not able to do my education.
 Sentiment: negative (confidence 0.80)
 
 ------------------------------------------------------------
 
-[194] ➖ @CHiCguitar  👍0  2025-01-20
+[202] ➖ @CHiCguitar  👍0  2025-01-20
 Original: I'm sure they're developing an M4 Ultra and M4 Ultra Max Pro or some other chip for the desktops. HOWEVER - Apple now has the ability to put whatever chip they want in whatever machine. At this rate, they're killing the desktop computer. I am curious to see what they might do to make them something people will want to buy over their laptops or in addition to their laptops. I just don't personally see a use case for a desktop anymore for most people when you can get the same computing power in a machine that will do both. You can hook it up to a monitor and have the desktop experience and it's a machine that can go literally anywhere you do... It might be worth investing time into less expensive displays for them at this rate.
 Sentiment: neutral (confidence 0.64)
 
 ------------------------------------------------------------
 
-[195] ➖ @mattpacker4372  👍0  2025-04-28
+[203] ➖ @mattpacker4372  👍0  2025-04-28
 Original: do the speakers get better with a max pro model?
 Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[196] ✅ @Amsterdamgaming  👍0  2024-12-26
+[204] ✅ @Amsterdamgaming  👍0  2024-12-26
 Original: Thanks for the tips!
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[197] ➖ @Detzfor  👍22  2024-11-20
+[205] ➖ @Detzfor  👍22  2024-11-20
 Original: 0:22 “…will have to edit a video on the go[ing through a school zone at 96mph]” 🤣
 Sentiment: neutral (confidence 0.78)
 
 ------------------------------------------------------------
 
-[198] ➖ @accountdeletetion3512  👍15  2024-11-18
+[206] ➖ @accountdeletetion3512  👍15  2024-11-18
 Original: 50 likes and i will steal that macbook from marques
 Sentiment: neutral (confidence 0.64)
 
@@ -2185,19 +2233,19 @@ Sentiment: neutral (confidence 0.64)
 
 ------------------------------------------------------------
 
-[199] ✅ @Benestify  👍1  2025-01-27
+[207] ✅ @Benestify  👍1  2025-01-27
 Original: Please when you upgrade to M4  throw that M1  to me as it will be the biggest upgrading for coding lessons from intel MB 2014
 Sentiment: positive (confidence 0.45)
 
 ------------------------------------------------------------
 
-[200] ➖ @Ghost818-x8c  👍25  2024-11-18
+[208] ➖ @Ghost818-x8c  👍25  2024-11-18
 Original: Now that’s even faster when he sped through a school zone
 Sentiment: neutral (confidence 0.61)
 
 ------------------------------------------------------------
 
-[201] ❌ @rufusphilip4775  👍73  2024-11-18
+[209] ❌ @rufusphilip4775  👍73  2024-11-18
 Original: I was going to buy this laptop for school. But I’m worried it might be too fast
 Sentiment: negative (confidence 0.67)
 
@@ -2207,19 +2255,33 @@ Sentiment: negative (confidence 0.67)
 
 ------------------------------------------------------------
 
-[202] ➖ @harpingon  👍4  2024-11-18
+[210] ❌ @VloggRJ  👍9  2024-11-19
+Original: Excuse me sir, the M4 went super fast and crashed down your dashboard.
+
+Hope everyone is okay.
+Sentiment: negative (confidence 0.63)
+
+------------------------------------------------------------
+
+[211] ➖ @harpingon  👍4  2024-11-18
 Original: Bet this M4 is real fast.  If you do a speed test bench mark on it, be sure and cover up the results.
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[203] ❌ @pragasht  👍0  2025-04-28
+[212] ❌ @pragasht  👍0  2025-04-28
 Original: Apple is still stuck in stone age for AI stuffs and gaming
 Sentiment: negative (confidence 0.65)
 
 ------------------------------------------------------------
 
-[204] ➖ @ilovemusic6794  👍0  2024-12-30
+[213] ✅ @truejim  👍0  2024-11-20
+Original: The M4 Max is so fast, I started using mine three years ago.
+Sentiment: positive (confidence 0.95)
+
+------------------------------------------------------------
+
+[214] ➖ @ilovemusic6794  👍0  2024-12-30
 Original: Is Apple M4 Max chip with
 14-core CPU, 32-core GPU,
 16-core Neural Engine
@@ -2231,19 +2293,19 @@ Sentiment: neutral (confidence 0.80)
 
 ------------------------------------------------------------
 
-[205] ❌ @baboi5368  👍33  2024-11-19
+[215] ❌ @baboi5368  👍33  2024-11-19
 Original: bro deleted that clip with the same speed he was going
 Sentiment: negative (confidence 0.77)
 
 ------------------------------------------------------------
 
-[206] ➖ @unprayedofficial  👍0  2025-03-16
+[216] ➖ @unprayedofficial  👍0  2025-03-16
 Original: Pls review other programs like unreal engines and blender with ray tracing and cycles 😢, not everyone is a video editor or photographer 😊
 Sentiment: neutral (confidence 0.69)
 
 ------------------------------------------------------------
 
-[207] ❌ @elultimopujilense  👍9  2024-11-18
+[217] ❌ @elultimopujilense  👍9  2024-11-18
 Original: What bothers me the most is that he doesnt even want to talk about it, like it never happened. Not even a real, sincere apology. These people think they are above the law, that they are better than everyone else. Meanwhile, an average person doing something half as reckless would face a massive fine and/or prison time. At least the comments are awesome.
 Sentiment: negative (confidence 0.92)
 
@@ -2275,13 +2337,13 @@ Anyways, he wasn't caught by the police, he was caught by the internet and was r
 
 ------------------------------------------------------------
 
-[208] ➖ @may4enok  👍0  2025-01-18
+[218] ➖ @may4enok  👍0  2025-01-18
 Original: 5:03 facepalm. try to compare with intel on imac 2010.
 Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[209] ➖ @NathanPorter  👍6  2024-11-18
+[219] ➖ @NathanPorter  👍6  2024-11-18
 Original: 2:55 - Bar graph shows M4 better than M2, yet the numbers say M4 had a score of 115,603 and M2 had 132,979
 Sentiment: neutral (confidence 0.70)
 
@@ -2298,7 +2360,7 @@ I see what you meant, I think they simply pasted the previous bar to this one
 
 ------------------------------------------------------------
 
-[210] ✅ @blipmachine  👍123  2024-11-19
+[220] ✅ @blipmachine  👍123  2024-11-19
 Original: Always good to see a new upload from my favorite youtuber 96MPHD
 Sentiment: positive (confidence 0.99)
 
@@ -2307,62 +2369,74 @@ Sentiment: positive (confidence 0.99)
 
 ------------------------------------------------------------
 
-[211] ➖ @kimi366  👍6  2024-11-19
+[221] ➖ @kimi366  👍6  2024-11-19
 Original: The M4 with the BMW M stripes in the background🔥🔥🔥
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[212] ➖ @t1g3r8  👍0  2025-06-07
+[222] ➖ @t1g3r8  👍0  2025-06-07
 Original: Everyday use average student and life stuff without creating M1 Pro vs new m4 air 13inch vs m4 14in pro
 Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[213] ➖ @crystalx5899  👍34  2024-11-18
+[223] ➖ @crystalx5899  👍34  2024-11-18
 Original: NEXT VIDEO : MKBMPH vs M4 pro speed test at school zone
 Sentiment: neutral (confidence 0.91)
 
 ------------------------------------------------------------
 
-[214] ➖ @slvrpltd  👍4  2024-11-18
+[224] ➖ @slvrpltd  👍4  2024-11-18
 Original: i read: "i'm convicted!"
 Sentiment: neutral (confidence 0.61)
 
 ------------------------------------------------------------
 
-[215] ➖ @karanbajaj108  👍0  2025-07-22
+[225] ➖ @karanbajaj108  👍0  2025-07-22
 Original: Hey awsume video, Question, M4 Max laptop for long and heavy use, how is performance ?
 how is thermal management ?
 Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[216] ➖ @abhijeetkumarsingh3949  👍0  2025-01-29
+[226] ➖ @trellsf415.bsky.social  👍1  2024-12-11
+Original: Currently using a M4 Max, rendered a video for testing in roughly 3 seconds, this same video took about 16 seconds on my Desktop gaming PC running a 3090.
+Sentiment: neutral (confidence 0.85)
+
+------------------------------------------------------------
+
+[227] ➖ @MarkoMood  👍5  2024-11-18
+Original: 6:21 Not 200%, but 100%. 200% would be 3 times faster.
+Sentiment: neutral (confidence 0.54)
+
+------------------------------------------------------------
+
+[228] ➖ @abhijeetkumarsingh3949  👍0  2025-01-29
 Original: First of all, I don’t know why, but whenever you guys compare Apple M series chips with Intel or AMD, they are always ninth gen 10th gen I hope you do the same when Intel and AMD start producing ARM chips, and you compare it with M1 chip 10 year down the road, not now Cause after 9th gen They came up with 10th 11th 12th 13th 14th and instead of 15th, they went for core ultra chips
 Sentiment: neutral (confidence 0.54)
 
 ------------------------------------------------------------
 
-[217] ❌ @kurt120032002  👍2  2024-12-27
+[229] ❌ @kurt120032002  👍2  2024-12-27
 Original: I am posting this from an M4 PRO MacBook. and  it is meh. Great hardware but that is about it. The OS is the worse I ever see, you are milked for every penny for basic stuff that were included in windows 2000, no Apple service support and so on. Just and extremely expensive meh laptop
 Sentiment: negative (confidence 0.91)
 
 ------------------------------------------------------------
 
-[218] ➖ @praveenvirat6944  👍5  2024-11-20
+[230] ➖ @praveenvirat6944  👍5  2024-11-20
 Original: Dont hate on bro. He just tried to escape from black hole that happens to be at school. You know, turning into lightning mcqueen to travel at speed of light😂
 Sentiment: neutral (confidence 0.69)
 
 ------------------------------------------------------------
 
-[219] ➖ @KristopherDilks-c4t  👍0  2025-08-12
+[231] ➖ @KristopherDilks-c4t  👍0  2025-08-12
 Original: Do you have an old laptop laying around you don’t use I never had a laptop and can’t afford one would love to try out an iMac laptop
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[220] ➖ @macmarc6661  👍7882  2024-11-18
+[232] ➖ @macmarc6661  👍7882  2024-11-18
 Original: YT statistics will be:
 Average view time: 15 seconds 
 Engagement: 100%
@@ -2510,25 +2584,32 @@ Needless to say, I also unsubscribed.
 
 ------------------------------------------------------------
 
-[221] ❌ @FoxSleeping  👍3  2025-01-09
+[233] ❌ @FoxSleeping  👍3  2025-01-09
 Original: The notch is pathetic.  No Oled, no Face ID.  M1 is fine.  Save the cash.
 Sentiment: negative (confidence 0.90)
 
 ------------------------------------------------------------
 
-[222] ✅ @marcellodellabartola3494  👍0  2025-02-19
+[234] ✅ @marcellodellabartola3494  👍0  2025-02-19
 Original: Almost 20.000.00 subs man, wow that is insane !
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[223] ➖ @Deziiner  👍0  2025-04-08
+[235] ➖ @Deziiner  👍0  2025-04-08
 Original: Was it intentional that you put the BMW M colors behind you in this video? If so, golf clap.
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[224]  @nazrain7048  👍0  2024-12-29
+[236] ✅ @zayyirthomas789  👍0  2024-12-09
+Original: Coming from a late 2016 15 inch, to this new machine. Is actually insane! Yes
+I held off upgrading for that long!!!
+Sentiment: positive (confidence 0.94)
+
+------------------------------------------------------------
+
+[237]  @nazrain7048  👍0  2024-12-29
 Original: Hi everyone.
 I need your opinion regarding my choice of main device for my everyday usage.
 My current main device is MacBook Pro M1 and it  has "fallen". Unfortunately just before I could resell it. ( screen turned black and tech guys said the fan is not working too)
@@ -2562,48 +2643,48 @@ Thanks and happy holidays, happy new year!
 
 ------------------------------------------------------------
 
-[225] ➖ @AnonymousPirate98  👍44  2024-11-18
+[238] ➖ @AnonymousPirate98  👍44  2024-11-18
 Original: 0:25 Did he say Extra Horsepower 💀
 Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[226] ✅ @vincentnguyen1475  👍0  2025-03-17
+[239] ✅ @vincentnguyen1475  👍0  2025-03-17
 Original: Thank you for the review
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[227] ➖ @andrewcul  👍0  2025-12-17
+[240] ➖ @andrewcul  👍0  2025-12-17
 Original: i miss the touch bar
 Sentiment: neutral (confidence 0.47)
 
 ------------------------------------------------------------
 
-[228] ❌ @Evie0133  👍9  2024-11-20
+[241] ❌ @Evie0133  👍9  2024-11-20
 Original: the fact that he chose to upload this before any kind of video addressing what he did is crazy to me lol
 Sentiment: negative (confidence 0.83)
 
 ------------------------------------------------------------
 
-[229] ❌ @crumblebee6728  👍4  2024-11-18
+[242] ❌ @crumblebee6728  👍4  2024-11-18
 Original: lol bro is getting absolutely flamed
 Sentiment: negative (confidence 0.76)
 
 ------------------------------------------------------------
 
-[230] ❌ @Zangetsu787  👍0  2024-11-20
+[243] ❌ @Zangetsu787  👍0  2024-11-20
 Original: That car clip was gone in a flash
 Sentiment: negative (confidence 0.71)
 
 ------------------------------------------------------------
 
-[231]  @dlbSTUDIO-SXM  👍0  2025-07-05
+[244]  @dlbSTUDIO-SXM  👍0  2025-07-05
 Original: same 🙌🏼😁
 
 ------------------------------------------------------------
 
-[232] ❌ @TraeBeneck  👍92  2024-11-18
+[245] ❌ @TraeBeneck  👍92  2024-11-18
 Original: I wonder how the rest of The Studio employees are feeling right now. They all clearly love their jobs and are INCREDIBLE at what they do, but they obviously read the comments section. I wonder if any of them are panicking or mad at their boss for being such an idiot twice in a row, to the point that his repeated recklessness could be putting their job security in jeopardy.
 Sentiment: negative (confidence 0.65)
 
@@ -2670,13 +2751,13 @@ He can apologize but certainly now we are 100% convinced without doubt he isn't 
 
 ------------------------------------------------------------
 
-[233] ➖ @Chitranshkhare-u7f  👍1  2024-11-21
+[246] ➖ @Chitranshkhare-u7f  👍1  2024-11-21
 Original: where do i get the wallpaper
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[234] ❌ @DeepPsichology  👍0  2025-12-20
+[247] ❌ @DeepPsichology  👍0  2025-12-20
 Original: I am sorry, but this is not a review, looks more like a marriage between apple and him.
 Sentiment: negative (confidence 0.70)
 
@@ -2686,7 +2767,13 @@ Sentiment: negative (confidence 0.70)
 
 ------------------------------------------------------------
 
-[235] ✅ @mnp308  👍0  2025-02-25
+[248] ✅ @sunnysharma89  👍0  2024-12-02
+Original: And there are people like me who are still Happy with their MacBook M1 Air
+Sentiment: positive (confidence 0.80)
+
+------------------------------------------------------------
+
+[249] ✅ @mnp308  👍0  2025-02-25
 Original: please tell me where you get your skin also? 
 
 much appreciated.
@@ -2698,31 +2785,31 @@ Sentiment: positive (confidence 0.73)
 
 ------------------------------------------------------------
 
-[236] ➖ @Bdakzz  👍0  2026-02-04
+[250] ➖ @Bdakzz  👍0  2026-02-04
 Original: This video convinced me as well
 Sentiment: neutral (confidence 0.53)
 
 ------------------------------------------------------------
 
-[237] ➖ @fungamerkid  👍0  2025-02-28
+[251] ➖ @fungamerkid  👍0  2025-02-28
 Original: I’m about to get it upgrading from an Alienware a51m big bulky to the m4 max
 Sentiment: neutral (confidence 0.69)
 
 ------------------------------------------------------------
 
-[238] ❌ @_its._gaurav._  👍1  2025-01-24
+[252] ❌ @_its._gaurav._  👍1  2025-01-24
 Original: Damn it's already been 2 months since he was overspeeding in a school zone
 Sentiment: negative (confidence 0.81)
 
 ------------------------------------------------------------
 
-[239] ❌ @BobbyBGMI  👍4  2024-11-19
+[253] ❌ @BobbyBGMI  👍4  2024-11-19
 Original: 6:20. @Marques Brownlee not just 30-40% but like 200%. It honestly should be 100% faster. Or you should have said not just 130-140%. 200% is big mistake and can be misleading
 Sentiment: negative (confidence 0.67)
 
 ------------------------------------------------------------
 
-[240] ❌ @AJ-pc4qc  👍500  2024-11-19
+[254] ❌ @AJ-pc4qc  👍500  2024-11-19
 Original: stop making fun of him ,  you all are jealous marques is the payable character on forza horizon 6
 Sentiment: negative (confidence 0.72)
 
@@ -2751,13 +2838,13 @@ Sentiment: negative (confidence 0.72)
 
 ------------------------------------------------------------
 
-[241] ➖ @dimitarpetkov4442  👍0  2025-03-15
+[255] ➖ @dimitarpetkov4442  👍0  2025-03-15
 Original: As an attorney and a financial manager, Im cool with Excel and Word  going off easily
 Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[242] ➖ @ikeshavnagpal  👍17  2024-11-18
+[256] ➖ @ikeshavnagpal  👍17  2024-11-18
 Original: 6:14 if you are comparing increments as 20% or 30%, you should be using 100% for conveying double performance not 200% that would mean 3x performance
 
 Edit: 4x -> 3x
@@ -2780,55 +2867,62 @@ Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[243] ➖ @prozac1127  👍0  2025-04-01
+[257] ➖ @prozac1127  👍0  2025-04-01
 Original: But can it run ...
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[244] ➖ @sandeepvazrapu  👍0  2025-08-21
+[258] ➖ @sandeepvazrapu  👍0  2025-08-21
 Original: Is this 16 inch or 14 inch ?
 Sentiment: neutral (confidence 0.90)
 
 ------------------------------------------------------------
 
-[245] ✅ @rachel.isabelle  👍0  2025-04-06
+[259] ✅ @rachel.isabelle  👍0  2025-04-06
 Original: This was really interesting, thank you! I'm a video editor but I don't have the budget to max out the specs. What would you say is the minimum specs for video editing (I edit mostly iphone 4k footage but sometimes h265 podcast footage from a camera)? 
 I currently have a 2019 imac with i9 intel processor and 40gb of ram...it handles everything pretty well but does start to lag when a project has lots of 4k clips or if I'm working with long, large podcast files.
 Sentiment: positive (confidence 0.87)
 
 ------------------------------------------------------------
 
-[246] ➖ @YattirSmith  👍1  2025-02-28
+[260] ➖ @YattirSmith  👍1  2025-02-28
 Original: Im still on m1 pro trying to wait until m7 pro
 Sentiment: neutral (confidence 0.76)
 
 ------------------------------------------------------------
 
-[247] ✅ @Thetaprobanian  👍0  2024-11-20
+[261] ✅ @Thetaprobanian  👍0  2024-11-20
 Original: Cant wait to test this out
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[248] ❌ @Jianfa88Tsai  👍0  2025-01-19
+[262] ✅ @GilbertTV  👍7  2024-11-23
+Original: I bought a M1 MacBook Pro in 2023 , the base model 16gb ram 512gb hard drive & its awesome , better than any MacBook ive had in the last 20 years of using & buying Apple laptops . I do photography & video & it works well for my needs.
+Yeah if you edit multiple layers of video with effects etc etc you may need to upgrade but I don't see any reason to upgrade for most M1 MacBook users at all, spend the money on a holiday with your loved ones .. Now if you don't have a M series MacBook , yes the M4 MacBook is a great buy & you should get one .
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[263] ❌ @Jianfa88Tsai  👍0  2025-01-19
 Original: There was once when someone kicked on my laptop power cable where my laptop fell on the ground and broke. I spent few hundreds of dollars to repair the laptop. I was without a laptop for a few weeks to a month and this ripple effect to form part of the reason that I failed a university course which ripple effect cause me to suffer bad GPA which cause me to be unable to secure a good job to ripple effect cost me millions of dollars of potential future earnings and women. It’s important to protect our future generations by educating them to save their data to the cloud, use MacBook Pro with Parallels Desktop that can use Windows OS and Windows app, so they can buy second MacBook Air/Pro to continue their studies (download data from cloud and change Apple ID password) even if their first laptop is damaged deliberately or accidentally or stolen. Keep quiet. Be invisible and avoid participating in activities that don’t make you money but increase your risks of interacting with criminals.
 Sentiment: negative (confidence 0.88)
 
 ------------------------------------------------------------
 
-[249]  @henrydea5912  👍3  2024-11-22
+[264]  @henrydea5912  👍3  2024-11-22
 Original: “MKBHP”
 
 ------------------------------------------------------------
 
-[250] ✅ @SamJustSaying  👍1  2025-03-13
+[265] ✅ @SamJustSaying  👍1  2025-03-13
 Original: Love my baby.
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[251] ❌ @TEZProd  👍9297  2024-11-18
+[266] ❌ @TEZProd  👍9297  2024-11-18
 Original: Stop harassing Marques, he's FAMILY
 
 - Dominic Toretto
@@ -2984,19 +3078,19 @@ Sentiment: negative (confidence 0.78)
 
 ------------------------------------------------------------
 
-[252] ✅ @JohnSmith0909  👍1  2025-01-05
+[267] ✅ @JohnSmith0909  👍1  2025-01-05
 Original: Not having something like the nano texture was the one imperfection I had with my M1 MacBook Air, 16GB memory, 512 storage, works super well as a college student, but man, so many bright lights reflect off the screen. I don't have a need to upgrade, but hopefully they keep it as an option for future displays for future chips!
 Sentiment: positive (confidence 0.40)
 
 ------------------------------------------------------------
 
-[253] ➖ @dobbingo9313  👍11  2024-11-20
+[268] ➖ @dobbingo9313  👍11  2024-11-20
 Original: The new laptop is fast but is it MKHB in a school zone fast?
 Sentiment: neutral (confidence 0.63)
 
 ------------------------------------------------------------
 
-[254] ✅ @MineTwine45  👍0  2024-12-23
+[269] ✅ @MineTwine45  👍0  2024-12-23
 Original: Upgraded from an M1 base 13" MacBook Pro to a 14" M4 Pro MacBook Pro today. Night and day difference. I'm happy to go from 8GB to 24GB of RAM mainly. Plus the 120hz display. I loved my M1 MacBook Pro but the RAM limitation affected my overall confidence of longevity. The most surprising thing to me honestly is how much better the speaker array is on my new machine. Truly amazing for laptop speakers.
 Sentiment: positive (confidence 0.96)
 
@@ -3006,55 +3100,55 @@ Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[255] ➖ @sanjaymarison5629  👍0  2025-02-23
+[270] ➖ @sanjaymarison5629  👍0  2025-02-23
 Original: 6:25 there is no need for you to convince us to upgrade, just tell the facts we will figure out the rest
 Sentiment: neutral (confidence 0.56)
 
 ------------------------------------------------------------
 
-[256] ➖ @GuardiansCreed  👍2  2024-11-20
+[271] ➖ @GuardiansCreed  👍2  2024-11-20
 Original: Yes but how fast will it go with children around?
 Sentiment: neutral (confidence 0.80)
 
 ------------------------------------------------------------
 
-[257] ➖ @candlemelt  👍0  2025-03-13
+[272] ➖ @candlemelt  👍0  2025-03-13
 Original: I just bought one
 Sentiment: neutral (confidence 0.71)
 
 ------------------------------------------------------------
 
-[258] ✅ @2098ramkumar  👍0  2024-12-31
+[273] ✅ @2098ramkumar  👍0  2024-12-31
 Original: Enjoyed the video
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[259] ➖ @mdogrul  👍0  2025-09-13
+[274] ➖ @mdogrul  👍0  2025-09-13
 Original: i would be convinced as well if i were the one to take the money
 Sentiment: neutral (confidence 0.69)
 
 ------------------------------------------------------------
 
-[260] ✅ @taypac1775  👍0  2025-03-12
+[275] ✅ @taypac1775  👍0  2025-03-12
 Original: I really appreciate this review. I’ve been wanting/ needing to upgrade for awhile now but I’m torn. I have the 16in MacBook Pro (intel chip) so a few years old now haha. I have to use a work computer and then personal computer for everything else. So I thinking crap, do I just get the new air or get the performance I need with the pro then maybe get the iPad or something. Decisions, decisions…
 Sentiment: positive (confidence 0.63)
 
 ------------------------------------------------------------
 
-[261] ➖ @ihyln1  👍8  2024-11-18
+[276] ➖ @ihyln1  👍8  2024-11-18
 Original: On a scale of 0-96mph how fast is it?
 Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[262] ✅ @rrtsis  👍0  2025-03-26
+[277] ✅ @rrtsis  👍0  2025-03-26
 Original: ok! will get it. Always waiting for your review 🙌🏻
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[263] ➖ @PrashasthArakere  👍2823  2024-11-18
+[278] ➖ @PrashasthArakere  👍2823  2024-11-18
 Original: He actually drove at 35mph. He edited the video on this M4 pro.
 So the speed upgraded to 95mph.
 
@@ -3079,19 +3173,19 @@ Sentiment: neutral (confidence 0.67)
 
 ------------------------------------------------------------
 
-[264] ➖ @simonegabellini6382  👍1  2024-11-20
+[279] ➖ @simonegabellini6382  👍1  2024-11-20
 Original: Is it faster than the lambo?
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[265] ✅ @INFO-DIY  👍0  2025-04-07
+[280] ✅ @INFO-DIY  👍0  2025-04-07
 Original: m2 ultra is good
 Sentiment: positive (confidence 0.91)
 
 ------------------------------------------------------------
 
-[266] ✅ @somethingelse516  👍658  2024-11-18
+[281] ✅ @somethingelse516  👍658  2024-11-18
 Original: The super fast Macbook, with 96MPH of RAM, it just needs a wallpaper
 Sentiment: positive (confidence 0.86)
 
@@ -3121,7 +3215,7 @@ Sentiment: positive (confidence 0.86)
 
 ------------------------------------------------------------
 
-[267] ➖ @velu_4  👍4535  2024-11-18
+[282] ➖ @velu_4  👍4535  2024-11-18
 Original: Clicked to:
 
 Watch the video ❌
@@ -3157,7 +3251,7 @@ Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[268] ❌ @garretreed9709  👍4  2024-11-19
+[283] ❌ @garretreed9709  👍4  2024-11-19
 Original: 9:17 should’ve use another color other than black on that text. Just disappears
 Sentiment: negative (confidence 0.75)
 
@@ -3171,7 +3265,7 @@ Sentiment: negative (confidence 0.75)
 
 ------------------------------------------------------------
 
-[269] ❌ @wanaswapersleymilimo  👍1289  2024-11-18
+[284] ❌ @wanaswapersleymilimo  👍1289  2024-11-18
 Original: 30 minutes in and we don't know what the video about, and have read 1000 comments.
 Sentiment: negative (confidence 0.84)
 
@@ -3188,13 +3282,13 @@ Sentiment: negative (confidence 0.84)
 
 ------------------------------------------------------------
 
-[270] ❌ @Bitblock23  👍0  2025-03-12
+[285] ❌ @Bitblock23  👍0  2025-03-12
 Original: What a waste still no oled !!!
 Sentiment: negative (confidence 0.92)
 
 ------------------------------------------------------------
 
-[271] ❌ @harikeeshan  👍43  2024-11-18
+[286] ❌ @harikeeshan  👍43  2024-11-18
 Original: 9:21 the text becomes illegible and the quality of productions is taking some hit here. Bro what happened to your editor ?
 Sentiment: negative (confidence 0.93)
 
@@ -3216,43 +3310,43 @@ Sentiment: negative (confidence 0.93)
 
 ------------------------------------------------------------
 
-[272] ➖ @johannbost  👍10  2024-11-20
+[287] ➖ @johannbost  👍10  2024-11-20
 Original: Liking the comments faster than MKHB in a Kids Play Zone.
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[273] ❌ @brechdt  👍6  2024-11-18
+[288] ❌ @brechdt  👍6  2024-11-18
 Original: My kids will die to try this speedy laptop 🥰
 Sentiment: negative (confidence 0.60)
 
 ------------------------------------------------------------
 
-[274] ❌ @SetszawA  👍1  2024-11-24
+[289] ❌ @SetszawA  👍1  2024-11-24
 Original: WHy is that none of the comparissons use the M3? they all comparing M4 to m2 but missing the one in the middle
 Sentiment: negative (confidence 0.55)
 
 ------------------------------------------------------------
 
-[275] ✅ @PR0KZi  👍0  2025-08-29
+[290] ✅ @PR0KZi  👍0  2025-08-29
 Original: M4 is so fast you need a driving license to use it
 Sentiment: positive (confidence 0.45)
 
 ------------------------------------------------------------
 
-[276] ➖ @GoriguiMonke  👍2  2024-11-20
+[291] ➖ @GoriguiMonke  👍2  2024-11-20
 Original: But can it play Need For Speed?
 Sentiment: neutral (confidence 0.88)
 
 ------------------------------------------------------------
 
-[277] ❌ @mr.goldmanbachmajorian3523  👍0  2025-06-16
+[292] ❌ @mr.goldmanbachmajorian3523  👍0  2025-06-16
 Original: I am coming from MBP 16" 2019 (Intel based) to M4 MBP and the diff is night and day! M4 refuses to even heat up! Crazy!!
 Sentiment: negative (confidence 0.79)
 
 ------------------------------------------------------------
 
-[278] ➖ @devanshkanoria7961  👍5  2024-11-19
+[293] ➖ @devanshkanoria7961  👍5  2024-11-19
 Original: the thing is he thinks his job is to convince people to buy M4 apple products or new products that apple brings but in reality it should be him providing his honest opinions not being a social media marketing channel for apple every year. Anytime apple launches a new product this guy is like buy it tons of improvements and all put together good laptop, even for iPhones which didn't have much changes over last 3 generations
 Sentiment: neutral (confidence 0.57)
 
@@ -3265,44 +3359,44 @@ Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[279] ✅ @SwitchUpYt  👍1  2024-11-20
+[294] ✅ @SwitchUpYt  👍1  2024-11-20
 Original: I’m also on the M1 Max and it’s just a great editing machine
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[280] ❌ @MrCool144  👍0  2025-01-01
+[295] ❌ @MrCool144  👍0  2025-01-01
 Original: the xdr display looks outdated af. you can get an innocn 4k oled 32 inch for 800 on sale rn. even off sale its still one sixth of the price. or you can literally get a mini led ips. the same exact tech from innocn for like 500 and it has triple the dimming zones. and it comes calibrated with 99 percent of color spectrum. i mean these innocn displays are flagship killers for monitors
 Sentiment: negative (confidence 0.78)
 
 ------------------------------------------------------------
 
-[281] ❌ @Redmist2033  👍42  2024-11-18
+[296] ❌ @Redmist2033  👍42  2024-11-18
 Original: I ran to these comments faster than a Lamborghini in a kids at play zone
 Sentiment: negative (confidence 0.53)
 
 ------------------------------------------------------------
 
-[282] ➖ @A22Docs_1  👍0  2025-01-26
+[297] ➖ @A22Docs_1  👍0  2025-01-26
 Original: Can I have a laptop for my education 😔
 I don't have any
 Sentiment: neutral (confidence 0.55)
 
 ------------------------------------------------------------
 
-[283] ➖ @jaiizwaii89  👍0  2025-01-03
+[298] ➖ @jaiizwaii89  👍0  2025-01-03
 Original: So I want a mac book.i have a iPad pro from 2022.i noticed the battery isny holding charge.
 Sentiment: neutral (confidence 0.63)
 
 ------------------------------------------------------------
 
-[284] ➖ @brandman60  👍0  2025-05-28
+[299] ➖ @brandman60  👍0  2025-05-28
 Original: i wish the link to the wallpaper worked
 Sentiment: neutral (confidence 0.50)
 
 ------------------------------------------------------------
 
-[285] ❌ @wisdomyaw03  👍22  2024-11-18
+[300] ❌ @wisdomyaw03  👍22  2024-11-18
 Original: 2:48 There’s something wrong with your graph here.
 Sentiment: negative (confidence 0.88)
 
@@ -3328,7 +3422,7 @@ My Lenovo Laptop with an I7 12th generation released 2 years ago is a great cont
 
 ------------------------------------------------------------
 
-[286] ❌ @ScoobaMusic  👍106  2024-11-18
+[301] ❌ @ScoobaMusic  👍106  2024-11-18
 Original: It's been 6 days since Marques filmed himself recklessly driving in a school zone.
 Sentiment: negative (confidence 0.80)
 
@@ -3350,49 +3444,49 @@ Sentiment: negative (confidence 0.80)
 
 ------------------------------------------------------------
 
-[287] ➖ @tylerdance7328  👍0  2024-11-19
+[302] ➖ @tylerdance7328  👍0  2024-11-19
 Original: is there somewhere I can grab a SD copy of that wallpaper
 Sentiment: neutral (confidence 0.91)
 
 ------------------------------------------------------------
 
-[288] ➖ @DarayaVahu  👍1  2024-11-20
+[303] ➖ @DarayaVahu  👍1  2024-11-20
 Original: 8:23 clearly it do not completely removes reflections but just diffuses them making the image in a haze instead of seeing what is the reflection
 Sentiment: neutral (confidence 0.51)
 
 ------------------------------------------------------------
 
-[289] ➖ @Phones360  👍0  2025-03-05
+[304] ➖ @Phones360  👍0  2025-03-05
 Original: How would m4 max compare to 9950X3D for productivity and gaming with a dedicated gpu.
 Sentiment: neutral (confidence 0.80)
 
 ------------------------------------------------------------
 
-[290] ❌ @20a10v  👍4  2024-11-18
+[305] ❌ @20a10v  👍4  2024-11-18
 Original: M4 Max: An SoC so fast, it's illegal in Kids Play zones.
 Sentiment: negative (confidence 0.57)
 
 ------------------------------------------------------------
 
-[291] ➖ @IanStockwell-if7sl  👍1  2025-12-04
+[306] ➖ @IanStockwell-if7sl  👍1  2025-12-04
 Original: Weee alll know apple
 Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[292] ➖ @donalddarko4871  👍0  2024-12-10
+[307] ➖ @donalddarko4871  👍0  2024-12-10
 Original: 2:50 the gpu open to metal stats say the same but the graph changes
 Sentiment: neutral (confidence 0.92)
 
 ------------------------------------------------------------
 
-[293] ✅ @avmedialab  👍0  2025-05-11
+[308] ✅ @avmedialab  👍0  2025-05-11
 Original: Coming from a Mac mini late 2012 (intel) I loved how this M4 Pro flew and went along fluidly with my finger movements when editing. Lol, it didn't give me the chance to stretch my fingers. Loved how it took about 4-5 min to render a video that my Intel Mac mini would have taken 3-4 hours.
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[294] ❌ @professordreadwin7959  👍333  2024-11-18
+[309] ❌ @professordreadwin7959  👍333  2024-11-18
 Original: I never seen a YouTubers fandom do a 180 on them this fast
 Sentiment: negative (confidence 0.61)
 
@@ -3518,19 +3612,19 @@ Sentiment: negative (confidence 0.61)
 
 ------------------------------------------------------------
 
-[295] ❌ @ESYMFB  👍4  2024-12-01
+[310] ❌ @ESYMFB  👍4  2024-12-01
 Original: You should be convicted, not convinced.
 Sentiment: negative (confidence 0.83)
 
 ------------------------------------------------------------
 
-[296] ❌ @calan9093  👍0  2025-02-22
+[311] ❌ @calan9093  👍0  2025-02-22
 Original: I'm still using a late 2013 macbook pro hahah, it sucks. Should I upgrade?
 Sentiment: negative (confidence 0.94)
 
 ------------------------------------------------------------
 
-[297] ➖ @GrandChampion007  👍4  2024-11-18
+[312] ➖ @GrandChampion007  👍4  2024-11-18
 Original: Is this sponsored?
 Sentiment: neutral (confidence 0.91)
 
@@ -3544,43 +3638,49 @@ Sentiment: neutral (confidence 0.91)
 
 ------------------------------------------------------------
 
-[298] ➖ @andrew_rose  👍0  2025-03-24
+[313] ➖ @andrew_rose  👍0  2025-03-24
 Original: cram an M5 Ultra in there next year and i'll jump
 Sentiment: neutral (confidence 0.61)
 
 ------------------------------------------------------------
 
-[299] ➖ @neilcoelho  👍2  2025-03-14
+[314] ➖ @neilcoelho  👍2  2025-03-14
 Original: £0.5 matte screen protector from aliexpress will do 80% of the job of the nano coating.
 Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[300] ➖ @AaaA-my1ud  👍0  2025-10-13
+[315] ➖ @AaaA-my1ud  👍0  2025-10-13
 Original: m4 max is graet, easy to edit raw video
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[301] ➖ @caspertong6317  👍0  2025-03-16
+[316] ✅ @toni-tonator  👍1  2024-11-20
+Original: I got an M4 Mac at work and I love it. Rendering Blender 3D with cycles in the background while I’m working in other apps normally. Premiere Pro edits and After Effects animations render with speed.😊
+Sentiment: positive (confidence 0.97)
+
+------------------------------------------------------------
+
+[317] ➖ @caspertong6317  👍0  2025-03-16
 Original: maybe next time can collab with a developer, and test based on dev perspective
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[302] ➖ @otcford  👍20  2024-11-19
+[318] ➖ @otcford  👍20  2024-11-19
 Original: Hopefully he doesn't rolls out videos fast as a car in a school zone
 Sentiment: neutral (confidence 0.50)
 
 ------------------------------------------------------------
 
-[303] ✅ @tyrillium1744  👍0  2024-11-22
+[319] ✅ @tyrillium1744  👍0  2024-11-22
 Original: This sure was a speedy review
 Sentiment: positive (confidence 0.94)
 
 ------------------------------------------------------------
 
-[304] ➖ @SUPASLY75  👍366  2024-11-18
+[320] ➖ @SUPASLY75  👍366  2024-11-18
 Original: Fast and Furious: Enter The School Zone
 Sentiment: neutral (confidence 0.85)
 
@@ -3594,37 +3694,37 @@ Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[305] ➖ @TheTechGiantYouTube  👍19  2024-11-18
+[321] ➖ @TheTechGiantYouTube  👍19  2024-11-18
 Original: Extra horsepower 💀
 Sentiment: neutral (confidence 0.62)
 
 ------------------------------------------------------------
 
-[306] ✅ @mr_hugojkim  👍0  2025-03-10
+[322] ✅ @mr_hugojkim  👍0  2025-03-10
 Original: I have MacBook Air i5 2017 to MacBook Pro M4 Max is a huge upgrade
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[307] ➖ @nathan5298  👍15  2024-11-19
+[323] ➖ @nathan5298  👍15  2024-11-19
 Original: M4 so fast that you can pay 50 bucks for panels at 90mph
 Sentiment: neutral (confidence 0.61)
 
 ------------------------------------------------------------
 
-[308] ❌ @JokersGrin99  👍13  2024-11-18
+[324] ❌ @JokersGrin99  👍13  2024-11-18
 Original: Still not faster than the 🚗🚨
 Sentiment: negative (confidence 0.48)
 
 ------------------------------------------------------------
 
-[309] ✅ @DanTechMax  👍0  2025-02-10
+[325] ✅ @DanTechMax  👍0  2025-02-10
 Original: M5 Max will be very promising for sure.
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[310] ✅ @darshillunagariya3887  👍329  2024-11-19
+[326] ✅ @darshillunagariya3887  👍329  2024-11-19
 Original: Imagine having a team of editors who can block speed on the main dashboard but entirely forgot about the passenger side. GREAT TEAMM !!!
 Sentiment: positive (confidence 0.63)
 
@@ -3666,13 +3766,13 @@ Sentiment: positive (confidence 0.63)
 
 ------------------------------------------------------------
 
-[311] ✅ @patresito  👍9  2024-11-18
+[327] ✅ @patresito  👍9  2024-11-18
 Original: The M4 Max is really fast! No wonder you're convinced!
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[312] ➖ @arxclaus  👍4448  2024-11-21
+[328] ➖ @arxclaus  👍4448  2024-11-21
 Original: 24FPS ❌
 60FPS ❌
 96MPH ✅ 💀
@@ -3714,13 +3814,13 @@ Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[313] ❌ @eddie.madrid  👍0  2025-03-11
+[329] ❌ @eddie.madrid  👍0  2025-03-11
 Original: yall are so weird in the comments. complete weirdos.
 Sentiment: negative (confidence 0.92)
 
 ------------------------------------------------------------
 
-[314] ❌ @FlyWithMe_666  👍5497  2024-11-18
+[330] ❌ @FlyWithMe_666  👍5497  2024-11-18
 Original: You should’ve edited out the M4 Max Macbook Pro — it added obviously nothing to the video.
 Sentiment: negative (confidence 0.76)
 
@@ -3789,31 +3889,31 @@ Sentiment: negative (confidence 0.76)
 
 ------------------------------------------------------------
 
-[315] ❌ @randomguy1234-s3s  👍6  2024-11-20
+[331] ❌ @randomguy1234-s3s  👍6  2024-11-20
 Original: Can the M4 cut out unnecessary clips at 96MPH?
 Sentiment: negative (confidence 0.59)
 
 ------------------------------------------------------------
 
-[316] ➖ @Phubby  👍0  2024-11-26
+[332] ➖ @Phubby  👍0  2024-11-26
 Original: How many hz is the display?
 Sentiment: neutral (confidence 0.94)
 
 ------------------------------------------------------------
 
-[317] ➖ @gucci_flip_flops  👍0  2024-12-19
+[333] ➖ @gucci_flip_flops  👍0  2024-12-19
 Original: 2:50 is there a reason why you're not comparing M4 to the M3 generation...?
 Sentiment: neutral (confidence 0.81)
 
 ------------------------------------------------------------
 
-[318] ➖ @JayjiNZ  👍0  2025-09-23
+[334] ➖ @JayjiNZ  👍0  2025-09-23
 Original: 10 months later do you still recommend the nano texture screen?
 Sentiment: neutral (confidence 0.91)
 
 ------------------------------------------------------------
 
-[319] ❌ @subhradipdas2320  👍259  2024-11-18
+[335] ❌ @subhradipdas2320  👍259  2024-11-18
 Original: MKBHD went from cooking Companies to getting cooked in every videos.  Things will never be the same...
 Sentiment: negative (confidence 0.88)
 
@@ -3830,37 +3930,37 @@ Sentiment: negative (confidence 0.88)
 
 ------------------------------------------------------------
 
-[320] ➖ @Nocha39  👍1  2024-11-23
+[336] ➖ @Nocha39  👍1  2024-11-23
 Original: It's hard to tell from the video but I wonder how that matte finish affects the colors and especially the balck zones.
 Sentiment: neutral (confidence 0.77)
 
 ------------------------------------------------------------
 
-[321] ➖ @qlarkforyou  👍0  2024-11-20
+[337] ➖ @qlarkforyou  👍0  2024-11-20
 Original: whats the music app on his menubar?
 Sentiment: neutral (confidence 0.95)
 
 ------------------------------------------------------------
 
-[322] ✅ @abhijeetkumarsingh3949  👍0  2025-01-29
+[338] ✅ @abhijeetkumarsingh3949  👍0  2025-01-29
 Original: And you often forget that AMD thread rapper is still winning the race, even after years. It is on the top even now even from M series.
 Sentiment: positive (confidence 0.72)
 
 ------------------------------------------------------------
 
-[323] ✅ @abgcontent  👍0  2024-11-30
+[339] ✅ @abgcontent  👍0  2024-11-30
 Original: Another great review. Thanks for sharing it with us Marques.
 Sentiment: positive (confidence 0.99)
 
 ------------------------------------------------------------
 
-[324] ✅ @grant9047  👍2  2025-01-11
+[340] ✅ @grant9047  👍2  2025-01-11
 Original: apple is so wealthy because they convince people to spend thousands on the new thing when the one they have now is perfectly fine.
 Sentiment: positive (confidence 0.56)
 
 ------------------------------------------------------------
 
-[325] ➖ @sagorlevy  👍40  2024-11-18
+[341] ➖ @sagorlevy  👍40  2024-11-18
 Original: Are you sure it’s not 2.7x faster
 Sentiment: neutral (confidence 0.65)
 
@@ -3874,7 +3974,13 @@ Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[326] ➖ @mangolos  👍6589  2024-11-18
+[342] ✅ @yukun-i8f  👍1  2024-11-20
+Original: The M4 might be quick, but the Pursangue is always faster
+Sentiment: positive (confidence 0.51)
+
+------------------------------------------------------------
+
+[343] ➖ @mangolos  👍6589  2024-11-18
 Original: Sir, a second speedometer was on the dashboard
 Sentiment: neutral (confidence 0.87)
 
@@ -3929,31 +4035,31 @@ Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[327] ➖ @learnologybd.  👍1  2025-03-16
+[344] ➖ @learnologybd.  👍1  2025-03-16
 Original: @2:38 why comparing with i9 9th gen? compare with 13 gen atleast
 Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[328] ➖ @ashleycampbell8380  👍6  2024-11-19
+[345] ➖ @ashleycampbell8380  👍6  2024-11-19
 Original: From the beer to the keys to the car to the tree 😭🙏
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[329] ➖ @stzogr4life118  👍0  2025-05-08
+[346] ➖ @stzogr4life118  👍0  2025-05-08
 Original: How do you get that design on the Mac?
 Sentiment: neutral (confidence 0.92)
 
 ------------------------------------------------------------
 
-[330] ➖ @carlomorischi3435  👍6  2024-11-18
+[347] ➖ @carlomorischi3435  👍6  2024-11-18
 Original: Almost as fast as you in a Lambo
 Sentiment: neutral (confidence 0.67)
 
 ------------------------------------------------------------
 
-[331] ➖ @HarisKhwaja  👍627  2024-11-18
+[348] ➖ @HarisKhwaja  👍627  2024-11-18
 Original: Hope you ran benchmarks on this against your car Marques
 Sentiment: neutral (confidence 0.73)
 
@@ -3974,7 +4080,7 @@ Sentiment: neutral (confidence 0.73)
 
 ------------------------------------------------------------
 
-[332] ➖ @Pandapops93  👍932  2024-11-18
+[349] ➖ @Pandapops93  👍932  2024-11-18
 Original: its fast... but is it 96mph in a school zone fast..
 Sentiment: neutral (confidence 0.70)
 
@@ -3998,13 +4104,13 @@ Sentiment: neutral (confidence 0.70)
 
 ------------------------------------------------------------
 
-[333] ➖ @_bhz96  👍23  2024-11-18
+[350] ➖ @_bhz96  👍23  2024-11-18
 Original: I sped past the video to the comments section.
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[334]  @techmaster4913  👍1  2025-01-11
+[351]  @techmaster4913  👍1  2025-01-11
 Original: I would say if u have a MacBook Air m2 or 13 inch MacBook Pro M2 with the old touch bar design then this is actually a pretty good update, if u have the 14 inch MacBook Pro with M2 pro or M2 Max u don’t have to update, cause the 14 inch and 16 inch pros are way better than M2 air and 13 inch M2 MacBook Pro, I had the M2 MacBook Air 13 inch, it was the base model and it had ass battery life and terrible sustained performance even on my school WiFi and apps quit unexpectedly all the time and it would overheat on my lap, terrible experience I would say, i got the Base model M4 MacBook Pro and its night and day better, 
 
 it’s way faster with M4 instead of bind Version of M2, it has 120htz promotion, outstanding battery life, a cooling system. Super fast charging, Liquid Retina XDR display with 1000 nits of brightness for regular use, hdmi ports, extra USBc ports that are thunderbolt 4, and an sd card reader, 
@@ -4013,26 +4119,26 @@ None of which is on the M2 air and 13 inch MacBook pro have, also if u watch Max
 
 ------------------------------------------------------------
 
-[335] ➖ @carlosramos7587  👍0  2025-01-09
+[352] ➖ @carlosramos7587  👍0  2025-01-09
 Original: What docking station would you recommend.
 Sentiment: neutral (confidence 0.88)
 
 ------------------------------------------------------------
 
-[336] ❌ @the_rationalist  👍1  2025-08-15
+[353] ❌ @the_rationalist  👍1  2025-08-15
 Original: It's always funny to see these youtuber's think you-tubing and video editing is the only use for computers
 And there are gamers who just live in parallel universe.
 Sentiment: negative (confidence 0.60)
 
 ------------------------------------------------------------
 
-[337] ✅ @christophersands4140  👍28  2024-11-18
+[354] ✅ @christophersands4140  👍28  2024-11-18
 Original: Convinced that doing  95mph in a 35mph zone is a good idea!
 Sentiment: positive (confidence 0.56)
 
 ------------------------------------------------------------
 
-[338] ✅ @AchyutChaudhary  👍18  2024-11-18
+[355] ✅ @AchyutChaudhary  👍18  2024-11-18
 Original: Hey Marques…I really think a video explaining how the CPU, GPU, Neural Engine cores & Unified Memory impact a Laptop’s performance would be fantastic as a Tech influencer yourself!
 Sentiment: positive (confidence 0.93)
 
@@ -4067,19 +4173,19 @@ Anyway, from what I know, that’s my take, hope that helps
 
 ------------------------------------------------------------
 
-[339] ✅ @LanceSwaim-n7w  👍0  2025-01-22
+[356] ✅ @LanceSwaim-n7w  👍0  2025-01-22
 Original: I want one so bad
 Sentiment: positive (confidence 0.67)
 
 ------------------------------------------------------------
 
-[340] ➖ @MageshSridhar_55  👍27  2024-11-18
+[357] ➖ @MageshSridhar_55  👍27  2024-11-18
 Original: I scrolled to the comment section so fast it felt like I was driving a Revuelto
 Sentiment: neutral (confidence 0.48)
 
 ------------------------------------------------------------
 
-[341] ➖ @825worker  👍132  2024-11-18
+[358] ➖ @825worker  👍132  2024-11-18
 Original: How about "Driving 96mph in a school zone, I'm convinced!".
 Sentiment: neutral (confidence 0.70)
 
@@ -4089,19 +4195,19 @@ Sentiment: neutral (confidence 0.70)
 
 ------------------------------------------------------------
 
-[342] ✅ @PhearNoneGearGadgets  👍0  2025-01-01
+[359] ✅ @PhearNoneGearGadgets  👍0  2025-01-01
 Original: Great review. Imma hold out to the M5 Max
 Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[343] ➖ @nairobi1220  👍1  2025-02-20
+[360] ➖ @nairobi1220  👍1  2025-02-20
 Original: mac M3 nae Ipad M4  difference review ly bro
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[344] ❌ @juan_w_fer  👍13  2024-11-18
+[361] ❌ @juan_w_fer  👍13  2024-11-18
 Original: 9:17 ??? that black text being left on a dark busy background is not what I'm used to seeing in this channel
 Sentiment: negative (confidence 0.88)
 
@@ -4111,7 +4217,7 @@ Sentiment: negative (confidence 0.88)
 
 ------------------------------------------------------------
 
-[345] ✅ @LOK1-Here  👍1  2025-02-08
+[362] ✅ @LOK1-Here  👍1  2025-02-08
 Original: 00:01 - M4 Max MacBook Pro offers compelling upgrades for potential users.
 01:44 - M4 Max shows significant performance improvements over M1 Max.
 03:25 - M4 Max significantly improves video editing and export speed in Final Cut Pro.
@@ -4127,55 +4233,55 @@ Sentiment: positive (confidence 0.90)
 
 ------------------------------------------------------------
 
-[346] ➖ @محمد-ض2د8ل  👍0  2025-09-17
+[363] ➖ @محمد-ض2د8ل  👍0  2025-09-17
 Original: Is the core-i9 really nowhere to be found on those test results compared to the M4 max or even pro?
 Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[347] ➖ @user-cx2qg6ts9n  👍0  2025-01-14
+[364] ➖ @user-cx2qg6ts9n  👍0  2025-01-14
 Original: paid review
 Sentiment: neutral (confidence 0.74)
 
 ------------------------------------------------------------
 
-[348] ✅ @techmaster4913  👍0  2025-01-11
+[365] ✅ @techmaster4913  👍0  2025-01-11
 Original: The M1 Max is still a monster and are absurdly discounted, I found one for 1500 dollars, that’s insane, the only big benefit with the M4 Max is definitely battery life, the M1 Pro and M1 Max never had great battery life so M4 will be better with its 3nm architecture
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[349] ❌ @hunterbsmith  👍20  2024-11-18
+[366] ❌ @hunterbsmith  👍20  2024-11-18
 Original: That computer goes almost as fast as you in a school zone
 Sentiment: negative (confidence 0.46)
 
 ------------------------------------------------------------
 
-[350] ❌ @roshanpooja8246  👍4  2024-11-18
+[367] ❌ @roshanpooja8246  👍4  2024-11-18
 Original: The fact that the people just be typing all the time without even watching the video is concerning 😂
 Sentiment: negative (confidence 0.81)
 
 ------------------------------------------------------------
 
-[351] ✅ @puckplayer219  👍11  2024-11-19
+[368] ✅ @puckplayer219  👍11  2024-11-19
 Original: This is so fast, would you say it's the Lamborghini of laptops?
 Sentiment: positive (confidence 0.75)
 
 ------------------------------------------------------------
 
-[352] ➖ @HarnoorSingh-pt2vf  👍12  2024-11-18
+[369] ➖ @HarnoorSingh-pt2vf  👍12  2024-11-18
 Original: Your previous video was sponsored 💩
 Sentiment: neutral (confidence 0.86)
 
 ------------------------------------------------------------
 
-[353] ➖ @thundercat07  👍0  2025-01-11
+[370] ➖ @thundercat07  👍0  2025-01-11
 Original: “M4 Max: All Gas, No Brakes”
 Sentiment: neutral (confidence 0.73)
 
 ------------------------------------------------------------
 
-[354] ❌ @luizfelipedossantos5878  👍1439  2024-11-18
+[371] ❌ @luizfelipedossantos5878  👍1439  2024-11-18
 Original: You'll have to start blurring those M4 benchmarks because it's too fast
 Sentiment: negative (confidence 0.68)
 
@@ -4204,7 +4310,7 @@ Sentiment: negative (confidence 0.68)
 
 ------------------------------------------------------------
 
-[355] ➖ @auttumagar  👍13  2024-11-18
+[372] ➖ @auttumagar  👍13  2024-11-18
 Original: Am I the only one who head jumped to comment section within video started? 😂
 Sentiment: neutral (confidence 0.85)
 
@@ -4214,91 +4320,108 @@ Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[356] ➖ @taado  👍5  2024-11-19
+[373] ➖ @taado  👍5  2024-11-19
 Original: Maybe buying his shoes will make me run at 96mph at school
 Sentiment: neutral (confidence 0.67)
 
 ------------------------------------------------------------
 
-[357] ➖ @djaiwan.official  👍0  2024-11-22
+[374] ➖ @djaiwan.official  👍0  2024-11-22
 Original: The wallpaper on new m4 ?
 Sentiment: neutral (confidence 0.95)
 
 ------------------------------------------------------------
 
-[358] ➖ @midhunmk3831  👍5  2024-11-18
+[375] ➖ @midhunmk3831  👍5  2024-11-18
 Original: "Iam speed, Iam speed"- Lighting MAC-Queen
 Sentiment: neutral (confidence 0.54)
 
 ------------------------------------------------------------
 
-[359] ✅ @themrgumbatron  👍0  2025-06-17
+[376] ✅ @themrgumbatron  👍0  2025-06-17
 Original: The Nano texture screen is a huge win.
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[360] ✅ @AimAiimsNursing  👍0  2025-04-06
+[377]  @DavidMulderOne  👍6  2024-11-19
+Original: The fact that he's like "lets act as if nothing happened" really irks me. Zero consequences, zero responsibility taking... lets just hide it under the rug... what a world we live in. His number of subscribers didn't even drop and his ad revenue is probably even up from the drama 😢
+
+    ↳ ➖ @Cronay  👍0  2024-11-20
+    Original: He acknowledge it and apologized on Twitter, didn't he?
+    Sentiment: neutral (confidence 0.86)
+
+    ↳ ❌ @DavidMulderOne  👍0  2024-11-20
+    Original: ​@Cronay Acknowledging and taking responsibility are quite different things. Can't even find the tweet without an account. (Found it on reddit though). Regardless, worst part is that the next video he published shows a driver (probably not him driving, but it's his video and he hosts the video and pays the driver) crossing a double yellow line... which feels like the opposite of trying to do better.
+    Sentiment: negative (confidence 0.82)
+
+    ↳ ➖ @Cronay  👍0  2024-11-20
+    Original: @DavidMulderOne I don't care, I just wanted to inform you that not everything happens on youtube.
+    Sentiment: neutral (confidence 0.70)
+
+------------------------------------------------------------
+
+[378] ✅ @AimAiimsNursing  👍0  2025-04-06
 Original: i have 2018 macbook pro 15 with i7 16gb ram 500gb ssd ...its worrking great 😊
 Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[361] ❌ @georgeemerald4389  👍0  2025-03-19
+[379] ❌ @georgeemerald4389  👍0  2025-03-19
 Original: I’m waiting for OLED screens to upgrade. And nanotextured glass affects contrast and black levels.
 Sentiment: negative (confidence 0.57)
 
 ------------------------------------------------------------
 
-[362] ➖ @ashishthatipelli3279  👍0  2024-11-20
+[380] ➖ @ashishthatipelli3279  👍0  2024-11-20
 Original: How about the comparison with m3 ultra??
 Sentiment: neutral (confidence 0.94)
 
 ------------------------------------------------------------
 
-[363] ➖ @abhijeetkumarsingh3949  👍2  2025-01-29
+[381] ➖ @abhijeetkumarsingh3949  👍2  2025-01-29
 Original: And second of all, have you mentioned nano texture glass is not easy to maintain and how long will it last so on laptops? I think it will last because we are not touching it and nothing is being imprinted or stuck on the screen of laptops so we don’t need to clean it for months. But on tablets where we touch to scroll and touch to draw via Apple Pencil over time, it will get smooth like it happens in case of  the matt screen guard
 Sentiment: neutral (confidence 0.55)
 
 ------------------------------------------------------------
 
-[364] ✅ @ashravgurung4471  👍0  2025-04-04
+[382] ✅ @ashravgurung4471  👍0  2025-04-04
 Original: I want to which is better for me as a computer engineer what could be a better option imac or macbook pro or macbook air...like all three of them are amazing and to sexy to ignore
 Sentiment: positive (confidence 0.91)
 
 ------------------------------------------------------------
 
-[365] ✅ @ItsDaniPlays  👍70  2024-11-18
+[383] ✅ @ItsDaniPlays  👍70  2024-11-18
 Original: M4 so fast it's faster than MKBHD through a school zone!
 Sentiment: positive (confidence 0.68)
 
 ------------------------------------------------------------
 
-[366] ✅ @marblelous  👍0  2025-01-28
+[384] ✅ @marblelous  👍0  2025-01-28
 Original: On behalf of my wallet: no thanks for this video. On behalf of myself: thank you so much, I bought this awesome "machine"!😎
 Sentiment: positive (confidence 0.86)
 
 ------------------------------------------------------------
 
-[367] ➖ @mdk124  👍11  2024-11-19
+[385] ➖ @mdk124  👍11  2024-11-19
 Original: Alternate title: BMW M4: I'm Convicted!
 Sentiment: neutral (confidence 0.55)
 
 ------------------------------------------------------------
 
-[368] ✅ @johnrushford3803  👍0  2025-05-27
+[386] ✅ @johnrushford3803  👍0  2025-05-27
 Original: Very good info!  Thanks for your review!
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[369] ✅ @cinestyleinc  👍4  2024-11-18
+[387] ✅ @cinestyleinc  👍4  2024-11-18
 Original: Make sure not to take the M4 Macbook Pro in a School Zone, love you MKBHD
 Sentiment: positive (confidence 0.82)
 
 ------------------------------------------------------------
 
-[370] ➖ @Im-a-nerd3.14  👍736  2024-11-19
+[388] ➖ @Im-a-nerd3.14  👍736  2024-11-19
 Original: I am so tempted to upgrade from 35mph to the 96mph m4 in a school zone
 Sentiment: neutral (confidence 0.53)
 
@@ -4346,19 +4469,19 @@ Sentiment: neutral (confidence 0.53)
 
 ------------------------------------------------------------
 
-[371] ✅ @shanjog  👍1  2025-09-19
+[389] ✅ @shanjog  👍1  2025-09-19
 Original: What is this wallpaper? Love the illustration style!
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[372] ➖ @SalmaanKapadia  👍0  2024-11-19
+[390] ➖ @SalmaanKapadia  👍0  2024-11-19
 Original: Did anyone else notice the M Logo tubes behind the desk? 😂
 Sentiment: neutral (confidence 0.93)
 
 ------------------------------------------------------------
 
-[373] ❌ @dogbackwards7658  👍31  2024-11-20
+[391] ❌ @dogbackwards7658  👍31  2024-11-20
 Original: Love the memes.
 But seriously, this dude committed a crime.
 Sentiment: negative (confidence 0.69)
@@ -4373,31 +4496,31 @@ Sentiment: negative (confidence 0.69)
 
 ------------------------------------------------------------
 
-[374] ➖ @sapphir8  👍0  2025-03-03
+[392] ➖ @sapphir8  👍0  2025-03-03
 Original: How about against an M2 Pro.
 Sentiment: neutral (confidence 0.86)
 
 ------------------------------------------------------------
 
-[375] ❌ @oby1co  👍0  2025-08-27
+[393] ❌ @oby1co  👍0  2025-08-27
 Original: Hes convinced but i have no money
 Sentiment: negative (confidence 0.57)
 
 ------------------------------------------------------------
 
-[376] ➖ @matan_sharabi  👍0  2025-04-15
+[394] ➖ @matan_sharabi  👍0  2025-04-15
 Original: how much cameras do you have
 Sentiment: neutral (confidence 0.90)
 
 ------------------------------------------------------------
 
-[377] ➖ @anthonyogunyemi1261  👍0  2024-11-30
+[395] ➖ @anthonyogunyemi1261  👍0  2024-11-30
 Original: Same antireflection screens from other laptops?
 Sentiment: neutral (confidence 0.89)
 
 ------------------------------------------------------------
 
-[378] ✅ @GarrysWood  👍290  2024-11-18
+[396] ✅ @GarrysWood  👍290  2024-11-18
 Original: Damn this laptop is insanely fast! Can you test how fast you can take it through a School Zone?
 Sentiment: positive (confidence 0.95)
 
@@ -4429,79 +4552,85 @@ Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[379] ➖ @theG.O.A.T.  👍0  2026-01-13
+[397] ➖ @theG.O.A.T.  👍0  2026-01-13
 Original: g.0.r.¡.l.l.@.
 Sentiment: neutral (confidence 0.73)
 
 ------------------------------------------------------------
 
-[380] ✅ @ValenciaOlitz  👍0  2025-02-28
+[398] ✅ @ValenciaOlitz  👍0  2025-02-28
 Original: Marques, just wanted to know have you ever built your own computer? I've been following you for years and it seems like you are probably capable of doing something like that with your vast knowledge of the inner workings.
 Sentiment: positive (confidence 0.64)
 
 ------------------------------------------------------------
 
-[381] ➖ @dengamleidiot  👍1  2024-12-04
+[399] ➖ @dengamleidiot  👍1  2024-12-04
 Original: Take it for a test drive!
 Sentiment: neutral (confidence 0.86)
 
 ------------------------------------------------------------
 
-[382] ➖ @ssewayadavid4971  👍0  2026-01-10
+[400] ➖ @ssewayadavid4971  👍0  2026-01-10
 Original: Hope u see my comment
 Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[383] ✅ @c2plex  👍0  2025-01-06
+[401] ✅ @c2plex  👍0  2025-01-06
 Original: This video inspired me to go swap my M1 Pro for an M4 Pro. Insane performance increase, super impressive for a laptop.
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[384] ➖ @may4enok  👍0  2025-01-18
+[402] ➖ @verysidd  👍0  2024-11-20
+Original: I wish they would also increase their base storage too in the future.
+Sentiment: neutral (confidence 0.66)
+
+------------------------------------------------------------
+
+[403] ➖ @may4enok  👍0  2025-01-18
 Original: imagine you buy a new bmw/mercedes/lexus etc. car and compare only with oldest models of same brand. honest opinion and true review.
 Sentiment: neutral (confidence 0.78)
 
 ------------------------------------------------------------
 
-[385] ✅ @nestornieves23  👍92  2024-11-19
+[404] ✅ @nestornieves23  👍92  2024-11-19
 Original: Just here for the comments. They do not disappoint
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[386] ❌ @aeskape  👍4  2024-11-18
+[405] ❌ @aeskape  👍4  2024-11-18
 Original: 8:11 Edit mistake again is crazy
 Sentiment: negative (confidence 0.84)
 
 ------------------------------------------------------------
 
-[387] ➖ @MansSuperPowerTV  👍0  2025-01-25
+[406] ➖ @MansSuperPowerTV  👍0  2025-01-25
 Original: About to drop $5k on one.
 Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[388] ✅ @M_E_T_R_O__9  👍0  2025-03-07
+[407] ✅ @M_E_T_R_O__9  👍0  2025-03-07
 Original: Went for an M4 MAX Mac Studio tonight.. watching videos to convince myself this was a good decision…. Hope it’s powerful enough for what I do. Although i just came from a 2015 iMac which can't even play this video above 720p lol, so excited is an understatement!! :D
 Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[389] ➖ @Jianfa88Tsai  👍0  2025-01-19
+[408] ➖ @Jianfa88Tsai  👍0  2025-01-19
 Original: If it takes significant times to edit or export an 8K video, will it be better to buy three cheaper M1 laptops to run videos export or edit concurrently compared to single expensive machine to do everything (single point of failure in the event of damage, hacking or theft)? Time is money. Naturally, if you are a top YouTuber earning lots of money per month, why not buy three $10,000 Macs (max out specs) to run videos export or editing concurrently? After a few years, you can sell back your “old” Macs to Apple for gift cards or trade in to upgrade.
 Sentiment: neutral (confidence 0.60)
 
 ------------------------------------------------------------
 
-[390] ✅ @gamalmokhtar  👍0  2025-11-01
+[409] ✅ @gamalmokhtar  👍0  2025-11-01
 Original: Greetings from Cairo Egypt I follow you and admire your work
 Sentiment: positive (confidence 0.94)
 
 ------------------------------------------------------------
 
-[391] ➖ @majorgear1021  👍0  2025-04-27
+[410] ➖ @majorgear1021  👍0  2025-04-27
 Original: I’d would also consider longevity when making a buying decision. Think about what your computing needs will be in 5 years.
 
 Will your Macbook Pro still be up to snuff then?
@@ -4509,13 +4638,13 @@ Sentiment: neutral (confidence 0.71)
 
 ------------------------------------------------------------
 
-[392] ➖ @AmanSharma  👍37  2024-11-19
+[411] ➖ @AmanSharma  👍37  2024-11-19
 Original: Well, comments went from 0 to 95mph real quick 😅.
 Sentiment: neutral (confidence 0.48)
 
 ------------------------------------------------------------
 
-[393] ❌ @FaresDjebbar  👍14  2024-11-18
+[412] ❌ @FaresDjebbar  👍14  2024-11-18
 Original: Guys cmon give him a brake ( not a typo)
 Sentiment: negative (confidence 0.51)
 
@@ -4524,37 +4653,37 @@ Sentiment: negative (confidence 0.51)
 
 ------------------------------------------------------------
 
-[394] ✅ @darkstepwarrior88  👍0  2025-03-26
+[413] ✅ @darkstepwarrior88  👍0  2025-03-26
 Original: love the nano texture demo
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[395] ✅ @danksims3457  👍0  2025-03-02
+[414] ✅ @danksims3457  👍0  2025-03-02
 Original: Better stronger faster with the graduation theme background I see it
 Sentiment: positive (confidence 0.82)
 
 ------------------------------------------------------------
 
-[396] ✅ @crazzei  👍0  2025-03-09
+[415] ✅ @crazzei  👍0  2025-03-09
 Original: I upgraded from an m1 pro to an m4 base model no regrets
 Sentiment: positive (confidence 0.83)
 
 ------------------------------------------------------------
 
-[397] ❌ @_checkit  👍0  2025-04-04
+[416] ❌ @_checkit  👍0  2025-04-04
 Original: people commenting like they never sped drove the limit in their life lol. Smh.
 Sentiment: negative (confidence 0.82)
 
 ------------------------------------------------------------
 
-[398] ➖ @corinomadinga  👍0  2024-11-20
+[417] ➖ @corinomadinga  👍0  2024-11-20
 Original: Does anyone know where did he get the wallpapers?
 Sentiment: neutral (confidence 0.96)
 
 ------------------------------------------------------------
 
-[399] ➖ @thelocalappleman  👍110  2024-11-18
+[418] ➖ @thelocalappleman  👍110  2024-11-18
 Original: 1. CPU cores have increased significantly, its now 16 core vs the 10 core CPU on the M1 Max (or looking at performance cores only, its 12 vs 8)
 2. When you say its not just 30% faster but now is 200% faster, you actually mean 100%
 3. Nanotexture is a $150 upgrade not a $100 upgrade
@@ -4619,97 +4748,97 @@ Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[400] ❌ @kaimagazine8221  👍18  2024-11-18
+[419] ❌ @kaimagazine8221  👍18  2024-11-18
 Original: "Extra horsepower", "200% faster"... Too soon, man! What were you thinking!
 Sentiment: negative (confidence 0.82)
 
 ------------------------------------------------------------
 
-[401] ➖ @dond9994  👍0  2024-12-21
+[420] ➖ @dond9994  👍0  2024-12-21
 Original: If I am buying my first macbook since 2008, would you recommend a MacBook Pro m4 or a MacBook Air m3. General use,  family photos and videos. Want something I can get 8-10 years out of.
 Sentiment: neutral (confidence 0.58)
 
 ------------------------------------------------------------
 
-[402] ➖ @djr3386  👍0  2025-03-18
+[421] ➖ @djr3386  👍0  2025-03-18
 Original: Send me your old MacBook M1. 😅
 Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[403] ➖ @AminK247  👍1  2025-03-17
+[422] ➖ @AminK247  👍1  2025-03-17
 Original: The only channel I need for tech reviews!
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[404] ➖ @nelsonsack2694  👍0  2025-03-24
+[423] ➖ @nelsonsack2694  👍0  2025-03-24
 Original: WAs this a 14 or 16 inch computer he was shjowing us?
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[405] ➖ @dboucher26  👍1  2024-11-25
+[424] ➖ @dboucher26  👍1  2024-11-25
 Original: I’m still using my maxed out 2019 i9 MacBook Pro.
 Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[406] ❌ @pixelcreates  👍2  2025-02-16
+[425] ❌ @pixelcreates  👍2  2025-02-16
 Original: Lol I was half way through the video and I was like... I wonder if the comments are still clowning on the school zone... I haven't watched for a while... *checks comments* Yah honestly not surprising. Y'all need to chill. People have done worse. But this is coming from a fixer brah fan... so take that with a grain of salt.
 Sentiment: negative (confidence 0.73)
 
 ------------------------------------------------------------
 
-[407] ➖ @eugenejapparelstudios319  👍0  2025-01-04
+[426] ➖ @eugenejapparelstudios319  👍0  2025-01-04
 Original: what cam are you using ?sir
 Sentiment: neutral (confidence 0.93)
 
 ------------------------------------------------------------
 
-[408] ➖ @pranzalsingh5279  👍4  2024-11-19
+[427] ➖ @pranzalsingh5279  👍4  2024-11-19
 Original: Come on guys give him a Brake
 Sentiment: neutral (confidence 0.53)
 
 ------------------------------------------------------------
 
-[409] ➖ @Ghostintheshell3551  👍0  2024-12-31
+[428] ➖ @Ghostintheshell3551  👍0  2024-12-31
 Original: meanwhile im on my 3 year old  Windows computer wit ha 3060 and an i7 lmfao!!!!!
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[410] ✅ @naorbareket6482  👍0  2025-01-03
+[429] ✅ @naorbareket6482  👍0  2025-01-03
 Original: M4 stronger than Chuck Norris
 Sentiment: positive (confidence 0.53)
 
 ------------------------------------------------------------
 
-[411] ❌ @d_e_l_t_aa  👍55  2024-11-18
+[430] ❌ @d_e_l_t_aa  👍55  2024-11-18
 Original: Maybe schools should really ban macbooks, because they will go beyond the speed limit. At least I can put some overpriced wallpapers into it.
 Sentiment: negative (confidence 0.85)
 
 ------------------------------------------------------------
 
-[412] ✅ @35BurgerKingsCHANNELD  👍0  2025-10-14
+[431] ✅ @35BurgerKingsCHANNELD  👍0  2025-10-14
 Original: The lyrics are so touching.
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[413] ✅ @Jupiterflieswithastrom  👍0  2025-07-24
+[432] ✅ @Jupiterflieswithastrom  👍0  2025-07-24
 Original: Marquis will upgrade with M5 Max, I can bet on this.
 Sentiment: positive (confidence 0.73)
 
 ------------------------------------------------------------
 
-[414] ✅ @advikshan  👍4  2024-11-18
+[433] ✅ @advikshan  👍4  2024-11-18
 Original: I love watching Marques reviewing products I could never afford
 Sentiment: positive (confidence 0.45)
 
 ------------------------------------------------------------
 
-[415] ❌ @MichaelGoldfrad  👍270  2024-11-18
+[434] ❌ @MichaelGoldfrad  👍270  2024-11-18
 Original: I can't think of a funny pun about driving at 90MPH in a school zone
 Sentiment: negative (confidence 0.70)
 
@@ -4727,13 +4856,13 @@ Sentiment: negative (confidence 0.70)
 
 ------------------------------------------------------------
 
-[416] ❌ @Nucleric  👍0  2025-03-11
+[435] ❌ @Nucleric  👍0  2025-03-11
 Original: Im thinking of getting a Mac, I'm not a big fan of Windows 11
 Sentiment: negative (confidence 0.79)
 
 ------------------------------------------------------------
 
-[417] ❌ @fars9072  👍69  2024-11-18
+[436] ❌ @fars9072  👍69  2024-11-18
 Original: This Mac m4 is so fast that it's shouldn't be allowed in school zones
 Sentiment: negative (confidence 0.46)
 
@@ -4759,43 +4888,43 @@ Sentiment: negative (confidence 0.46)
 
 ------------------------------------------------------------
 
-[418] ❌ @some_online_guy1  👍1  2025-03-28
+[437] ❌ @some_online_guy1  👍1  2025-03-28
 Original: You sound like you just woke up not yet had coffee
 Sentiment: negative (confidence 0.59)
 
 ------------------------------------------------------------
 
-[419] ❌ @MiLo-li5lx  👍0  2025-02-01
+[438] ❌ @MiLo-li5lx  👍0  2025-02-01
 Original: Here is the deal.. I bought a 2016 MacBook Pro 15` in 2017. Payed 3000 dollars for it, was hoping to use it 10yrs. Now, 8 yrs later it died on me. I can use it as an external HD in Target Mode. Thats it. It had many problems in the last 4 yrs: battery, display glitch, keyboard.... I get a new MacBook every 6-8 yrs on avg. What should I buy... I edit occasionally 4k videos and need 1Tb. The difference between 16 inch 1Tb and 15" air 1Tb is huge, and I don't really like the weight of these new pro laptops. The 2016/2017 models were much thinner and lighter.
 Sentiment: negative (confidence 0.80)
 
 ------------------------------------------------------------
 
-[420] ➖ @suger_free_  👍4  2024-11-18
+[439] ➖ @suger_free_  👍4  2024-11-18
 Original: MKBHD: Where cutting-edge tech meets cutting corners on driving laws
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[421] ❌ @igora50  👍30  2024-11-19
+[440] ❌ @igora50  👍30  2024-11-19
 Original: 1:08 Do you have reverse scrolling enabled? Criminal.
 Sentiment: negative (confidence 0.86)
 
 ------------------------------------------------------------
 
-[422] ➖ @DanielSempere-b1j  👍0  2025-08-12
+[441] ➖ @DanielSempere-b1j  👍0  2025-08-12
 Original: wait marquee's dock only has like 7 stored apps?
 Sentiment: neutral (confidence 0.76)
 
 ------------------------------------------------------------
 
-[423] ➖ @SanDiegoNick  👍0  2025-02-20
+[442] ➖ @SanDiegoNick  👍0  2025-02-20
 Original: "to see the the apples to apples comparison going ' hahah I see what you did there mishshshshshshshshs
 Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[424] ❌ @UC8FDH  👍2379  2024-11-18
+[443] ❌ @UC8FDH  👍2379  2024-11-18
 Original: What does MKBHD and reckless driving have in common?
 
 Panels won't be cheap
@@ -4868,7 +4997,7 @@ Sentiment: negative (confidence 0.83)
 
 ------------------------------------------------------------
 
-[425] ❌ @pokemankirito  👍0  2025-07-14
+[444] ❌ @pokemankirito  👍0  2025-07-14
 Original: The nano texture display is actually pretty insane sadly I can’t afford the MacBook m4 even used old m1s so imma just buy a thinkpad in the mean time
 Sentiment: negative (confidence 0.76)
 
@@ -4878,19 +5007,19 @@ Sentiment: negative (confidence 0.76)
 
 ------------------------------------------------------------
 
-[426] ➖ @oscarjeong9438  👍0  2024-12-16
+[445] ➖ @oscarjeong9438  👍0  2024-12-16
 Original: 0:55 BMW M4 color matched backdrops...lol
 Sentiment: neutral (confidence 0.80)
 
 ------------------------------------------------------------
 
-[427] ➖ @chriszod  👍6  2024-11-18
+[446] ➖ @chriszod  👍6  2024-11-18
 Original: was waiting for THE MKBHD take
 Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[428] ➖ @HenrikoMagnifico  👍1391  2024-11-18
+[447] ➖ @HenrikoMagnifico  👍1391  2024-11-18
 Original: It's insane how Marques went from the guy with 0% drama to new drama every other week
 Sentiment: neutral (confidence 0.52)
 
@@ -5007,13 +5136,23 @@ Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[429] ✅ @mattcantstop  👍0  2025-02-15
+[448] ✅ @mattcantstop  👍0  2025-02-15
 Original: I've had my Space Black Macbook for over a year. It still looks great. I don't notice the imperfections.
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[430] ❌ @vivekchaudhary5728  👍319  2024-11-19
+[449] ➖ @Tiporae  👍5  2024-11-18
+Original: 1:57, they're not both 10 CPU cores, the M4 Max is 16 cores with 12 performance
+Sentiment: neutral (confidence 0.78)
+
+    ↳ ❌ @icephoenix5466  👍0  2024-11-18
+    Original: Its like all the comparisons Are biased for some unknown reason.
+    Sentiment: negative (confidence 0.88)
+
+------------------------------------------------------------
+
+[450] ❌ @vivekchaudhary5728  👍319  2024-11-19
 Original: Video Title should be "M4 Max MacBook Pro: I'm Convicted!"
 Sentiment: negative (confidence 0.45)
 
@@ -5022,37 +5161,37 @@ Sentiment: negative (confidence 0.45)
 
 ------------------------------------------------------------
 
-[431] ❌ @withbobbyy  👍0  2025-06-30
+[451] ❌ @withbobbyy  👍0  2025-06-30
 Original: your voice is not fine in this video it is too high at some ends
 Sentiment: negative (confidence 0.89)
 
 ------------------------------------------------------------
 
-[432] ❌ @adamjarchives  👍0  2025-01-04
+[452] ❌ @adamjarchives  👍0  2025-01-04
 Original: Thoughts on nano texture for color grading and photo editing? I had one ordered, but then got cold feet on the Nano.
 Sentiment: negative (confidence 0.51)
 
 ------------------------------------------------------------
 
-[433] ➖ @ajjones5382  👍0  2024-12-28
+[453] ➖ @ajjones5382  👍0  2024-12-28
 Original: I wonder how much Apple paid you!
 Sentiment: neutral (confidence 0.59)
 
 ------------------------------------------------------------
 
-[434] ✅ @ThePolarOpposite  👍2  2025-09-17
+[454] ✅ @ThePolarOpposite  👍2  2025-09-17
 Original: M4 Max is faster than this girl I once knew
 Sentiment: positive (confidence 0.60)
 
 ------------------------------------------------------------
 
-[435] ✅ @nk9996  👍6  2024-11-18
+[455] ✅ @nk9996  👍6  2024-11-18
 Original: You will do 100 things and 99 are good which the people will pass through, and you do that 1 thing which everyone will start to hold to it🤷
 Sentiment: positive (confidence 0.54)
 
 ------------------------------------------------------------
 
-[436] ❌ @autonomous9031  👍0  2024-12-19
+[456] ❌ @autonomous9031  👍0  2024-12-19
 Original: Please, please,  please!! STOP promoting DBRAND.  The only reason ONLY… why I trusted them and gave them my money was because of your endorsement.
 Yet, I never received anything from them, they have NO customer service, no anything! 
 Actually wait… they do have something… MY MONEY!!! 
@@ -5061,42 +5200,50 @@ Sentiment: negative (confidence 0.91)
 
 ------------------------------------------------------------
 
-[437] ❌ @obscuremusictabs5927  👍1  2025-10-21
+[457] ❌ @obscuremusictabs5927  👍1  2025-10-21
 Original: if something doubles in speed is hasn't gone up 200% it has gone up 100%. how is this guy so successful? he can't do basic high school math.
 Sentiment: negative (confidence 0.62)
 
 ------------------------------------------------------------
 
-[438]  @samuelcanaya  👍0  2025-05-18
+[458]  @samuelcanaya  👍0  2025-05-18
 Original: Congrats on 20M subscribers > Apple!!!! (sent from Spain)
 
 ------------------------------------------------------------
 
-[439] ➖ @ItsWesSmithYo  👍0  2024-11-20
+[459] ➖ @ItsWesSmithYo  👍0  2024-11-20
 Original: Only thing faster is those 90’s shade👓
 Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[440] ✅ @mariop810  👍1  2024-11-20
+[460] ✅ @mariop810  👍1  2024-11-20
 Original: Thats fast. Way to set the benchmark
 Sentiment: positive (confidence 0.85)
 
 ------------------------------------------------------------
 
-[441] ➖ @jacobbarnett9956  👍0  2025-02-27
+[461] ➖ @jacobbarnett9956  👍0  2025-02-27
 Original: Now game on it
 Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[442] ➖ @techaztech2335  👍1  2025-04-22
+[462] ➖ @techaztech2335  👍1  2025-04-22
 Original: So you’re telling me it can handle 1500 tabs on my Chrome and 27 VSCode projects tuning Node servers? Sold.
 Sentiment: neutral (confidence 0.67)
 
 ------------------------------------------------------------
 
-[443] ✅ @Godsteplover  👍253  2024-11-22
+[463] ✅ @alialhayek5170  👍1  2024-11-21
+Original: I can't believe we're reach the m4 max now 
+Its crazy since the m1 come out and it will be m5 ? M6 ? 
+In future
+Sentiment: positive (confidence 0.85)
+
+------------------------------------------------------------
+
+[464] ✅ @Godsteplover  👍253  2024-11-22
 Original: 00:25 oh I'm sure the  extra horse power  comes in handy alright
 Sentiment: positive (confidence 0.88)
 
@@ -5112,32 +5259,39 @@ Sentiment: positive (confidence 0.88)
 
 ------------------------------------------------------------
 
-[444] ✅ @MichaelSchneider-iu5jd  👍0  2025-04-08
+[465] ✅ @MichaelSchneider-iu5jd  👍0  2025-04-08
 Original: Watch out guys, Marques has a fast machine in his hands
 Sentiment: positive (confidence 0.59)
 
 ------------------------------------------------------------
 
-[445] ➖ @AniCrazey  👍7  2024-11-18
+[466] ➖ @AniCrazey  👍7  2024-11-18
 Original: click for a mac book review ❌
 click to read the comments ✅
 Sentiment: neutral (confidence 0.89)
 
 ------------------------------------------------------------
 
-[446] ❌ @LuckyPratama71  👍0  2025-06-26
+[467] ❌ @LuckyPratama71  👍0  2025-06-26
 Original: apple m series chip is not yet mature enough for AI/ML engineer. I once tried training deep learning model with mps, and it took so long.
 Sentiment: negative (confidence 0.81)
 
 ------------------------------------------------------------
 
-[447] ➖ @goalpulse_12  👍0  2025-10-24
+[468] ➖ @CineverseSculpt  👍0  2024-11-28
+Original: We need a comparison
+Marcus with lambo vs M4 in a special zone.
+Sentiment: neutral (confidence 0.91)
+
+------------------------------------------------------------
+
+[469] ➖ @goalpulse_12  👍0  2025-10-24
 Original: I'm convinced
 Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[448] ✅ @Sav-j1v  👍10  2024-11-18
+[470] ✅ @Sav-j1v  👍10  2024-11-18
 Original: 11:06 just wanted to mention, there is a App called vivid on the MacBook. The App increases the brightness of the MacBooks on even older ones. It only costs 10€ so I expect a 10$ price in America too. Basically apple only enhanced the software to support the higher brightness. In conclusion you can get the new max brightness also for the older models. Also wanted to note, that Thunderbolt 5 speeds are like 80% faster than Thunderbolt 4 speeds if I am remembering it correctly, so this is an important upgrade.
 Sentiment: positive (confidence 0.68)
 
@@ -5147,19 +5301,19 @@ Sentiment: positive (confidence 0.68)
 
 ------------------------------------------------------------
 
-[449] ➖ @guujigaming  👍0  2025-03-10
+[471] ➖ @guujigaming  👍0  2025-03-10
 Original: Me watching this with a 2017 Intel Mac lol
 Sentiment: neutral (confidence 0.74)
 
 ------------------------------------------------------------
 
-[450] ❌ @SMRSerenityHub  👍0  2025-02-27
+[472] ❌ @SMRSerenityHub  👍0  2025-02-27
 Original: I just followed the Channel but it seems you guys like "HorsePowers" HousePower me with likes kek.
 Sentiment: negative (confidence 0.53)
 
 ------------------------------------------------------------
 
-[451] ❌ @nastybadger-tn4kl  👍0  2025-03-12
+[473] ❌ @nastybadger-tn4kl  👍0  2025-03-12
 Original: This guy is a liar. Mac sucks in graphics. Only good for coding. Everything else its sucks
 Sentiment: negative (confidence 0.95)
 
@@ -5169,7 +5323,7 @@ Sentiment: negative (confidence 0.95)
 
 ------------------------------------------------------------
 
-[452] ❌ @suger_free_  👍3006  2024-11-18
+[474] ❌ @suger_free_  👍3006  2024-11-18
 Original: This MacBook might render 8K video smoothly, but it can’t unblur the speedometer receipts
 Sentiment: negative (confidence 0.68)
 
@@ -5200,13 +5354,19 @@ Sentiment: negative (confidence 0.68)
 
 ------------------------------------------------------------
 
-[453] ➖ @frlu1682  👍0  2024-11-22
+[475] ➖ @frlu1682  👍0  2024-11-22
 Original: I agree there is a lot of real world stuff to see, the faster the more you see.
 Sentiment: neutral (confidence 0.64)
 
 ------------------------------------------------------------
 
-[454] ❌ @MrUnknownXD  👍9428  2024-11-18
+[476] ❌ @butwhytho6522  👍4  2024-11-19
+Original: Interesting how fast these tech reviewers forget that the vast majority of people can't afford any of these things. A$6,499.00 16" base price , A$11,529.00 maxxed out everything: my car's market value is $4000 (at a stretch).
+Sentiment: negative (confidence 0.79)
+
+------------------------------------------------------------
+
+[477] ❌ @MrUnknownXD  👍9428  2024-11-18
 Original: Bro ya'll need to calm down, I'm tired of liking every comment 😭
 Sentiment: negative (confidence 0.85)
 
@@ -5279,31 +5439,37 @@ These comments make MKBHD 10x better
 
 ------------------------------------------------------------
 
-[455] ✅ @bob_meh  👍61  2024-11-19
+[478] ✅ @bob_meh  👍61  2024-11-19
 Original: 0:22 Yes yes. Definitely need that EXTRA horsepower. The joke came way too early LOL.
 Sentiment: positive (confidence 0.50)
 
 ------------------------------------------------------------
 
-[456] ➖ @Snoozybelief63  👍14  2024-11-18
+[479] ➖ @Snoozybelief63  👍14  2024-11-18
 Original: 3:03 this car is fast on paper....what about real life? Can i drive it in a school zone?
 Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[457] ➖ @ashishpareek8863  👍0  2024-11-20
+[480] ➖ @calorion  👍0  2024-12-03
+Original: 1:59 Shout-out for the Six Million Dollar Man reference.
+Sentiment: neutral (confidence 0.63)
+
+------------------------------------------------------------
+
+[481] ➖ @ashishpareek8863  👍0  2024-11-20
 Original: I want the desktop wallpaper the link u shared is redirecting to the mobile app
 Sentiment: neutral (confidence 0.50)
 
 ------------------------------------------------------------
 
-[458] ➖ @emilfrederiksen.1622  👍0  2024-12-27
+[482] ➖ @emilfrederiksen.1622  👍0  2024-12-27
 Original: That will be 10k dollars at checkout sir
 Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[459] ➖ @b2editsun  👍20  2024-11-18
+[483] ➖ @b2editsun  👍20  2024-11-18
 Original: When is Macbook Air M4 coming?
 Sentiment: neutral (confidence 0.87)
 
@@ -5320,37 +5486,37 @@ Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[460] ✅ @afterworkio  👍0  2025-02-22
+[484] ✅ @afterworkio  👍0  2025-02-22
 Original: I am blown away with the fact that Davinci is faster to edit and export than FCPX.
 Sentiment: positive (confidence 0.96)
 
 ------------------------------------------------------------
 
-[461] ➖ @SHFMIA  👍0  2025-03-10
+[485] ➖ @SHFMIA  👍0  2025-03-10
 Original: How durable is the Nano texture? Is it scratch-resistant like the glossy coating?
 Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[462] ➖ @rileybankswho  👍4  2024-11-18
+[486] ➖ @rileybankswho  👍4  2024-11-18
 Original: How many Marques Per Hour does the Macbook Go?
 Sentiment: neutral (confidence 0.94)
 
 ------------------------------------------------------------
 
-[463] ➖ @dr.faresshalabi4133  👍74  2024-11-18
+[487] ➖ @dr.faresshalabi4133  👍74  2024-11-18
 Original: 0:25 extra horsepower!?
 Sentiment: neutral (confidence 0.84)
 
 ------------------------------------------------------------
 
-[464] ❌ @zardlucky8557  👍0  2024-12-31
+[488] ❌ @zardlucky8557  👍0  2024-12-31
 Original: Except for the video editing, I can not find a decent reason to utilize the capability of this laptop. I am not a youtube, please tell me what this can be used for. Is this laptop designed only for video editing?
 Sentiment: negative (confidence 0.82)
 
 ------------------------------------------------------------
 
-[465] ❌ @gucci8770  👍39  2024-11-18
+[489] ❌ @gucci8770  👍39  2024-11-18
 Original: I don't think MKBHD dropped this as FAST as he could've
 Sentiment: negative (confidence 0.61)
 
@@ -5360,18 +5526,18 @@ Sentiment: negative (confidence 0.61)
 
 ------------------------------------------------------------
 
-[466]  @Trader_Alvi  👍0  2025-06-18
+[490]  @Trader_Alvi  👍0  2025-06-18
 Original: 💚
 
 ------------------------------------------------------------
 
-[467] ➖ @parth_2362  👍0  2026-01-26
+[491] ➖ @parth_2362  👍0  2026-01-26
 Original: I'm on the 2018  i7 intel MacBook Pro with the Touch Bar. Im waiting for apple to release the m5 max so I can cop. or should I wait till the m6 max drop
 Sentiment: neutral (confidence 0.68)
 
 ------------------------------------------------------------
 
-[468] ➖ @ethansmith7  👍7327  2024-11-18
+[492] ➖ @ethansmith7  👍7327  2024-11-18
 Original: Went to the comments at 90mph
 Sentiment: neutral (confidence 0.79)
 
@@ -5402,7 +5568,7 @@ Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[469] ➖ @officially_i_am  👍6  2024-11-19
+[493] ➖ @officially_i_am  👍6  2024-11-19
 Original: 6:16 It’s 100% not 200%.
 Sentiment: neutral (confidence 0.82)
 
@@ -5416,19 +5582,19 @@ Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[470] ➖ @nickalika  👍0  2025-09-18
+[494] ➖ @nickalika  👍0  2025-09-18
 Original: 6:20 100% not 200%
 Sentiment: neutral (confidence 0.74)
 
 ------------------------------------------------------------
 
-[471] ❌ @alwinreji5625  👍0  2025-04-22
+[495] ❌ @alwinreji5625  👍0  2025-04-22
 Original: Howtf did you put that calendar event on the menu bar i am trying to do if for the past 5 months and couldn’t find it. Plus i am using macbook air m2
 Sentiment: negative (confidence 0.85)
 
 ------------------------------------------------------------
 
-[472] ❌ @AdamHaz103  👍953  2024-11-18
+[496] ❌ @AdamHaz103  👍953  2024-11-18
 Original: I can already smell what the comments will be
 Sentiment: negative (confidence 0.66)
 
@@ -5474,25 +5640,25 @@ Sentiment: negative (confidence 0.66)
 
 ------------------------------------------------------------
 
-[473] ❌ @mr_mel  👍1  2024-11-26
+[497] ❌ @mr_mel  👍1  2024-11-26
 Original: Why don’t MacBooks have touch screens?
 Sentiment: negative (confidence 0.55)
 
 ------------------------------------------------------------
 
-[474] ➖ @Arindam_Gaming  👍0  2025-02-12
+[498] ➖ @Arindam_Gaming  👍0  2025-02-12
 Original: We just need a M4A1 & call it Carbine or maybe just a special Edition M4 called "Sherman"
 Sentiment: neutral (confidence 0.81)
 
 ------------------------------------------------------------
 
-[475] ➖ @All-business-MSFT  👍0  2025-02-28
+[499] ➖ @All-business-MSFT  👍0  2025-02-28
 Original: @7:34 "Got No Strings"....Noted my guy.
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[476] ➖ @jocen3  👍26  2024-11-18
+[500] ➖ @jocen3  👍26  2024-11-18
 Original: song name at 0:45 ?
 Sentiment: neutral (confidence 0.95)
 
@@ -5533,7 +5699,7 @@ Sentiment: neutral (confidence 0.95)
 
 ------------------------------------------------------------
 
-[477] ➖ @AnthonyOlan  👍12995  2024-11-18
+[501] ➖ @AnthonyOlan  👍12995  2024-11-18
 Original: What’s up guys it’s MKBMPH
 Sentiment: neutral (confidence 0.79)
 
@@ -5700,19 +5866,19 @@ Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[478] ➖ @RussellGi  👍0  2024-12-08
+[502] ➖ @RussellGi  👍0  2024-12-08
 Original: Anyone got a link to Max Verstappen's review of the M4 Mac Mini?
 Sentiment: neutral (confidence 0.92)
 
 ------------------------------------------------------------
 
-[479] ➖ @fazlan8142  👍0  2025-05-22
+[503] ➖ @fazlan8142  👍0  2025-05-22
 Original: if any one has unused macbooks pls send me
 Sentiment: neutral (confidence 0.78)
 
 ------------------------------------------------------------
 
-[480] ❌ @M-.-J  👍2312  2024-11-19
+[504] ❌ @M-.-J  👍2312  2024-11-19
 Original: Damn i almost scrolled through comments at 96mph thank God it wasn't a kids zone
 Sentiment: negative (confidence 0.76)
 
@@ -5722,13 +5888,13 @@ Sentiment: negative (confidence 0.76)
 
 ------------------------------------------------------------
 
-[481] ➖ @nandakishore7020  👍0  2025-01-29
+[505] ➖ @nandakishore7020  👍0  2025-01-29
 Original: Can anyone send me that wallpaper on M4 mac
 Sentiment: neutral (confidence 0.89)
 
 ------------------------------------------------------------
 
-[482] ✅ @heyzoltan_cgi  👍13  2024-11-18
+[506] ✅ @heyzoltan_cgi  👍13  2024-11-18
 Original: Replaced my base M1 with binned M4 Max, the new one renders 16 times faster in Blender, the GPU is even more impressive than some benchmarks would suggest.
 Sentiment: positive (confidence 0.97)
 
@@ -5754,25 +5920,25 @@ Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[483] ➖ @KleiberM  👍6  2024-11-18
+[507] ➖ @KleiberM  👍6  2024-11-18
 Original: I clicked on this faster than Marques driving in a school zone
 Sentiment: neutral (confidence 0.53)
 
 ------------------------------------------------------------
 
-[484] ✅ @squeakycleannnn  👍0  2025-07-06
+[508] ✅ @squeakycleannnn  👍0  2025-07-06
 Original: Nothing like an apples to apples comparison in a Macbook pro video  :p
 Sentiment: positive (confidence 0.60)
 
 ------------------------------------------------------------
 
-[485] ➖ @atheist24  👍1  2025-07-17
+[509] ➖ @atheist24  👍1  2025-07-17
 Original: I love watching something that I cannot afford
 Sentiment: neutral (confidence 0.37)
 
 ------------------------------------------------------------
 
-[486] ➖ @YusufFaziah  👍25  2024-11-18
+[510] ➖ @YusufFaziah  👍25  2024-11-18
 Original: 4:34 He has now a new way to remove the speed limit from the frame
 Sentiment: neutral (confidence 0.83)
 
@@ -5804,13 +5970,13 @@ Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[487] ❌ @HisDarkly  👍0  2026-02-15
+[511] ❌ @HisDarkly  👍0  2026-02-15
 Original: not worth upgrading from m3, almost same specs
 Sentiment: negative (confidence 0.82)
 
 ------------------------------------------------------------
 
-[488] ➖ @GuislainBonnard  👍91  2024-11-18
+[512] ➖ @GuislainBonnard  👍91  2024-11-18
 Original: 6:19 doubling in performance means a 100% improvement. Not 200%
 Sentiment: neutral (confidence 0.72)
 
@@ -5840,55 +6006,55 @@ Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[489] ➖ @ectos.studio  👍49  2024-11-18
+[513] ➖ @ectos.studio  👍49  2024-11-18
 Original: I'm more interested into the comments rather the video, these are absolutely wild
 Sentiment: neutral (confidence 0.51)
 
 ------------------------------------------------------------
 
-[490] ➖ @alexanderriedl1213  👍0  2024-12-26
+[514] ➖ @alexanderriedl1213  👍0  2024-12-26
 Original: Would you recommend the M4 with nanotexture display?
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[491] ✅ @Saxo-v6t  👍2  2024-11-20
+[515] ✅ @Saxo-v6t  👍2  2024-11-20
 Original: It runs so fast it competing with your speeds on a school zone!
 Sentiment: positive (confidence 0.68)
 
 ------------------------------------------------------------
 
-[492] ➖ @agigcbo  👍0  2025-03-27
+[516] ➖ @agigcbo  👍0  2025-03-27
 Original: So, I assume M4 Pro not Max for homelabbing, VMs, pen testing work, AI, data engineering, etc.?
 Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[493] ✅ @LO3.  👍2  2025-01-06
+[517] ✅ @LO3.  👍2  2025-01-06
 Original: 8:39 honestly I love the glassy finish
 Sentiment: positive (confidence 0.97)
 
 ------------------------------------------------------------
 
-[494] ➖ @Professor-Scientist  👍7  2024-11-18
+[518] ➖ @Professor-Scientist  👍7  2024-11-18
 Original: Remember M4 Mac is for highway use only.
 Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[495] ✅ @bushgreen260  👍5  2024-11-18
+[519] ✅ @bushgreen260  👍5  2024-11-18
 Original: *MARQUES WILL UPGRADE AGAIN AS SOON AS THE OLED MACBOOK PROS ARE RELEASED.*
 Sentiment: positive (confidence 0.50)
 
 ------------------------------------------------------------
 
-[496] ➖ @SoulSocietygrp  👍1  2024-11-22
+[520] ➖ @SoulSocietygrp  👍1  2024-11-22
 Original: 0:26 the extra horse power also comes in handy near kids school zones
 Sentiment: neutral (confidence 0.50)
 
 ------------------------------------------------------------
 
-[497] ➖ @JosuéQuiroa-f2x  👍2785  2024-11-18
+[521] ➖ @JosuéQuiroa-f2x  👍2785  2024-11-18
 Original: This mac works in school zones?
 Sentiment: neutral (confidence 0.90)
 
@@ -5953,13 +6119,13 @@ Sentiment: neutral (confidence 0.90)
 
 ------------------------------------------------------------
 
-[498] ❌ @khaleel_as  👍0  2025-03-08
+[522] ❌ @khaleel_as  👍0  2025-03-08
 Original: We all know how storage is a big criteria for creators and the irony of this whole product is that its marketed as the best product for creators with the base model 256GB of storage. 😂
 Sentiment: negative (confidence 0.67)
 
 ------------------------------------------------------------
 
-[499] ✅ @TechSource  👍2688  2024-11-19
+[523] ✅ @TechSource  👍2688  2024-11-19
 Original: Damn, you gotta love the extra horsepower from that M4.
 Sentiment: positive (confidence 0.93)
 
@@ -6023,13 +6189,13 @@ ok mr "shames fan after he lost his job"
 
 ------------------------------------------------------------
 
-[500] ✅ @macproguy  👍2  2025-11-13
+[524] ✅ @macproguy  👍2  2025-11-13
 Original: Sweet. Looking forward to getting one of these and also an Alienware laptop with a 16-inch screen. Gonna completely nerd out and use this baby for Quake, Doom, Duke Nukem 3D, etc. plus of course creative endeavors.
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[501] ✅ @jagaming5989  👍16  2024-11-18
+[525] ✅ @jagaming5989  👍16  2024-11-18
 Original: Extremely fast and great for school
 Sentiment: positive (confidence 0.98)
 
@@ -6039,19 +6205,19 @@ Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[502] ✅ @olo-box  👍0  2024-11-24
+[526] ✅ @olo-box  👍0  2024-11-24
 Original: Wow that's a fast machine. So fast it almost doesn't seem legal.
 Sentiment: positive (confidence 0.66)
 
 ------------------------------------------------------------
 
-[503] ➖ @novatech2  👍0  2025-02-04
+[527] ➖ @novatech2  👍0  2025-02-04
 Original: I just looked at my information about if I had Thunderbolt 5 and guess what...it said I had Thunderbolt 4 installed my MacBook M4 Max Pro. Can someone explained why it shows Thunderbolt 4?????
 Sentiment: neutral (confidence 0.80)
 
 ------------------------------------------------------------
 
-[504]  @Jianfa88Tsai  👍0  2025-01-19
+[528]  @Jianfa88Tsai  👍0  2025-01-19
 Original: This is a valid consideration, especially for a content creator who values efficiency and minimizes downtime. Here’s an analysis of your idea:
 
 Supportive Reasoning
@@ -6075,31 +6241,31 @@ If you are a top YouTuber with substantial revenue, investing in three high-spec
 
 ------------------------------------------------------------
 
-[505] ✅ @Mattatite  👍0  2025-04-04
+[529] ✅ @Mattatite  👍0  2025-04-04
 Original: Nice, wonder if it's enough power to animate
 Sentiment: positive (confidence 0.92)
 
 ------------------------------------------------------------
 
-[506] ➖ @ninjahattori7576  👍0  2024-11-22
+[530] ➖ @ninjahattori7576  👍0  2024-11-22
 Original: das fast af boii
 Sentiment: neutral (confidence 0.50)
 
 ------------------------------------------------------------
 
-[507] ❌ @mario32  👍0  2025-04-28
+[531] ❌ @mario32  👍0  2025-04-28
 Original: The non existent Apple Intelligence, is to thank? A very biased review on this video for sure, however the specs are remarcable.
 Sentiment: negative (confidence 0.90)
 
 ------------------------------------------------------------
 
-[508] ➖ @edutech7284  👍0  2024-11-20
+[532] ➖ @edutech7284  👍0  2024-11-20
 Original: wallpaper name? I searched in panels but was unable to find
 Sentiment: neutral (confidence 0.65)
 
 ------------------------------------------------------------
 
-[509] ➖ @gamedeleter06  👍4  2024-11-18
+[533] ➖ @gamedeleter06  👍4  2024-11-18
 Original: Any thoughts on the m1 MacBook Air?? Should I still buy
 Sentiment: neutral (confidence 0.90)
 
@@ -6130,30 +6296,36 @@ If you are running a graphics/video business off your Mac laptop, where you must
 
 ------------------------------------------------------------
 
-[510] ❌ @NotLilG  👍1  2025-01-25
+[534] ❌ @NotLilG  👍1  2025-01-25
 Original: Who tf skins half of their laptop..... i lost trust right there..... i have a beautiful skin on my MacBook, BUT I SKINNED THE BOTTOM TOOO...... and for those uneducated, yes the black dotted feet are not interfered.
 Sentiment: negative (confidence 0.82)
 
 ------------------------------------------------------------
 
-[511] ➖ @rewindd  👍31  2024-11-18
+[535] ➖ @rewindd  👍31  2024-11-18
 Original: m4 might be faster than his lambo in a school zone
 Sentiment: neutral (confidence 0.61)
 
 ------------------------------------------------------------
 
-[512]  @jh7254  👍0  2024-11-25
+[536] ❌ @blufinityy  👍9  2024-11-18
+Original: Apple still isn’t the industry leader in chips, the car you were driving was faster
+Sentiment: negative (confidence 0.65)
+
+------------------------------------------------------------
+
+[537]  @jh7254  👍0  2024-11-25
 Original: 끊임없는 추구
 
 ------------------------------------------------------------
 
-[513] ➖ @EyesOfByes  👍0  2025-03-02
+[538] ➖ @EyesOfByes  👍0  2025-03-02
 Original: I wouldnt be surprised if Apple caved in and supports AMD Instinct PCIe cards on M4 Mac Pro, for local AI stuff.
 Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[514] ✅ @Steph-and-her-dad  👍0  2025-08-28
+[539] ✅ @Steph-and-her-dad  👍0  2025-08-28
 Original: I’m a videographer and edit a lot of videos using Resolve and Fusion inside it. Also doing photography, composite editing in Photoshop, going back and forth in LT and PS - weddings, events… you name it. 
 
 I just ordered 14’’ m4 max with 128Gt and can’t wait to start working with it! When watching this video it is clear that this beast is totally for me! I’ll save so much time per day and will deliver everything just perfectly! It’s a customer satisfaction function as well! 
@@ -6163,37 +6335,37 @@ Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[515] ➖ @iAmTakeNote  👍0  2025-09-28
+[540] ➖ @iAmTakeNote  👍0  2025-09-28
 Original: I’m waiting on the M5 to upgrade from a maxed out Intel i7 MBP
 Sentiment: neutral (confidence 0.83)
 
 ------------------------------------------------------------
 
-[516] ➖ @tommeiser8202  👍6  2024-11-18
+[541] ➖ @tommeiser8202  👍6  2024-11-18
 Original: Faster Heart rate on the monitor than the kids after being almost run over by Marques.
 Sentiment: neutral (confidence 0.56)
 
 ------------------------------------------------------------
 
-[517] ➖ @myanghs  👍0  2024-11-29
+[542] ➖ @myanghs  👍0  2024-11-29
 Original: where do you get those nice wallpapers?
 Sentiment: neutral (confidence 0.57)
 
 ------------------------------------------------------------
 
-[518] ➖ @kloosterhousefamily9660  👍4  2024-11-19
+[543] ➖ @kloosterhousefamily9660  👍4  2024-11-19
 Original: Watch out, Now he's going to go 88mph in a full parking lot to go back to the past.
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[519] ➖ @Na-tp3rl  👍1  2024-11-20
+[544] ➖ @Na-tp3rl  👍1  2024-11-20
 Original: Was thinking of buying this for my kids but maybe this is a little bit too fast?
 Sentiment: neutral (confidence 0.51)
 
 ------------------------------------------------------------
 
-[520] ❌ @TheOnlyMrE  👍1  2025-06-26
+[545] ❌ @TheOnlyMrE  👍1  2025-06-26
 Original: Kind of weird this guy preaches not to put cases on a cell phone for feeling the design or whatever while risking your potentially $1000 phone in one drop but puts some goofy ass skin on a laptop with one of the nicest looking lids. Who am i to judge tho 😂
 Sentiment: negative (confidence 0.79)
 
@@ -6203,19 +6375,19 @@ Sentiment: negative (confidence 0.79)
 
 ------------------------------------------------------------
 
-[521] ✅ @DogginsFroggins  👍0  2025-01-07
+[546] ✅ @DogginsFroggins  👍0  2025-01-07
 Original: Apple shill enjoys new Apple product, wow couldn't have seen that coming. This video was came out so fast, its speed impressed me, better slow down next time.
 Sentiment: positive (confidence 0.90)
 
 ------------------------------------------------------------
 
-[522] ➖ @Ramnik72  👍0  2024-11-25
+[547] ➖ @Ramnik72  👍0  2024-11-25
 Original: Nj drift featuring mkmph
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[523] ➖ @grilledkappa  👍2521  2024-11-18
+[548] ➖ @grilledkappa  👍2521  2024-11-18
 Original: started the video, immediately checking comments!
 Sentiment: neutral (confidence 0.79)
 
@@ -6291,19 +6463,19 @@ Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[524] ❌ @DHKarol  👍0  2025-09-15
+[549] ❌ @DHKarol  👍0  2025-09-15
 Original: and the drives are still slower than m1
 Sentiment: negative (confidence 0.76)
 
 ------------------------------------------------------------
 
-[525] ➖ @knight3131  👍0  2025-03-15
+[550] ➖ @knight3131  👍0  2025-03-15
 Original: So would you upgrade from M1 max to M4 Max ?
 Sentiment: neutral (confidence 0.93)
 
 ------------------------------------------------------------
 
-[526] ✅ @sualeh-ali  👍6  2024-11-18
+[551] ✅ @sualeh-ali  👍6  2024-11-18
 Original: 8:56 Perfectly hyped. WVFRM listeners would know. I love how we can see Marques raw thoughts distill from the podcast into the final video. Nice.
 Sentiment: positive (confidence 0.98)
 
@@ -6313,19 +6485,25 @@ Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[527] ✅ @jerz7657  👍2  2025-03-16
+[552] ➖ @warlockdude12  👍1  2024-11-20
+Original: Do you think apple will ever add cellular to the macbook?
+Sentiment: neutral (confidence 0.92)
+
+------------------------------------------------------------
+
+[553] ✅ @jerz7657  👍2  2025-03-16
 Original: I might have a generational Macbook pro leap. I got 8 full years out of my 2017 intel chip MacBook Pro. IDK how its lasted this long with the pandemic and 4 plus years of college after! Finally treated myself for an upgrade, maxed out all the specs 16" M4 pro max. If I got 8 years out of an intel chip, with this new one I might not have to think about an upgrade for 10-15 years from now.
 Sentiment: positive (confidence 0.84)
 
 ------------------------------------------------------------
 
-[528] ✅ @richardthurein2167  👍0  2024-11-20
+[554] ✅ @richardthurein2167  👍0  2024-11-20
 Original: Is that the beautiful x100vi i see beside the laptop?
 Sentiment: positive (confidence 0.71)
 
 ------------------------------------------------------------
 
-[529] ➖ @brownhairydog6472  👍73  2024-11-19
+[555] ➖ @brownhairydog6472  👍73  2024-11-19
 Original: I reckon the school zone thing was intended to be a distraction from Panels.
 Sentiment: neutral (confidence 0.69)
 
@@ -6343,38 +6521,38 @@ Sentiment: neutral (confidence 0.69)
 
 ------------------------------------------------------------
 
-[530] ❌ @Rebelwithquotes  👍0  2024-11-22
+[556] ❌ @Rebelwithquotes  👍0  2024-11-22
 Original: Why cant i game on these yet?
 Sentiment: negative (confidence 0.58)
 
 ------------------------------------------------------------
 
-[531] ➖ @releshdewangan719  👍2  2025-06-16
+[557] ➖ @releshdewangan719  👍2  2025-06-16
 Original: those 2 c-type need to be more apart from each other so that we can actually use it. LOL
 Sentiment: neutral (confidence 0.72)
 
 ------------------------------------------------------------
 
-[532] ❌ @Jonathan_Youngs  👍2  2025-09-18
+[558] ❌ @Jonathan_Youngs  👍2  2025-09-18
 Original: I got the basic M4 MacBook Pro with MAX chip  for $4,000 for editing.. I couldn’t imagine paying $10,000 but with all the views you have compared to mine I’d see why. 😂
 Sentiment: negative (confidence 0.52)
 
 ------------------------------------------------------------
 
-[533] ❌ @norbertcsipai7297  👍5  2024-11-18
+[559] ❌ @norbertcsipai7297  👍5  2024-11-18
 Original: Why did u delete the clip where u were going 97mph in a 35mph zone?
 Sentiment: negative (confidence 0.69)
 
 ------------------------------------------------------------
 
-[534] ❌ @phanindra678  👍0  2025-01-20
+[560] ❌ @phanindra678  👍0  2025-01-20
 Original: Do you get lot of eye strain while using MacBook Pro models , those containing MINI LED displays. Any one?
 I WANT TO SELL MY MBP for the same reason.
 Sentiment: negative (confidence 0.59)
 
 ------------------------------------------------------------
 
-[535]  @nastybadger-tn4kl  👍0  2025-03-16
+[561]  @nastybadger-tn4kl  👍0  2025-03-16
 Original: why this liar has 20million subscriber?
 
     ↳ ✅ @BeeRoyLee  👍0  2025-03-22
@@ -6383,50 +6561,50 @@ Original: why this liar has 20million subscriber?
 
 ------------------------------------------------------------
 
-[536] ✅ @boathouse4465  👍0  2025-03-20
+[562] ✅ @boathouse4465  👍0  2025-03-20
 Original: Just came from 2020 M1 Air to the 24GB 16" M4 Pro. Im so happy
 Sentiment: positive (confidence 0.99)
 
 ------------------------------------------------------------
 
-[537] ➖ @MeMo-bu1pz  👍2  2024-12-24
+[563] ➖ @MeMo-bu1pz  👍2  2024-12-24
 Original: 4K 30fps ❌
 4K 96fps ✅
 Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[538] ➖ @joshstannard1400  👍159  2024-11-19
+[564] ➖ @joshstannard1400  👍159  2024-11-19
 Original: Literally ran to the comments as fast as I could, not quite 96mph though.
 Sentiment: neutral (confidence 0.60)
 
 ------------------------------------------------------------
 
-[539]  @thehermaniator  👍0  2025-11-18
+[565]  @thehermaniator  👍0  2025-11-18
 Original: boo
 
 ------------------------------------------------------------
 
-[540] ✅ @malikshakuresq-i7n  👍0  2025-08-28
+[566] ✅ @malikshakuresq-i7n  👍0  2025-08-28
 Original: I  update my MacBook Pro M!, 64RAM 2T  after two logic boards replacement and heading to a third in 1 year I upgraded to the M4 MAX 128RAM 4T so I'm hopeful for this M4
 Sentiment: positive (confidence 0.93)
 
 ------------------------------------------------------------
 
-[541] ➖ @hisenberg5330  👍7  2024-11-18
+[567] ➖ @hisenberg5330  👍7  2024-11-18
 Original: For a second I thought its a BMW M4 review.
 Sentiment: neutral (confidence 0.79)
 
 ------------------------------------------------------------
 
-[542] ✅ @mohotasimkabir715  👍0  2026-01-13
+[568] ✅ @mohotasimkabir715  👍0  2026-01-13
 Original: where can i get the wallpaper? looks really great
 0:55
 Sentiment: positive (confidence 0.98)
 
 ------------------------------------------------------------
 
-[543] ❌ @JjackVideo  👍1014  2024-11-18
+[569] ❌ @JjackVideo  👍1014  2024-11-18
 Original: This video lacks 11 mins of sponsorships
 Sentiment: negative (confidence 0.60)
 
@@ -6444,7 +6622,7 @@ Sentiment: negative (confidence 0.60)
 
 ------------------------------------------------------------
 
-[544] ❌ @taavitetlov3647  👍0  2025-07-29
+[570] ❌ @taavitetlov3647  👍0  2025-07-29
 Original: I feel weird about the nano-texture. For me one the selling points of macbooks was glossy screen over "windows" brand laptops with anti-glare because it's just so much more vibrant. You can even see it in the video, yes the reflection is reduced but you lose overall clarity.
 Sentiment: negative (confidence 0.48)
 
@@ -6454,31 +6632,31 @@ Sentiment: negative (confidence 0.48)
 
 ------------------------------------------------------------
 
-[545] ❌ @marwanahmed-t2u  👍0  2025-04-04
+[571] ❌ @marwanahmed-t2u  👍0  2025-04-04
 Original: Why don’t you give me your old m1 Mac book
 Sentiment: negative (confidence 0.62)
 
 ------------------------------------------------------------
 
-[546] ➖ @ronalberca2188  👍0  2025-06-07
+[572] ➖ @ronalberca2188  👍0  2025-06-07
 Original: I'm upgrading from a 2016 MBP and I just put the MBP M4 together with nano-texture display and 1 TB of SSD storage on the Apple website and its at 3200.00 plus I still need to get the Apple Care, thats 400.00 more bucks. crazy expensive.  Not sure if I really need the Apple care, but it allows me to sleep a lil better at night lol.  I have about 1K in apple gift cards, so that should minimize the sting a lil.
 Sentiment: neutral (confidence 0.45)
 
 ------------------------------------------------------------
 
-[547] ❌ @kenneilangelo  👍5  2024-11-18
+[573] ❌ @kenneilangelo  👍5  2024-11-18
 Original: is it fast enough to process how u did 95mph on a 35mph zone than your sympathy ever could?
 Sentiment: negative (confidence 0.52)
 
 ------------------------------------------------------------
 
-[548] ❌ @bertraminc9412  👍2  2025-07-05
+[574] ❌ @bertraminc9412  👍2  2025-07-05
 Original: Its boring without the touch bar.
 Sentiment: negative (confidence 0.88)
 
 ------------------------------------------------------------
 
-[549] ❌ @just_mdd4  👍14234  2024-11-18
+[575] ❌ @just_mdd4  👍14234  2024-11-18
 Original: I will not make a fast joke. 
 I will not make a fast joke. 
 I will not make a fast joke. 
@@ -6699,55 +6877,55 @@ The likelihood of me making another one of these is not high...but it's not low 
 
 ------------------------------------------------------------
 
-[550] ➖ @therandysmith697  👍0  2025-07-07
+[576] ➖ @therandysmith697  👍0  2025-07-07
 Original: How about if I just get the 48gb version.
 Sentiment: neutral (confidence 0.85)
 
 ------------------------------------------------------------
 
-[551] ✅ @TheSurajAryan  👍2  2024-11-20
+[577] ✅ @TheSurajAryan  👍2  2024-11-20
 Original: i see reviews keep accelerating in quality, almost as if they’re in the left lane of content creation
 Sentiment: positive (confidence 0.55)
 
 ------------------------------------------------------------
 
-[552] ➖ @cedarandsound  👍0  2025-05-17
+[578] ➖ @cedarandsound  👍0  2025-05-17
 Original: You're not just convinced, you're always selling apple products with your "reviews".
 Sentiment: neutral (confidence 0.49)
 
 ------------------------------------------------------------
 
-[553] ➖ @Galaxy12Gaming  👍1  2024-11-20
+[579] ➖ @Galaxy12Gaming  👍1  2024-11-20
 Original: 95 is quick
 Sentiment: neutral (confidence 0.55)
 
 ------------------------------------------------------------
 
-[554] ✅ @dlucey123  👍0  2025-03-24
+[580] ✅ @dlucey123  👍0  2025-03-24
 Original: As somebody who isn’t a gamer or video editor my only reason for considering the pro is the battery life and better screen. 120hz refresh rate is twice as fast as 60 for the air think the reduced weight is what clinched the air for me. I do wonder whether pro models are more rugged than slim air ones.
 Sentiment: positive (confidence 0.65)
 
 ------------------------------------------------------------
 
-[555] ➖ @WingCoe  👍0  2024-11-24
+[581] ➖ @WingCoe  👍0  2024-11-24
 Original: How is the performance when you full throttle in a school zone?
 Sentiment: neutral (confidence 0.81)
 
 ------------------------------------------------------------
 
-[556] ✅ @AJ-036  👍1  2025-01-15
+[582] ✅ @AJ-036  👍1  2025-01-15
 Original: M1 is fine. U can send it to me 🤩🫰
 Sentiment: positive (confidence 0.52)
 
 ------------------------------------------------------------
 
-[557] ➖ @ferris194  👍0  2025-01-09
+[583] ➖ @ferris194  👍0  2025-01-09
 Original: Some say this MacBook breaks the speed limit
 Sentiment: neutral (confidence 0.50)
 
 ------------------------------------------------------------
 
-[558] ❌ @rsac43  👍227  2024-11-18
+[584] ❌ @rsac43  👍227  2024-11-18
 Original: Wild that he doesn't mention the total price. This thing costs $5k+ and that's with only 1TB storage.
 Sentiment: negative (confidence 0.77)
 
@@ -6826,13 +7004,13 @@ Marquees seems to have started using bots to comment on his videos too.
 
 ------------------------------------------------------------
 
-[559] ➖ @jonasborre1  👍0  2025-06-18
+[585] ➖ @jonasborre1  👍0  2025-06-18
 Original: What is your opinion on the macbook pro m4 for photo editing? Is the Air enough or should you upgrade to the pro version?
 Sentiment: neutral (confidence 0.87)
 
 ------------------------------------------------------------
 
-[560] ➖ @Mitesh98  👍386  2024-11-18
+[586] ➖ @Mitesh98  👍386  2024-11-18
 Original: I've been driving fast in kid's play zone for past week now and here's my review of it.
 Sentiment: neutral (confidence 0.71)
 
@@ -6841,7 +7019,7 @@ Sentiment: neutral (confidence 0.71)
 
 ------------------------------------------------------------
 
-[561] ➖ @jedidiahjudahmarada5608  👍222  2024-11-19
+[587] ➖ @jedidiahjudahmarada5608  👍222  2024-11-19
 Original: Have a brake Marques, have a KitKat
 Sentiment: neutral (confidence 0.82)
 
@@ -6862,7 +7040,7 @@ Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[562] ✅ @isainjapanen  👍4908  2024-11-19
+[588] ✅ @isainjapanen  👍4908  2024-11-19
 Original: the editing has gotten much better… there aren’t any “unnecessary clips” to be found!
 Sentiment: positive (confidence 0.85)
 
@@ -6885,19 +7063,19 @@ Sentiment: positive (confidence 0.85)
 
 ------------------------------------------------------------
 
-[563] ❌ @MercuryDIY  👍0  2025-10-10
+[589] ❌ @MercuryDIY  👍0  2025-10-10
 Original: Holy chit this was the most I’ve ever listened to somebody talk about Taylor swift 😂 I’ll let it slide, next time I’m unsubbing 😂lol
 Sentiment: negative (confidence 0.61)
 
 ------------------------------------------------------------
 
-[564] ➖ @ahmadmamo7517  👍9  2024-11-18
+[590] ➖ @ahmadmamo7517  👍9  2024-11-18
 Original: But is it faster than marques in a 35mph zone?
 Sentiment: neutral (confidence 0.82)
 
 ------------------------------------------------------------
 
-[565] ✅ @AlecKinch  👍0  2025-01-22
+[591] ✅ @AlecKinch  👍0  2025-01-22
 Original: Great video 
 what are your thoughts on fan noise
 
@@ -6906,25 +7084,25 @@ Sentiment: positive (confidence 0.60)
 
 ------------------------------------------------------------
 
-[566] ❌ @noobbot831  👍0  2025-03-17
+[592] ❌ @noobbot831  👍0  2025-03-17
 Original: Mac OS is the only thing holding back MacBooks. How could a lightweight app like Sublime Text make a horsepower like this hang. Even force quit couldn't help.
 Sentiment: negative (confidence 0.91)
 
 ------------------------------------------------------------
 
-[567] ❌ @twiztid571  👍0  2025-10-07
+[593] ❌ @twiztid571  👍0  2025-10-07
 Original: anyone else ever watch these videos knowing full well they'll never buy the product? 😂
 Sentiment: negative (confidence 0.87)
 
 ------------------------------------------------------------
 
-[568] ➖ @arthazmi9968  👍0  2024-11-20
+[594] ➖ @arthazmi9968  👍0  2024-11-20
 Original: Where do you get the wallpapers from?
 Sentiment: neutral (confidence 0.94)
 
 ------------------------------------------------------------
 
-[569] ➖ @collaguazo  👍0  2025-01-01
+[595] ➖ @collaguazo  👍0  2025-01-01
 Original: Should I upgrade from a 2012 MacBook Pro?
 Sentiment: neutral (confidence 0.91)
 
@@ -6934,25 +7112,25 @@ Sentiment: neutral (confidence 0.91)
 
 ------------------------------------------------------------
 
-[570] ✅ @YerStewpid  👍0  2025-01-25
+[596] ✅ @YerStewpid  👍0  2025-01-25
 Original: I trust this guy with reviews because he’s blatantly honest
 Sentiment: positive (confidence 0.89)
 
 ------------------------------------------------------------
 
-[571] ❌ @Tweeezty  👍0  2025-05-28
+[597] ❌ @Tweeezty  👍0  2025-05-28
 Original: Your RAM is 128 GB, jesusssss. 😅, as a car guy we call it one of one editions 😂
 Sentiment: negative (confidence 0.46)
 
 ------------------------------------------------------------
 
-[572] ❌ @Shallothead88  👍8  2024-11-18
+[598] ❌ @Shallothead88  👍8  2024-11-18
 Original: Why did my video start at 2x speed?
 Sentiment: negative (confidence 0.61)
 
 ------------------------------------------------------------
 
-[573] ❌ @The_real_dylan  👍11  2024-11-18
+[599] ❌ @The_real_dylan  👍11  2024-11-18
 Original: About to watch this. Please don't be a paid ad, please don't be a paid ad.
 Sentiment: negative (confidence 0.51)
 
@@ -6970,13 +7148,13 @@ Sentiment: negative (confidence 0.51)
 
 ------------------------------------------------------------
 
-[574] ➖ @abz7800  👍5  2024-11-19
+[600] ➖ @abz7800  👍5  2024-11-19
 Original: his power level  its its ITS OVER 90mph!!!!!!!!
 Sentiment: neutral (confidence 0.52)
 
 ------------------------------------------------------------
 
-[575] ➖ @Austinmogashoa  👍773  2024-11-18
+[601] ➖ @Austinmogashoa  👍773  2024-11-18
 Original: Here before the comments say is the M4 chip faster than your car 💀
 Sentiment: neutral (confidence 0.75)
 
@@ -6986,7 +7164,7 @@ Sentiment: neutral (confidence 0.75)
 
 ------------------------------------------------------------
 
-[576] ➖ @crawlingfingers  👍38  2024-11-18
+[602] ➖ @crawlingfingers  👍38  2024-11-18
 Original: Is this computer safe to use in school zones?
 Sentiment: neutral (confidence 0.89)
 
@@ -7000,7 +7178,7 @@ Sentiment: neutral (confidence 0.89)
 
 ------------------------------------------------------------
 
-[577] ❌ @dpkts  👍69  2025-03-21
+[603] ❌ @dpkts  👍69  2025-03-21
 Original: Bro i’m here for comments actually relating to the video and there’s not a single fucking one
 Sentiment: negative (confidence 0.78)
 
@@ -7014,19 +7192,19 @@ Sentiment: negative (confidence 0.78)
 
 ------------------------------------------------------------
 
-[578] ✅ @YanuAwan-n8r8f  👍0  2025-09-06
+[604] ✅ @YanuAwan-n8r8f  👍0  2025-09-06
 Original: The speed is incredible, can it run path tracing and DLLS 4?
 Sentiment: positive (confidence 0.95)
 
 ------------------------------------------------------------
 
-[579] ❌ @r0bl0x_bss  👍0  2025-02-10
+[605] ❌ @r0bl0x_bss  👍0  2025-02-10
 Original: i need one but i dont have money 😢
 Sentiment: negative (confidence 0.71)
 
 ------------------------------------------------------------
 
-[580] ➖ @JoshuaYoung2  👍2  2025-03-02
+[606] ➖ @JoshuaYoung2  👍2  2025-03-02
 Original: You can afford this but can't afford to chapter your videos? Really easy. Take your transcript, give it to ChatGPT, ask it to create chapters in the standard format of: 00:00 Introduction and let it do the rest. There. Done.
 Sentiment: neutral (confidence 0.66)
 
